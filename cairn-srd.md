@@ -1,10 +1,10 @@
 ---
 layout: default
-title: SRD
+title: Sääntökokoelma
 nav_order: 2
 ---
 
-# Cairn Sääntökokoelma (v.1.0)
+# Cairn Sääntökokoelma (SRD) (v.1.0)
 
 {: .no_toc }
 
