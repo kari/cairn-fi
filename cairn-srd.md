@@ -11,7 +11,7 @@ nav_order: 2
 <p></p>
 
 **Cairn** on lisensoitu [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) -lisenssillä.\
-Tutustu [repoon](https://github.com/yochaigal/cairn) tai lataa peli muissa [muodoissa](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (ml. Word, Affinity, Google Docs jne.).
+Tutustu alkuperäiseen englanninkieliseen [repoon](https://github.com/yochaigal/cairn) tai lataa peli englanniksi muissa [muodoissa](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (ml. Word, Affinity, Google Docs jne.).
 
 **Cairn** on seikkailupeli yhdelle pelinjohtajalle (**Vartija**) ja ainakin yhdelle muulle pelaajalle.
 Pelaajat pelaavat karaistuneita seikkailijoita, jotka tutkivat pimeää ja salaperäistä Metsää, joka on täynnä outoa väkeä, kätkettyjä aarteita ja sanoin kuvaamattomia hirvityksiä.
@@ -206,7 +206,7 @@ Useimmat esineet vievät yhden paikan, ja pienet tavarat voi pakata yhteen. Paik
 
 Pelaajahahmo ei voi kantaa enempää esineitä kuin hänen varustepaikkansa sallivat. Kärryt (joita on vedettävä molemmin käsin), hevoset tai muulit voivat kasvattaa varustepaikkojen määrää.  **Palkkalaisille** voidaan myös maksaa varusteiden kantamisesta.
 
-#### Aloitusvälineet
+#### Aloitusvarusteet
 
 Kaikilla pelaajahahmoilla on aluksi:
 
@@ -214,7 +214,7 @@ Kaikilla pelaajahahmoilla on aluksi:
 - Soihtu (yksi paikka)
 - 3d6 kultarahaa
 
-Heitä kerran jokaista **Aloitusvälineet**-taulua apuna käyttäen määrittääksesi pelaajahahmosi haarniskat, aseet, työkalut ja muut varusteet. Heitä tarvittaessa [**Loitsukirjat**](#spellbooks-d100)-taulukkoa d100:lla (tai heitä 2d10, käyttäen yhtä noppaa ykkösinä ja toista kymmeninä). Valitse vain yksi esine jokaisesta tuloksesta.
+Heitä kerran jokaista **Aloitusvarusteet**-taulua apuna käyttäen määrittääksesi pelaajahahmosi haarniskat, aseet, työkalut ja muut varusteet. Heitä tarvittaessa [**Loitsukirjat**](#spellbooks-d100)-taulukkoa d100:lla (tai heitä 2d10, käyttäen yhtä noppaa ykkösinä ja toista kymmeninä). Valitse vain yksi esine jokaisesta tuloksesta.
 
 Katso **Varusteluettelosta** vastaavat panssari-, vahinko- ja paikka-arvot. Pienemmät esineet voidaan joskus sijoittaa yhteen paikkaan.
 
@@ -370,7 +370,7 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 
 <p></p>
 
-## Aloitusvälineet (d20)
+## Aloitusvarusteet (d20)
 
 #### Haarniska
 
@@ -763,7 +763,7 @@ Hyökkääjä heittää asenoppansa ja vähentää siitä kohteen panssariarvon,
   <summary>
 Laajenna esimerkkiä varten
  </summary>
- _Metsäpeikko karjuu ja heilauttaa nuijaansa kohti Beaa, jolla on 5 HP:tä. Nuija tekee 1d10 vahinkoa ja Vartija heittää silmäluvun 4. Hän vähentää yhden Bean nahkahaarniskan vuoksi, jolloin Bealla on jäljellä 2 HP.
+ _Metsäpeikko karjuu ja heilauttaa nuijaansa kohti Beaa, jolla on 5 HP:tä. Nuija tekee 1d10 vahinkoa ja Vartija heittää silmäluvun 4. Hän vähentää yhden Bean nahkahaarniskan vuoksi, jolloin Bealla on jäljellä 2 HP._
 </details>
 
 ### Useita hyökkääjiä
