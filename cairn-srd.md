@@ -398,7 +398,7 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 |   |                                                  |    |              |    |                                       |    |                                      |
 | - | ------------------------------------------------ | -- | ------------ | -- | ------------------------------------- | -- | ------------------------------------ |
 | 1 | Ilmarakko                                        | 6  | Paloöljy     | 11 | Kahleet                               | 16 | Köysi (25 jalkaa) |
-| 2 | Vastamyrkky                                      | 7  | Heittokoukku | 12 | Hakku                                 | 17 | Hengiltä suojelu                     |
+| 2 | Vastamyrkky                                      | 7  | Heittokoukku | 12 | Hakku                                 | 17 | Hengiltä suojaava kuvio                     |
 | 3 | Kärryt (+4 paikkaa, kookkaat) | 8  | Suuri säkki  | 13 | Seiväs (10 jalkaa) | 18 | Kaukoputki                           |
 | 4 | Ketju (10 jalkaa)             | 9  | Suuri ansa   | 14 | Väkipyörä                             | 19 | Tulusrasia                           |
 | 5 | Taikavarpu                                       | 10 | Tiirikka     | 15 | Karkote                               | 20 | Ukonhattu                            |

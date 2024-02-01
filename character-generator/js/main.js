@@ -14,11 +14,11 @@ allItems.push(armor, helmet, weapons, gear, tool, trinket, bonus);
 let total = 2;
 for (let i = 0; i < allItems.length; i++) {
   let item = allItems[i];
-  if (item.includes("bulky") || item.includes("and a")) {
+  if (item.includes("kookas") || item.includes("ja Kilpi")) {
     total += 2;
   } else if (total > 10){
     total = 10;
-  } else if (!item.includes("protection") && (!item.includes("nor") && (!item.includes("stacks")))) {
+  } else if (!item.includes("mitään") && (!item.includes("eikä") && (!item.includes("pinoutuu")))) {
     total++;
   }
 }
