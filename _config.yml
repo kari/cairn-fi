@@ -1,7 +1,7 @@
 title: Cairn
 permalink: pretty
 remote_theme: pmarsceill/just-the-docs
-site.url: https://cairnrpg.com
+site.url: https://fi.cairnrpg.com
 logo: "/img/logo.png"
 color_scheme: light
 encoding: UTF-8
@@ -17,7 +17,7 @@ back_to_top_text: "Takaisin ylös"
 footer_content: "Tämän sivun teksti on lisensoitu <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC-BY-SA 4.0</a> -käyttöluvalla."
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
-last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+last_edit_time_format: "%b %e %Y %H:%M" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
 # If you want to ignore the monsters folder during builds
 # exclude: /resources/monsters
