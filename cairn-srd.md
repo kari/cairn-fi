@@ -667,9 +667,9 @@ Laajenna esimerkkiä varten
 
 Hetken lepääminen ja veden juominen palauttaa menetetyt HP:t, mutta jättää ryhmän alttiiksi vaaralle. Kykyjen menetys (ks. **Kriittinen vahinko**) voidaan yleensä palauttaa viikon levolla, jota hoitaa parantaja tai muu sopiva asiantuntijalähde. Jotkut näistä palveluista ovat ilmaisia, kun taas maagiset tai nopeammat toipumiskeinot voivat olla maksullisia.
 
-### Voimanpuute ja väsymys
+### Puutos ja väsymys
 
-Jos pelaajahahmolla on **puute** jostain tärkeästä tarpeesta (kuten ruoka tai lepo), hän ei pysty saamaan takaisin HP- tai kykyarvojaan. Yli vuorokauden puute lisää **Väsymyksen** tavaraluetteloonsa, yhden jokaiselle päivälle. Jokainen Väsymys vie yhden paikan ja kestää kunnes hahmo kykenee toipumaan (esimerkiksi lepäämällä koko yön turvallisessa paikassa). Pelaajahahmot saavat myös Väsymystä **loitsimalla** tai pelin fiktion tapahtumien kautta.
+Jos pelaajahahmolla on **puutos** jostain tärkeästä tarpeesta (kuten ruoka tai lepo), hän ei pysty saamaan takaisin HP- tai kykyarvojaan. Yli vuorokauden puutos lisää **Väsymyksen** tavaraluetteloonsa, yhden jokaiselle päivälle. Jokainen Väsymys vie yhden paikan ja kestää kunnes hahmo kykenee toipumaan (esimerkiksi lepäämällä koko yön turvallisessa paikassa). Pelaajahahmot saavat myös Väsymystä **loitsimalla** tai pelin fiktion tapahtumien kautta.
 
 ### Panssari
 
@@ -718,7 +718,7 @@ Loitsukirjat herättävät niistä löytyvien salamyhkäisten voimien etsivien h
 
 ### Loitsiminen
 
-Kuka tahansa voi loitsia pitämällä Loitsukirjaa molemmilla käsillään ja lukemalla sen sisällön ääneen. Sen jälkeen hänen on lisättävä yksi Väsymys, joka vie yhden varustepaikan. Jos pelaajahahmolla on aikaa ja suojaa, hän voi _parantaa_ loitsun vaikutusta (esim. vaikuttaa useampaan kohteeseen, lisätä sen voimaa jne.) ilman lisäkustannuksia. Jos pelaajahahmo kärsii puutteesta tai hän on vaarassa, Vartija voi vaatia häntä tekemään WIL-pelastusheiton välttääkseen loitsusta mahdollisesti koituvat haittavaikutukset. Epäonnistumisen seuraukset ovat samansuuruiset kuin aiotun vaikutuksen, ja ne voivat johtaa ylimääräiseen Väsymykseen, Loitsukirjan tuhoutumiseen, loukkaantumiseen ja jopa kuolemaan.
+Kuka tahansa voi loitsia pitämällä Loitsukirjaa molemmilla käsillään ja lukemalla sen sisällön ääneen. Sen jälkeen hänen on lisättävä yksi Väsymys, joka vie yhden varustepaikan. Jos pelaajahahmolla on aikaa ja suojaa, hän voi _parantaa_ loitsun vaikutusta (esim. vaikuttaa useampaan kohteeseen, lisätä sen voimaa jne.) ilman lisäkustannuksia. Jos pelaajahahmo kärsii puutoksesta tai hän on vaarassa, Vartija voi vaatia häntä tekemään WIL-pelastusheiton välttääkseen loitsusta mahdollisesti koituvat haittavaikutukset. Epäonnistumisen seuraukset ovat samansuuruiset kuin aiotun vaikutuksen, ja ne voivat johtaa ylimääräiseen Väsymykseen, Loitsukirjan tuhoutumiseen, loukkaantumiseen ja jopa kuolemaan.
 
 ### Muinaisjäänteet
 
@@ -730,7 +730,7 @@ Kuka tahansa voi loitsia pitämällä Loitsukirjaa molemmilla käsillään ja lu
 
 **Vaientava sauva**, 1 lataus. Tämä mustunut sauva lamauttaa tilapäisesti kaiken taikuuden 50 jalan säteellä. Lataus: Kylvetä täysikuun valossa.
 
-**Kesantolakki**, 1 käyttö. Jokainen, joka nauttii tätä vihertävän pilkullista sientä, menettää yhden Väsymyksen, mutta joutuu sitten tekemään WIL-pelastusheiton välttääkseen sen riippuvuutta aiheuttavat ominaisuudet. Epäonnistuminen jättää pelaajahahmon voimanpuutteeseen eikä hän pysty keskittymään, kunnes syö toisen kesantolakin, mutta tämä lykkää vain lyhyen hetken riippuvuuden oireita.
+**Kesantolakki**, 1 käyttö. Jokainen, joka nauttii tätä vihertävän pilkullista sientä, menettää yhden Väsymyksen, mutta joutuu sitten tekemään WIL-pelastusheiton välttääkseen sen riippuvuutta aiheuttavat ominaisuudet. Epäonnistuminen jättää pelaajahahmon puutostilaan eikä hän pysty keskittymään, kunnes syö toisen kesantolakin, mutta tämä lykkää vain lyhyen hetken riippuvuuden oireita.
 
 ## Taistelu
 
@@ -822,7 +822,7 @@ Kun hyökkäys vähentää pelaajahahmon HP:n tasan nollaan, se vaikuttaa hänee
 | -- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1  | Pysyvä arpi: Heitä 1d6 \| 1: Kaula, 2: Kädet, 3: Silmä, 4: Rinta, 5: Jalat, 5: Korva. Heitä 1d6. Jos tulos on suurempi kuin enimmäis-HP:si, käytä uutta tulosta.                                                                                                                |
 | 2  | Rytisevä isku: Olet sekaisin ja järkyttynyt. Kuvaile miten palautat keskittymisesi. Heitä 1d6. Jos tulos on suurempi kuin enimmäis-HP:si, käytä uutta tulosta.                                                                                                                  |
-| 3  | Rökitetty: Sinut lähetetään lentoon ja laskeudut naamallesi tuupertuneena. Olet voimanpuutteessa, kunnes lepäät pari tuntia. Sitten heitä 1d6. Lisää tämä määrä enimmäis-HP:hesi.                                                                                                |
+| 3  | Rökitetty: Sinut lähetetään lentoon ja laskeudut naamallesi tuupertuneena. Olet puutostilassa, kunnes lepäät pari tuntia. Sitten heitä 1d6. Lisää tämä määrä enimmäis-HP:hesi.                                                                                                |
 | 4  | Murtunut raaja: Heitä 1d6 \| 1-2: Jalka, 3-4: Käsi, 5: Kylkiluu, 6: Kallo. Heitä 2d6, kun se on korjattu. Jos tulos on suurempi kuin enimmäis-HP:si, käytä uutta tulosta.                                                                                                       |
 | 5  | Sairastunut: Sinua vaivaa ällöttävä, epämiellyttävä tartunta. Kun olet päässyt siitä yli, heitä 2d6. Jos tulos on suurempi kuin enimmäis-HP:si, käytä uutta tulosta.                                                                                                            |
 | 6  | Vakava päävamma: Heitä 1d6 \| 1-2: STR, 3-4: DEX, 5-6: WIL. Heitä 3d6. Jos tulos on suurempi kuin nykyinen kykyarvosi, käytä uutta tulosta.                                                                                                                                     |
@@ -830,7 +830,7 @@ Kun hyökkäys vähentää pelaajahahmon HP:n tasan nollaan, se vaikuttaa hänee
 | 8  | Kuuroutunut: Et kuule mitään, ennen kuin löydät poikkeuksellista apua. Joka tapauksessa, tee WIL-pelastusheitto. Jos onnistut, lisää enimmäis-WIL:iäsi 1d4:llä.                                                                                                                 |
 | 9  | Aivot sekaisin: Jokin piilotettu osa psyykettäsi on päässyt vapaaksi. Heitä 3d6. Jos tulos on suurempi kuin enimmäis-WIL:si, käytä uutta tulosta.                                                                                                                               |
 | 10 | Murskautuminen: Jokin ruumiinjäsen on revitty irti, rampautunut tai käyttökelvoton. Vartija kertoo sinulle mikä. Sitten, tee WIL-pelastusheitto. Jos onnistut, lisää enimmäis-WIL:iäsi 1d6:lla.                                                                                 |
-| 11 | Kohtalokas vamma: Olet voimanpuutteessa ja toimintakyvytön. Ellei sinua paranneta, kuolet tunnin aikana. Toivuttuasi, heitä 2d6. Käytä tulosta uutena enimmäis-HP:näsi.                                                                                                         |
+| 11 | Kohtalokas vamma: Olet puutostilassa ja toimintakyvytön. Ellei sinua paranneta, kuolet tunnin aikana. Toivuttuasi, heitä 2d6. Käytä tulosta uutena enimmäis-HP:näsi.                                                                                                         |
 | 12 | Tuhoon tuomittu: Kuolema näytti olevan niin lähellä, mutta jotenkin selvisit hengissä. Jos seuraava pelastusheittosi kriittistä vahinkoa vastaan epäonnistuu, kuolet kauhealla tavalla. Jos onnistut, heitä 3d6. Jos tulos on suurempi kuin enimmäis-HP:si, käytä uutta tulosta. |
 
 [takaisin hakemistoon](#index)
@@ -1051,7 +1051,7 @@ Pelaajahahmoilla on 10 varustepaikkaa; neljä kehonsa ympärillä ja kuusi repus
 Kaikkien 10 varustepaikan täyttäminen vähentää pelaajahahmon HP:n nollaan. Pelaajahahmot eivät voi kantaa enempää kuin varustepaikkansa sallivat, joskin kärryt ja hevoset voivat kasvattaa varustepaikkojen määrää.
 
 **VOIMANPUUTE**\
-Pelaajahahmot, jotka kärsivät jostain **puutteesta** eivät voi saada takaisin HP:tä. Jos kärsii puutteesta yli vuorokauden, pelaajahahmo lisää **Väsymyksen** tavaraluetteloonsa. Väsymys vie yhden paikan ja kestää kunnes hän kykenee toipumaan suojassa. Tämä vaikutus on kasautuva.
+Pelaajahahmot, jotka kärsivät jostain **puutoksesta** eivät voi saada takaisin HP:tä. Jos kärsii puutoksesta yli vuorokauden, pelaajahahmo lisää **Väsymyksen** tavaraluetteloonsa. Väsymys vie yhden paikan ja kestää kunnes hän kykenee toipumaan suojassa. Tämä vaikutus on kasautuva.
 
 **PARANTUMINEN**\
 Hetken lepääminen ja veden juominen palauttaa menetetyt HP:t, mutta voi jättää ryhmän alttiiksi vaaralle. Kykyjen menetyksen palauttaminen vaatii viikon levon ja ammattitaitoisen parantajan apua.
@@ -1059,7 +1059,7 @@ Hetken lepääminen ja veden juominen palauttaa menetetyt HP:t, mutta voi jätt�
 **LOITSUKIRJAT**\
 Loitsukirjat sisältävät yhden loitsun ja vievät yhden varustepaikan. Kuka tahansa voi loitsia pitämällä Loitsukirjaa molemmilla käsillään ja lukemalla sen sisällön ääneen. Loitsiminen lisää **Väsymyksen** pelaajahahmon varusteluetteloon.
 
-Jos pelaajahahmolla on aikaa ja suojaa, hän voi parantaa loitsua ilman lisäkustannuksia. Jos hän kärsii puutteesta tai on vaarassa, WIL-pelastusheitto voi olla tarpeen kauheiden seurausten välttämiseksi.
+Jos pelaajahahmolla on aikaa ja suojaa, hän voi parantaa loitsua ilman lisäkustannuksia. Jos hän kärsii puutoksesta tai on vaarassa, WIL-pelastusheitto voi olla tarpeen kauheiden seurausten välttämiseksi.
 
 **TAISTELU**\
 Hyökkääjä heittää asenoppansa ja vähentää siitä kohteen panssariarvon, ja aiheuttaa sitten jäljelle jäävän määrän vahinkoa vastustajan HP:hen.
