@@ -11,7 +11,7 @@ nav_order: 2
 <p></p>
 
 **Cairn** on lisensoitu [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) -lisenssillä.\
-Tutustu alkuperäiseen englanninkieliseen [repoon](https://github.com/yochaigal/cairn) tai lataa peli englanniksi muissa [muodoissa](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (ml. Word, Affinity, Google Docs jne.).
+Tutustu alkuperäiseen englanninkieliseen [repoon](https://github.com/yochaigal/cairn) tai lataa peli englanniksi muissa [muodoissa](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (ml. Word, Affinity, Google Docs jne.). Suomenkielisen [SRD:n repo löytyy täältä](https://github.com/kari/cairn-fi), sekä tämä peli löytyy myös [ladattavana PDF:nä Itch.io:sta](https://kartza.itch.io/cairn-fi).
 
 **Cairn** on seikkailupeli yhdelle pelinjohtajalle (**Vartija**) ja ainakin yhdelle muulle pelaajalle.
 Pelaajat pelaavat karaistuneita seikkailijoita, jotka tutkivat pimeää ja salaperäistä Metsää, joka on täynnä outoa väkeä, kätkettyjä aarteita ja sanoin kuvaamattomia hirvityksiä.
