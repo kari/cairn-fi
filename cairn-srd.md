@@ -1004,7 +1004,7 @@ Vahinkonopat ovat suunnilleen samat, vaikka aseelliset hyökkäykset aiheuttavat
 | 82  | [Hämähäkkikiipeily](#spider-climb)     | Pystyt kiipeilemään pintoja kuten hämähäkki.                                                                                                                     |
 | 83  | [Kuutiokutsu](#summon-cube)            | Kerran joka sekunti voit loihtia esiin tai karkottaa 3 jalan levyisen maakuution. Uusien kuutioiden on oltava liitetty maahan tai muihin kuutioihin.             |
 | 84  | [Parvimuoto](#swarm)                   | Muutut parveksi variksia, rottia tai piraijoita. Sinua voidaan vahingoittaa vain räjähdyshyökkäyksillä.                                                          |
-| 85  | [Kaukoliikottelu](#telekinesis)        | Voit hengenvoimillasi siirtää yhden alle 60 naulan painoista esinettä.                                                                                           |
+| 85  | [Kaukoliikuttelu](#telekinesis)        | Voit hengenvoimillasi siirtää yhden alle 60 naulan painoista esinettä.                                                                                           |
 | 86  | [Telepatia](#telepathy)                | Kaksi olentoa voi kuulla toistensa ajatukset riippumatta siitä, kuinka kaukana toisistaan ne ovat.                                                               |
 | 87  | [Teleportti](#teleport)                | Näkemäsi esine tai henkilö siirtyy paikasta toiseen 50 jalan säteellä.                                                                                           |
 | 88  | [Houkutuskohde](#target-lure)          | Koskettamastasi esineestä tulee minkä tahansa lähellä olevan loitsun kohde.                                                                                      |
@@ -1018,7 +1018,7 @@ Vahinkonopat ovat suunnilleen samat, vaikka aseelliset hyökkäykset aiheuttavat
 | 96  | [Vartiokuvio](#ward)                   | Maahan ilmestyy hopeinen ympyrä, jonka läpimitta on 50 jalkaa. Valitse yksi laji, joka ei voi ylittää sitä.                                                      |
 | 97  | [Verkko](#web)                         | Kykenet ampumaan ranteistasi paksua verkkoa.                                                                                                                    |
 | 98  | [Vekotin](#widget)                     | Piirretystä työkalusta tai esineestä ilmestyy eteesi alkeellinen versio, joka katoaa lyhyen ajan kuluttua.                                                       |
-| 99  | [Velhonmerkki](#wizard-mark)           | Sormesi voi ampua suihkun ulfiren väristä maalia. Tämä maali näkyy vain sinulle, ja voit nähdä sen miltä tahansa etäisyydeltä, jopa kiinteiden esineiden läpi.   |
+| 99  | [Velhonmerkki](#wizard-mark)           | Sormesi voi ampua suihkun ulviren väristä maalia. Tämä maali näkyy vain sinulle, ja voit nähdä sen miltä tahansa etäisyydeltä, jopa kiinteiden esineiden läpi.   |
 | 100 | [Läpivalaisu](#x-ray-vision)           | Voit nähdä seinien, lian, vaatteiden jne. läpi.                                                                                                                  |
 
 [takaisin hakemistoon](#index)
@@ -1048,7 +1048,7 @@ Vuorollaan hahmo voi liikkua enintään 40 jalkaa ja tehdä enintään yhden toi
 **VARUSTEPAIKAT**\
 Pelaajahahmoilla on 10 varustepaikkaa; neljä kehonsa ympärillä ja kuusi repussaan (joka toimii tyhjennettynä makuupussina). Useimmat esineet vievät yhden paikan, mutta pienemmät tavarat voi pakata yhteen. **Kookkaat** tavarat vievät kaksi paikkaa ja niitä on hankala tai vaikea kantaa.
 
-Kaikkein 10 varustepaikan täyttäminen vähentää pelaajahahmon HP:n nollaan. Pelaajahahmot eivät voi kantaa enempää kuin varustepaikkansa sallivat, joskin kärryt ja hevoset voivat kasvattaa varustepaikkojen määrää.
+Kaikkien 10 varustepaikan täyttäminen vähentää pelaajahahmon HP:n nollaan. Pelaajahahmot eivät voi kantaa enempää kuin varustepaikkansa sallivat, joskin kärryt ja hevoset voivat kasvattaa varustepaikkojen määrää.
 
 **VOIMANPUUTE**\
 Pelaajahahmot, jotka kärsivät jostain **puutteesta** eivät voi saada takaisin HP:tä. Jos kärsii puutteesta yli vuorokauden, pelaajahahmo lisää **Väsymyksen** tavaraluetteloonsa. Väsymys vie yhden paikan ja kestää kunnes hän kykenee toipumaan suojassa. Tämä vaikutus on kasautuva.

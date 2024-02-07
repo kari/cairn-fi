@@ -217,7 +217,7 @@ gen_data['misfortune'] = [
 ,  'petetty'
 ,  'alennettu'
 ,  'häpäisty'
-,  'kiellety'
+,  'kielletty'
 ,  'karkotettu'
 ]
 
