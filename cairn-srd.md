@@ -105,7 +105,7 @@ Pelaajat voivat luottavaa toisiinsa, että he kaikki osallistuvat yhteiseen ymp�
 
 - Aarre on sidoksissa siihen ympäristöön, josta se on otettu talteen. Se kertoo tarinan.
 - Aarteet ovat hyvin arvokkaita, lähes aina kookkaita ja harvoin hyödyllisiä arvonsa ja maineensa lisäksi.
-- Muinaisjäänteet eivät ole Aarteita, vaikka ovatkin hyödyllisiä ja mielenkiintoisia.
+- Muinaisesineet eivät ole Aarteita, vaikka ovatkin hyödyllisiä ja mielenkiintoisia.
 - Käytä Aarteita houkuttumina eksoottisiin paikkoihin, jotka ovat pelottavien vihollisten suojaamina.
 
 ### Valinnat
@@ -173,9 +173,9 @@ Pelaajat voivat luottavaa toisiinsa, että he kaikki osallistuvat yhteiseen ymp�
 
 #### Nimi, Tausta ja Piirteet
 
-Ensiksi valitse tai heitä pelaajahahmosi **nimi** ja **tausta** niiden [taulukoista](#name-background-d20). Pelaajahahmon tausta vaikuttaa hänen mahdollisiin tietoihinsa ja taitoihinsa.
+Ensiksi valitse tai heitä pelaajahahmosi **nimi** ja **tausta** niiden [taulukoista](#nimi--tausta-d20). Pelaajahahmon tausta vaikuttaa hänen mahdollisiin tietoihinsa ja taitoihinsa.
 
-Seuraavaksi, heitä hahmosi loput **piirteet** (ulkonäkö, puhe, maneerit, uskomukset, maine jne.) [**Hahmon piirteet**](#character-traits-d10) -taulukoista.
+Seuraavaksi, heitä hahmosi loput **piirteet** (ulkonäkö, puhe, maneerit, uskomukset, maine jne.) [**Hahmon piirteet**](#hahmon-piirteet-d10) -taulukoista.
 
 Lopuksi heitä hahmon **ikä** (2d20+10).
 
@@ -194,7 +194,7 @@ Laajenna esimerkkiä varten.
 
 ### Osumasuoja
 
-Heitä 1d6 määrittääksesi pelaajahahmosi alkutason **Osumasuoja** (HP), joka kuvastaa hänen kykyään välttää vahinkoa taistelussa. HP ei ilmaise hahmon elämää tai voimaa; eikä hän menetä sitä kovin pitkäksi aikaa (katso **Parantuminen**). Jos hyökkäys vie pelaajahahmon HP:n tasan nollaan, pelaajan on heitettävä heitto [**Arvet**](/cairn-srd#scars-1) -taulukon avulla.
+Heitä 1d6 määrittääksesi pelaajahahmosi alkutason **Osumasuoja** (HP), joka kuvastaa hänen kykyään välttää vahinkoa taistelussa. HP ei ilmaise hahmon elämää tai voimaa; eikä hän menetä sitä kovin pitkäksi aikaa (katso [**Parantuminen**](#parantuminen)). Jos hyökkäys vie pelaajahahmon HP:n tasan nollaan, pelaajan on heitettävä heitto [**Arvet**](#arvet-1) -taulukon avulla.
 
 #### Varustepaikat
 
@@ -204,7 +204,7 @@ Useimmat esineet vievät yhden paikan, ja pienet tavarat voi pakata yhteen. Paik
 
 **Kookkaat** esineet vievät kaksi paikkaa ja ne ovat yleensä kaksikätisiä tai hankalia kantaa. Jokaisen, jonka varustepaikat ovat täynnä (eli kaikki 10 paikkaa täyttyvät), HP-arvo laskee nollaan.
 
-Pelaajahahmo ei voi kantaa enempää esineitä kuin hänen varustepaikkansa sallivat. Kärryt (joita on vedettävä molemmin käsin), hevoset tai muulit voivat kasvattaa varustepaikkojen määrää.  **Palkkalaisille** voidaan myös maksaa varusteiden kantamisesta.
+Pelaajahahmo ei voi kantaa enempää esineitä kuin hänen varustepaikkansa sallivat. Kärryt (joita on vedettävä molemmin käsin), hevoset tai muulit voivat kasvattaa varustepaikkojen määrää.  [**Palkkalaisille**](#palkkalaiset) voidaan myös maksaa varusteiden kantamisesta.
 
 #### Aloitusvarusteet
 
@@ -214,11 +214,11 @@ Kaikilla pelaajahahmoilla on aluksi:
 - Soihtu (yksi paikka)
 - 3d6 kultarahaa
 
-Heitä kerran jokaista **Aloitusvarusteet**-taulua apuna käyttäen määrittääksesi pelaajahahmosi haarniskat, aseet, työkalut ja muut varusteet. Heitä tarvittaessa [**Loitsukirjat**](#spellbooks-d100)-taulukkoa d100:lla (tai heitä 2d10, käyttäen yhtä noppaa ykkösinä ja toista kymmeninä). Valitse vain yksi esine jokaisesta tuloksesta.
+Heitä kerran jokaista [**Aloitusvarusteet**](#aloitusvarusteet-d20)-taulua apuna käyttäen määrittääksesi pelaajahahmosi haarniskat, aseet, työkalut ja muut varusteet. Heitä tarvittaessa [**Loitsukirjat**](#loitsukirjat-d100)-taulukkoa d100:lla (tai heitä 2d10, käyttäen yhtä noppaa ykkösinä ja toista kymmeninä). Valitse vain yksi esine jokaisesta tuloksesta.
 
-Katso **Varusteluettelosta** vastaavat panssari-, vahinko- ja paikka-arvot. Pienemmät esineet voidaan joskus sijoittaa yhteen paikkaan.
+Katso [**Varusteluettelosta**](#varusteluettelo-hinnat-kultarahassa) vastaavat panssari-, vahinko- ja paikka-arvot. Pienemmät esineet voidaan joskus sijoittaa yhteen paikkaan.
 
-Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**Valinnaiset varustepaketit**](#optional-gear-packages).
+Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**Valinnaiset varustepaketit**](#valinnaiset-varustepaketit).
 
 <p></p>
 
@@ -611,7 +611,7 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 | Loitsukirja (satunnainen loitsu)         |
 | Loitsukirja (satunnainen loitsu)         |
 | Rähjäiset vaatteet (piilotaskuin)        |
-| Kesantolakki (x2, katso **Muinaisjäänteet**) |
+| Kesantolakki (x2, katso [**Muinaisesineet**](#muinaisesineet)) |
 
 #### Varas
 
@@ -643,7 +643,7 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 
 ### Kyvyt
 
-Jokaista näistä kolmesta **kyvystä** käytetään eri tilanteissa (katso **pelastusheitot** jäljempänä).
+Jokaista näistä kolmesta **kyvystä** käytetään eri tilanteissa (katso [**pelastusheitot**](#pelastusheitot) jäljempänä).
 
 **Voimakkuus (STR)**: Käytetään pelastusheittoihin, jotka vaativat fyysistä voimaa, kuten porttien nosto, tankojen taivutus, myrkyn vastustus jne.
 
@@ -665,7 +665,7 @@ Laajenna esimerkkiä varten
 
 ### Parantuminen
 
-Hetken lepääminen ja veden juominen palauttaa menetetyt HP:t, mutta jättää ryhmän alttiiksi vaaralle. Kykyjen menetys (ks. **Kriittinen vahinko**) voidaan yleensä palauttaa viikon levolla, jota hoitaa parantaja tai muu sopiva asiantuntijalähde. Jotkut näistä palveluista ovat ilmaisia, kun taas maagiset tai nopeammat toipumiskeinot voivat olla maksullisia.
+Hetken lepääminen ja veden juominen palauttaa menetetyt HP:t, mutta jättää ryhmän alttiiksi vaaralle. Kykyjen menetys (ks. [**Kriittinen vahinko**](#kriittinen-vahinko)) voidaan yleensä palauttaa viikon levolla, jota hoitaa parantaja tai muu sopiva asiantuntijalähde. Jotkut näistä palveluista ovat ilmaisia, kun taas maagiset tai nopeammat toipumiskeinot voivat olla maksullisia.
 
 ### Puutos ja väsymys
 
@@ -692,7 +692,7 @@ Vihollisten on onnistuttava WIL-pelastusheitossa välttääkseen pakenemasta, ku
 
 ### Palkkalaiset
 
-Pelaajahahmot voivat palkata **palkkalaisia** auttamaan heitä tutkimusmatkoillaan. Luodaksesi palkkalaisen, heitä 3d6 jokaiselle kykyarvolle, anna heille sitten 1d6 HP:tä ja yksinkertainen ase (d6). Tämä jälkeen heitä [**Hahmonluonti**](#character-creation)-taulukkoja apuna käyttäen niille lisää luonnetta. Palkkalaiset maksavat 1-3 gp päivässä, tai osuuden ryhmän saamista aarteista.
+Pelaajahahmot voivat palkata **palkkalaisia** auttamaan heitä tutkimusmatkoillaan. Luodaksesi palkkalaisen, heitä 3d6 jokaiselle kykyarvolle, anna heille sitten 1d6 HP:tä ja yksinkertainen ase (d6). Tämä jälkeen heitä [**Hahmonluonti**](#hahmonluonti)-taulukkoja apuna käyttäen niille lisää luonnetta. Palkkalaiset maksavat 1-3 gp päivässä, tai osuuden ryhmän saamista aarteista.
 
 ### Rikkaudet ja aarteet
 
@@ -720,7 +720,7 @@ Loitsukirjat herättävät niistä löytyvien salamyhkäisten voimien etsivien h
 
 Kuka tahansa voi loitsia pitämällä Loitsukirjaa molemmilla käsillään ja lukemalla sen sisällön ääneen. Sen jälkeen hänen on lisättävä yksi Väsymys, joka vie yhden varustepaikan. Jos pelaajahahmolla on aikaa ja suojaa, hän voi _parantaa_ loitsun vaikutusta (esim. vaikuttaa useampaan kohteeseen, lisätä sen voimaa jne.) ilman lisäkustannuksia. Jos pelaajahahmo kärsii puutoksesta tai hän on vaarassa, Vartija voi vaatia häntä tekemään WIL-pelastusheiton välttääkseen loitsusta mahdollisesti koituvat haittavaikutukset. Epäonnistumisen seuraukset ovat samansuuruiset kuin aiotun vaikutuksen, ja ne voivat johtaa ylimääräiseen Väsymykseen, Loitsukirjan tuhoutumiseen, loukkaantumiseen ja jopa kuolemaan.
 
-### Muinaisjäänteet
+### Muinaisesineet
 
 **Muinaisesineet** ovat esineitä, joihin on iskostettu maaginen loitsu tai voima. Ne eivät aiheuta Väsymystä. Muinaisesineillä on yleensä rajoitettu käyttömäärä sekä uudelleenlatausehto. Muutamia esimerkkejä:
 
@@ -797,7 +797,7 @@ Täydellinen DEX:n ja WIL:n menetys tekee hahmosta toimintakyvyttömän, kunnes 
 
 ### Arvet
 
-Kun pelaajahahmoon kohdistuva vahinko vähentää hänen HP:nsä tasan nollaan, hän muuttuu joskus peruuttamattomasti. Katso lisätietoja [**Arvet**](/cairn-srd#scars-1) -taulukosta.
+Kun pelaajahahmoon kohdistuva vahinko vähentää hänen HP:nsä tasan nollaan, hän muuttuu joskus peruuttamattomasti. Katso lisätietoja [**Arvet**](#arvet-1) -taulukosta.
 
 ### Tajuttomuus ja kuolema
 
@@ -874,7 +874,7 @@ Kun hyökkäys vähentää pelaajahahmon HP:n tasan nollaan, se vaikuttaa hänee
 3 HP, 4 STR, 17 DEX, 13 WIL
 
 - Villi, karvainen huijari, joka nauttii pienenä riesana olemisesta.
-- Arvostaa ennen kaikkea muinaisjäänteitä ja kiiltävää rihkamaa, mutta ei ole halukas vaihtamaan niitä rahaan.
+- Arvostaa ennen kaikkea muinaisesineitä ja kiiltävää rihkamaa, mutta ei ole halukas vaihtamaan niitä rahaan.
 - Peikoilla on nimet, jotka kuvaavat heidän todellista luonnettaan. Ken tietää sen oikean nimen, voi hallita peikkoa.
 
 ### Hirviöiden luominen
@@ -1073,7 +1073,7 @@ Kenelläkään ei voi olla yli 3 Panssaria.
 Jos hyökkäys on **heikentynyt**, vahinkonoppa pienenee 1d4:ään, riippumatta aseesta. Jos hyökkäys on **vahvennettu**, hyökkääjä heittää 1d12. Hyökkäykset **räjähdys**ominaisuudella vaikuttavat kaikkiin alueen kohteisiin, jokaiselle heitetään erikseen.
 
 **VAHINKO**\
-Jos hyökkäys vähentää PC:n HP:n täsmälleen nollaan, katso [**Arvet**](/cairn-srd#scars-1)-taulukko.
+Jos hyökkäys vähentää PC:n HP:n täsmälleen nollaan, katso [**Arvet**](#arvet-1)-taulukko.
 
 Vahinko, joka vähentää kohteen HP:n **alle** nollan, vähentää tämän STR:ää lopulla. Tämän jälkeen hänen on tehtävä STR-pelastusheitto välttääkseen **kriittinen vahinko.** Epäonnistuminen poistaa hänet taistelusta ja hän kuolee, jos häntä ei hoideta.
 
