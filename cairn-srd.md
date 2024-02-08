@@ -55,9 +55,9 @@ Pelaajien tulisi aina ymmärtää tekemiensä päätösten syyt, ja tietoa mahdo
 
 ### Periaatteet
 
-Vartijalla ja pelaajilla tulisi kaikilla olla ohjenuorat, jotka auttavat heitä edistämään sellaista pelikokemusta, jota määrittävät kriittinen ajattelu, tutkiskelu ja esiin nouseva tarinankerronta.
+Vartijalla ja pelaajilla tulisi kaikilla olla yhteiset ohjenuorat, jotka auttavat heitä edistämään sellaista pelikokemusta, jota määrittävät kriittinen ajattelu, tutkiskelu ja esiin nouseva tarinankerronta.
 
-### Yhteiset tavoitteet
+### Yhteiset Tavoitteet
 
 Pelaajien tulisi voida luottavaa toisiinsa siinä että he kaikki osallistuvat yhteisesti peliympäristöön, hahmojen tavoitteisiin ja peliryhmän haasteisiin. Näin peliryhmä työskentelee pääsääntöisesti tiiminä yhteisen päämäärän saavuttamiseksi.
 
