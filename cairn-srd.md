@@ -320,13 +320,13 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 
 #### Vaatetus
 
-|   |             |    |           |
-| - | ----------- | -- | --------- |
-| 1 | Antiikkinen | 6  | Rähjäinen |
-| 2 | Verinen     | 7  | Nuhjuinen |
-| 3 | Tyylikäs    | 8  | Virkapuku |
-| 4 | Törkyinen   | 9  | Hajuinen  |
-| 5 | Ulkomainen  | 10 | Likainen  |
+|   |             |    |             |
+| - | ----------- | -- | ----------- |
+| 1 | Antiikkinen | 6  | Rähjäinen   |
+| 2 | Verinen     | 7  | Nuhjuinen   |
+| 3 | Tyylikäs    | 8  | Virkapuku   |
+| 4 | Törkyinen   | 9  | Eltaantunut |
+| 5 | Ulkomainen  | 10 | Likainen    |
 
 #### Hyve
 
@@ -395,13 +395,13 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 
 #### Retkivarusteet
 
-|   |                                                  |    |              |    |                                       |    |                                      |
-| - | ------------------------------------------------ | -- | ------------ | -- | ------------------------------------- | -- | ------------------------------------ |
-| 1 | Ilmarakko                                        | 6  | Paloöljy     | 11 | Kahleet                               | 16 | Köysi (25 jalkaa) |
-| 2 | Vastamyrkky                                      | 7  | Heittokoukku | 12 | Hakku                                 | 17 | Hengiltä suojaava kuvio                     |
-| 3 | Kärryt (+4 paikkaa, kookkaat) | 8  | Suuri säkki  | 13 | Seiväs (10 jalkaa) | 18 | Kaukoputki                           |
-| 4 | Ketju (10 jalkaa)             | 9  | Suuri ansa   | 14 | Väkipyörä                             | 19 | Tulusrasia                           |
-| 5 | Taikavarpu                                       | 10 | Tiirikka     | 15 | Karkote                               | 20 | Ukonhattu                            |
+|   |                               |    |              |    |                    |    |                           |
+| - | ----------------------------- | -- | ------------ | -- | ------------------ | -- | --------------------------|
+| 1 | Ilmarakko                     | 6  | Paloöljy     | 11 | Kahleet            | 16 | Köysi (25 jalkaa)         |
+| 2 | Vastamyrkky                   | 7  | Heittokoukku | 12 | Hakku              | 17 | Hengiltä suojaava kuvio   |
+| 3 | Kärryt (+4 paikkaa, kookkaat) | 8  | Suuri säkki  | 13 | Seiväs (10 jalkaa) | 18 | Kaukoputki                |
+| 4 | Ketju (10 jalkaa)             | 9  | Suuri ansa   | 14 | Väkipyörä          | 19 | Tulusrasia                |
+| 5 | Taikavarpu                    | 10 | Tiirikka     | 15 | Karkote            | 20 | Ukonhattu                 |
 
 #### Työkalut
 
@@ -468,8 +468,8 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 
 #### Haarniskat
 
-|                                                          |    |
-| -------------------------------------------------------- | -- |
+|                                       |    |
+| ------------------------------------- | -- |
 | Kilpi (+1 Panssari)                   | 10 |
 | Kypärä (+1 Panssari)                  | 10 |
 | Gambeson (+1 Panssari)                | 15 |
@@ -479,14 +479,14 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 
 #### Aseet
 
-|                                                                                |    |
-| ------------------------------------------------------------------------------ | -- |
-| Tikari, nuija, sirppi, sauva jne. (d6 vahinkoa)             | 5  |
+|                                                              |    |
+| ------------------------------------------------------------ | -- |
+| Tikari, nuija, sirppi, sauva jne. (d6 vahinkoa)              | 5  |
 | Keihäs, miekka, sotanuija, kirves, varsta jne. (d8 vahinkoa) | 10 |
 | Hilpari, sotavasara, pitkämiekka jne. (d10 vahinkoa, kookas) | 20 |
-| Linko (d4 vahinkoa)                                         | 5  |
-| Jousi (d6 vahinkoa, kookas)                                 | 20 |
-| Varsijousi (d8 vahinkoa, kookas)                            | 30 |
+| Linko (d4 vahinkoa)                                          | 5  |
+| Jousi (d6 vahinkoa, kookas)                                  | 20 |
+| Varsijousi (d8 vahinkoa, kookas)                             | 30 |
 
 #### Välineet ja työkalut
 
@@ -498,27 +498,27 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 | Kirja                                            | 50 | Tiirikka                                              | 25  |
 | Ämpäri                                           | 5  | Kahleet                                               | 10  |
 | Jalkapiikit                                      | 10 | Metalliviila                                          | 5   |
-| Kärryt (+4 paikkaa, kookkaat) | 30 | Peili                                                 | 5   |
-| Ketju (10 jalkaa)             | 10 | Muuli (+6 paikkaa, hidas)          | 30  |
+| Kärryt (+4 paikkaa, kookkaat)                    | 30 | Peili                                                 | 5   |
+| Ketju (10 jalkaa)                                | 10 | Muuli (+6 paikkaa, hidas)                             | 30  |
 | Liitu                                            | 1  | Verkko                                                | 10  |
 | Taltta                                           | 5  | Öljykangaslaukku                                      | 5   |
 | Keittopadat                                      | 10 | Hakku                                                 | 10  |
 | Sorkkarauta                                      | 10 | Väkipyörä                                             | 10  |
-| Käsipora                                         | 10 | Seiväs (10 jalkaa)                 | 5   |
+| Käsipora                                         | 10 | Seiväs (10 jalkaa)                                    | 5   |
 | Kasvomaalit                                      | 10 | Sulkakynä ja mustetta                                 | 10  |
-| Paloöljy                                         | 10 | Muona-annokset (kolmeksi päiväksi) | 10  |
-| Onkivapa                                         | 10 | Köysi (25 jalkaa)                  | 5   |
+| Paloöljy                                         | 10 | Muona-annokset (kolmeksi päiväksi)                    | 10  |
+| Onkivapa                                         | 10 | Köysi (25 jalkaa)                                     | 5   |
 | Lasimarmorikuulat                                | 5  | Saha                                                  | 5   |
 | Liima                                            | 5  | Säkki                                                 | 5   |
 | Rasvaa                                           | 10 | Lapio                                                 | 5   |
 | Heittokoukku                                     | 25 | Saippua                                               | 1   |
 | Vasara                                           | 5  | Piikki                                                | 1   |
-| Pyhää vettä                                      | 25 | Piikkisaappaat                                         | 5   |
+| Pyhää vettä                                      | 25 | Piikkisaappaat                                        | 5   |
 | Torvi                                            | 10 | Kaukoputki                                            | 40  |
-| Hevonen (+4 paikkaa)          | 75 | Terva                                                 | 10  |
-| Tiimalasi                                        | 50 | Teltta (kahdelle, kookas)          | 20  |
+| Hevonen (+4 paikkaa)                             | 75 | Terva                                                 | 10  |
+| Tiimalasi                                        | 50 | Teltta (kahdelle, kookas)                             | 20  |
 | Suitsuke                                         | 10 | Soihtu                                                | 1   |
-| Tikkaat (kookas, 10 jalkaa)   | 10 | Vankkurit (+8 paikkaa, hidas)      | 200 |
+| Tikkaat (kookas, 10 jalkaa)                      | 10 | Vankkurit (+8 paikkaa, hidas)                         | 200 |
 | Lyhty ja öljyä                                   | 10 | Ukonhattu                                             | 10  |
 
 <p></p>
@@ -527,32 +527,32 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 
 #### Pappi
 
-|                                                                 |
-| --------------------------------------------------------------- |
-| Sotavasara (d10, kookas)                     |
-| Rengaspanssari (2 Panssaria, kookas)         |
-| Taisteluhansikkaat (+1 Panssari)            |
-| Puhdistava miekka (d6)                       |
+|                                                   |
+| ------------------------------------------------- |
+| Sotavasara (d10, kookas)                          |
+| Rengaspanssari (2 Panssaria, kookas)              |
+| Taisteluhansikkaat (+1 Panssari)                  |
+| Puhdistava miekka (d6)                            |
 | Pyhä tunnusmerkki (_Vartiokuvio_ kerran päivässä) |
-| Veljeskunnan Viitta                                             |
+| Veljeskunnan Viitta                               |
 
 #### Kaivonkatsoja
 
-|                                                                       |
-| --------------------------------------------------------------------- |
-| Sirppi (d6)                                        |
-| Tilkkutäkkidoubletti (+1 Panssari)                 |
-| Taikavarpu                                                            |
+|                                                  |
+| ------------------------------------------------ |
+| Sirppi (d6)                                      |
+| Tilkkutäkkidoubletti (+1 Panssari)               |
+| Taikavarpu                                       |
 | Silmäkivi (_Aisti_ jos laitetaan makeaan veteen) |
-| Kulunut kartta                                                        |
-| Kaukoputki                                                            |
+| Kulunut kartta                                   |
+| Kaukoputki                                       |
 
 #### Kääpiö
 
 |                                                  |
 | ------------------------------------------------ |
-| Piikkijuuri (d6)              |
-| Käpyhilapanssari (1 Panssari) |
+| Piikkijuuri (d6)                                 |
+| Käpyhilapanssari (1 Panssari)                    |
 | Istutuslapio                                     |
 | Purkillinen metsämuurahaisia                     |
 | Myrkyllinen sieni                                |
@@ -560,80 +560,80 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 
 #### Haltija
 
-|                                                                      |
-| -------------------------------------------------------------------- |
-| Tyylikäs Miekka (d8)                              |
-| Vastakaarijousi (d8)                              |
-| Kullatut vaatteet (1 Panssari)                    |
+|                                                  |
+| ------------------------------------------------ |
+| Tyylikäs Miekka (d8)                             |
+| Vastakaarijousi (d8)                             |
+| Kullatut vaatteet (1 Panssari)                   |
 | Loitsukirja (_Lumous_ tai _Taikuuden paljastus_) |
-| Kultainen huilu                                                      |
-| Ilmarakko                                                            |
+| Kultainen huilu                                  |
+| Ilmarakko                                        |
 
 #### Taistelija
 
-|                                         |
-| --------------------------------------- |
-| Glaivi (d10, kookas) |
-| Käyräsapeli (d8)     |
-| Lyhytmiekka (d6)     |
-| Lyhytmiekka (d6)     |
-| Tupakkapussi ja piippu                  |
-| Nopat                                   |
+|                         |
+| ----------------------- |
+| Glaivi (d10, kookas)    |
+| Käyräsapeli (d8)        |
+| Lyhytmiekka (d6)        |
+| Lyhytmiekka (d6)        |
+| Tupakkapussi ja piippu  |
+| Nopat                   |
 
 #### Munkki
 
-|                                                  |
-| ------------------------------------------------ |
+|                               |
+| ----------------------------- |
 | Valtikka (d6)                 |
 | Hämäävä kaapu (+1 Panssari)   |
-| Suitsutin ja Pyhää vettä                         |
-| Kannullinen simaa                                |
-| Kansanlaulukirja                                 |
+| Suitsutin ja Pyhää vettä      |
+| Kannullinen simaa             |
+| Kansanlaulukirja              |
 | Kärryt (+4 paikkaa, kookkaat) |
 
 #### Ritari
 
-|                                                         |
-| ------------------------------------------------------- |
+|                                      |
+| ------------------------------------ |
 | Pitkämiekka (d10, kookas)            |
 | Rengaspanssari (2 Panssaria, kookas) |
 | Kypärä (+1 Panssari)                 |
-| Vaakunaviitta                                           |
-| Kahleet                                                 |
-| Hienoa köyttä                                           |
+| Vaakunaviitta                        |
+| Kahleet                              |
+| Hienoa köyttä                        |
 
 #### Taiankäyttäjä
 
-|                                                             |
-| ----------------------------------------------------------- |
-| Kiiltävä sauva (d8, kookas)              |
-| Tikari (d6)                              |
-| Loitsukirja (satunnainen loitsu)         |
-| Loitsukirja (satunnainen loitsu)         |
-| Rähjäiset vaatteet (piilotaskuin)        |
+|                                                                |
+| -------------------------------------------------------------- |
+| Kiiltävä sauva (d8, kookas)                                    |
+| Tikari (d6)                                                    |
+| Loitsukirja (satunnainen loitsu)                               |
+| Loitsukirja (satunnainen loitsu)                               |
+| Rähjäiset vaatteet (piilotaskuin)                              |
 | Kesantolakki (x2, katso [**Muinaisesineet**](#muinaisesineet)) |
 
 #### Varas
 
-|                                                         |
-| ------------------------------------------------------- |
+|                                      |
+| ------------------------------------ |
 | Kaksi tikaria (d6+d6)                |
 | Hupullinen jerkin-liivi (1 Panssari) |
-| Tiirikka                                                |
-| Jalkapiikit                                             |
-| Heittokoukku                                            |
-| Metalliviila                                            |
+| Tiirikka                             |
+| Jalkapiikit                          |
+| Heittokoukku                         |
+| Metalliviila                         |
 
 #### Samooja
 
-|                                                            |
-| ---------------------------------------------------------- |
+|                                         |
+| --------------------------------------- |
 | Pitkäjousi (d8, kookas)                 |
 | Kirves (d6)                             |
 | Topatut nahkavaatteet (1 Panssari)      |
-| Suuri ansa                                                 |
+| Suuri ansa                              |
 | Verikoira \| 2 HP, 12 DEX, puraisu (d6) |
-| Jyrisevä torvi                                             |
+| Jyrisevä torvi                          |
 
 [takaisin hakemistoon](#index)
 
@@ -943,7 +943,7 @@ Vahinkonopat ovat suunnilleen samat, vaikka aseelliset hyökkäykset aiheuttavat
 | 21  | [Kuuroutus](#deafen)                   | Kaikki lähellä olevat olennot kuuroutuvat.                                                                                                                       |
 | 22  | [Taikuuden paljastus](#detect-magic)   | Voit nähdä tai kuulla lähellä olevia maagisia auroja.                                                                                                            |
 | 23  | [Irrottelu](#disassemble)              | Mikä vain ruumiinosasi voidaan halutessasi irrottaa ja kiinnittää uudelleen, aiheuttamatta kipua tai vahinkoa. Voit silti hallita niitä.                         |
-| 24  | [Valeasu](#disguise)                   | Voit halutessasi muuttaa yhden hahmon ulkonäköä, kunhan se pysyy humanoidina. Yritykset jäljitellä muita hahmoja vaikuttavat epätodellisilta.                     |
+| 24  | [Valeasu](#disguise)                   | Voit halutessasi muuttaa yhden hahmon ulkonäköä, kunhan se pysyy humanoidina. Yritykset jäljitellä muita hahmoja vaikuttavat epätodellisilta.                    |
 | 25  | [Siirtymä](#displace)                  | Esine näyttää olevan enintään 15 jalan päässä todellisesta sijainnistaan.                                                                                        |
 | 26  | [Maanjäristys](#earthquake)            | Maa alkaa täristä rajusti. Rakennelmat voivat vaurioitua tai romahtaa.                                                                                           |
 | 27  | [Notkeus](#elasticity)                 | Kehosi voi venyä jopa 10 jalkaa.                                                                                                                                 |
@@ -989,7 +989,7 @@ Vahinkonopat ovat suunnilleen samat, vaikka aseelliset hyökkäykset aiheuttavat
 | 67  | [Hylkiminen](#repel)                   | Kaksi esinettä hylkii toisiaan voimakkaan magneettisesti 10 jalan säteellä.                                                                                      |
 | 68  | [Kaukotarkkailu](#scry)                | Voit nähdä tänään aiemmin koskettamasi olennon silmien kautta.                                                                                                   |
 | 69  | [Aineen muovaus](#sculpt-elements)     | Eloton materiaali käyttäytyy käsissäsi kuin savi.                                                                                                                |
-| 70  | [Aisti](#sense)                        | Valitse jokin esine (avain, kulta, nuoli, kannu jne.). Voit aistia lähimmän vastaavan esineen.                                                |
+| 70  | [Aisti](#sense)                        | Valitse jokin esine (avain, kulta, nuoli, kannu jne.). Voit aistia lähimmän vastaavan esineen.                                                                   |
 | 71  | [Kilpi](#shield)                       | Koskettamasi olento on suojattu tavanomaisilta hyökkäyksiltä minuutin ajan.                                                                                      |
 | 72  | [Verhous](#shroud)                     | Koskettamasi olento on näkymätön, kunnes se liikkuu.                                                                                                             |
 | 73  | [Vaihdos](#shuffle)                    | Kaksi näkemääsi olentoa vaihtaa välittömästi paikkaa keskenään.                                                                                                  |
@@ -1016,7 +1016,7 @@ Vahinkonopat ovat suunnilleen samat, vaikka aseelliset hyökkäykset aiheuttavat
 | 94  | [Ilmestys](#vision)                    | Hallitset täysin sen, mitä jokin olento näkee.                                                                                                                   |
 | 95  | [Harhanäky](#visual-illusion)          | Valitsemasi kaltainen hiljainen, paikallaan oleva huoneen kokoinen harhanäky ilmestyy.                                                                           |
 | 96  | [Vartiokuvio](#ward)                   | Maahan ilmestyy hopeinen ympyrä, jonka läpimitta on 50 jalkaa. Valitse yksi laji, joka ei voi ylittää sitä.                                                      |
-| 97  | [Verkko](#web)                         | Kykenet ampumaan ranteistasi paksua verkkoa.                                                                                                                    |
+| 97  | [Verkko](#web)                         | Kykenet ampumaan ranteistasi paksua verkkoa.                                                                                                                     |
 | 98  | [Vekotin](#widget)                     | Piirretystä työkalusta tai esineestä ilmestyy eteesi alkeellinen versio, joka katoaa lyhyen ajan kuluttua.                                                       |
 | 99  | [Velhonmerkki](#wizard-mark)           | Sormesi voi ampua suihkun ulviren väristä maalia. Tämä maali näkyy vain sinulle, ja voit nähdä sen miltä tahansa etäisyydeltä, jopa kiinteiden esineiden läpi.   |
 | 100 | [Läpivalaisu](#x-ray-vision)           | Voit nähdä seinien, lian, vaatteiden jne. läpi.                                                                                                                  |
