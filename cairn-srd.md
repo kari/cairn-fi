@@ -111,7 +111,7 @@ Pelaajien tulisi voida luottavaa toisiinsa siinä että he kaikki osallistuvat y
 ### Valinnat
 
 - Anna pelaajille selviä vaihtoehtoja, jotka pakottavat lopputulokseen, kun tilanne laahaa.
-- Käytä selkeitä "niin, A vai B?" -vastauksia kun heidän aikeensa ovat epämääräiset.
+- Käytä selkeitä "niin, A vai B?" -kysymyksiä kun heidän aikeensa ovat epämääräiset.
 - Työskennelkää yhdessä käyttäen tätä keskustelevaa menetelmää, jotta peli pysyy liikkeessä.
 - Varmista, että pelaajahahmojen teot jättävät jälkensä pelimaailmaan.
 
