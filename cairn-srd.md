@@ -490,36 +490,36 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 
 #### Välineet ja työkalut
 
-|                                                  |    |                                                       |     |
-| ------------------------------------------------ | -- | ----------------------------------------------------- | --- |
-| Ilmarakko                                        | 5  | Suuri ansa                                            | 20  |
-| Palkeet                                          | 10 | Suuri Pesusieni                                       | 5   |
-| Makuupussi                                       | 5  | Linssi                                                | 10  |
-| Kirja                                            | 50 | Tiirikka                                              | 25  |
-| Ämpäri                                           | 5  | Kahleet                                               | 10  |
-| Jalkapiikit                                      | 10 | Metalliviila                                          | 5   |
-| Kärryt (+4 paikkaa, kookkaat)                    | 30 | Peili                                                 | 5   |
-| Ketju (10 jalkaa)                                | 10 | Muuli (+6 paikkaa, hidas)                             | 30  |
-| Liitu                                            | 1  | Verkko                                                | 10  |
-| Taltta                                           | 5  | Öljykangaslaukku                                      | 5   |
-| Keittopadat                                      | 10 | Hakku                                                 | 10  |
-| Sorkkarauta                                      | 10 | Väkipyörä                                             | 10  |
-| Käsipora                                         | 10 | Seiväs (10 jalkaa)                                    | 5   |
-| Kasvomaalit                                      | 10 | Sulkakynä ja mustetta                                 | 10  |
-| Paloöljy                                         | 10 | Muona-annokset (kolmeksi päiväksi)                    | 10  |
-| Onkivapa                                         | 10 | Köysi (25 jalkaa)                                     | 5   |
-| Lasimarmorikuulat                                | 5  | Saha                                                  | 5   |
-| Liima                                            | 5  | Säkki                                                 | 5   |
-| Rasvaa                                           | 10 | Lapio                                                 | 5   |
-| Heittokoukku                                     | 25 | Saippua                                               | 1   |
-| Vasara                                           | 5  | Piikki                                                | 1   |
-| Pyhää vettä                                      | 25 | Piikkisaappaat                                        | 5   |
-| Torvi                                            | 10 | Kaukoputki                                            | 40  |
-| Hevonen (+4 paikkaa)                             | 75 | Terva                                                 | 10  |
-| Tiimalasi                                        | 50 | Teltta (kahdelle, kookas)                             | 20  |
-| Suitsuke                                         | 10 | Soihtu                                                | 1   |
-| Tikkaat (kookas, 10 jalkaa)                      | 10 | Vankkurit (+8 paikkaa, hidas)                         | 200 |
-| Lyhty ja öljyä                                   | 10 | Ukonhattu                                             | 10  |
+|                                    |    |                                |     |
+| ---------------------------------- | --- | ----------------------------- | --- |
+| Hakku                              | 10  | Piikki                        | 1   |
+| Heittokoukku                       | 25  | Piikkisaappaat                | 5   |
+| Hevonen (+4 paikkaa)               | 75  | Pyhää vettä                   | 25  |
+| Ilmarakko                          | 5   | Rasvaa                        | 10  |
+| Jalkapiikit                        | 10  | Saha                          | 5   |
+| Kahleet                            | 10  | Saippua                       | 1   |
+| Kasvomaalit                        | 10  | Seiväs (10 jalkaa)            | 5   |
+| Kaukoputki                         | 40  | Soihtu                        | 1   |
+| Keittopadat                        | 10  | Sorkkarauta                   | 10  |
+| Ketju (10 jalkaa)                  | 10  | Suitsuke                      | 10  |
+| Kirja                              | 50  | Sulkakynä ja mustetta         | 10  |
+| Kärryt (+4 paikkaa, kookkaat)      | 30  | Suuri ansa                    | 20  |
+| Käsipora                           | 10  | Suuri Pesusieni               | 5   |
+| Köysi (25 jalkaa)                  | 5   | Säkki                         | 5   |
+| Lapio                              | 5   | Taltta                        | 5   |
+| Lasimarmorikuulat                  | 5   | Teltta (kahdelle, kookas)     | 20  |
+| Liima                              | 5   | Terva                         | 10  |
+| Liitu                              | 1   | Tiimalasi                     | 50  |
+| Linssi                             | 10  | Tiirikka                      | 25  |
+| Lyhty ja öljyä                     | 10  | Tikkaat (kookas, 10 jalkaa)   | 10  |
+| Makuupussi                         | 5   | Torvi                         | 10  |
+| Metalliviila                       | 5   | Ukonhattu                     | 10  |
+| Muona-annokset (kolmeksi päiväksi) | 10  | Vankkurit (+8 paikkaa, hidas) | 200 |
+| Muuli (+6 paikkaa, hidas)          | 30  | Vasara                        | 5   |
+| Onkivapa                           | 10  | Verkko                        | 10  |
+| Palkeet                            | 10  | Väkipyörä                     | 10  |
+| Paloöljy                           | 10  | Ämpäri                        | 5   |
+| Peili                              | 5   | Öljykangaslaukku              | 5   |
 
 <p></p>
 
