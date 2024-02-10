@@ -434,33 +434,33 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 
 #### Loitsukirjat (d100)
 
-|    |                     |    |                     |    |                     |     |                   |
-| -- | ------------------- | -- | ------------------- | -- | ------------------- | --- | ----------------- |
-| 1  | Kiinnitys           | 26 | Maanjäristys        | 51 | Naamioitus          | 76  | Savumuoto         |
-| 2  | Ankkurointi         | 27 | Notkeus             | 52 | Pienennys           | 77  | Nuusku            |
-| 3  | Esineen elävöitys   | 28 | Elementaalivalli    | 53 | Kaksoskuvajainen    | 78  | Tukahdus          |
-| 4  | Inhimillistys       | 29 | Näpistys            | 54 | Peilivaellus        | 79  | Järjestys         |
-| 5  | Loihtosilmä         | 30 | Soihdutus           | 55 | Monikätisyys        | 80  | Spektaakkeli      |
-| 6  | Astraalivankila     | 31 | Sumupilvi           | 56 | Yösfääri            | 81  | Loitsusaha        |
-| 7  | Puoleenveto         | 32 | Raivo               | 57 | Esinemuutos         | 82  | Hämähäkkikiipeily |
-| 8  | Harhakuulo          | 33 | Portti              | 58 | Limamuoto           | 83  | Kuutiokutsu       |
-| 9  | Höpötys             | 34 | Gravitaatiosiirtymä | 59 | Tyynnytys           | 84  | Parvimuoto        |
-| 10 | Syötinkukka         | 35 | Ahneus              | 60 | Kammotus            | 85  | Kaukoliikuttelu   |
-| 11 | Petomuoto           | 36 | Nopeutus            | 61 | Monttu              | 86  | Telepatia         |
-| 12 | Hämmennys           | 37 | Vihanpito           | 62 | Alkusyöksy          | 87  | Teleportti        |
-| 13 | Kehonvaihdos        | 38 | Kuiskeiden kuulo    | 63 | Sysäys/Veto         | 88  | Houkutuskohde     |
-| 14 | Lumous              | 39 | Leijailu            | 64 | Kuolleista nostatus | 89  | Tiheikkö          |
-| 15 | Käsky               | 40 | Hypnotisointi       | 65 | Hengen herätys      | 90  | Idolikutsu        |
-| 16 | Ymmärrys            | 41 | Hyytävä kosketus    | 66 | Ajatustenluku       | 91  | Ajanohjaus        |
-| 17 | Vaahtopurkaus       | 42 | Omistajan tunnistus | 67 | Hylkiminen          | 92  | Tosinäkö          |
-| 18 | Kasvien hallinta    | 43 | Valaistus           | 68 | Kaukotarkkailu      | 93  | Nousulähde        |
-| 19 | Säiden hallinta     | 44 | Piilevä side        | 69 | Aineen muovaus      | 94  | Ilmestys          |
-| 20 | Haavojen parannus   | 45 | Kolkutus            | 70 | Aisti               | 95  | Harhanäky         |
-| 21 | Kuuroutus           | 46 | Loikkaus            | 71 | Kilpi               | 96  | Vartiokuvio       |
-| 22 | Taikuuden paljastus | 47 | Nesteilma           | 72 | Verhous             | 97  | Verkko            |
-| 23 | Irrottelu           | 48 | Taikavaimennus      | 73 | Vaihdos             | 98  | Vekotin           |
-| 24 | Valeasu             | 49 | Pappila             | 74 | Nukutus             | 99  | Velhonmerkki      |
-| 25 | Siirtymä            | 50 | Kuulahuuma          | 75 | Liukkaus            | 100 | Läpivalaisu       |
+|    |                      |    |                     |    |                     |     |                    |
+| -- | -------------------- | -- | ------------------- | -- | ------------------- | --- | ------------------- |
+| 1  | Ahneus               | 26 | Inhimillistys       | 51 | Läpivalaisu         | 76  | Spektaakkeli        |
+| 2  | Aineen muovaus       | 27 | Irrottelu           | 52 | Maanjäristys        | 77  | Sumupilvi           |
+| 3  | Aisti                | 28 | Järjestys           | 53 | Monikätisyys        | 78  | Sysäys/Veto         |
+| 4  | Ajanohjaus           | 29 | Kaksoskuvajainen    | 54 | Monttu              | 79  | Syötinkukka         |
+| 5  | Ajatustenluku        | 30 | Kammotus            | 55 | Naamioitus          | 80  | Säiden hallinta     |
+| 6  | Alkusyöksy           | 31 | Kasvien hallinta    | 56 | Nesteilma           | 81  | Taikavaimennus      |
+| 7  | Ankkurointi          | 32 | Kaukoliikuttelu     | 57 | Nopeutus            | 82  | Taikuuden paljastus |
+| 8  | Astraalivankila      | 33 | Kaukotarkkailu      | 58 | Notkeus             | 83  | Telepatia           |
+| 9  | Elementaalivalli     | 34 | Kehonvaihdos        | 59 | Nousulähde          | 84  | Teleportti          |
+| 10 | Esineen elävöitys    | 35 | Kiinnitys           | 60 | Nukutus             | 85  | Tiheikkö            |
+| 11 | Esinemuutos          | 36 | Kilpi               | 61 | Nuusku              | 86  | Tosinäkö            |
+| 12 | Gravitaationsiirtymä | 37 | Kolkutus            | 62 | Näpistys            | 87  | Tukahdus            |
+| 13 | Haavojen parannus    | 38 | Kuiskeiden kuulo    | 63 | Omistajan tunnistus | 88  | Tyynnytys           |
+| 14 | Harhakuulo           | 39 | Kuolleista nostatus | 64 | Pappila             | 89  | Vaahtopurkaus       |
+| 15 | Harhanäky            | 40 | Kuulahuuma          | 65 | Parvimuoto          | 90  | Vaihdos             |
+| 16 | Hengen herätys       | 41 | Kuuroutus           | 66 | Peilivaellus        | 91  | Valaistus           |
+| 17 | Houkutuskohde        | 42 | Kuutiokutsu         | 67 | Petomuoto           | 92  | Valeasu             |
+| 18 | Hylkiminen           | 43 | Käsky               | 68 | Pienennys           | 93  | Vartiokuvio         |
+| 19 | Hypnotisointi        | 44 | Leijailu            | 69 | Piilevä side        | 94  | Vekotin             |
+| 20 | Hyytävä kosketus     | 45 | Limamuoto           | 70 | Portti              | 95  | Velhonmerkki        |
+| 21 | Hämmennys            | 46 | Liukkaus            | 71 | Puoleenveto         | 96  | Verhous             |
+| 22 | Hämähäkkikiipeily    | 47 | Loihtosilmä         | 72 | Raivo               | 97  | Verkko              |
+| 23 | Höpötys              | 48 | Loikkaus            | 73 | Savumuoto           | 98  | Vihanpito           |
+| 24 | Idolikutsu           | 49 | Loitsusaha          | 74 | Siirtymä            | 99  | Ymmärrys            |
+| 25 | Ilmestys             | 50 | Lumous              | 75 | Soihdutus           | 100 | Yösfääri            |
 
 <p></p>
 
@@ -920,106 +920,106 @@ Vahinkonopat ovat suunnilleen samat, vaikka aseelliset hyökkäykset aiheuttavat
 
 |     |                                        |                                                                                                                                                                  |
 | --- | -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | [Kiinnitys](#adhere)                   | Esine peittyy erittäin tahmeaan limaan.                                                                                                                          |
-| 2   | [Ankkurointi](#anchor)                 | Käsistäsi pursuaa vahva lanka, joka kiinnittyy kahteen pisteeseen 50 jalan säteellä kummallekin puolellesi.                                                      |
-| 3   | [Esineen elävöitys](#animate-object)   | Esine tottelee käskyjäsi parhaansa mukaan.                                                                                                                       |
-| 4   | [Inhimillistys](#anthropomorphize)     | Yksi eläin saa joko ihmisen älykkyyden tai ulkonäön yhden päivän ajaksi.                                                                                         |
-| 5   | [Loihtosilmä](#arcane-eye)             | Voit nähdä läpi maagisen leijuvan silmämunan, joka lentelee ympäriinsä käskystäsi.                                                                               |
-| 6   | [Astraalivankila](#astral-prison)      | Esine jähmettyy ajassa ja avaruudessa haavoittumattoman kristallikuoren sisään.                                                                                  |
-| 7   | [Puoleenveto](#attract)                | Kaksi esinettä vetävät toisiaan puoleensa voimakkaan magneettisesti, jos ne tulevat 10 jalan päähän toisistaan.                                                  |
-| 8   | [Harhakuulo](#auditory-illusion)       | Luot harhaääniä, jotka vaikuttavat tulevan valitsemastasi suunnasta.                                                                                             |
-| 9   | [Höpötys](#babble)                     | Olennon on toistettava äänekkäästi ja selvästi kaikki, mitä ajattelet. Muuten se on vaiti.                                                                       |
-| 10  | [Syötinkukka](#bait-flower)            | Maasta versoaa kasvi, joka huokuu mätänevän lihan hajua.                                                                                                         |
-| 11  | [Petomuoto](#beast-form)               | Sinä ja omaisuutesi muututte tavanomaiseksi eläimeksi.                                                                                                           |
-| 12  | [Hämmennys](#befuddle)                 | Valitsemasi olento ei kykene muodostamaan uusia lähimuistikuvia loitsun keston ajan.                                                                             |
-| 13  | [Kehonvaihdos](#body-swap)             | Vaihdat kehoa koskettamasi olennon kanssa. Jos toinen keho kuolee, niin myös toinen kuolee.                                                                      |
-| 14  | [Lumous](#charm)                       | Olento, jonka voit nähdä, kohtelee sinua ystävänä.                                                                                                               |
-| 15  | [Käsky](#command)                      | Kohde tottelee yhtä kolmen sanan käskyä, joka ei aiheuta sille itselleen vahinkoa.                                                                               |
-| 16  | [Ymmärrys](#comprehend)                | Osaat lyhyen aikaa sujuvasti kaikkia kieliä.                                                                                                                     |
-| 17  | [Vaahtopurkaus](#cone-of-foam)         | Kädestäsi suihkuaa tiheää vaahtoa, joka peittää kohteen.                                                                                                         |
-| 18  | [Kasvien hallinta](#control-plants)    | Lähistöllä olevat kasvit ja puut tottelevat sinua ja saavat kyvyn liikkua hitaasti.                                                                              |
-| 19  | [Säiden hallinta](#control-weather)    | Voit muuttaa säätä mielesi mukaan, mutta et muuten hallitse sitä.                                                                                                |
-| 20  | [Haavojen parannus](#cure-wounds)      | Paranna 1d4 STR kerran päivässä olennolle, jota voit koskettaa.                                                                                                  |
-| 21  | [Kuuroutus](#deafen)                   | Kaikki lähellä olevat olennot kuuroutuvat.                                                                                                                       |
-| 22  | [Taikuuden paljastus](#detect-magic)   | Voit nähdä tai kuulla lähellä olevia maagisia auroja.                                                                                                            |
-| 23  | [Irrottelu](#disassemble)              | Mikä vain ruumiinosasi voidaan halutessasi irrottaa ja kiinnittää uudelleen, aiheuttamatta kipua tai vahinkoa. Voit silti hallita niitä.                         |
-| 24  | [Valeasu](#disguise)                   | Voit halutessasi muuttaa yhden hahmon ulkonäköä, kunhan se pysyy humanoidina. Yritykset jäljitellä muita hahmoja vaikuttavat epätodellisilta.                    |
-| 25  | [Siirtymä](#displace)                  | Esine näyttää olevan enintään 15 jalan päässä todellisesta sijainnistaan.                                                                                        |
-| 26  | [Maanjäristys](#earthquake)            | Maa alkaa täristä rajusti. Rakennelmat voivat vaurioitua tai romahtaa.                                                                                           |
-| 27  | [Notkeus](#elasticity)                 | Kehosi voi venyä jopa 10 jalkaa.                                                                                                                                 |
-| 28  | [Elementaalivalli](#elemental-wall)    | Maasta nousee suora jää- tai tuliseinä, joka on 50 jalkaa pitkä ja 10 jalkaa korkea.                                                                             |
-| 29  | [Näpistys](#filch)                     | Näkyvä esine teleporttaa käsiisi.                                                                                                                                |
-| 30  | [Soihdutus](#flare)                    | Kirkas energiapallo sinkoaa taivaalle valojuovan, joka paljastaa sijaintisi niin ystäville kuin viholliselle.                                                    |
-| 31  | [Sumupilvi](#fog-cloud)                | Tiheä sumu levittäytyy luotasi.                                                                                                                                  |
-| 32  | [Raivo](#frenzy)                       | Lähellä oleva olento raivostuu väkivallan vimmassa.                                                                                                              |
-| 33  | [Portti](#gate)                        | Portti satunnaiseen maailmansfääriin avautuu.                                                                                                                    |
-| 34  | [Gravitaationsiirtymä](#gravity-shift) | Voit muuttaa painovoiman suuntaa, mutta vain itsellesi.                                                                                                          |
-| 35  | [Ahneus](#greed)                       | Olento tuntee ylivoimaista halua omistaa valitsemasi näkyvä esine.                                                                                               |
-| 36  | [Nopeutus](#haste)                     | Liikkumisnopeutesi kolminkertaistuu.                                                                                                                             |
-| 37  | [Vihanpito](#hatred)                   | Olento tuntee syvää vihaa toista olentoa tai ryhmää kohtaan ja haluaa tuhota ne.                                                                                 |
+|  1  | [Ahneus](#greed)                       | Olento tuntee ylivoimaista halua omistaa valitsemasi näkyvä esine.                                                                                               |
+|  2  | [Aineen muovaus](#sculpt-elements)     | Eloton materiaali käyttäytyy käsissäsi kuin savi.                                                                                                                |
+|  3  | [Aisti](#sense)                        | Valitse jokin esine (avain, kulta, nuoli, kannu jne.). Voit aistia lähimmän vastaavan esineen.                                                                   |
+|  4  | [Ajanohjaus](#time-control)            | Aika hidastuu tai nopeutuu 10% 30 sekunnin ajan 50 jalan kuplan sisällä.                                                                                         |
+|  5  | [Ajatustenluku](#read-mind)            | Voit kuulla lähellä olevien olentojen pinnallisia ajatuksia.                                                                                                     |
+|  6  | [Alkusyöksy](#primal-surge)            | Olento kehittyy nopeasti lajinsa tulevaisuuden muunnokseksi.                                                                                                     |
+|  7  | [Ankkurointi](#anchor)                 | Käsistäsi pursuaa vahva lanka, joka kiinnittyy kahteen pisteeseen 50 jalan säteellä kummallekin puolellesi.                                                      |
+|  8  | [Astraalivankila](#astral-prison)      | Esine jähmettyy ajassa ja avaruudessa haavoittumattoman kristallikuoren sisään.                                                                                  |
+|  9  | [Elementaalivalli](#elemental-wall)    | Maasta nousee suora jää- tai tuliseinä, joka on 50 jalkaa pitkä ja 10 jalkaa korkea.                                                                             |
+| 10  | [Esineen elävöitys](#animate-object)   | Esine tottelee käskyjäsi parhaansa mukaan.                                                                                                                       |
+| 11  | [Esinemuutos](#objectify)              | Muutut miksi tahansa elottomaksi esineeksi, joka on kooltaan pianon ja omenan väliltä.                                                                           |
+| 12  | [Gravitaationsiirtymä](#gravity-shift) | Voit muuttaa painovoiman suuntaa, mutta vain itsellesi.                                                                                                          |
+| 13  | [Haavojen parannus](#cure-wounds)      | Paranna 1d4 STR kerran päivässä olennolle, jota voit koskettaa.                                                                                                  |
+| 14  | [Harhakuulo](#auditory-illusion)       | Luot harhaääniä, jotka vaikuttavat tulevan valitsemastasi suunnasta.                                                                                             |
+| 15  | [Harhanäky](#visual-illusion)          | Valitsemasi kaltainen hiljainen, paikallaan oleva huoneen kokoinen harhanäky ilmestyy.                                                                           |
+| 16  | [Hengen herätys](#raise-spirit)        | Lähellä olevan ruumiin henki ilmestyy ja vastaa yhteen kysymykseen.                                                                                              |
+| 17  | [Houkutuskohde](#target-lure)          | Koskettamastasi esineestä tulee minkä tahansa lähellä olevan loitsun kohde.                                                                                      |
+| 18  | [Hylkiminen](#repel)                   | Kaksi esinettä hylkii toisiaan voimakkaan magneettisesti 10 jalan säteellä.                                                                                      |
+| 19  | [Hypnotisointi](#hypnotize)            | Olento menee transsiin ja vastaa totuudenmukaisesti yhteen sille esitettyyn kyllä- tai ei-kysymykseen.                                                           |
+| 20  | [Hyytävä kosketus](#icy-touch)         | Paksu jääkerros leviää kosketulle pinnalle, enintään 10 jalan säteellä.                                                                                          |
+| 21  | [Hämmennys](#befuddle)                 | Valitsemasi olento ei kykene muodostamaan uusia lähimuistikuvia loitsun keston ajan.                                                                             |
+| 22  | [Hämähäkkikiipeily](#spider-climb)     | Pystyt kiipeilemään pintoja kuten hämähäkki.                                                                                                                     |
+| 23  | [Höpötys](#babble)                     | Olennon on toistettava äänekkäästi ja selvästi kaikki, mitä ajattelet. Muuten se on vaiti.                                                                       |
+| 24  | [Idolikutsu](#summon-idol)             | Maasta nousee muulin kokoinen veistetty kivipatsas.                                                                                                              |
+| 25  | [Ilmestys](#vision)                    | Hallitset täysin sen, mitä jokin olento näkee.                                                                                                                   |
+| 26  | [Inhimillistys](#anthropomorphize)     | Yksi eläin saa joko ihmisen älykkyyden tai ulkonäön yhden päivän ajaksi.                                                                                         |
+| 27  | [Irrottelu](#disassemble)              | Mikä vain ruumiinosasi voidaan halutessasi irrottaa ja kiinnittää uudelleen, aiheuttamatta kipua tai vahinkoa. Voit silti hallita niitä.                         |
+| 28  | [Järjestys](#sort)                     | Elottomat esineet järjestävät itsensä asettamiesi ryhmien mukaan.                                                                                                |
+| 29  | [Kaksoskuvajainen](#mirror-image)      | Sinusta ilmestyy harhakuvamainen kopio, joka on hallinnassasi.                                                                                                   |
+| 30  | [Kammotus](#phobia)                    | Lähelläsi oleva olento alkaa kammota valitsemaasi esinettä.                                                                                                      |
+| 31  | [Kasvien hallinta](#control-plants)    | Lähistöllä olevat kasvit ja puut tottelevat sinua ja saavat kyvyn liikkua hitaasti.                                                                              |
+| 32  | [Kaukoliikuttelu](#telekinesis)        | Voit hengenvoimillasi siirtää yhden alle 60 naulan painoista esinettä.                                                                                           |
+| 33  | [Kaukotarkkailu](#scry)                | Voit nähdä tänään aiemmin koskettamasi olennon silmien kautta.                                                                                                   |
+| 34  | [Kehonvaihdos](#body-swap)             | Vaihdat kehoa koskettamasi olennon kanssa. Jos toinen keho kuolee, niin myös toinen kuolee.                                                                      |
+| 35  | [Kiinnitys](#adhere)                   | Esine peittyy erittäin tahmeaan limaan.                                                                                                                          |
+| 36  | [Kilpi](#shield)                       | Koskettamasi olento on suojattu tavanomaisilta hyökkäyksiltä minuutin ajan.                                                                                      |
+| 37  | [Kolkutus](#knock)                     | Lähellä oleva tavallinen tai maaginen lukko aukeaa äänekkäästi.                                                                                                  |
 | 38  | [Kuiskeiden kuulo](#hear-whispers)     | Voit kuulla heikot äänet selvästi.                                                                                                                               |
-| 39  | [Leijailu](#hover)                     | Esine leijuu vaivattomasti 2 jalkaa maanpinnan yläpuolella. Se voi kantaa enintään yhden humanoidin.                                                             |
-| 40  | [Hypnotisointi](#hypnotize)            | Olento menee transsiin ja vastaa totuudenmukaisesti yhteen sille esitettyyn kyllä- tai ei-kysymykseen.                                                           |
-| 41  | [Hyytävä kosketus](#icy-touch)         | Paksu jääkerros leviää kosketulle pinnalle, enintään 10 jalan säteellä.                                                                                          |
-| 42  | [Omistajan tunnistus](#identify-owner) | Koskettamasi esineen päälle ilmestyy kirjaimia, jotka kertovat esineen omistajan nimen, jos sellainen on olemassa.                                               |
-| 43  | [Valaistus](#illuminate)               | Leijuva valo liikkuu käskyjesi mukaan.                                                                                                                           |
-| 44  | [Piilevä side](#invisible-tether)      | Kahta enintään 10 jalan etäisyydellä toisistaan olevaa esinettä ei voi siirtää yli 10 jalan päähän toisistaan.                                                   |
-| 45  | [Kolkutus](#knock)                     | Lähellä oleva tavallinen tai maaginen lukko aukeaa äänekkäästi.                                                                                                  |
-| 46  | [Loikkaus](#leap)                      | Hyppäät enintään 10 jalan korkeuteen, kerran.                                                                                                                    |
-| 47  | [Nesteilma](#liquid-air)               | Ilma ympärilläsi muuttuu uimakelpoiseksi.                                                                                                                        |
-| 48  | [Taikavaimennus](#magic-dampener)      | Kaikkien lähellä olevien maagisten vaikutusten voima puolittuu.                                                                                                  |
-| 49  | [Pappila](#manse)                      | Tukeva, kalustettu maalaistalo ilmestyy 12 tunniksi. Voit sallia ja kieltää pääsyn sinne tahtosi mukaan.                                                         |
-| 50  | [Kuulahuuma](#marble-craze)            | Taskusi ovat täynnä marmorikuulia, ja ne täyttyvät uudelleen 30 sekunnin välein.                                                                                 |
-| 51  | [Naamioitus](#masquerade)              | Jonkin hahmon ulkonäkö ja ääni muuttuvat samanlaisiksi kuin koskettamallasi hahmolla.                                                                            |
-| 52  | [Pienennys](#miniaturize)              | Koskettamasi olento kutistuu hiiren kokoiseksi.                                                                                                                  |
-| 53  | [Kaksoskuvajainen](#mirror-image)      | Sinusta ilmestyy harhakuvamainen kopio, joka on hallinnassasi.                                                                                                   |
-| 54  | [Peilivaellus](#mirrorwalk)            | Jokin peili muuttuu portaaliksi toiseen tänään katsomaasi peiliin.                                                                                               |
-| 55  | [Monikätisyys](#multiarm)              | Saat hetkellisesti ylimääräisen käden.                                                                                                                           |
-| 56  | [Yösfääri](#night-sphere)              | Eteesi ilmestyy 50 jalkaa leveä pimeyden pallo, joka kuvastaa yötaivasta.                                                                                        |
-| 57  | [Esinemuutos](#objectify)              | Muutut miksi tahansa elottomaksi esineeksi, joka on kooltaan pianon ja omenan väliltä.                                                                           |
-| 58  | [Limamuoto](#ooze-form)                | Muutut eläväksi hyytelöksi.                                                                                                                                      |
-| 59  | [Tyynnytys](#pacify)                   | Lähelläsi oleva olento alkaa vieroksua väkivaltaa.                                                                                                               |
-| 60  | [Kammotus](#phobia)                    | Lähelläsi oleva olento alkaa kammota valitsemaasi esinettä.                                                                                                      |
-| 61  | [Monttu](#pit)                         | Maahan aukenee 10 jalkaa leveä ja 10 jalkaa syvä kuoppa.                                                                                                         |
-| 62  | [Alkusyöksy](#primal-surge)            | Olento kehittyy nopeasti lajinsa tulevaisuuden muunnokseksi.                                                                                                     |
-| 63  | [Sysäys/Veto](#push/pull)              | Minkä tahansa kokoinen esine vedetään suoraan sinua kohti tai työnnetään suoraan sinusta poispäin yhden miehen voimalla.                                         |
-| 64  | [Kuolleista nostatus](#raise-dead)     | Luuranko nousee maasta palvelemaan sinua. Ne ovat uskomattoman älyttömiä ja pystyvät tottelemaan vain yksinkertaisia käskyjä.                                    |
-| 65  | [Hengen herätys](#raise-spirit)        | Lähellä olevan ruumiin henki ilmestyy ja vastaa yhteen kysymykseen.                                                                                              |
-| 66  | [Ajatustenluku](#read-mind)            | Voit kuulla lähellä olevien olentojen pinnallisia ajatuksia.                                                                                                     |
-| 67  | [Hylkiminen](#repel)                   | Kaksi esinettä hylkii toisiaan voimakkaan magneettisesti 10 jalan säteellä.                                                                                      |
-| 68  | [Kaukotarkkailu](#scry)                | Voit nähdä tänään aiemmin koskettamasi olennon silmien kautta.                                                                                                   |
-| 69  | [Aineen muovaus](#sculpt-elements)     | Eloton materiaali käyttäytyy käsissäsi kuin savi.                                                                                                                |
-| 70  | [Aisti](#sense)                        | Valitse jokin esine (avain, kulta, nuoli, kannu jne.). Voit aistia lähimmän vastaavan esineen.                                                                   |
-| 71  | [Kilpi](#shield)                       | Koskettamasi olento on suojattu tavanomaisilta hyökkäyksiltä minuutin ajan.                                                                                      |
-| 72  | [Verhous](#shroud)                     | Koskettamasi olento on näkymätön, kunnes se liikkuu.                                                                                                             |
-| 73  | [Vaihdos](#shuffle)                    | Kaksi näkemääsi olentoa vaihtaa välittömästi paikkaa keskenään.                                                                                                  |
-| 74  | [Nukutus](#sleep)                      | Näkemäsi olento vaipuu kevyeen uneen.                                                                                                                            |
-| 75  | [Liukkaus](#slick)                     | Jokainen pinta 30 jalan säteellä muuttuu erittäin liukkaaksi.                                                                                                    |
-| 76  | [Savumuoto](#smoke-form)               | Kehosi muuttuu eläväksi savuksi, jota voit hallita.                                                                                                              |
-| 77  | [Nuusku](#sniff)                       | Voit haistaa hajujen hennoimmatkin jäljet.                                                                                                                       |
-| 78  | [Tukahdus](#snuff)                     | Minkä tahansa näkemäsi valon tavanomainen lähde sammuu välittömästi.                                                                                             |
-| 79  | [Järjestys](#sort)                     | Elottomat esineet järjestävät itsensä asettamiesi ryhmien mukaan.                                                                                                |
-| 80  | [Spektaakkeli](#spectacle)             | Valitsemasi selvästi valheellinen mutta vaikuttava harhanäky ilmestyy hallitsemallasi tavalla. Se voi olla jopa palatsin kokoinen ja siinä on liikettä ja ääntä. |
-| 81  | [Loitsusaha](#spellsaw)                | Pyörivä terä lentää rinnastasi ja raivaa tieltään kaiken kasvillisuuden. Muuten se on vaaraton.                                                                  |
-| 82  | [Hämähäkkikiipeily](#spider-climb)     | Pystyt kiipeilemään pintoja kuten hämähäkki.                                                                                                                     |
-| 83  | [Kuutiokutsu](#summon-cube)            | Kerran joka sekunti voit loihtia esiin tai karkottaa 3 jalan levyisen maakuution. Uusien kuutioiden on oltava liitetty maahan tai muihin kuutioihin.             |
-| 84  | [Parvimuoto](#swarm)                   | Muutut parveksi variksia, rottia tai piraijoita. Sinua voidaan vahingoittaa vain räjähdyshyökkäyksillä.                                                          |
-| 85  | [Kaukoliikuttelu](#telekinesis)        | Voit hengenvoimillasi siirtää yhden alle 60 naulan painoista esinettä.                                                                                           |
-| 86  | [Telepatia](#telepathy)                | Kaksi olentoa voi kuulla toistensa ajatukset riippumatta siitä, kuinka kaukana toisistaan ne ovat.                                                               |
-| 87  | [Teleportti](#teleport)                | Näkemäsi esine tai henkilö siirtyy paikasta toiseen 50 jalan säteellä.                                                                                           |
-| 88  | [Houkutuskohde](#target-lure)          | Koskettamastasi esineestä tulee minkä tahansa lähellä olevan loitsun kohde.                                                                                      |
-| 89  | [Tiheikkö](#thicket)                   | Puiden ja tiheän pensaikon muodostama tiheikkö, jonka leveys on enintään 50 jalkaa, puhkeaa yhtäkkiä esiin.                                                      |
-| 90  | [Idolikutsu](#summon-idol)             | Maasta nousee muulin kokoinen veistetty kivipatsas.                                                                                                              |
-| 91  | [Ajanohjaus](#time-control)            | Aika hidastuu tai nopeutuu 10% 30 sekunnin ajan 50 jalan kuplan sisällä.                                                                                         |
-| 92  | [Tosinäkö](#true-sight)                | Näet kaikkien lähellä olevien harhanäkyjen lävitse.                                                                                                              |
-| 93  | [Nousulähde](#upwell)                  | Merivesilähde ilmestyy.                                                                                                                                          |
-| 94  | [Ilmestys](#vision)                    | Hallitset täysin sen, mitä jokin olento näkee.                                                                                                                   |
-| 95  | [Harhanäky](#visual-illusion)          | Valitsemasi kaltainen hiljainen, paikallaan oleva huoneen kokoinen harhanäky ilmestyy.                                                                           |
-| 96  | [Vartiokuvio](#ward)                   | Maahan ilmestyy hopeinen ympyrä, jonka läpimitta on 50 jalkaa. Valitse yksi laji, joka ei voi ylittää sitä.                                                      |
+| 39  | [Kuolleista nostatus](#raise-dead)     | Luuranko nousee maasta palvelemaan sinua. Ne ovat uskomattoman älyttömiä ja pystyvät tottelemaan vain yksinkertaisia käskyjä.                                    |
+| 40  | [Kuulahuuma](#marble-craze)            | Taskusi ovat täynnä marmorikuulia, ja ne täyttyvät uudelleen 30 sekunnin välein.                                                                                 |
+| 41  | [Kuuroutus](#deafen)                   | Kaikki lähellä olevat olennot kuuroutuvat.                                                                                                                       |
+| 42  | [Kuutiokutsu](#summon-cube)            | Kerran joka sekunti voit loihtia esiin tai karkottaa 3 jalan levyisen maakuution. Uusien kuutioiden on oltava liitetty maahan tai muihin kuutioihin.             |
+| 43  | [Käsky](#command)                      | Kohde tottelee yhtä kolmen sanan käskyä, joka ei aiheuta sille itselleen vahinkoa.                                                                               |
+| 44  | [Leijailu](#hover)                     | Esine leijuu vaivattomasti 2 jalkaa maanpinnan yläpuolella. Se voi kantaa enintään yhden humanoidin.                                                             |
+| 45  | [Limamuoto](#ooze-form)                | Muutut eläväksi hyytelöksi.                                                                                                                                      |
+| 46  | [Liukkaus](#slick)                     | Jokainen pinta 30 jalan säteellä muuttuu erittäin liukkaaksi.                                                                                                    |
+| 47  | [Loihtosilmä](#arcane-eye)             | Voit nähdä läpi maagisen leijuvan silmämunan, joka lentelee ympäriinsä käskystäsi.                                                                               |
+| 48  | [Loikkaus](#leap)                      | Hyppäät enintään 10 jalan korkeuteen, kerran.                                                                                                                    |
+| 49  | [Loitsusaha](#spellsaw)                | Pyörivä terä lentää rinnastasi ja raivaa tieltään kaiken kasvillisuuden. Muuten se on vaaraton.                                                                  |
+| 50  | [Lumous](#charm)                       | Olento, jonka voit nähdä, kohtelee sinua ystävänä.                                                                                                               |
+| 51  | [Läpivalaisu](#x-ray-vision)           | Voit nähdä seinien, lian, vaatteiden jne. läpi.                                                                                                                  |
+| 52  | [Maanjäristys](#earthquake)            | Maa alkaa täristä rajusti. Rakennelmat voivat vaurioitua tai romahtaa.                                                                                           |
+| 53  | [Monikätisyys](#multiarm)              | Saat hetkellisesti ylimääräisen käden.                                                                                                                           |
+| 54  | [Monttu](#pit)                         | Maahan aukenee 10 jalkaa leveä ja 10 jalkaa syvä kuoppa.                                                                                                         |
+| 55  | [Naamioitus](#masquerade)              | Jonkin hahmon ulkonäkö ja ääni muuttuvat samanlaisiksi kuin koskettamallasi hahmolla.                                                                            |
+| 56  | [Nesteilma](#liquid-air)               | Ilma ympärilläsi muuttuu uimakelpoiseksi.                                                                                                                        |
+| 57  | [Nopeutus](#haste)                     | Liikkumisnopeutesi kolminkertaistuu.                                                                                                                             |
+| 58  | [Notkeus](#elasticity)                 | Kehosi voi venyä jopa 10 jalkaa.                                                                                                                                 |
+| 59  | [Nousulähde](#upwell)                  | Merivesilähde ilmestyy.                                                                                                                                          |
+| 60  | [Nukutus](#sleep)                      | Näkemäsi olento vaipuu kevyeen uneen.                                                                                                                            |
+| 61  | [Nuusku](#sniff)                       | Voit haistaa hajujen hennoimmatkin jäljet.                                                                                                                       |
+| 62  | [Näpistys](#filch)                     | Näkyvä esine teleporttaa käsiisi.                                                                                                                                |
+| 63  | [Omistajan tunnistus](#identify-owner) | Koskettamasi esineen päälle ilmestyy kirjaimia, jotka kertovat esineen omistajan nimen, jos sellainen on olemassa.                                               |
+| 64  | [Pappila](#manse)                      | Tukeva, kalustettu maalaistalo ilmestyy 12 tunniksi. Voit sallia ja kieltää pääsyn sinne tahtosi mukaan.                                                         |
+| 65  | [Parvimuoto](#swarm)                   | Muutut parveksi variksia, rottia tai piraijoita. Sinua voidaan vahingoittaa vain räjähdyshyökkäyksillä.                                                          |
+| 66  | [Peilivaellus](#mirrorwalk)            | Jokin peili muuttuu portaaliksi toiseen tänään katsomaasi peiliin.                                                                                               |
+| 67  | [Petomuoto](#beast-form)               | Sinä ja omaisuutesi muututte tavanomaiseksi eläimeksi.                                                                                                           |
+| 68  | [Pienennys](#miniaturize)              | Koskettamasi olento kutistuu hiiren kokoiseksi.                                                                                                                  |
+| 69  | [Piilevä side](#invisible-tether)      | Kahta enintään 10 jalan etäisyydellä toisistaan olevaa esinettä ei voi siirtää yli 10 jalan päähän toisistaan.                                                   |
+| 70  | [Portti](#gate)                        | Portti satunnaiseen maailmansfääriin avautuu.                                                                                                                    |
+| 71  | [Puoleenveto](#attract)                | Kaksi esinettä vetävät toisiaan puoleensa voimakkaan magneettisesti, jos ne tulevat 10 jalan päähän toisistaan.                                                  |
+| 72  | [Raivo](#frenzy)                       | Lähellä oleva olento raivostuu väkivallan vimmassa.                                                                                                              |
+| 73  | [Savumuoto](#smoke-form)               | Kehosi muuttuu eläväksi savuksi, jota voit hallita.                                                                                                              |
+| 74  | [Siirtymä](#displace)                  | Esine näyttää olevan enintään 15 jalan päässä todellisesta sijainnistaan.                                                                                        |
+| 75  | [Soihdutus](#flare)                    | Kirkas energiapallo sinkoaa taivaalle valojuovan, joka paljastaa sijaintisi niin ystäville kuin viholliselle.                                                    |
+| 76  | [Spektaakkeli](#spectacle)             | Valitsemasi selvästi valheellinen mutta vaikuttava harhanäky ilmestyy hallitsemallasi tavalla. Se voi olla jopa palatsin kokoinen ja siinä on liikettä ja ääntä. |
+| 77  | [Sumupilvi](#fog-cloud)                | Tiheä sumu levittäytyy luotasi.                                                                                                                                  |
+| 78  | [Sysäys/Veto](#push/pull)              | Minkä tahansa kokoinen esine vedetään suoraan sinua kohti tai työnnetään suoraan sinusta poispäin yhden miehen voimalla.                                         |
+| 79  | [Syötinkukka](#bait-flower)            | Maasta versoaa kasvi, joka huokuu mätänevän lihan hajua.                                                                                                         |
+| 80  | [Säiden hallinta](#control-weather)    | Voit muuttaa säätä mielesi mukaan, mutta et muuten hallitse sitä.                                                                                                |
+| 81  | [Taikavaimennus](#magic-dampener)      | Kaikkien lähellä olevien maagisten vaikutusten voima puolittuu.                                                                                                  |
+| 82  | [Taikuuden paljastus](#detect-magic)   | Voit nähdä tai kuulla lähellä olevia maagisia auroja.                                                                                                            |
+| 83  | [Telepatia](#telepathy)                | Kaksi olentoa voi kuulla toistensa ajatukset riippumatta siitä, kuinka kaukana toisistaan ne ovat.                                                               |
+| 84  | [Teleportti](#teleport)                | Näkemäsi esine tai henkilö siirtyy paikasta toiseen 50 jalan säteellä.                                                                                           |
+| 85  | [Tiheikkö](#thicket)                   | Puiden ja tiheän pensaikon muodostama tiheikkö, jonka leveys on enintään 50 jalkaa, puhkeaa yhtäkkiä esiin.                                                      |
+| 86  | [Tosinäkö](#true-sight)                | Näet kaikkien lähellä olevien harhanäkyjen lävitse.                                                                                                              |
+| 87  | [Tukahdus](#snuff)                     | Minkä tahansa näkemäsi valon tavanomainen lähde sammuu välittömästi.                                                                                             |
+| 88  | [Tyynnytys](#pacify)                   | Lähelläsi oleva olento alkaa vieroksua väkivaltaa.                                                                                                               |
+| 89  | [Vaahtopurkaus](#cone-of-foam)         | Kädestäsi suihkuaa tiheää vaahtoa, joka peittää kohteen.                                                                                                         |
+| 90  | [Vaihdos](#shuffle)                    | Kaksi näkemääsi olentoa vaihtaa välittömästi paikkaa keskenään.                                                                                                  |
+| 91  | [Valaistus](#illuminate)               | Leijuva valo liikkuu käskyjesi mukaan.                                                                                                                           |
+| 92  | [Valeasu](#disguise)                   | Voit halutessasi muuttaa yhden hahmon ulkonäköä, kunhan se pysyy humanoidina. Yritykset jäljitellä muita hahmoja vaikuttavat epätodellisilta.                    |
+| 93  | [Vartiokuvio](#ward)                   | Maahan ilmestyy hopeinen ympyrä, jonka läpimitta on 50 jalkaa. Valitse yksi laji, joka ei voi ylittää sitä.                                                      |
+| 94  | [Vekotin](#widget)                     | Piirretystä työkalusta tai esineestä ilmestyy eteesi alkeellinen versio, joka katoaa lyhyen ajan kuluttua.                                                       |
+| 95  | [Velhonmerkki](#wizard-mark)           | Sormesi voi ampua suihkun ulviren väristä maalia. Tämä maali näkyy vain sinulle, ja voit nähdä sen miltä tahansa etäisyydeltä, jopa kiinteiden esineiden läpi.   |
+| 96  | [Verhous](#shroud)                     | Koskettamasi olento on näkymätön, kunnes se liikkuu.                                                                                                             |
 | 97  | [Verkko](#web)                         | Kykenet ampumaan ranteistasi paksua verkkoa.                                                                                                                     |
-| 98  | [Vekotin](#widget)                     | Piirretystä työkalusta tai esineestä ilmestyy eteesi alkeellinen versio, joka katoaa lyhyen ajan kuluttua.                                                       |
-| 99  | [Velhonmerkki](#wizard-mark)           | Sormesi voi ampua suihkun ulviren väristä maalia. Tämä maali näkyy vain sinulle, ja voit nähdä sen miltä tahansa etäisyydeltä, jopa kiinteiden esineiden läpi.   |
-| 100 | [Läpivalaisu](#x-ray-vision)           | Voit nähdä seinien, lian, vaatteiden jne. läpi.                                                                                                                  |
+| 98  | [Vihanpito](#hatred)                   | Olento tuntee syvää vihaa toista olentoa tai ryhmää kohtaan ja haluaa tuhota ne.                                                                                 |
+| 99  | [Ymmärrys](#comprehend)                | Osaat lyhyen aikaa sujuvasti kaikkia kieliä.                                                                                                                     |
+| 100 | [Yösfääri](#night-sphere)              | Eteesi ilmestyy 50 jalkaa leveä pimeyden pallo, joka kuvastaa yötaivasta.                                                                                        |
 
 [takaisin hakemistoon](#index)
 
