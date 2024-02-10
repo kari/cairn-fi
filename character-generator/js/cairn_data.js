@@ -303,7 +303,7 @@ gen_data['trinket'] = [
 ,  'Marmorikuulat (pinoutuu)'
 ,  'Peili'
 ,  'Parfyymi'
-,  'Sulkakynä ja mustetta'
+,  'Sulkakynä & mustetta'
 ,  'Suolapakka (pinoutuu)'
 ,  'Tiuku'
 ,  'Saippua (pinoutuu)'

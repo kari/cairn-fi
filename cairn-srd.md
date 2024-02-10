@@ -782,7 +782,7 @@ Jos hyökkäät kahdella aseella samanaikaisesti, heitä molempia vahinkonoppia 
 
 ### Räjähdykset
 
-Hyökkäykset, joissa on ominaisuus **räjäytys**, vaikuttavat kaikkiin kohteisiin kyseisellä alueella, ja heitto tehdään erikseen jokaiselle kohteena olevalle hahmolle. Räjähdyksellä tarkoitetaan kaikkea räjähdyksistä valtaviin halkoviin iskuihin ja meteoriitin törmäykseen. Jos olet epävarma siitä, kuinka moneen kohteeseen räjähdys vaikuttaa, heitä siihen liittyvää vahinkonoppaa tuloksen saamiseksi.
+Hyökkäykset, joissa on ominaisuus **räjähdys**, vaikuttavat kaikkiin kohteisiin kyseisellä alueella, ja heitto tehdään erikseen jokaiselle kohteena olevalle hahmolle. Räjähdyksellä tarkoitetaan kaikkea räjähdyksistä valtaviin halkoviin iskuihin ja meteoriitin törmäykseen. Jos olet epävarma siitä, kuinka moneen kohteeseen räjähdys vaikuttaa, heitä siihen liittyvää vahinkonoppaa tuloksen saamiseksi.
 
 ### Kriittinen vahinko
 
