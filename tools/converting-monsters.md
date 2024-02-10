@@ -69,8 +69,8 @@ Alla olevan taulukon pitäisi auttaa määrittämään, mitkä pelastusheitot jo
 
 ### Tietolaatikon rakenne
 
- On monta tapaa tehdä tämä, mutta yritä olla johdonmukainen! Cairnissa kirjoitan tietolaatikon näin:
-**Nimi**
+ On monta tapaa tehdä tämä, mutta yritä olla johdonmukainen! Cairnissa kirjoitan tietolaatikon näin:  
+**Nimi**  
 X HP, X Panssari, X STR, X DEX, X WIL, Ase (dX, _ominaisuudet_), erikoisesineet
 - Kiinnostava kuvaus ulkonäöstä tai käyttäytymisestä
 - Oikku, taktiikka tai erikoisuus, joka tekee tästä sivuhahmosta yksilöllisen
@@ -126,7 +126,7 @@ _**Katso, muunnettu Carin-hirviö:**_
 
 #### Kettunainen
 
-8 HP, 12 STR, 14 DEX, 15 WIL, kynnet (d6) tai kädet (d8+d8)
+8 HP, 12 STR, 14 DEX, 15 WIL, kynnet tai kädet (d8+d8)
 
 - Voi ottaa ketun tai naisen, jolla on yksi piilotettu ketun jalka, muodon.
 - Immuuni metalliaseiden hyökkäyksille.
