@@ -256,13 +256,13 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 
 #### Tausta
 
-|   |            |    |               |    |                 |    |                |
-| - | ---------- | -- | ------------- | -- | --------------- | -- | -------------- |
-| 1 | Alkemisti  | 6  | Pappi         | 11 | Taikuri         | 16 | Esiintyjä      |
-| 2 | Seppä      | 7  | Uhkapeluri    | 12 | Palkkasoturi    | 17 | Taskuvaras     |
-| 3 | Murtovaras | 8  | Haudankaivaja | 13 | Kauppias        | 18 | Salakuljettaja |
-| 4 | Teurastaja | 9  | Yrttimestari  | 14 | Kaivostyöläinen | 19 | Palvelija      |
-| 5 | Kirvesmies | 10 | Metsästäjä    | 15 | Lainsuojaton    | 20 | Samooja        |
+|   |                 |    |               |    |                 |    |                |
+| - | --------------- | -- | ------------- | -- | --------------- | -- | -------------- |
+| 1 | Alkemisti       | 6  | Kirvesmies    | 11 | Palvelija       | 16 | Taikuri        |
+| 2 | Esiintyjä       | 7  | Lainsuojaton  | 12 | Pappi           | 17 | Taskuvaras     |
+| 3 | Haudankaivaja   | 8  | Metsästäjä    | 13 | Salakuljettaja  | 18 | Teurastaja     |
+| 4 | Kaivostyöläinen | 9  | Murtovaras    | 14 | Samooja         | 19 | Uhkapeluri     |
+| 5 | Kauppias        | 10 | Palkkasoturi  | 15 | Seppä           | 20 | Yrttimestari   |
 
 <p></p>
 
@@ -272,101 +272,101 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 
 |   |               |    |               |
 | - | ------------- | -- | ------------- |
-| 1 | Urheilullinen | 6  | Ruipelo       |
-| 2 | Lihaksikas    | 7  | Lyhyt         |
-| 3 | Pyöreä        | 8  | Veistosmainen |
-| 4 | Hoikka        | 9  | Tukeva        |
-| 5 | Jykevä        | 10 | Kookas        |
+| 1 | Hoikka        | 6  | Pyöreä        |
+| 2 | Jykevä        | 7  | Ruipelo       |
+| 3 | Kookas        | 8  | Tukeva        |
+| 4 | Lihaksikas    | 9  | Urheilullinen |
+| 5 | Lyhyt         | 10 | Veistosmainen |
 
 #### Iho
 
-|   |               |    |          |
-| - | ------------- | -- | -------- |
-| 1 | Syntymämerkki | 6  | Pyöreä   |
-| 2 | Tumma         | 7  | Pehmeä   |
-| 3 | Roikkuva      | 8  | Parkittu |
-| 4 | Rokonarpinen  | 9  | Tatuoitu |
-| 5 | Ruusuinen     | 10 | Kulunut  |
+|   |               |    |               |
+| - | ------------- | -- | ------------- |
+| 1 | Kulunut       | 6  | Rokonarpinen  |
+| 2 | Parkittu      | 7  | Ruusuinen     |
+| 3 | Pehmeä        | 8  | Syntymämerkki |
+| 4 | Pyöreä        | 9  | Tatuoitu      |
+| 5 | Roikkuva      | 10 | Tumma         |
 
 #### Hiukset
 
-|   |           |    |             |
-| - | --------- | -- | ----------- |
-| 1 | Kalju     | 6  | Pitkät      |
-| 2 | Letitetyt | 7  | Ylelliset   |
-| 3 | Kiharat   | 8  | Öljyiset    |
-| 4 | Likaiset  | 9  | Aaltoilevat |
-| 5 | Pörröiset | 10 | Ohuet       |
+|   |             |    |           |
+| - | ----------- | -- | --------- |
+| 1 | Aaltoilevat | 6  | Ohuet     |
+| 2 | Kalju       | 7  | Pitkät    |
+| 3 | Kiharat     | 8  | Pörröiset |
+| 4 | Letitetyt   | 9  | Ylelliset |
+| 5 | Likaiset    | 10 | Öljyiset  |
 
 #### Kasvot
 
-|   |             |    |                |
-| - | ----------- | -- | -------------- |
-| 1 | Luisevat    | 6  | Täydelliset    |
-| 2 | Rikkonaiset | 7  | Rottamaiset    |
-| 3 | Leikatut    | 8  | Terävät        |
-| 4 | Pitkät      | 9  | Neliskulmaiset |
-| 5 | Kalpeat     | 10 | Painuneet      |
+|   |                |    |                |
+| - | -------------- | -- | -------------- |
+| 1 | Kalpeat        | 6  | Pitkät         |
+| 2 | Leikatut       | 7  | Rikkonaiset    |
+| 3 | Luisevat       | 8  | Rottamaiset    |
+| 4 | Neliskulmaiset | 9  | Terävät        |
+| 5 | Painuneet      | 10 | Täydelliset    |
 
 #### Puhe
 
-|   |                  |    |           |
-| - | ---------------- | -- | --------- |
-| 1 | Tyly             | 6  | Karhea    |
-| 2 | Jyrisevä         | 7  | Tarkka    |
-| 3 | Arvoituksellinen | 8  | Kitisevä  |
-| 4 | Horiseva         | 9  | Änkyttävä |
-| 5 | Muodollinen      | 10 | Kuiskaava |
+|   |                  |    |             |
+| - | ---------------- | -- | ----------- |
+| 1 | Arvoituksellinen | 6  | Kuiskaava   |
+| 2 | Horiseva         | 7  | Muodollinen |
+| 3 | Jyrisevä         | 8  | Tarkka      |
+| 4 | Karhea           | 9  | Tyly        |
+| 5 | Kitisevä         | 10 | Änkyttävä   |
 
 #### Vaatetus
 
 |   |             |    |             |
 | - | ----------- | -- | ----------- |
-| 1 | Antiikkinen | 6  | Rähjäinen   |
-| 2 | Verinen     | 7  | Nuhjuinen   |
-| 3 | Tyylikäs    | 8  | Virkapuku   |
-| 4 | Törkyinen   | 9  | Eltaantunut |
-| 5 | Ulkomainen  | 10 | Likainen    |
+| 1 | Antiikkinen | 6  | Tyylikäs    |
+| 2 | Eltaantunut | 7  | Törkyinen   |
+| 3 | Likainen    | 8  | Ulkomainen  |
+| 4 | Nuhjuinen   | 9  | Verinen     |
+| 5 | Rähjäinen   | 10 | Virkapuku   |
 
 #### Hyve
 
 |   |                 |    |                |
 | - | --------------- | -- | -------------- |
-| 1 | Kunnianhimoinen | 6  | Kunniallinen   |
-| 2 | Varovainen      | 7  | Nöyrä          |
-| 3 | Rohkea          | 8  | Armelias       |
-| 4 | Kurinalainen    | 9  | Seesteinen     |
-| 5 | Seurallinen     | 10 | Suvaitsevainen |
+| 1 | Armelias        | 6  | Rohkea         |
+| 2 | Kunniallinen    | 7  | Seesteinen     |
+| 3 | Kunnianhimoinen | 8  | Seurallinen    |
+| 4 | Kurinalainen    | 9  | Suvaitsevainen |
+| 5 | Nöyrä           | 10 | Varovainen     |
 
 #### Pahe
 
 |   |                |    |                |
 | - | -------------- | -- | -------------- |
 | 1 | Aggressiivinen | 6  | Laiska         |
-| 2 | Katkera        | 7  | Hermostunut    |
-| 3 | Pelkurimainen  | 8  | Töykeä         |
-| 4 | Petollinen     | 9  | Turhamainen    |
-| 5 | Ahne           | 10 | Kostonhimoinen |
+| 2 | Ahne           | 7  | Pelkurimainen  |
+| 3 | Hermostunut    | 8  | Petollinen     |
+| 4 | Katkera        | 9  | Turhamainen    |
+| 5 | Kostonhimoinen | 10 | Töykeä         |
 
 #### Maine
 
 |   |                 |    |                  |
 | - | --------------- | -- | ---------------- |
-| 1 | Kunnianhimoinen | 6  | Tyhjäntoimittaja |
-| 2 | Moukka          | 7  | Outolintu        |
-| 3 | Vaarallinen     | 8  | Vastenmielinen   |
-| 4 | Viihdyttäjä     | 9  | Arvostettu       |
+| 1 | Arvostettu      | 6  | Tyhjäntoimittaja |
+| 2 | Kunnianhimoinen | 7  | Vaarallinen      |
+| 3 | Moukka          | 8  | Vastenmielinen   |
+| 4 | Outolintu       | 9  | Viiihdyttäjä     |
 | 5 | Rehellinen      | 10 | Viisas           |
 
 #### Vastoinkäymiset
 
 |   |            |    |            |
 | - | ---------- | -- | ---------- |
-| 1 | Hylätty    | 6  | Petetty    |
-| 2 | Koukussa   | 7  | Alennettu  |
-| 3 | Kiristetty | 8  | Häpäisty   |
-| 4 | Tuomittu   | 9  | Kielletty  |
-| 5 | Kirottu    | 10 | Karkotettu |
+| 1 | Alennettu  | 6  | Kiristetty |
+| 2 | Hylätty    | 7  | Kirottu    |
+| 3 | Häpäisty   | 8  | Koukussa   |
+| 4 | Karkotettu | 9  | Petetty    |
+| 5 | Kielletty  | 10 | Tuomittu   |
 
 <p></p>
 
@@ -395,33 +395,33 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 
 #### Retkivarusteet
 
-|   |                               |    |              |    |                    |    |                           |
-| - | ----------------------------- | -- | ------------ | -- | ------------------ | -- | --------------------------|
-| 1 | Ilmarakko                     | 6  | Paloöljy     | 11 | Kahleet            | 16 | Köysi (25 jalkaa)         |
-| 2 | Vastamyrkky                   | 7  | Heittokoukku | 12 | Hakku              | 17 | Hengiltä suojaava kuvio   |
-| 3 | Kärryt (+4 paikkaa, kookkaat) | 8  | Suuri säkki  | 13 | Seiväs (10 jalkaa) | 18 | Kaukoputki                |
-| 4 | Ketju (10 jalkaa)             | 9  | Suuri ansa   | 14 | Väkipyörä          | 19 | Tulusrasia                |
-| 5 | Taikavarpu                    | 10 | Tiirikka     | 15 | Karkote            | 20 | Ukonhattu                 |
+|   |                         |    |                               |    |                    |    |             |
+| - | ----------------------- | -- | ----------------------------- | -- | ------------------ | -- | ------------|
+| 1 | Hakku                   | 6  | Karkote                       | 11 | Paloöljy           | 16 | Tiirikka    |
+| 2 | Heittokoukku            | 7  | Kaukoputki                    | 12 | Seiväs (10 jalkaa) | 17 | Tulusrasia  |
+| 3 | Hengiltä suojaava kuvio | 8  | Ketju (10 jalkaa)             | 13 | Suuri ansa         | 18 | Ukonhattu   |
+| 4 | Ilmarakko               | 9  | Kärryt (+4 paikkaa, kookkaat) | 14 | Suuri säkki        | 19 | Vastamyrkky |
+| 5 | Kahleet                 | 10 | Köysi (25 jalkaa)             | 15 | Taikavarpu         | 20 | Väkipyörä   |
 
 #### Työkalut
 
-|   |             |    |             |    |              |    |              |
-| - | ----------- | -- | ----------- | -- | ------------ | -- | ------------ |
-| 1 | Palkeet     | 6  | Keittopadat | 11 | Rasvaa       | 16 | Verkko       |
-| 2 | Ämpäri      | 7  | Sorkkarauta | 12 | Vasara       | 17 | Saha         |
-| 3 | Jalkapiikit | 8  | Käsipora    | 13 | Tiimalasi    | 18 | Tiivisteaine |
-| 4 | Liitu       | 9  | Onkivapa    | 14 | Metalliviila | 19 | Lapio        |
-| 5 | Taltta      | 10 | Liima       | 15 | Nauloja      | 20 | Pihdit       |
+|   |             |    |              |    |             |    |              |
+| - | ----------- | -- | ------------ | -- | ----------- | -- | ------------ |
+| 1 | Jalkapiikit | 6  | Liitu        | 11 | Pihdit      | 16 | Tiimalasi    |
+| 2 | Keittopadat | 7  | Metalliviila | 12 | Rasvaa      | 17 | Tiivisteaine |
+| 3 | Käsipora    | 8  | Nauloja      | 13 | Saha        | 18 | Vasara       |
+| 4 | Lapio       | 9  | Onkivapa     | 14 | Sorkkarauta | 19 | Verkko       |
+| 5 | Liima       | 10 | Palkeet      | 15 | Taltta      | 20 | Ämpäri       |
 
 #### Rihkamat
 
-|   |                       |    |               |    |                       |    |             |
-| - | --------------------- | -- | ------------- | -- | --------------------- | -- | ----------- |
-| 1 | Pullo                 | 6  | Torvi         | 11 | Peili                 | 16 | Saippua     |
-| 2 | Korttipakka           | 7  | Suitsuke      | 12 | Parfyymi              | 17 | Pesusieni   |
-| 3 | Nopat                 | 8  | Soitin        | 13 | Sulkakynä ja mustetta | 18 | Terva-astia |
-| 4 | Kasvomaalit           | 9  | Linssi        | 14 | Suolapakka            | 19 | Lankaa      |
-| 5 | Väärennetyt jalokivet | 10 | Marmorikuulat | 15 | Tiuku                 | 20 | Pilli       |
+|   |               |    |           |    |                       |    |                       |
+| - | --------------| -- | --------- | -- | --------------------- | -- | --------------------- |
+| 1 | Kasvomaalit   | 6  | Nopat     | 11 | Pullo                 | 16 | Suolapakka            |
+| 2 | Korttipakka   | 7  | Parfyymi  | 12 | Saippua               | 17 | Terva-astia           |
+| 3 | Lankaa        | 8  | Peili     | 13 | Soitin                | 18 | Tiuku                 |
+| 4 | Linssi        | 9  | Pesusieni | 14 | Suitsuke              | 19 | Torvi                 |
+| 5 | Marmorikuulat | 10 | Pilli     | 15 | Sulkakynä ja mustetta | 20 | Väärennetyt jalokivet |
 
 #### Bonustavarat (heitä merkittyä taulukkoa)
 
