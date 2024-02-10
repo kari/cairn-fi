@@ -1,15 +1,19 @@
 ---
 layout: default
-title: Third Party Links
-parent: Resources
+title: Kolmannen osapuolen linkit
+parent: Lisäaineistot
 nav_order: 10
 ---
 
-# Third Party Links
+# Kolmannen osapuolen linkit
+
+## Huomautus
+
+Kaikki tämän sivun linkit ovat englanninkielisiin sivustoihin tai videoihin.
 
 ## Bastionland
 
-Chris McDowall created Into The Odd and Electric Bastionland, Cairn owes 90% of its rules to him. Here are some of his most impactful posts:
+Chris McDowall loi Into The Oddin ja Electric Bastionlandin. Cairn on 90% säännöistään velkaa hänelle. Tässä on jotain hänen vaikuttavimmista kirjoituksistaan:
 
 - [How I Run Into The Odd](https://www.bastionland.com/2015/09/how-i-run-into-odd.html)
 - [The ICI Doctrine](https://www.bastionland.com/2018/09/the-ici-doctrine-information-choice.html)
@@ -20,7 +24,7 @@ Chris McDowall created Into The Odd and Electric Bastionland, Cairn owes 90% of 
 
 ## Widdershins Wandering
 
-Naeolin has written a ton of great posts on Cairn, including:
+Naeolin on kirjoittanut kasapäin hyviä juttuja Cairnista, mukaan lukien:
 
 - [Cairn Crash Course](https://widdershinswanderings.bearblog.dev/cairn-crash-course/)
 - [Conversion Guide](https://widdershinswanderings.bearblog.dev/the-art-of-conversion/)
@@ -28,7 +32,7 @@ Naeolin has written a ton of great posts on Cairn, including:
 
 ## Dice Goblin Games
 
-Dice Goblin (author of the Block, Dodge Parry hack)
+Dice Goblin (Block, Dodge Parry hakkeroinnin tekijä)
 
 - [Time, Gear & Skill: A Different Approach to Skill Checks](https://dicegoblin.blog/time-gear-skill-a-different-approach-to-skill-checks/)
 - [Dark Souls inspired Weapons](https://dicegoblin.blog/dark-souls-inspired-weapons-for-into-the-odd-cairn/)
@@ -38,7 +42,7 @@ Dice Goblin (author of the Block, Dodge Parry hack)
 
 ## Dreaming Dragonslayer
 
-Sam is the author of Skorne and Adventure Hour, and writes on Into The Odd (and its variants), playing with children, and foreground growth.
+Sama on Skoren ja Adventure Hourin tekijä ja hän kirjoittaa Into The Oddista (ja sen varianteista), lasten kanssa pelaamisesta ja hahmojen etualalla kasvusta.
 
 - [Advantage & Impact](https://dreamingdragonslayer.wordpress.com/2020/03/28/advantage-and-impact/)
 - [Diegetic Advancement Triggers](https://dreamingdragonslayer.wordpress.com/2020/06/13/diegetic-advancement-triggers/)
@@ -47,7 +51,7 @@ Sam is the author of Skorne and Adventure Hour, and writes on Into The Odd (and 
 - [Odd Notaion: Monsters](https://dreamingdragonslayer.wordpress.com/2023/01/22/odd-notation-monsters/)
 - [Knowledge and Perception](https://dreamingdragonslayer.wordpress.com/2021/09/18/knowledge-and-perception-with-examples/)
 
-## Videos
+## Videoita
 
 - Yochai Gal: ["Barrow of the Elf King"](https://www.youtube.com/watch?v=e3N4pqHIEwQ) (Actual Play with Warden commentary)
 - Dieku Games: ["Use Cairn to Design Your RPG"](https://www.youtube.com/watch?v=DrnucqJXuSo)

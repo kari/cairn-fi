@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Resources
+title: Lisäaineistot
 nav_order: 9
 has_children: true
-nav_exclude: true
-search_exclude: true
 ---
 
-# Resources
+# Lisäaineistot

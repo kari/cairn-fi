@@ -1,132 +1,133 @@
 ---
 layout: default
-title: Converting Monsters
-parent: Tools
+title: Hirviöiden muuntaminen
+parent: Työkalut
 redirect_from: /resources/tools/converting-monsters/
 ---
 
-# Converting Monsters
+# Hirviöiden muuntaminen
 
-There is no perfect system for converting from other systems.  
-Below are some tips that might help with the process!
+Täydellistä menetelmää hirviöiden muuntamiseen muista roolipelijärjestelmistä ei ole olemassa.  
+Alla on muutamia vinkkejä, jotka saattavat auttaa tässä työssä!
 
-## The Basics
+## Perusteet
 
-Review the instructions in the [SRD](https://cairnrpg.com/cairn-srd/#creating-monsters). A couple of things to keep in mind:
-- OSE (or B/X) has really great stat blocks that can be easily truncated for quick conversion. See this [page](https://oldschoolessentials.necroticgnome.com/srd/index.php/General) and this [PDF](https://necroticgnome.com/products/old-school-essentials-adaptation-guidelines) for more.
-- Dungeon World has some great monster "moves" that translate to Critical Damage quite nicely, so looking for an equivalent creature in that system can really help! See this example [here](http://codex.dungeon-world.com/monster/5698559156420608).
-- Sometimes a direct stat to stat translation isn't an option. That's OK! There is a [way](/resources/tools/converting-monsters/#use-the-fiction)!
+Tutustu [Sääntökokoelmassa](https://fi.cairnrpg.com/cairn-srd/#hirviöiden-luominen) oleviin ohjeisiin. Paria asiaa, jotka kannattaa pitää mielessä:
 
-### Health, Armor & Abilities
+- OSE:ssa (tai B/X:ssä) on erittäin hyvät tietolaatikot, jotka voi helposti typistää pikaista muuntamista varten. Katso lisätietoja [tältä sivulta](https://oldschoolessentials.necroticgnome.com/srd/index.php/General) ja [tästä PDF:stä](https://necroticgnome.com/products/old-school-essentials-adaptation-guidelines).
+- Dungeon Worldissa on hienoja hirviöiden "liikkeitä" (_moves_), jotka vertautuvat kriittiseksi vahingoksi varsin mukavasti, joten sieltä vastaavan olennon etsiminen voi todellakin auttaa! Katso esimerkiksi [tämä täältä](http://codex.dungeon-world.com/monster/5698559156420608).
+- Joskus suora käännös tietolaatikon arvoista ei ole vaihtoehto. Se ei haittaa! Tähän löytyy [ratkaisu](#käytä-kerrontaa)!
 
-- **Hit Protection** is _not_ health. It's the creature's ability to avoid danger, whether through toughness, speed, or skill. If the PCs will have a tough time landing a blow that actually causes damage, the creature has high **HP**. A good rule of thumb is to give the creature +1 HP for every **HD**, on top of a minimum **3 HP** (the average person). I usually think of **HD** as equivalent to a d6, which has a _mean_ of 3.5. Always start with a creature's **HP** _first_, _then_ do their **STR**.
-- **Armor** is generally easy to map; phrases like "as leather" and "as plate" are really helpful. Generally ignore THAC0 and use descending AC (7 = Leather, 5 = Chainmail, 3 = Plate mail). If only ascending AC is given you can use (12 = Leather, 14 = Chainmail, 16 = Plate mail). Whichever system you're converting from, the Armor values range from 1-3.
-- **Strength** is both health and physical power.  It also tracks constitution & resistance to poisons.  Look at the creature's **HD** and **HP** (even if you've already done so for **Hit Protection**). **STR** is the ability of a creature to survive a direct hit, not its ability to avoid danger! If a creature is difficult to kill but _not_ because they are good avoiding injury, give them more **STR** (_not_ more **HP**). A good rule of thumb is to compare them to the average person (10 **STR**) and go up or down from there.
-- **Dexterity** is probably the easiest of the bunch. Start with **10** as a base and if the creature is particularly quick (sometimes called speed or SP), agile or nimble-fingered make it go up. If it is slow to respond, bulky, or clumsy, lower the number. See [Saving Throws](#saving-throws) below for more tricks!
-- **Willpower** is tricky. It rarely comes up but when it does, it's nice to have. High **WIL** is strong personality, spirit or presence. **Morale** (**ML**) can be a good guidepost for **Willpower** as well. Morale typically ranges between 2-12; some games use a "Morale Check" is used to determine if a monster flees (in Cairn a **WIL** save is used instead). The referee rolls 2d6; if the result is higher than the monster's **ML** score, they flee.  
+### Elinvoima, panssari ja kyvyt
 
-The following table offers a decent guide on converting **ML** to **WIL**.
+- **Osumasuoja** _ei kuvaa_ elinvoimaa. Se on olennon kyky välttää vaaraa, oli se sitten sitkeyden, nopeuden tai taidon kautta. Jos pelaajahahmojen on vaikea osua tavalla, joka todella aiheuttaa vahinkoa, olennolla on korkea **HP**. Hyvä nyrkkisääntö on antaa olennolle +1 HP jokaista osumanoppaa (_**HD**_) kohden **3 HP:n** vähimmäismäärän lisäksi (keskiverto ihminen). Ajattelen yleensä, että **osumanoppa** on d6, jonka _keskiarvo_ on 3,5. _Aloita_ aina olennon **HP:stä** ja vasta _sitten_ mieti sen **STR-arvoa**.
+- **Panssari** on yleensä helppo määritellä; lauseet kuten "kuin nahka" tai "kuin levypanssari" ovat hyvin hyödyllisiä. Pääsääntöisesti jätä THAC0 huomiotta ja käytä laskevaa panssariluokkaa (PL, eng. AC) (7 = nahka, 5 = rengaspanssari, 3 = ritarihaarniska). Jos vain nouseva PL on annettu, voi käyttää (12 = nahka, 14 = rengaspanssari, 16 = ritarihaarniska). Mitä ikinä järjestelmää käytätkin pohjana, Panssariarvot vaihtelevat välillä 1-3.
+- **Voimakkuus** on sekä elinvoima että fyysinen voima. Se seuraa myös ruumiinkuntoa sekä myrkkyjen vastustuskykyä. Katso olennon **HD** ja **HP** (vaikka olet jo tehnyt näin **Osumasuojaa** varten). **STR** on olennon kyky selvitä suorasta osumasta, ei sen kyky välttää vaaraa! Jos olento on vaikea tappaa, mutta _ei_ siksi että se on hyvä välttämään vammautumista, anna sille enemmän **STR:ää** (_älä_ lisää **HP:ta**). Hyvä nyrkkisääntö on verrata sitä keskiverto ihmiseen (10 **STR**) ja nostaa tai laskea siitä.
+- **Ketteryys** on luultavasti helpoin näistä. Aloita lähtöarvolla **10** ja, jos olento on erityisen vikkelä (joskus käytetään termiä nopea (_speed_) tai SP), ketterä tai näppäräsorminen, lisää sitä. Jos se on hidas reagoimaan, kookas tai kömpelö, laske sitä. Katso lisävihjeitä kohdasta [Pelastusheitot](#pelastusheitot)!
+- **Tahdonvoima** on kinkkinen. Se tulee harvoin esiin, mutta kun se tulee, se on hyvä olla selvillä. Korkea **WIL** merkitsee vahvaa persoonallisuutta, henkeä tai olemusta. **Moraali** (**ML**) voi olla hyvä ohjenuora **tahdonvoimalle** myös. Moraali vaihtelee yleensä välillä 2-12; jotkin pelit käyttävät "Moraalitestiä" selvittämään pakeneeko hirviö (Cairnissa **WIL**-pelastusheittoa käytetään tämän sijaan). Pelinjohtaja heittää 2d6; jos tulos on korkeampi kuin hirviön **ML**-arvo, hirviö pakenee.
+
+Alla oleva taulu antaa pätevät ohjeet **ML**:n muuntamisesta **tahdonvoimaksi**.
 
 |         |   |    |    |    |
 |---------|---|----|----|----|
 | **ML**  | 4 | 8  | 10 | 12 |
 | **WIL** | 6 | 12 | 15 | 18 |
 
-### Combat
+### Taistelu
 
-- Attack **damage** is pretty straightforward coming from games like OSE (or B / X); you can usually just copy them as-is. Double-check with the [weapons table](/cairn-srd/#weapons) if unsure.
-- Multiple attacks (e.g. 2 x claw, 1 x sting) typically convert to [_Blast_](/cairn-srd#Blast) and/or the "two weapons" rule (e.g. d6+d6 is roll 2d6, keep highest).
-- When in doubt, think about how much serious damage the creature is supposed to do. Remember that instead of raising attack damage a step, think about making it _enhanced_ in certain situations or use the _Blast_ and "two weapons" rule.
+- Hyökkäysten **vahinko** on aika suoraviivaista ottaa peleistä kuten OSE (tai B/X); usein voit kopioida ne sellaisinaan. Tarkista [asetaulukosta](/cairn-srd/#aseet-1) jos olet epävarma.
+- Moninkertaiset hyökkäykset (kuten 2 x kynnet, 1 x pisto) tyypillisesti muuntuvat [_Räjähdys_](/cairn-srd/##räjähdykset)- ja/tai "kaksi asetta" -sääntöjen mukaan (esim. d6+d6 on heitä 2d6, pidä korkein).
+- Kun olet epävarma, ajattele kuinka paljon vakavaa vahinkoa olennon on tarkoitus tehdä. Muista että hyökkäyksen vahingon korottamisen sijaan voit harkita sen tekemisestä _vahvennetun_ joissain tilanteissa tai käyttää _Räjähdys_ tai "kaksi asetta" -sääntöä.
 
-### Abilities & Magic
+### Kyvyt ja taikuus
 
-- Sometimes the mechanics of the original system simply _do not translate_. That's OK; try to take what's cool about the creature and write a "version" of their ability more appropriate to Cairn.
-- If the monster has an attack that asks the PCs to attempt to dodge or save against some ability, consider making the ability an out-of-combat "trap" that the PCs can trigger. Otherwise _make it succeed automatically_ during combat. The Warden can always telegraph the danger prior to combat to better prepare the PCs against the danger.
-- Abilities can sometimes be made into weapons, and assign a damage die, making Critical Damage reveal the damage. More often you should simply let the ability or attack _happen_. Combat is dangerous, and it is up to the Warden to properly telegraph danger before the fighting begins.
+- Joskus alkuperäisen roolipelijärjestelmän mekaniikat eivät yksinkertaisesti _vain käänny lainkaan_. Tämä on OK; yritä hyödyntää mikä olennossa on siisteintä ja tee "versio" sen kyvystä joka on sopivampi Cairnin kanssa.
+- Jos hirviöllä on hyökkäys joka vaatii pelaajahahmoja yrittämään väistämistä tai pelastusheittoa jotain kykyä vastaan, harkitse kyvyn tekemisestä taistelun ulkopuoliseksi "ansaksi", jonka pelaajahahmot voivat laukaisat. Muussa tapauksessa _anna sen onnistua automaattisesti_ taistelun aikana. Vartija voi aina vihjata etukäteen vaarasta ennen taistelua, jotta pelaajahahmot voivat paremmin varautua vaaran varalta.
+- Kyvyt voi joskus muuntaa aseiksi, ja antaa niille vahinkonoppa, jolloin Kriittinen Vahinko paljastaa vahingon määrän. Useimmiten sinun kannattaa vain antaa kyvyn tai hyökkäyksen _tapahtua_. Taistelu on vaarallista ja Vartijan tehtävä on viestittää vaarasta kunnolla ennen kuin taistelu alkaa.
 
-### Magic
+### Taikuus
 
-- Magical creatures can just "know" a bunch of spells. In this case, make their corpses magical (and dangerous)!
-- Spells are tricky; you can give magic-users Spellbooks but remember, they might _drop_ them when defeated.
-- I like to make 1d4 dropped Spellbooks implode ([Die of Fate](/cairn-srd#die-of-fate)), just to mix it up!
+- Maagiset olennot voivat vain "tietää" läjän loitsuja. Tässä tapauksessa, tee niiden ruumiista maagisia (ja vaarallisia!)
+- Loitsut ovat hankalia; voi antaa taiankäyttäjille Loitsukirjoja, mutta muista että ne saattavat _tiputtaa_ nämä kun ne on kukistettu.
+- Tykkään tehdä niin, että 1d4 Loitsukirjoista räjähtävät tippuessaan([Kohtalon Noppa](/cairn-srd/#kohtalon-noppa)), vain tehdäkseni asioista jännittävämpiä!
 
-### Saving Throws
+### Pelastusheitot
 
-- You can rely on _saving throws_ to glean more information about a creature's abilities, specifically their ability to avoid death by physical trauma, magic, or poison. See the [OSE SRD](https://oldschoolessentials.necroticgnome.com/srd/index.php/Checks,_Damage,_Saves) for more details.
-- Occasionally stat blocks will use a shorthand like (E1) or (F1) (Level 1 [Elf](https://oldschoolessentials.necroticgnome.com/srd/index.php/Elf) or [Fighter](https://oldschoolessentials.necroticgnome.com/srd/index.php/Fighter) respectively). These are really helpful for quickly identifying at the creature's abilities.
-- Consider adding descriptive tags such as "immune to toxic gas" or "good at dodging bullets" based on the saving throws.
+- Voit käyttää _pelastusheittoja_ saadaksesi lisäinformaatiota olennon kyvyistä, erityisesti sen kyvystä välttää fyysisen vamman, taikuuden tai myrkyn aiheuttama kuolema. Katso [OSE:n SRD](https://oldschoolessentials.necroticgnome.com/srd/index.php/Checks,_Damage,_Saves) (englanniksi) lisätietoja varten.
+- Joskus tietolaatikoissa käytetään lyhenteitä kuten (E1) tai (F1) (Tason 1 [Haltija](https://oldschoolessentials.necroticgnome.com/srd/index.php/Elf) tai [Taistelija](https://oldschoolessentials.necroticgnome.com/srd/index.php/Fighter)). Nämä ovat erittäin hyödyllisiä tunnistamaan nopeasti olentojen kyvyt.
+- Harkitse pelastusheittoihin perustuen kuvaavien tunnisteiden lisäämistä, kuten "immuuni myrkkykaasuille" tai "hyvä väistämään luoteja".
 
-The following table should help determine which saving throws should result in an increase in one of the relevant ability scores.
+Alla olevan taulukon pitäisi auttaa määrittämään, mitkä pelastusheitot johtavat jonkin asiaankuuluvan kykyarvon kasvattamiseen.
 
-|                                |            |
-| ------------------------------ | ---------- |
-| **Death or Poison**            | STR        |
-| **Wands**                      | DEX        |
-| **Paralysis or Petrification** | WIL or STR |
-| **Breath Attacks**             | DEX or STR |
-| **Spells, Rods or Staves**     | WIL        |
+|                                     |             |
+| ----------------------------------- | ----------- |
+| **Kuolema tai Myrkky**              | STR         |
+| **Taikasauvat**                     | DEX         |
+| **Lamaantuminen tai Jähmettyminen** | WIL tai STR |
+| **Henkäisyhyökkäykset**             | DEX tai STR |
+| **Loitsut, Sauvat tai Kepit**       | WIL         |
 
-### Stat Block Structure
+### Tietolaatikon rakenne
 
- There are many ways to do this, but try to be consistent! In Cairn I write it like this:
-**Name**
-X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, _qualities_), special items
-- Engaging descriptor of appearance or demeanor
-- Quirk, tactic, or peculiarity making this NPC unique
-- Special effect or critical damage consequence
+ On monta tapaa tehdä tämä, mutta yritä olla johdonmukainen! Cairnissa kirjoitan tietolaatikon näin:
+**Nimi**
+X HP, X Panssari, X STR, X DEX, X WIL, Ase (dX, _ominaisuudet_), erikoisesineet
+- Kiinnostava kuvaus ulkonäöstä tai käyttäytymisestä
+- Oikku, taktiikka tai erikoisuus, joka tekee tästä sivuhahmosta yksilöllisen
+- Erikoisvaikutus tai kriittisen vahingon seuraus
 
-## Use The Fiction
+## Käytä kerrontaa
 
-Read the original stat block and surrounding commentary, then write a few sentences about the creature. Then convert what you've written to the Cairn monster stat block.
+Lue alkuperäinen tietolaatikko ja sitä ympäröivä selite, sitten kirjoita pari kappaletta olennosta. Muunna sitten mitä olet kirjoittanut Cairnin hirviötietolaatikoksi.
 
-Take for example this creature:
+Otetaan esimerkiksi tämä olento:
 
-#### Foxwoman
+#### Kettunainen
 
-Can take the form of a fox, a woman, or a 7' tall fox-headed.  
-_HD 5, Speed 120', Armor 14, Morale 11, Attack: +4 d8hp (claw, bite or choke)_
-- Defense: Cannot be harmed by metal
-- Special: Can transform into a fox or a maiden with one fox leg hidden (same stats) at will
+Voi ottaa ketun, naisen tai kaksimetriä pitkän kettupäisen muodon.  
+_HD 5, Nopeus 120', Panssari 14, Moraali 11, Hyökkäys: +4 d8hp (kynnet, puraisu or tukehdutus)_  
+- Puolustus: Metalli ei voi vahingoittaa
+- Erikoisuus: Voi halutessaan muuttua ketuksi tai neidoksi, jonka yksi ketunjalka on piilossa (samat ominaisuudet)
 
-_**Using the example above, I can see that she:**_  
-- Appears as a 7-foot tall with a human woman with the head of a fox.
-- Looking at the stats, it seems like she doesn't have too high HP, and she's quite fast.
-- Her **ML** is pretty high. She's obviously quite willful.
-- Agile and lithe.
-- Attacks with deadly teeth and claws (choking her prey if possible).
-- Transforms into a fox at will.
-- Immune to metal weapons.
+_**Ylläolevaa esimerkkiä käyttäen, voin nähdä että hän:**_
+- Näyttää kaksi metriä pitkältä ihmisnaiselta, jolla on ketun pää.
+- Numeroita katsoen, näyttää ettei hänellä ole kovin korkea HP ja että hän on hyvin nopea.
+- Hänen **ML** on aika korkea. Hän on selvästi aika itsepäinen.
+- On ketterä ja notkea.
+- Hyökkää tappavilla hampaillaan ja kynsillään (tukehduttaen saaliinsa jos mahdollista).
+- Muuttuu ketuksi halutessaan.
+- On immuuni metalliaseille.
 
-_**What can we learn from this?**_  
-- She's fast, and probably savvy in a fight. Starting from **3 HP**, then counting 1 **HP** per additional **HD** is **8 HP**.
-- I don't think foxes have protective hides, and she's otherwise human beside her head. **No Armor**.
-- She is decently strong. Normal human is 10 and she's bigger. **12 STR**.
-- I can imagine her hunting prey over the snowy tundra. She's fast. **14 DEX**.
-- Her **ML** is high but not the max. And foxes are pretty cunning, right? She'll stick it out in a tough situation. **15 WIL**.
-- I'd go with **bite (d6)** for the teeth attack, and **claws (d8+d8)**, the same as any two-handed weapon.
+_**Mitä voimme oppia tästä?**_  
+- Hän on nopea ja todennäköisesti taitava taistelemaan. Aloittaen **3 HP:stä** ja lisäten yhden **HP:n** per **HD** saadaan **8 HP:ta**.
+- En usko että ketuilla on suojaavaa nahkaa ja hän on päätään lukuunottamatta muuten ihminen joten **ei Panssaria**.
+- Hän on kohtuullisen vahva. Normaali ihminen on 10 ja hän on isompi. **12 STR**.
+- Voin kuvitella hänet metsästämässä saalistaan lumisella tundralla. Hän on nopea. **14 DEX**.
+- Hänen **ML** on korkea, mutta ei maksimi. Ja ketut ovat aika ovelia, eikö vain? Hän selviäisi tukalista tilanteista. **15 WIL**.
+- Valitsisin **puraisun (d6)** hampailla tehtäviin hyökkäyksiin ja **kynnet (d8+d8)**, sama kuin mikä tahansa kaksikätinen ase.
 
-_**In summary, that leaves us with the following opening stat block:**_  
-_8 HP, 12 STR, 14 DEX, 15 WIL, teeth (d6), claws (d8+d8)_
+_**Yhteenvetona, meille jää jäljelle seuraava alustava tietolaatikko**_  
+_8 HP, 12 STR, 14 DEX, 15 WIL, hampaat (d6), kynnet (d8+d8)_
 
-_**Now on to her abilities:**_  
-This is pretty straightforward. We simply read the fictional stat block we created earlier!
-- We know what she looks like, and that she can transform into a fox at will.
-- She cannot be harmed by metal; I'm taking this to mean she's immune to _metal weapons_.
-- She chokes her victims.
+_**Nyt hänen kykyihinsä:**_  
+Tämä on aika suoraviivaista. Me yksinkertaiseti luemme tarinallisen tietolaatikon jonka loimme aikaisemmin!
+- Me tiedämme miltä hän näyttää ja että hän voi muuttua ketuksi halutessaan.
+- Metalli ei voi vahingottaa häntä; oletan että tämä tarkoittaa, että hän on immuuni _metalliaseille_.
+- Hän tukehduttaa uhrinsa.
 
-_**Easy, right? Now to make it useful:**_  
-- Appears as a 7-foot tall with a human woman with the head of a fox.
-- Transforms into a fox at will.
-- Immune to attacks from metal weapons.
-- Critical damage: victim is choked unconscious, to be fed on soon after.
+_**Helppoa, eikö? Nyt tehdään tuosta hyödyllistä:**_
+- Näyttää kaksi metriä pitkältä ihmisnaiselta jolla on ketun pää.
+- Muuttuu ketuksi halutessaan.
+- Immuuni metalliaseiden hyökkäyksille.
+- Kriittinen vahinko: uhri tukehdutetaan tajuttomaksi ja syödään pian sen jälkeen.
 
-_**And that's it!**_
-_**Behold, a converted Cairn monster:**_
+_**Ja siinä se!**_  
+_**Katso, muunnettu Carin-hirviö:**_
 
-#### Foxwoman
+#### Kettunainen
 
-8 HP, 12 STR, 14 DEX, 15 WIL, claws or hands (d8+d8)
+8 HP, 12 STR, 14 DEX, 15 WIL, kynnet (d6) tai kädet (d8+d8)
 
-- Can take the form of a fox, or a woman with a single, hidden fox led.
-- Immune to attacks from metal weapons.
-- **Critical damage**: Victim is choked unconscious.
+- Voi ottaa ketun tai naisen, jolla on yksi piilotettu ketun jalka, muodon.
+- Immuuni metalliaseiden hyökkäyksille.
+- **Kriittinen vahinko**: Uhri tukehtuu tajuttomaksi.
