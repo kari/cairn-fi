@@ -1,67 +1,67 @@
 ---
 layout: default
-title: Build An Adventure Site
-parent: Tools
+title: Luo tapahtumapaikka seikkailuille
+parent: Työkalut
 redirect_from: /resources/tools/build-an-adventure-site/
 ---
 
-# Build An Adventure Site
+# Luo tapahtumapaikka seikkailuille
 
-## Choose A Theme
-- Pick a theme for the area. A specific mythology you find inspiring, something from history, etc.
-- Name (should reflect or theme). There are some great names [here](https://www.fantasynamegenerators.com/forest_names.php).
-- Come up with an adventure premise (for example, an amazing location with a treasure to hunt).
-- Decide on a ruling faction, with traits & motive.
-- Add some kind of counter balance (another faction, some kind of nefarious enemy, etc).
-- Keep these concepts in mind at all times: Dangers, Stakes, Motives, Urgency. The more you can weave in, the better.
+## Valitse teema
+- Valitse alueelle teema. Jokin sinua inspiroiva mytologia, jotain historiasta jne.
+- Nimi (sen tulisi viitata teemaan). Voit löytää hyviä nimiehdotuksia [täältä](https://www.fantasynamegenerators.com/forest_names.php) (englanniksi).
+-- Keksi seikkailulle lähtöasetelma (esimerkiksi ihmeellinen paikka, jossa on aarteenmetsästystä).
+- Päätä hallitseva ryhmittymä, jolla on ominaispiirteet ja motiivi.
+- Lisää jonkinlainen vastapaino (toinen ryhmittymä, jokin häijy vihollinen jne.)
+- Pidä nämä periaatteet jatkuvasti mielessäsi: Vaarat, Panokset, Motiivit, Kiireellisyys. Mitä enemmän saat niitä kiedottua mukaan, sen parempi.
 
-## Spark Tables
-[Spark Tables](https://www.bastionland.com/2017/11/electric-modernity-and-spark-tables.html) are very handy tools for quickly creating a setting. They are typically made of 40 words divided into two columns. For an example Spark Table see [here](https://docs.google.com/spreadsheets/d/1b3E3FsQVvjqAMVcDIVXXQmo9g6bH0fQBDbzRJ6K5F10/edit#gid=0). With some light editing, it can result in phrases like:  
-- Digesting Claws
-- White Eyes
-- Distorted Tongues
-- Predatory Awakening
-- Grimalkin Fungi
-- Nourishing Deep
-- Paranoia Underbrush
-- Mouth-less Cemetery
-- Withering Hue
-- Subterranean Ripple
-- Transmutation Sparrows
-- Moonlight Trees
-- Mildew Gloom
-- Smoldering Shade
+## Kipinätaulukot
+Kipiniätaulukot ([_Spark Tables_](https://www.bastionland.com/2017/11/electric-modernity-and-spark-tables.html) ovat hyvin käteviä työkaluita peliympäristön nopeaan luomiseen. Ne koostuvat yleensä 40 sanasta, jotka on jaettu kahteen sarakkeeseen. Esimerkin kipinätaulukosta löydät [täältä](https://docs.google.com/spreadsheets/d/1b3E3FsQVvjqAMVcDIVXXQmo9g6bH0fQBDbzRJ6K5F10/edit#gid=0) (englanniksi). Kevyellä muokkauksella siitä voi saadaan aikaan nimiä kuten:
+- Sulattelevat Kynnet
+- Valkoiset Silmät
+- Vääristyneet Kielet
+- Saalistava Herätys
+- Grimalkin-sienet
+- Ruokkiva Syvyys
+- Vainoharhaisuuden Aluskasvallisuus
+- Suuton Hautausmaa
+- Kuihtuva Sävy
+- Maanalainen Väre
+- Transmutaation Varpuset
+- Kuutamon Puut
+- Homehtuva Hämärä
+- Kytevä Varjo
 
-### Create Spark Tables
-To create a Spark Table, you'll want to find a find a book or website close to your adventure's overall theme (e.g. a PDF with related content). You can pull words from it by simply picking a random page and writing down whatever meets your eye, or you can import it into a web-based tool. You can also import [public domain books](https://archive.org/details/texts) on relevant subjects. [WordCounter.net](https://wordcounter.net/website-word-count) can create lists of non-common keywords from a website. You can then copy and paste those words into a spreadsheet.
+### Kipiniätaulukoiden tekeminen
+Jos haluat tehdä kipinätaulukon, sinun kannattaa etsiä kirja tai verkkosivu, joka on lähellä seikkalusi teema (esim. PDF-tiedosto, jossa on asiaan liittyvää sisältöä). Voit valita siitä sanoja yksinkertaisesti valitsemalla satunnaisen sivun ja kirjoittamlla ylös mitä ikinä silmiisi osuu tai voit ladata sen verkkopohjaiseen työkaluun. Voit myös etsiä aiheeseen liittyviä [tekijänoikeuksista vapaita kirjoja](https://archive.org/details/texts). [WordCounter.net](https://wordcounter.net/website-word-count) osaa tehdä listoja verkkosivujen harvinaisemmista avainsanoista. Voit sitten kopioida ja liittää nämä sanat taulukkoon.
 
-Alternatively, take a look at [TerriblyBeautiful](https://www.patreon.com/terriblybeautiful) by [Colin Kloeker](https://twitter.com/colinkloecker?lang=en). Basically, you join the Discord server (see Patreon link - it's free) and then run commands in the "bibliomancers-workshop" channel (see pinned).
+Vaihtoehtoisesti voit tutustua [Colin Kloekerin](https://twitter.com/colinkloecker) [TerriblyBeautiful](https://www.patreon.com/terriblybeautiful) -työkaluihin. Käytännössä liityt Discord-palvelimelle (katso Patreon-linkki - se on ilmainen) ja sitten suoritat komentoja "bibliomancers-workshop"-kanavalla (katso kiinnitetty viesti).
 
-When you've finished:  
-- Clean up the words. Sort by d20 in two columns.
-- You'll want to generate at least 10 interesting phrases for inspiration.
-- You can of course simply write down 40 words that sound good together.
-- Images can also serve as sparks.
+Kun olet valmis:
+- Siivoa sanat. Lajittele d20:n mukaan kahteen sarakkeeseen.
+- Inspiraatiota varten haluat luoda vähintään 10 kiinnostavaa nimeä.
+- Voit toki yksinkertaisesti kirjoittaa ylös 40 sanaa jotka kuulostavat hyvältä keskenään.
+- Kuvat voivat toimia myös kipinänä.
 
-## Draw A Map
-- If you can draw, great! Otherwise, find a map-making tool that works for you. Examples are [draw.io](http://draw.io), [Hex Kit](https://coneofnegativeenergy.com/hex-kit/), [Owlbear Rodeo](https://www.owlbear.rodeo/), [Wonderdraft](http://wonderdraft.net/), etc.
-- Draw at least four lines of any shape, each from a different color. Each line should cross another at least once. These lines represent roads or paths.
-- Generate at least 3 Points of Interest: take in consideration the theme(s) and factions. Put these wherever the lines cross.
-- Generate regional/hex features for each POI using tables and placing results in those POIs where it makes most sense.
-- Place additional (especially hidden) dangers, encounters or NPC’s in some of the POI.
-- Add some travel/route complications, taking in consideration any POIs along the way.
+## Piirrä kartta
+- Jos osaat piirtää, hienoa! Muussa tapauksessa, etsi itsellesi sopiva kartantekotyökalu. Näitä ovat esimerkiksi [draw.io](http://draw.io), [Hex Kit](https://coneofnegativeenergy.com/hex-kit/), [Owlbear Rodeo](https://www.owlbear.rodeo/), [Wonderdraft](http://wonderdraft.net/) jne.
+- Piirrä vähintään neljä minkä tahansa muotoista viivaa, jokainen eri värillä. Jokaisen viivan tulisi leikata toinen vähintään kerran. Nämä viivat kuvaavat teitä tai polkuja.
+- Luo vähintään 3 kiinnostavaa kohdepistettä (_POI_): huomio tässä teema ja ryhmittymät. Laita näitä sinne missä viivat ylittävät toisensa.
+- Luo jokaiselle kohdepisteelle alueellisia/heksan piirteitä käyttäen taulukoita ja laita nämä tulokset niihin kohteisiin joihin ne sopivat.
+- Sijoita lisää (erityisesti piilotettuja) vaaroja, kohtaamisia tai sivuhahmoja joihinkin kohteisiin.
+- Lisää jotain mutkia matkan/reitin kulkuun, huomioiden matkalla olevat kohdepisteet.
 
-## Create Encounters
-- Encounter table (either 1d6 or 2d6), with at least one result tied to the party or its members.
-- Details on any treasure or relics (Who wants it? Where is it now? Why wasn't it ransacked before?). Include maps.
-- Describe rooms for a dungeon (one sentence describing obstacles, hazards, creatures or minor treasure).
+## Luo kohtaamisia
+- Kohtaamistaulukko (joko 1d6 tai 2d6), joista vähintään yksi tulos liittyy peliryhmään tai sen jäseniin
+- Yksityskohtia mahdollisista aarteista tai muinaisesineistä (Kuka haluaa sen? Missä se on nyt? Miksei sitä ole ryöstetty tähän mennessä?). Käytä karttoja.
+- Kuvaile luolaston huoneet (yksi lause kuvaamaan esteet, vaarat, olennot tai vähäisemmät aarteet).
 
-You do not need to do this for ever single POI, only those that interest you.
+Sinun ei tarvitse tehdä tätä jokaiselle kohteelle, vain niille jotka kiinnostavat sinua.
 
-## Create Treasure:
-- Look on the map and think of who would want treasure, and what kind.
-- Look on the map and think of where that treasure could be now.
-- Add 2-3 steps leading up to the location of the treasure, but don't be too obvious.
-- Add some sort of "dungeon" in the place where the treasure resides.
-- Stock "rooms" of a dungeon (additional treasure goes here)
-- [Maze Rats](https://questingbeast.itch.io/maze-rats) has incredible treasure and "loot the body" tables. You can find an automated version in the [Adventuresmith](https://play.google.com/store/apps/details?id=org.steavesea.adventuresmith&hl=en_US&gl=US) app.
+## Luo aarteet
+- Katso karttaa ja mieti, kuka haluaisi aarteita ja minkälaisia.
+- Katso karttaa ja mieti, missä nämä aarteet voisivat olla nyt.
+- Lisää 2-3 askelta jotka vievät kohti aarteen sijantia, mutta älä ole liian ilmeinen.
+- Lisää jonkinlainen "luolasto" siihen paikkaan jossa aarre sijaitsee.
+- Täytä luolaston "huoneet" (lisää aarteita menee tänne)
+- [Maze Rats](https://questingbeast.itch.io/maze-rats)-pelin mukana tulee uskomattoman hyvät aarre- ja "ryöstä ruumis" -taulukot. Löydät automatisoidut versiot [Adventuresmith](https://play.google.com/store/apps/details?id=org.steavesea.adventuresmith&hl=en_US&gl=US)-apista.
