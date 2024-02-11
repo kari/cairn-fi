@@ -16,7 +16,7 @@ redirect_from: /resources/tools/build-an-adventure-site/
 - Pidä nämä periaatteet jatkuvasti mielessäsi: Vaarat, Panokset, Motiivit, Kiireellisyys. Mitä enemmän saat niitä kiedottua mukaan, sen parempi.
 
 ## Kipinätaulukot
-Kipiniätaulukot ([_Spark Tables_](https://www.bastionland.com/2017/11/electric-modernity-and-spark-tables.html) ovat hyvin käteviä työkaluita peliympäristön nopeaan luomiseen. Ne koostuvat yleensä 40 sanasta, jotka on jaettu kahteen sarakkeeseen. Esimerkin kipinätaulukosta löydät [täältä](https://docs.google.com/spreadsheets/d/1b3E3FsQVvjqAMVcDIVXXQmo9g6bH0fQBDbzRJ6K5F10/edit#gid=0) (englanniksi). Kevyellä muokkauksella siitä voi saadaan aikaan nimiä kuten:
+Kipiniätaulukot ([_Spark Tables_](https://www.bastionland.com/2017/11/electric-modernity-and-spark-tables.html)) ovat hyvin käteviä työkaluita peliympäristön nopeaan luomiseen. Ne koostuvat yleensä 40 sanasta, jotka on jaettu kahteen sarakkeeseen. Esimerkin kipinätaulukosta löydät [täältä](https://docs.google.com/spreadsheets/d/1b3E3FsQVvjqAMVcDIVXXQmo9g6bH0fQBDbzRJ6K5F10/edit#gid=0) (englanniksi). Kevyellä muokkauksella siitä voi saadaan aikaan nimiä kuten:
 - Sulattelevat Kynnet
 - Valkoiset Silmät
 - Vääristyneet Kielet
