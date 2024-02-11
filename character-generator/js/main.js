@@ -39,18 +39,18 @@ armorValue.forEach((item) => {
 });
 
 console.log(total);
-$("#character").html(generate_text("character"));
-$("#age").html(roll(20) + roll(20) + 10);
-$("#hp").html(roll(6));
+document.getElementById("character").innerHTML = generate_text("character");
+document.getElementById("age").innerHTML = roll(20) + roll(20) + 10;
+document.getElementById("hp").innerHTML = roll(6);
 ["str", "dex", "wil"].forEach((item, i) => {
-$("#" + item).html(roll(6) + roll(6) + roll(6));});
-$("#armor").html(armor);
-$("#helmet").html(helmet);
-$("#weapons").html(weapons);
-$("#tool").html(tool);
-$("#gear").html(gear);
-$("#trinket").html(trinket);
-$("#bonus").html(bonus);
-$("#armorTotal").html(armorTotal);
-$("#total").html(total);
-$("#gold").html(roll(6) + roll(6) + roll(6));
+document.getElementById("" + item).innerHTML = roll(6) + roll(6) + roll(6);});
+document.getElementById("armor").innerHTML = armor;
+document.getElementById("helmet").innerHTML = helmet;
+document.getElementById("weapons").innerHTML = weapons;
+document.getElementById("tool").innerHTML = tool;
+document.getElementById("gear").innerHTML = gear;
+document.getElementById("trinket").innerHTML = trinket;
+document.getElementById("bonus").innerHTML = bonus;
+document.getElementById("armorTotal").innerHTML = armorTotal;
+document.getElementById("total").innerHTML = total;
+document.getElementById("gold").innerHTML = roll(6) + roll(6) + roll(6);
