@@ -192,9 +192,9 @@ Laajenna esimerkkiä varten.
 
 </details>
 
-### Osumasuoja
+### Osumasuojaus
 
-Heitä 1d6 määrittääksesi pelaajahahmosi alkutason **Osumasuoja** (HP), joka kuvastaa hänen kykyään välttää vahinkoa taistelussa. HP ei ilmaise hahmon elämää tai voimaa; eikä hän menetä sitä kovin pitkäksi aikaa (katso [**Parantuminen**](#parantuminen)). Jos hyökkäys vie pelaajahahmon HP:n tasan nollaan, pelaajan on heitettävä heitto [**Arvet**](#arvet-1) -taulukon avulla.
+Heitä 1d6 määrittääksesi pelaajahahmosi alkutason **Osumasuojaus** (HP), joka kuvastaa hänen kykyään välttää vahinkoa taistelussa. HP ei ilmaise hahmon elämää tai voimaa; eikä hän menetä sitä kovin pitkäksi aikaa (katso [**Parantuminen**](#parantuminen)). Jos hyökkäys vie pelaajahahmon HP:n tasan nollaan, pelaajan on heitettävä heitto [**Arvet**](#arvet-1) -taulukon avulla.
 
 #### Varustepaikat
 
@@ -894,7 +894,7 @@ Kykyarvot: 3 on vähäinen, 6 on heikko, 10 on keskimääräinen, 14 on huomiona
 - Anna keskiverto-olennoille 3 HP, sitkeille 6 HP ja vakaville uhkille 10+ HP.
 - Käytä sävyä ja tyyliä, jotta ne erottuvat. Pelaajat muistavat sikanaamaisen humanoidin, joka etsii kadonneita lampaitaan, helpommin kuin geneerisen jousella metsästävän hiiden.
 - Käytä kriittistä vahinkoa tukeaksesi jonkin aggressiivisen sivuhahmon uhkaa tai outoutta.
-- Muista, että HP on **osumasuoja**, ei osumapiste. Se on kestävyyden, onnen ja rohkeuden mittari - ei elämän.
+- Muista, että HP on **osumasuojaus**, ei osumapiste. Se on kestävyyden, onnen ja rohkeuden mittari - ei elämän.
 
 **Muuntaminen OSR-peleistä**
 
@@ -1042,7 +1042,7 @@ Vuorollaan hahmo voi liikkua enintään 40 jalkaa ja tehdä enintään yhden toi
 - Heitä d20 ja saa tulos, joka on yhtä suuri tai alle kykyarvon.
 - 1 on aina onnistuminen, ja 20 on aina epäonnistuminen.
 
-**OSUMASUOJA**\
+**OSUMASUOJAUS**\
 **HP** kuvastaa pelaajahahmon kykyä välttää loukkaantumista. Sitä menetetään taistelun aikana ja se palautuu hetken levon jälkeen.
 
 **VARUSTEPAIKAT**\
