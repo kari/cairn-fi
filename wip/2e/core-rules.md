@@ -14,14 +14,14 @@ grand_parent: WIP
 Each of the three **Attributes** are used in different circumstances (see **Saves**, below).
 
 - **Strength (STR)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
-- **Dexterity (DEX)**: Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
+- **Dexterity (DEX)**: Used for saves requiring poise, speed, reflexes, dodging, climbing, sneaking, balancing, etc.
 - **Willpower (WIL)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.
 
 ## Saves
 
-- A save is a roll to avoid bad outcomes from risky choices and circumstances. 
-- PCs roll a d20 and compare the results to an appropriate attribute. If they roll equal to or under that attribute, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
-- If two opponents are both attempting to overcome the other, whoever is most at risk should save.
+- A save is a roll to avoid negative outcomes from risky choices. Characters roll a d20 and compare the results to the appropriate attribute. If they roll equal to or under that attribute, they succeed. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
+- If two opponents are each trying to overcome the other, whoever is most at risk should save.
+- If two characters need to take an action together, whoever is most at risk should save (usually the character with the lowest relevant Attribute).
 
 ## Healing & Recovery
 
@@ -83,7 +83,7 @@ On their turn, a character may move up to 40ft and take up to one action. This m
 
 - The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Attacks in combat automatically hit.
 - If multiple attackers target the same foe, roll all damage dice and keep the single highest result. All actions are declared before being resolved.
-- If an attack would take a PC’s HP exactly to 0, the player must roll on the Scars table (pg. 67).
+- If an attack would take a PC's HP exactly to 0, refer to the [Scars](#scars-table) table to see how they are uniquely impacted.
 
 ### Attack Modifiers
 
@@ -99,12 +99,12 @@ On their turn, a character may move up to 40ft and take up to one action. This m
 
 ### Attribute Loss
 
-- If a PC would take damage outside of combat, they would instead take damage to an Attribute instead (typically STR).
-- If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious. Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.  
+- If a PC takes damage outside of combat, they should instead receive damage to an Attribute, typically STR.
+- If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious. Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
 
 ### Character Death
 
-- When a character dies, the player is free to create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
+- When a character dies, the player should create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
 
 ### Detachments
 
@@ -114,6 +114,11 @@ On their turn, a character may move up to 40ft and take up to one action. This m
 ### Retreat
 
 - Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
+
+### Ranged Attacks
+
+- Ranged weapons can target any enemy near enough to see the whites of their eyes. Attacks against especially distant targets are _Impaired_.
+- Ammunition is not tracked unless otherwise specified. 
 
 ## Scars
 

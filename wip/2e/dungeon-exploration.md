@@ -8,182 +8,105 @@ search_exclude: true
 ---
 
 # Dungeon Exploration
-{: .no_toc }
 
-<details close markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
+## Principles
 
-## The Basics
+- Always clarify what is about to happen. Does that flaming barrel look stable, or like it might explode at any minute? 
+- Regularly restate a character's surroundings, where they are in physical space, and what their senses are detecting. 
+- Describe obvious threats and NPCs first, followed by any distinct and memorable objects in each room. 
+- Do not tell characters how they should feel, and only tell them what's happening right now, before their eyes.
+- Provide hints about what lies beyond the next corridor, including odors, sounds, and elevation.
+- Ensure that the players understand their character's place in the Dungeon Cycle. Remind them who has already moved, who has yet to take an action, and so on. 
+- The cost of dungeon exploration is paid in turns. If the party spends too long in one place, acts without caution, makes noise, or enters a new area they risk a roll on the Dungeon Events table. Players should always be made aware of the cost.
 
-- The dungeon exploration cycle (see below) is divided into a series of **turns**, **actions**, and their consequences. 
-- On their **turn**, a character can move a distance equal to their torchlight's perimeter (about 40ft), and perform one **action**. Players can use their **action** to move up to three times that distance, though that will increase the chance of triggering a roll on the [**Dungeon Events**](#dungeon-events) table.
-- The **Warden** should present obvious information about an area and its dangers freely and at no cost. Moving quickly or without caution may increase the chance of encountering a wandering monster, springing a trap, or triggering a roll on the [**Dungeon Events**](#dungeon-events) table.
+## Dungeon Exploration Example
 
-> Although the term "dungeon" is used here, it can be exchanged for any dangerous locale (mansions, farmhouses, adventure site, etc).
+Wolfram, Lucius, and Freya have entered the first level of **Ein Eyton**, a forest temple once rumored to house an infamous death cult. Each character has a torch, but only **Wolfram** has one lit. There are no light sources here beyond the Moon in the night sky. The first room is presented as follows:
 
-## Dungeon Exploration Cycle
+### The Courtyard
 
-1. The **Warden** describes the party's surroundings and any immediate dangers (combat, traps, surprises, etc.). The players then declare their character's intended movements and **actions**. 
-2. The Warden resolves the **actions** of each character simultaneously, along with any **actions** that are already in progress. Remember, the Die of Fate can be a useful tool whenever the Warden is in doubt!
-3. The players record any loss of resources and any new conditions (i.e. item use, _deprivation_, etc). The cycle then _begins again_. If appropriate, the **Warden** should roll on the [**Dungeon Events**](#dungeon-events) table. Keep common sense in mind when interpreting the results! 
+A wide courtyard exposed to the **open air**. The **ground** is sandy and rough. **Rubble** is piled near the center of the room. A full-sized **statue** holding a bident is placed in the exact center. A wooden **doorway** to the East is locked with an iron chain. An open stone archway leads towards the West.
 
-## Dungeon Events
+- **Air**: The roof has collapsed, letting exterior lighting illuminate the room. 
+- **Ground**: Glitters in the light. A cursory investigation will reveal that the "sand" is actually pulverized bones.  
+- **Rubble**: Stone chunks from statues resembling people. 
+  - A red jewel glints within a tight stone fist.
+- **Statue**: One eye socket is empty, in the other is a red jewel.
+  - The cult's Death Goddess, marred by time. If the remaining eye is removed, the statue comes to life, slicing the bident in an arc for d6 STR damage. Contact with the bident turns the victim to stone.
+  - If the jewel from the nearby rubble is inserted into the statue, nothing happens. If it is removed again, the statue responds accordingly.
+- **Doorway**: The door to the Storeroom has nearly rotted away, leaving cracks in the wood. The iron chain is clearly rusted.
 
-Exploring a dungeon is always dangerous, and time must always be weighed against the risk of awakening the location's denizens, natural hazards, and worse.  
-When the party:
+**Warden** "_Warden: "You enter a wide courtyard illuminated by moonlight drifting through the collapsed roof. The ground is sandy and sparkles chalk-white in the moonlight. Near the center, rubble piles around a statue of a woman wielding a bident. To the East, a wooden door is closed and chained, while an open archway leads Westward into a dark tunnel. What do you do?"_
 
-- Spends more than one dungeon cycle in a single room or location 
-- Moves quickly or haphazardly through a room
-- Moves into a new area, level, or zone
-- Creates a loud disturbance 
+> **The characters then declare their intended actions.**
 
-**Roll on the table below.**
+**Wolfram**: _"I'll search the room for clues about its purpose, starting with that glittery ground."_ 
+**Lucius**: _"I'll check out the wooden **door**, to see if I can figure out what's on the other side."_ 
+**Freya**: "_I'm going to get a better look at that **statue**. What can I learn without actually getting too close?"_ 
 
-|       |                 |                                                                                                           |
-| :---: | :-------------: | :-------------------------------------------------------------------------------------------------------: |
-| **1** |  **Encounter**  | Roll on an encounter table. Possibly **hostile** (see [Reactions](/wip/2e/core-rules/#reactions)).     |
-| **2** |    **Sign**     | A “spoor” (clue, track, scent, victim, droppings, etc.) is discovered.                   |
-| **3** | **Environment** | Surroundings shift or escalate. Water rises, ceilings collapse, a ritual nears completion, etc.      |
-| **4** |    **Loss**     | Torches are blown out, an ongoing spell fizzles, etc. The party must resolve the effect before moving on. |
-| **5** | **Exhaustion**  | The party must rest (triggering another roll on this table), add a **Fatigue**, or consume a ration.       |
-| **6** |    **Quiet**    | The party is left alone (and safe) for the time being.                           |
+**Warden**: _"Alright, let's start with **Wolfram**. The sand is white, grainy, and clearly not from any beach 'round these parts. Starting at a small lump in the ground, you recognize a half-decayed human skull, meaning that this "sand" is actually bone! What do you do now?"_
 
-## Actions
+**Wolfram**: _"Gross. I'm gonna poke at it a bit with my sword. Is there is anything hidden in the dust? Something valuable, maybe?"_
 
-- **Actions** are any non-passive activities such as _searching for traps_, _forcing open a door_, _listening for danger_, _disarming a trap_, _engaging an enemy in combat_, _casting a spell_, _dodging a trap_, _running away_, _resting_, etc. 
-- Some **actions** have special rules (see below), while others may take multiple **turns** to complete. 
-- Loud or noticeable **actions** may also trigger an **encounter** of the dungeon's denizens. 
-
-### Searching
-
-- A character can spend a **turn** performing an _exhaustive_ search of **one** object or location in an area, revealing any relevant hidden treasure, traps, secret doors, etc. 
-- Larger rooms and difficult or complex dungeon terrain may take a few **turns** to properly search.
-- Searching a room _first_ is a safer way to explore the dungeon, but it has a steep cost: time.
-
-### Resting
-
-- A character can spend a turn **resting** to restore all **HP**.
-- A light source and a _safe location_ are required to **rest**. Present or oncoming danger make **rest** impossible.
-- **Resting** does not restore **Fatigue**, as it is impossible to safely **Make Camp** in a dungeon.
-
-## Conditions
-
-### Panic
-
-- A character that is surrounded by enemies, enveloped by darkness, or facing their greatest fears may experience _panic_. A **WIL** **save** is typically required to avoid losing control and becoming _panicked_. 
-- A _panicked_ character must make a **WIL** **save** to overcome their condition as an **action** on their **turn**.
-- A _panicked_ character has 0 **HP**, does not act in the first round of combat, and all of their attacks are _impaired_.  
-
-## Dungeon Elements
-
-### Light
-- Torches and other radial sources of light illuminate 40ft of dungeon, and beyond that only a dim outline of objects. Torches last until they are put out by a character or their environment.
-- A torch can be lit 3 times before permanently degrading. A lantern can be relit 6 times per oil can, but requires more inventory slots.
-- Characters without a light source may suffer from _panic_ until their situation is remedied. 
-
-### Doors
-
-- Doors and entryways may be locked, stuck, moving or blocked entirely. Characters can try to force a door open (or wedge it shut) using available resources (spikes, glue), or through raw ability. 
-- The character _most at risk_ should **save** to avoid whatever danger may befall them. 
-- A character can detect, through careful observation (listening, smelling, etc.), signs of life and other hazards through nearby doors and walls.
-
-### Traps 
-
-- A cautious character should be presented with any and all information that would allow them the opportunity to _avoid_ springing a trap. An unwitting character will trigger a trap according to the fiction, or otherwise have a 2-in-6 chance.
-- **Traps** can usually be detected by carefully **searching** a room.
-- Damage from traps is taken from Attributes (usually **STR** or **DEX**) and _not_ from **HP**. Armor can reduce damage, but only if applicable (e.g. a shield would not reduce damage from noxious gas).
-
-## Example
-A party of 3 player characters (**Leib**, **Konstin**, and **Gar**) have entered the first level of the forest ruins of **Ein Eyton**, once the home of the death-cult **Lunheuzo**. Each character has a torch, but only **Leib** has one lit. There are no light sources here beyond the Moon in the night sky. The **Warden** reads the first room's description:  
-
-> ### The Courtyard
-> **Collapsed roof** (light from above streaming through). **Sandy floor** (chalky, glittery, lumpy). **Rubble** (mishapen, granite) is strewn about in a pile near the center. **Humanoid statue** (marble, full-sized, holding a bident) in the exact center.
-
-> &rarr; **Floor**:  A cursory investigation will reveal that the "sand" is actually pulverized bones.  
-> &rarr; **Rubble**: Pieces of very humanoid statues; very realistic. A red jewel glints wthin a tight stone fist.  
-> &rarr; **Statue**: The cult's Death Goddess, marred by time. One eye socket is empty, in the other is a red jewel.    
-> &rarr; **Removing the eye**: The statue comes to life with ferocity, slicing the bident in a 10ft arc around it. Contact with the bident turns the victim to stone.  
-> &rarr; **East Exit**: to **Storeroom**. Wooden (rotted), locked (rusted, iron).   
-> &rarr; **West Exit**: to **Offering Hall**. Stone archway, open tunnel.  
-
-The **Warden** describes the room as "_A courtyard. Moonlight drifts through the collapsed roof from the night sky. The floor is sandy, chalk-white that sparkles in the moonlight. Rubble is piled in the center, near a statue of a woman holding a weapon, her face chipped. There is a closed wooden door on the **East** side, and an open archway into a dark tunnel to the **West**."_
-
-[**The characters then declare their intended actions.**]    
-**Leib**: _"I'll search the room for clues about its purpose, as well as any traps and treasure. I'll start with the odd **sand**, then the **rubble**."_ 
-**Konstin**: _"I'll check out the wooden **door**. What can you tell me about it?"_ 
-**Gar**: "_I'm going to get a better look at that **statue**. What can I learn without actually getting too close?"_ 
-
-> **Any character could have _asked_ about the sand and received the same answer as below, Leib just happened to roll his question into a larger search action.**
-
-**Warden**: _"Alright. "**Leib**, the white sand is grainy and quite odd, clearly not from any beach 'round these parts. It is bleached white in color, and kicking your foot at a small lump in the ground reveals a half-decayed human skull. You realize the **sand** is actually bone!" Meanwhile, the **rubble** looks extremely heavy, and difficult to move."_
+**Warden**: _"No. But you're at least convinced the ground is safe. And that's the end of your turn!"_
 
 > **The Warden then moves to describe another character's actions, as they are happening simultaneously.**
 
-**Warden**: _"**Konstin**, the **door** is locked, ancient, and partly rotted. It bears a rusted iron lock. What do you do now?"_
+**Warden**: "Let's see what **Lucius** is up to."_
 
-**Konstin**: _"Seeing that I have no lockpick, I think I'll put my ear to the door to see what's on the other side."_ 
+**Warden**: _"**Lucius**, the **door** is locked, ancient, and partly rotted away. It bears a rusted iron lock. What do you do now?"_
 
-**Warden**: _"OK, that will set up your **turn**, then. But first, let's see what **Gar** is doing as well."_
+**Lucius**: _"As I have no lockpick, I think I'll put my ear to the door to see what's on the other side."_ 
 
-**Gar**: _"I light my torch and get a closer look at the **statue**."_
+**Warden**: _"You place an ear on the door, but hear only a faint rustling on the other side._"
 
-**Warden**: _"The **statue**'s face is chipped away; one of its eyes is missing entirely. The other eye however is embedded with a beautiful red jewel. In its hands it holds an unusual weapon: a bident, made of white stone."_
-
-**Gar**: _"That's just creepy! I want no part in this, not until we learn more about what this room was for. I'm going to circle back and explore the open archway into the tunnel."_ 
-
-> **The Warden now describes the results of each character's choices.**
-
-**Warden**: _"**Leib**, you’re confident that there are no traps hidden beneath the sand here, and you let your comrades know. Holding your torch high, you see something red and shiny glinting in the cracks of the pile. What do you do?"_
-
-**Leib**: _"I dig it out, of course! But carefully."_
-
-**Warden**: _"You pull a broken stone fist from the rubble. Inside glints the red jewel you spied earlier. The fingers are wrapped around it quite tightly; you'll need to work hard to get it loose!"_
-
-**Leib**: _"I'm going to stash this thing in my pack for later investigation."_
-
-**Warden**: _"OK. It's **bulky** on account of its weight, though."_
-
-**Leib**: _"Damn. Fine, I'm going to chisel away at with the edge of my dagger and a block of rubble. Noise be damned!_"
-
-**Warden**: _"OK, you do that. It makes a lot of noise, but eventually the jewel comes lose. You can store it with your other gold pieces. It is worth 25gp."_
-
-**Warden**: _"While this is all happening, **Konstin** places an ear on the door, but hears only a faint rustling on the other side. It could be the wind._"
-
-**Konstin**: _"How busted is the keyhole? Could I see through it? What about the door itself? You said it was rotted._"
+**Lucius**: _"How busted is the keyhole? Could I see through it? What about the door itself? You said it was rotted._"
 
 **Warden**: _"The keyhole is intact, and too dark to look through. You could shine a light through it, or you could use one of the gaps in the door."_
 
-**Konstin**: _"That works. I light my **torch** and hold it aloft so that I can see through."_
+**Lucius**: _"That works. I light my **torch** and hold it aloft so that I can see through."_
 
-**Warden**: _"**Konstin**, Through the cracks, you can see a gray cement floor. Something gleams on the ground, flickering in the torchlight. It is shaped like a large, wet footprint!"_
+**Warden**: _"**Lucius**, Through the cracks, you can see a gray cement floor. Something gleams on the ground, flickering in the torchlight. It looks like a large, wet footprint!"_
 
-**Konstin**: _"Eek! I let the others know."_
+**Lucius**: _"Eek! I let the others know."_
 
-**Warden**: _"**Konstin**: You move to notify the others of your discovery, and notice that **Gar** has left the room, but see his torchlight flickering down the **Western** corridor. You meet up with **Leib** just as he digs up the stone fist. You tell him what you've discovered, and point out **Gar's** absence."_
+**Warden**: _"Got it. Now let's see what **Freya** can find out about that statue."_
 
-**Konstin**: _"**Gar**, get back here, you dummy!"_
+**Freya**: _"Right, remember that I'd like to take a look, but I don't want to get too close."_
 
-**Warden**: _"**Gar**, The tunnel bends **South** and out of view. The walls are crumbling here, but you can't see much more. Do you continue?"_
+**Warden**: _"You step about five feet away from the Statue. The face looks chipped away, and one of the eyes is missing entirely. However embedded in the other is a beautiful red jewel! The statue holds a white bident in its hands. Do you interact with the statue further, or move along?"_
 
-**Gar**: _"Yes"_. 
+**Freya**: _"That's just creepy! I want no part in this, at least not until we learn more about what this room was for. I'd like to investigate that rubble you mentioned before."_ 
 
-**Warden**: _"You follow the tunnel bend towards the **South-west**. It ends at a closed wooden doorway. It is rotted, it iron lock rusted and coming off the hinges. It would take only a small push to open."_
+**Warden**: _"Alright, you move to the rubble adjacent to the statue. It looks extremely heavy, and difficult to move. In the light from **Wolfram's** torch you can see something red and shiny glinting in the cracks of the pile. What do you do?"_
 
-**Gar**: _"I think I'm going to head back, rather than enter this new area alone."_
+**Freya**: _"I investigate further, of course!"_
 
-**Warden**: _"As you do, you hear a loud banging noise coming from room your friends are in."_
+**Warden**: _"You take a closer look, and spy a red jewel enclosed in a large stone fist. It looks valuable, at least 75gp. It also looks large enough to take up an entire slot!"_
 
-**Warden**: _"Alright folks. You've each completed a full round. Accordingly, **Leib** made a ton of noise_ [**Leib's** player winces], _which means I have to roll on the **Dungeon Events** table!_"
+**Freya**: _"I want it. Can I dig it out easily?"_
 
-> The **Warden** rolls on the [**Dungeon Events**](#dungeon-events) table. The result is a **1**: an **Encounter**. The **Warden**'s prep indicates that the _Zombies_ in the adjacent room will react to nearby noise, so... 
+**Warden**: _"The fingers are wrapped around it quite tightly; you'll need to work hard to get it loose, or spend an extra turn to extract it quietly. Either choice will likely trigger a dungeon event roll."_
 
-**Warden**: _"The shuffling sound **Konstin** heard earlier behind the **East** door suddenly becomes much louder. Then, something large and powerful begins **slamming** itself into the wooden door! It creaks and groans under the assault, until finally it explodes from the top! Through the newly-created hole, **Leib** and **Konstin** can clearly make out the face of a decayed human man, his flesh flaking beneath layers of slime. He appears clearly undead, and very, very, angry."_
+**Freya**: _"Damn. Fine, I'll do it as quickly as possible, using the edge of my dagger and a block of rubble to pop it out. Noise be damned!_"
 
-> **Combat ensues between the party members in the Courtyard - a _turn undead_ spellbook is used, and the player characters are quickly (and brutally) victorious. Gar returns from the tunnel just as the fight is ending.**
+**Warden**: _"Alright, let's see how loud you are..."_
+
+> **The Warden then rolls on the Dungeon Events table: Environment.**
+
+**Warden**: _"**Freya's** clanging labor echoes against the exposed walls of the courtyard. The silence is broken by a shingle falling from the east wall, clattering onto the stone floor. Lucius, you hear rustling noises drawing nearer from behind the door! At that exact moment, the jewel comes loose."_ 
+
+**Warden**: _"And with that, this cycle is over. What do you all do next?"_
+
+**Lucius**: _"Um, something's coming. Can we please leave, NOW?"_ 
+
+**Freya**: _"I'll quickly put the jewel in my backpack_."
+
+**Wolfram**: _"I think we should head down that stone archway to the West. We can always circle back to this room on our way out._"
+**Freya**: _"Hang on, what about this jewel I discovered? It looks like it could go in that statue's eye..."_
+**Lucius**: _"What are you, nuts? For all we know that statue will come to life and attack!"_
+**Freya**: _"Or maybe it'll open a secret door?_"
+**Wolfram**: _"Enough, let's just move on for now. There is something on the other side of that door, and I do NOT want to find out what!"_
+
+> **The party moves on to the adjoining hall and the adventure continues.**
 
