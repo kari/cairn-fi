@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ukranian
-parent: Localizations
+title: Ukraina
+parent: Käännökset
 redirect_to: https://ua.cairnrpg.com
 ---

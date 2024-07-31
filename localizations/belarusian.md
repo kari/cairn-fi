@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Belarusian
-parent: Localizations
+title: Valkovenäjä
+parent: Käännökset
 redirect_to: https://be.cairnrpg.com
 ---

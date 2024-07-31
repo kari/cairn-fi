@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Polish
-parent: Localizations
+title: Puola
+parent: Käännökset
 redirect_to: https://pl.cairnrpg.com
 ---

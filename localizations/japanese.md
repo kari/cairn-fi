@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Japanese
-parent: Localizations
+title: Japani
+parent: Käännökset
 redirect_to: https://ja.cairnrpg.com
 ---

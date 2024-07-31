@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chinese
-parent: Localizations
+title: Kiina
+parent: Käännökset
 redirect_to: https://cn.cairnrpg.com
 ---

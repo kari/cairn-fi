@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scottish Gaelic
-parent: Localizations
+title: Gaeli
+parent: Käännökset
 redirect_to: https://en.tourlezarmeur.com/#rpgrules
 ---

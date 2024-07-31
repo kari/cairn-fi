@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Danish
-parent: Localizations
+title: Tanska
+parent: Käännökset
 redirect_to: https://da.cairnrpg.com
 ---

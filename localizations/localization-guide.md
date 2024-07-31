@@ -1,8 +1,11 @@
 ---
 layout: default
-title: Localization Guide
+title: Käännösohje
 nav_order: 1
-parent: Localizations
+parent: Käännökset
+nav_exclude: true
+search_exclude: true
+
 ---
 
 # Localization Guide

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: French
-parent: Localizations
+title: Ranska
+parent: Käännökset
 redirect_to: https://fr.cairnrpg.com
 ---
