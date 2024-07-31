@@ -41,14 +41,14 @@ The Warden and the players each have guidelines that help foster a specific play
 
 ### Shared Objectives
 
-Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore, the party is typically working together towards a common goal, as a team.
+Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore the party is typically working together towards a common goal, as a team.
 
 ## Principles for Players
 
 ### Agency
 
 - Attributes and related saves do not define your character. They are tools.
-- Don't ask only what your character would do, ask what you would do, too.
+- Don't ask only what your character would do; ask what you would do, too.
 - Be creative with your intuition, items, and connections.
 
 ### Teamwork
@@ -70,18 +70,18 @@ Players trust one another to engage with the shared setting, character goals, an
 ### Caution
 
 - Fighting is a choice and rarely a wise one; consider whether violence is the best way to achieve your goals.
-- Try to stack the odds in your favor and retreat when things seem unfavorable.
+- Try to stack the odds in your favor, and retreat when things seem unfavorable.
 
 ### Planning
 
 - Think of ways to avoid your obstacles through reconnaissance, subtlety, and fact-finding.
-- Do some research and ask around about your objectives.
+- Do some research, and ask around about your objectives.
 
 ### Ambition
 
-- Set goals and use your meager means to take steps forward.
+- Set goals, and use your meager means to take steps forward.
 - Expect nothing. Earn your reputation.
-- Keep things moving forward and play to see what happens.
+- Keep things moving forward, and play to see what happens.
 
 ## Principles for Wardens
 

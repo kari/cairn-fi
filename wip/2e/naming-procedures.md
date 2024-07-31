@@ -11,7 +11,7 @@ search_exclude: true
 
 - Settlements are often named after their unique features: the shape of the river nearby, or the large windmill in the town center. The residents then add a noun or adjective: _Windy Gulch_, _Black Tree Fort_, etc.
 - Important places should have important names, like those of heroes, religious or political figures, and other events. _The Chalet of Saint Ibiz, Queen's Harvest, Light of the Nine_, etc.
-- Proper Nouns can be added to or even replace parts of a name, e.g. **Bruna's Ugly Gulch**. 
+- Proper nouns can be added to or even replace parts of a name, e.g. **Bruna's Ugly Gulch**. 
 - Wild and dangerous places are named after obvious hazards: _Poison Lake_, _Foggy Cliffs_, etc. 
 - Some names tell a story: _Luka's Folly, Dead Man's Path_, etc. 
 - Use the region's local terrain and the location's details where appropriate. 
@@ -115,7 +115,7 @@ search_exclude: true
 | **16**   | Crack      | **66**   | Patch     |
 | **17**   | Crimson    | **67**   | Peril     |
 | **18**   | Curl       | **68**   | Purple    |
-| **19**   | Darkness   | **69**   | Quaint    |
+| **19**   | Darkness   | **69**   | Radiance  |
 | **20**   | Dawn       | **70**   | Rag       |
 | **21**   | Dead       | **71**   | Rain      |
 | **22**   | Death      | **72**   | Rainbow   |
@@ -124,59 +124,59 @@ search_exclude: true
 | **25**   | Desolation | **75**   | Regret    |
 | **26**   | Despair    | **76**   | Rot       |
 | **27**   | Devil      | **77**   | Ruin      |
-| **28**   | Dirt       | **78**   | Rustic    |
-| **29**   | Doom       | **79**   | Serene    |
-| **30**   | Doorway    | **80**   | Shadow    |
-| **31**   | Elevated   | **81**   | Sharp     |
+| **28**   | Dirt       | **78**   | Shadow    |
+| **29**   | Doom       | **79**   | Spark     |
+| **30**   | Doorway    | **80**   | Stone     |
+| **31**   | Echo       | **81**   | Tempest   |
 | **32**   | Ember      | **82**   | Silver    |
 | **33**   | Fate       | **83**   | Skull     |
 | **34**   | Fear       | **84**   | Sky       |
 | **35**   | Fire       | **85**   | Smoke     |
 | **36**   | Flame      | **86**   | Snake     |
-| **37**   | Foreign    | **87**   | Sorrow    |
-| **38**   | Fray       | **88**   | Storm     |
-| **39**   | Frost      | **89**   | Sun       |
-| **40**   | Fury       | **90**   | Terror    |
-| **41**   | Ghost      | **91**   | Thin      |
-| **42**   | Giant      | **92**   | Thunder   |
-| **43**   | God        | **93**   | Toxic     |
-| **44**   | Gold       | **94**   | Tranquil  |
-| **45**   | Golden     | **95**   | Troll     |
-| **46**   | Green      | **96**   | Victory   |
-| **47**   | Harsh      | **97**   | Violet    |
-| **48**   | Harvest    | **98**   | War       |
-| **49**   | Hat        | **99**   | Witch     |
-| **50**   | Honor      | **100**  | Zephyr    |
+| **37**   | Fray       | **87**   | Sorrow    |
+| **38**   | Frost      | **88**   | Storm     |
+| **39**   | Fury       | **89**   | Sun       |
+| **40**   | Ghost      | **90**   | Terror    |
+| **41**   | Giant      | **91**   | Thorn     |
+| **42**   | God        | **92**   | Thunder   |
+| **43**   | Gold       | **93**   | Toxic     |
+| **44**   | Green      | **94**   | Tranquil  |
+| **45**   | Harvest    | **95**   | Troll     |
+| **46**   | Hat        | **96**   | Valor     |
+| **47**   | Honor      | **97**   | Violet    |
+| **48**   | Hope       | **98**   | War       |
+| **49**   | Horror     | **99**   | Whisper   |
+| **50**   | Iron       | **100**  | Zephyr    |
 
-## Terrain Synonyms
+## Terrain Synonyms (Updated)
 
 |                |                                                         |
 | -------------- | ------------------------------------------------------- |
 | **Terrain**    | **Synonym**                                             |
-| **beaches**    | seaside, shore, coast, seaboard, foreshore, marina      |
-| **bogs**       | marsh, sump, mire, quad, morass, slough, fens           |
-| **canyons**    | ravine, gully, chasm, abyss, gulf, gulch                |
-| **caverns**    | grottoes, cavity, tunnels, dugout, caves                |
-| **cliffs**     | precipice, face, crag, bluff, ridge, escarpment, steep  |
-| **desert**     | dunes, sands, vasts, wastes, blight, erg                |
-| **farmlands**  | tillage, holding, acreage, steading, grange, plantation |
-| **forest**     | bush, woods, woodland, weald, grove, copse              |
-| **grasslands** | pasture, steppe, prairie, savanna, fields, greenery     |
-| **hills**      | hillock, mound, mount, knoll, hummock, slope            |
-| **hollows**    | dip, hole, pit, cavity, crater, trough, holes           |
-| **jungle**     | _See forest_                                            |
-| **lakes**      | pond, pool, tarn, lagoon, loch, bayou                   |
-| **mountains**  | peaks, ridge, range, summit, pinnacle, butte            |
-| **oasis**      | spring, well, fountain, haven, watering hole, refuge    |
-| **plains**     | heath, meadow, veldt, flats, lowlands, sward            |
-| **plateau**    | uplands, mesa, highlands, downs, reach                  |
-| **river**      | waterway, stream, brook, runnel creek, channel          |
-| **sea**        | _See beaches_                                           |
-| **swamp**      | mire, morass, quag, moors, sump, wetlands               |
-| **thickets**   | chaparral, boscage, covert, coppice, fells              |
-| **tundra**     | expanse, prairie, steppe, boreal, ley                   |
-| **valley**     | dale, vale, basin, gully, gorge, gap, glen              |
-| **wasteland**  | _See desert_                                            |
+| **Beaches**    | seaside, shore, coast, seaboard, foreshore, marina      |
+| **Bogs**       | marsh, morass, quad, slough, fens                       |
+| **Canyons**    | ravine, chasm, abyss, gulf, gulch                       |
+| **Caverns**    | grotto, cavity, tunnels, dugout, cave                   |
+| **Cliffs**     | precipice, face, crag, bluff, ridge, escarpment, steep  |
+| **Desert**     | dunes, sands, vasts, wastes, blight, erg                |
+| **Farmlands**  | tillage, holding, acreage, steading, grange, plantation |
+| **Forest**     | bush, woods, woodland, weald, grove, copse              |
+| **Grasslands** | pasture, fields, savanna, greenery                      |
+| **Hills**      | hillock, mound, mount, knoll, hummock, slope            |
+| **Hollows**    | dip, hole, pit, cavity, crater, trough, holes           |
+| **Jungle**     | _See forest_                                            |
+| **Lakes**      | pond, pool, tarn, lagoon, loch, bayou                   |
+| **Mountains**  | peaks, ridge, range, summit, pinnacle, butte            |
+| **Oasis**      | spring, well, fountain, haven, watering hole, refuge    |
+| **Plains**     | heath, meadow, veldt, flats, lowlands, sward            |
+| **Plateau**    | uplands, mesa, highlands, downs, reach                  |
+| **River**      | waterway, stream, brook, runnel creek, channel          |
+| **Sea**        | _See beaches_                                           |
+| **Swamp**      | moors, wetlands                                         |
+| **Thickets**   | chaparral, boscage, covert, coppice, fells              |
+| **Tundra**     | expanse, boreal, ley                                    |
+| **Valley**     | dale, vale, basin, gorge, gap, glen                     |
+| **Wasteland**  | _See desert_                                            |
 
 ### Faction Names
 
@@ -187,7 +187,7 @@ search_exclude: true
 
 |         |             |
 | ------- | ----------- |
-| **d20** | **Type**    |
+| **d20** | **Group**   |
 | **1**   | Assembly    |
 | **2**   | Brotherhood |
 | **3**   | Circle      |
@@ -269,7 +269,7 @@ search_exclude: true
 ### Forest Names
 
 - Combine words from the following table by rolling a **d10** twice, first for the **tens** place, and then another for the **ones** place. Repeat the process for the noun. 
-- Change it up! The name _Welcoming Grove_ creates a more vivid image than _Beckoning Copse_ might.
+- Change it up! The name _Welcoming Grove_ might be more appropriate than _Beckoning Copse_ for your setting.
 - Use contrasting words (e.g. _Twisted Canopy_) to evoke an interesting point about the location.
 - Alliteration and pleasing combinations can create pleasant sounds. _Whispering Woods_ is more pleasing to the ear than _Tangled Woods._ 
 
@@ -344,7 +344,7 @@ search_exclude: true
 | **66**   | Rustling       | Sanctuary   |
 | **67**   | Sacred         | Shade       |
 | **68**   | Secluded       | Shadows     |
-| **69**   | Serene         | Shadows     |
+| **69**   | Serene         | Shelter     |
 | **70**   | Serpentine     | Shrub       |
 | **71**   | Shadowy        | Slope       |
 | **72**   | Shimmering     | Spring      |

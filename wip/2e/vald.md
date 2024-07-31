@@ -11,556 +11,207 @@ grand_parent: WIP
 
 ## Introduction
 
-- The implied setting of Cairn is called **Vald**. This includes all developed or settled lands, cities, towns, etc. The particular ruler does not matter. 
-- **The Wood** surrounds and divides the kingdoms, and includes anyone (or anything) that has not yet sworn fealty. **The Wood** is not one forest, but _all_ forests.
-- **The Roots** is the realm of mystery and horror underneath, and does not care for the petty divisions aboveground.   
+The implied setting of Cairn is called _Vald_, encompassing all developed or settled lands, cities, towns, forests, etc. The specific ruler is irrelevant, as most adventures will take place in smaller towns and villages, the forest, and the margins of the realm. Most inhabitants (regardless of region) refer to the local centers of power as the _Cities_, occasionally as a pejorative.
 
-### The Wood
+Most towns and villages are built within a day's walk of one another, near sources of water and lumber. Larger villages try to be self-sufficient but may still rely on nearby farms and local hunters for food. Most settlements were originally organized around a specific industry such as lumber, brewing, fishing, or mining, and often a Fieldwarden or Beast Handler is posted to protect a community's most valuable assets.
 
-- Any lands beyond the control of a noble, a city, or a town. Typically wilder and less "civilized." All forests are considered part of **The Wood**, no matter how isolated.
-- The Wood are populated by creatures far stranger and wondrous than humankind: Fae, Demons, Witches, werewolves, and even talking plants and animals. They do not appreciate the loss of their home from the encroachment of "natural" progress, either. 
-- The denizens of **The Wood** are fiercely independent, believing they are subject solely to the rules of **The Wood** and no other.Its fierce nations, wild tribes, and unrelenting elements have kept armies and scouting parties at bay. For now.
+Larger towns will elect a Reeve responsible for the community's well-being and external relationships. In the event of a crime or violence, a constable is empowered to enforce the local laws. Taverns and inns are common in villages close to trade routes, while large settlements often boast at least one temple or shrine.   
 
-### The Roots
+Established trails between larger towns are fairly common, while maintained roads are almost non-existent except to the distant cities. Itinerant merchants, Kettlewrights, and various peddlers pass through settlements on a semi-regular basis, sometimes hiring Outriders to protect and escort larger  caravans, or Rill Runners to help ferry passengers in the Riverlands.
 
-- Remnants of the **Old World**, its labyrinthine hollows stretching for immeasurable distances deep underground, connecting the sewers of the cities to the far-flung ruins. Entrances to **The Roots** (called **Gates**) are scattered across the lands, and are usually protected or shrewdly hidden.
-- Only the brave or foolish have dared enter **The Roots**, in search of forgotten **Relics** or powerful **Spellbooks**. The few that return whisper of unspeakable terrors guarding these lost treasures.
-- Folktales recount that traveling through **The Roots** bends the natural order of things. Stories tell of adventurers lost for centuries to the depths, only to emerge again claiming that only a few hours have passed. Others have claimed to make a week-long journey above ground in just one day, traveling in the tunnels beneath.
+Even the smallest village may play host to scholarly types from the cities: a Scrivener, Aurifex, or Greenwise with keen interest in nearby tombs, barrows, and Gates. Often a Bonekeeper or Fungal Forager will be hired for their expertise, while clever adventurers will ensure that a Barber-Surgeon is never far away, or a Cutpurse if there is unsavory business that needs tending to. Of course, Mountebanks and Jongleurs often accompany these sorts, riding their coattails in hopes that they too will benefit from the next major discovery.
 
-## On Naming 
+Those who enter the Wood hire a guide familiar with the territory, such as a Prowler or Fletchwind, while the truly determined traveler will seek the wisdom of a Half Witch or Foundling with some connection to its darker secrets. Closer to the border, the Marchguard work to keep the realm free of outside influence, while the Hexenbane seek to protect it from forces within.
 
-- For the first name, roll on each table respectively, then combine. Then use the format:
-- If they hail from a city or town, use their background or profession, e.g. "Paela Miller," or the first name of a parent (roll another name), e.g. "Leni Lio." 
-- If they hail from **The Wood**, use the name of their hometown, e.g. "Faroelel of Sundew Glade," or a title, e.g. "JaraSif the Mighty." 
-- If they hail from **The Roots**, create three names and combine them, e.g. "Lylethor Sorin Tal," or dashes, between the second and third syllables, e.g. "Penu-Flor."
+## Belief
 
-|         |                    |
-| ------- | ------------------ |
-| **d100** | **First Syllable** |
-| **1**   | Al                 |
-| **2**   | Bal                |
-| **3**   | Bel                |
-| **4**   | Br                 |
-| **5**   | Car                |
-| **6**   | Cor                |
-| **7**   | Del                |
-| **8**   | Dor                |
-| **9**   | Ed                 |
-| **10**  | Er                 |
-| **11**  | Far                |
-| **12**  | Fi                 |
-| **13**  | Fr                 |
-| **14**  | Gar                |
-| **15**  | Gil                |
-| **16**  | Hal                |
-| **17**  | Har                |
-| **18**  | Ian                |
-| **19**  | Iz                 |
-| **20**  | Jar                |
-| **21**  | Jor                |
-| **22**  | Kal                |
-| **23**  | Kat                |
-| **24**  | Kev                |
-| **25**  | Ker                |
-| **26**  | La                 |
-| **27**  | Lar                |
-| **28**  | Len                |
-| **29**  | Li                 |
-| **30**  | Lw                 |
-| **31**  | Ma                 |
-| **32**  | Mar                |
-| **33**  | Mi                 |
-| **34**  | Na                 |
-| **35**  | Ne                 |
-| **36**  | Ni                 |
-| **37**  | Nol                |
-| **38**  | Ol                 |
-| **39**  | Ow                 |
-| **40**  | Pal                |
-| **41**  | Pen                |
-| **42**  | Pir                |
-| **43**  | Por                |
-| **44**  | Ran                |
-| **45**  | Ral                |
-| **46**  | Ri                 |
-| **47**  | Ro                 |
-| **48**  | Ros                |
-| **49**  | Sa                 |
-| **50**  | San                |
-| **51**  | Se                 |
-| **52**  | Sig                |
-| **53**  | Sio                |
-| **54**  | Sko                |
-| **55**  | Sl                 |
-| **56**  | Sol                |
-| **57**  | Son                |
-| **58**  | Syl                |
-| **59**  | Syr                |
-| **60**  | Tar                |
-| **61**  | Ted                |
-| **62**  | Th                 |
-| **63**  | Tor                |
-| **64**  | Tu                 |
-| **65**  | Ty                 |
-| **66**  | Un                 |
-| **67**  | Ver                |
-| **68**  | Wal                |
-| **69**  | Wim                |
-| **70**  | Xal                |
-| **71**  | Yol                |
-| **72**  | Zan                |
-| **73**  | Zed                |
-| **74**  | Zil                |
-| **75**  | Zor                |
-| **76**  | Qua                |
-| **77**  | Qui                |
-| **78**  | Quo                |
-| **79**  | Ust                |
-| **80**  | Ist                |
-| **81**  | Orl                |
-| **82**  | Urb                |
-| **83**  | Vex                |
-| **84**  | Xen                |
-| **85**  | Yur                |
-| **86**  | Zyr                |
-| **87**  | Ux                 |
-| **88**  | Ox                 |
-| **89**  | Nex                |
-| **90**  | Pax                |
-| **91**  | Pyr                |
-| **92**  | Qix                |
-| **93**  | Rax                |
-| **94**  | Ryk                |
-| **95**  | Syx                |
-| **96**  | Uyk                |
-| **97**  | Vyx                |
-| **98**  | Wyr                |
-| **99**  | Xyr                |
-| **100** | Zyx                |
+There are several major religions and spiritual beliefs popular among the smallfolk.
 
+### Tideborn
 
-|         |                     |
-| ------- | ------------------- |
-| **d20** | **Second Syllable** |
-| **1**   | a                   |
-| **2**   | ae                  |
-| **3**   | ai                  |
-| **4**   | au                  |
-| **5**   | e                   |
-| **6**   | ea                  |
-| **7**   | ee                  |
-| **8**   | ei                  |
-| **9**   | eu                  |
-| **10**  | i                   |
-| **11**  | ia                  |
-| **12**  | ie                  |
-| **13**  | io                  |
-| **14**  | o                   |
-| **15**  | oe                  |
-| **16**  | oi                  |
-| **17**  | ou                  |
-| **18**  | u                   |
-| **19**  | ua                  |
-| **20**  | ue                  |
+A hierarchical religious sect that worships _Rivulus_, a petty god of rivers and lakes. Even the unaffiliated are familiar with the group’s initiation ceremony, a ritual drowning that occasionally kills participants. Survivors are dubbed _Tideborn_ and adopt a new, water-related moniker (Carp, Reed, Oxbow, and so on). Only clergy need participate in the ritual; however, in recent years, their following among rural folk has increased, especially in villages near bodies of water. Within the clergy, there is little hierarchy, save for the _Aqua Primaris_, whom all obey without question.
 
-|         |                    |
-| ------- | ------------------ |
-| **d66** | **Third Syllable** |
-| **1**   | Ar                 |
-| **2**   | Bar                |
-| **3**   | Bor                |
-| **4**   | Cal                |
-| **5**   | Cer                |
-| **6**   | Dar                |
-| **7**   | Der                |
-| **8**   | Dr                 |
-| **9**   | El                 |
-| **10**  | Ez                 |
-| **11**  | Fel                |
-| **12**  | Flor               |
-| **13**  | Gal                |
-| **14**  | Ger                |
-| **15**  | Gor                |
-| **16**  | Han                |
-| **17**  | Hir                |
-| **18**  | Il                 |
-| **19**  | Ja                 |
-| **20**  | Jez                |
-| **21**  | Jul                |
-| **22**  | Kar                |
-| **23**  | Kel                |
-| **24**  | Ken                |
-| **25**  | Kyl                |
-| **26**  | Lan                |
-| **27**  | Le                 |
-| **28**  | Ler                |
-| **29**  | Ul                 |
-| **30**  | Ly                 |
-| **31**  | Mal                |
-| **32**  | Mer                |
-| **33**  | Mor                |
-| **34**  | Nar                |
-| **35**  | Nel                |
-| **36**  | Nia                |
-| **37**  | Nor                |
-| **38**  | Or                 |
-| **39**  | Pa                 |
-| **40**  | Par                |
-| **41**  | Per                |
-| **42**  | Pol                |
-| **43**  | Pow                |
-| **44**  | Ra                 |
-| **45**  | Rhi                |
-| **46**  | Riog               |
-| **47**  | Ron                |
-| **48**  | Ru                 |
-| **49**  | Sal                |
-| **50**  | Sar                |
-| **51**  | Sel                |
-| **52**  | Sif                |
-| **53**  | Sir                |
-| **54**  | Ska                |
-| **55**  | Skye               |
-| **56**  | Som                |
-| **57**  | Sor                |
-| **58**  | Stel               |
-| **59**  | Stev               |
-| **60**  | Tan                |
-| **61**  | Tat                |
-| **62**  | Ter                |
-| **63**  | Ti                 |
-| **64**  | Ton                |
-| **65**  | Tre                |
-| **66**  | Ur                 |
+The Tideborn are hardly the only faith in the realm, but their steady growth and zealotry have earned them the respect of some other factions, particularly the _House of Burgesses_. The continued expansion of their membership has, in turn, earned them some enemies, particularly from other factions. Their enmity is such that today Tideborn clergy never attempt solitary travel through heavily wooded areas, lest they risk a beating or worse.
+
+### The White Raven
+
+Popular among those who live close to the Wood, the followers of the _White Raven_ (or "the Flock," as they prefer) believe strongly in the power of the Wood and in keeping its forests and creatures healthy. They are in awe of the Woodwose and obey the will of the Wood without question. They can be identified by tattoos of a white bird on their wrists, necks, or backs. Every settlement keeps a Flock unique to their community, and their devotees distrust organized religion as a whole.
+
+### The Five-Pointed Star
+
+An older religion that owes its origin to the first peoples of the realm, who built stone structures to map the stars and constellations. Its worshipers adhere strictly to a set of religious principles that deny the legitimacy of all other beliefs, and local history is marked by its wars and forced conversions. Today, the _Five-Pointed Star_ keeps temples in every major settlement, which often provide needed services, particularly for the poor. In recent years, its prominence has waned as other faiths have risen, prompting some of its members to join a reactionary order known as the _Bleeding Star_.
+
+## Vald Principles
+
+- Keep it small. Adventures take place in smaller towns, villages, forests, and the margins of the realm.
+- Keep it local. Major rulers (kings, queens, etc.) are far-off, almost irrelevant entities. They have power, but distance diminishes their impact.
+- Most people are human. Some have a drop of Fae blood or are born of two worlds. But for the most part, everyone looks, sounds, and acts recognizably human.
+- Distance matters. Most villages are within a day's walk from one another to ensure the safety of travelers. Camping is a last resort, and those that journey far rarely return.
+- Language matters. Most towns and villages share a common tongue, but it loses intelligibility the farther one travels. Written, older forms are common in places people no longer tread.
+- There is only one Wood. It is not one forest, but _all_ forests. It is neither Good nor Evil but simply wishes to grow, to be free, and to protect itself.
+- The Wood is a porous dungeon. It has rooms and traps and hazards but can also be traversed in different ways: one can always climb a tree. This makes it no less dangerous.
+- The Roots are a foreign land. Time, logic, and matter operate by principles so alien as to make them unknowable.
+- Magic is rare and dangerous. Relics and Spellbooks are not well understood, and attempting to manipulate their power may lead to self-destruction.
+- Relics originate in the Roots. They cannot be created by humans, only found. They are ancient, and yet they sprout from rubble as if grown there.
+- Monsters and other creatures do not follow the rules. They speak and act differently than the PCs and have abilities and magic beyond the reach of regular characters.
+
+## The Wood
+
+The **Wood** surrounds and divides the realm, representing not just one forest, but _all_ forests. Denizens of the Wood are fiercely independent, believing they are subject solely to its rules. Its various peoples, creatures, and unrelenting natural elements have kept the outside world at bay since time immemorial. The Wood is the spirit of all forests, and they in turn are its flesh, and the life they support a sign of its health.
+
+At the core of each forest is a _Heart Tree_ and the place where the forest is at its most powerful as well as its most dangerous. Each Heart Tree is born from a single _Heartseed_, acquired exclusively from a Heart Tree that is dying or dead. The Heart Tree acts as a pinion to the plants, trees, and animals all around it, observing and reacting to any problematic incursions into its domain. In particular, Heart Trees _fear humans_.
+
+Forests never live in isolation and will communicate with one another to give warning or ask for help. Aid can come in many forms, as the Heartseed has great reach. Raven Folk defenders may lay sap traps to capture stray hunters, while Dryads steal the hatchet from the lumberjack's toolbox. But none are more powerful (nor feared) than the Woodwose, the forest's true protector. A creature wrought from both plant and bone, the Woodwose lives for only one purpose: to protect the forest and any that live within its boundaries.
+
+Despite its fearsome reputation, many tell tales of the wood's kindness as well. Green, muscular arms saving a child caught by a sudden rock slide. Will-o-Wisps revealing a hidden path once thought lost. Words of warning sung from a crow on a tree. And so, rangers and other outsiders will leave bowls of fruit and nuts alongside great rock piles as proof of their respect and admiration, in the hopes that they will be allowed to pass freely through a protected Wood.
+
+Of course, the Wood is not empty of people. Hidden in the boughs and in empty glades are populated villages, rustic cabins, and the odd tower. Those who can survive (or even thrive) in such places learn to live according to the rules of the forest, for those who ignore or foolishly oppose these rules often meet grisly ends. The Wood is populated by creatures strange and wondrous, such as Goblins, Spirits, Treants, Trolls, Werewolves, Witches, and even talking plants and animals. Most are openly hostile to outsiders (particularly humans), but others will (on occasion) parley with those that have shown respect for the Wood. Of course, all demonstrate utter respect for the Fae (sometimes called the Pale Folk, or the _Neighbors_).
+
+## The Neighbors
+
+Through the bramble and over the bush, there is a liminal space where the realms of mortals and the Faerie touch. If you look for it, you will not find it. But if you need to pass over, you will. The creatures that inhabit this place may look and sound familiar, but make no mistake: they are not like us. Tall, slender, pale as ice, and eerily beautiful, the Fae obey no mortal law, nor do they submit to its morality. And yet they are crippled by sterility, lacking the ability to create their own kindred. For this deed, they must cross the threshold into the mortal realm to treat with mortals. There are many names for their kind, but only one has ever escaped their lips: Neighbors.
+
+The Neighbors are continually shrouded in mystery, and it can often be difficult to separate fact from rumor. There are some who say the Neighbors steal babes from their cribs, replacing them with a Changeling child. Others claim that they will pay great sums of wealth or bestow enormous power to those willing to give away their own flesh and blood. There is one truth that all agree on: to make deals with their kind is to invite ill luck not only to your life but that of your descendants as well.
+
+Hunters swear that occasionally animals from the Faerie world will pass into ours, a white blaze burnt into their fur. They say that their meat is the sweetest you will ever taste and that afterward you will starve because of the lack of it. Worse, to be caught poaching these creatures invites a fate worse than death. Scholars have written that the Neighbors can spill magic as if it were water, having no need for Spellbooks or even Relics. They also claim that all magic has its origin in the land of the Pale Folk and that within each Spellbook are the trapped spirits of their most craven lawbreakers.
+
+Those who make their lives in the Wood know to carry charms, gifts, and similar items in case of a chance meeting. And though the Neighbors rarely trouble the borders to their kingdom, they have been known to deliver harsh punishment to those that cross their boundary uninvited. However, it is common knowledge that the Neighbors are terrified of the Roots and will avoid Gates whenever possible.
+
+## The Roots
+
+The **Roots** is a realm of mystery and horror underground, indifferent to the arbitrary divisions of the aboveground civilizations. Below, labyrinthine hollows stretch for immeasurable distances, connecting humble town sewers to far-flung ruins beyond the borders. Only the brave or foolish dare enter the Roots in search of forgotten Relics or profound wealth, and the few that do return whisper of the indescribable horrors and evil intelligence guarding these lost treasures. Stories tell of adventurers lost for centuries in the depths, only to emerge claiming that just a few hours have passed. Others claim to have made a week-long journey above ground in just one day, traveling through the tunnels beneath.
+
+Entrances to the Roots, known as _Gates_, are scattered across the lands and are usually hidden or protected by powerful forces. Further, Gates cannot be opened without a proper key or alchemical pattern, and once opened, _can never be shut again._ Folk histories recount their openings as omens of great misfortunes, where creatures more vile than the darkest nightmare slink through, devouring nearby homes and villages. Others tell of great heroes raising their swords against these terrors, sealing away the Gates beneath rubble, mountains, lakes, or other impenetrable barriers.
+
+What _is_ known is that the Roots are made of vast underground caves as large as an emptied ocean, without even a hint of sunlight. A variety of fungal growths provide weak light in some places, as do various minerals and strange, shallow pits of blue flame. Very little is known about these pits other than that they are tended to by terrible three-eyed Ogres who thirst for blood as if it were the sweetest wine. The various creatures and wild animals that survive in such harsh conditions have developed natural means to live in utter darkness, adapting their eyesight to function in even the dimmest light or eschewing vision altogether.
+
+Of the various peoples and tribes, it is said they speak a harsh, guttural speech, sprinkled with familiar words and phrases. Their warriors carry weapons that spin of their own volition, glowing brighter with each rotation. When the blades are finally released, their heated edges can split flesh and even rock with deadly ease. To date, no one has successfully parlayed with the _People Who Live Below_. Some contend that there are bustling towns, cities, and even great palaces in the Roots! Of course, few scholars believe them, and those that do have been ostracized into obscurity by their peers. Still, explorers cannot deny the ancient husks of impressive architecture found throughout the Roots, the ancient cities and enormous ships of an unimaginable world. Hazy reports claim that one such ruin, a gargantuan ziggurat boasting hundreds of levels, still flickers with light and life. These rumors have yet to be substantiated.
+
+Today, most know to avoid any mention of Gates, or keys, or related alchemy. But of course, there are always those that cannot resist its draw...
+
+## Factions
+
+### The House of Burgesses
+
+An assembly of wealthy, land-owning lords and ladies. Cunning, assertive, and convinced of their own superiority, they can accomplish great things when acting as a single body. Unfortunately, their efforts are often undermined by individual squabbles, petty disputes, and their never-ending lust for power and prestige. Although there is a healthy distrust of the _Order of Nine_ in the House, a _Burgess_ will rarely speak ill of them in public. For their part, the House are openly friendly with the Tideborn, although internally there is much consternation regarding the upstart religion's recent increase in popularity.
+
+### The Order of Nine
+
+A consortium of merchants, scholars, and the very powerful, the Order relies on their substantial wealth and a vast network of spies to accomplish their aims. Their primary focus is on the discovery, identification, and regulation of Relics. In recent years, they've turned their focus onto the Roots, as they believe this to be the origin of most Relics, and they pay handsomely for any information regarding Gates. The organization owes its name to the founding members of the Order, whose names and titles are kept secret. The Order detests Spellbooks and any that carry them. They see little reason to openly engage in politics, yet keep spies in nearly every faction.
+
+The Order employs several distinct ranks and titles (in order of primacy):
+- _Lector_: An initiate is deemed a _Junior Lector_ until they've proven themselves, after which they are awarded the title of _High Lector_. Only the latter may use Relics in their work.
+- _Keeper_: Protector of a Gate, akin to a typical soldier or mercenary.
+- _Archivist_: A highly respected researcher or librarian, led by the _Grand Archivist_.
+- _Chamberlain_: A master of Relics, charged with their protection, dispersal, and discovery.
+- _Inquisitor_: The highest-ranking position within the Order, sharing power as a triumvirate (called the _Three_) and answering only to the _Nine_.
+
+### The Marchguard
+
+At the margins of the realm and beyond the Wood lies a place so wild, so dangerous, that only the extremely brave or extremely foolish dare set foot. The borders of these lands are ever-shifting, growing, and changing along with the passage of time. And so the Marchguard was born. No one can remember when the Guard was formed nor who worked to create it, but all know their purpose: to protect the realm from any incursions that might cross the boundary and to prevent those attempting to cross without guidance.
+
+The Guard bends to no kings, knows no religion, and obeys no laws but their own. They lack even a central leadership, instead providing a masked volunteer to represent them in external negotiations. New members adopt a Blood Oath so powerful it is said to be inescapable by all but death itself. Of course, joining the Guard is rarely a choice, as their ranks are largely composed of ex-thugs, disgraced scholars, neglected knights, misbegotten rangers, and the like. This is how it must be, of course. For who else would willingly devote their lives to stand against such unknowable horrors?
+
+Bloodhounds are members of the Guard who have been awarded special commendations or have demonstrated true belief in their cause. These hunters have adopted a single purpose of duty: enforcing the Oath. Utilizing a network of spies, informants, and plants, they ensure that any who escape the Guard are forced to return or die.
+
+The Guard sees little reason to engage in politics or other such short-sighted quarrels with the other factions. However, decades of living near the borders have caused them to broker an uneasy friendship with those who call the Wood their home, and they will even treat with them on occasion. And although it is never discussed, on rare occasions the Guard will come the aid of those who live in the Wood as well.
+
+## The Vald Calendar
+
+### Overview
+
+There are 24 hours in a day and 6 days in a week. Each month has 24 days (4 weeks), with 12 months in a year. The year is divided into 4 seasons (Dead, Dry, Wet, and Harvest), each lasting 72 days. Every 10 years, a 6-day "Leap Week" (_Reclamation_) is added, and does not belong to any particular month. This makes the average length of a year over a decade 288.6 days. Each year starts just before the _Dry_ season begins. The current year is 7728.
+
+### Days of the Week
+
+1. Market Day
+2. Garden Day
+3. Song Day
+4. Tithe Day
+5. Bathing Day
+6. Resting Day
+
+### Months
+
+1. Mourning
+2. Silence
+3. Veil
+4. Sunrise
+5. Bright
+6. Ashfall
+7. Flood
+8. Highwater
+9. Rise
+10. Quell
+11. Bane
+12. Sunset
+
+### Reclamation Week (Once per decade)
+
+1. Recognize
+2. Remember
+3. Reward
+4. Rejoice
+5. Relinquish
+6. Renew
+
+### Holidays, Festivals, & Events Sorted by Date
+
+|               |                                                            |                                                                                                                                                                            |
+| ------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Month**     | **Date**                                                   | **Event**                                                                                                                                                                  |
+| **Mourning**  |                                                            |                                                                                                                                                                            |
+|               | Midnight on the 4th (Market Day)                           | Dead season begins.                                                                                                                                                        |
+|               | Dusk on the 24th (Resting Day)                             | _First Light_: Commemorating the end of the first month of the new year. Torches and fire are lit all night, turning night to day.                                         |
+| **Silence**   |                                                            |                                                                                                                                                                            |
+|               | Midnight on the 10th (Tithe Day)                           | Dead Equinox: Marks the midpoint of the Dead season.                                                                                                                       |
+|               | Dawn to dusk on the 11th (Bathing Day)                     | _Whisper_: Speaking above a whisper is taboo. Silent auctions are common.                                                                                                  |
+| **Veil**      |                                                            |                                                                                                                                                                            |
+|               | Midnight on the 9th (Resting Day)                          | _Lift the Veil_: The end of the Dead season is celebrated through solemn vows and humble gestures.                                                                         |
+|               | Afternoon to twilight on the 17th (Song Day)               | _Veil’s Edge_: A day for honoring ancestors with offerings and prayers at family altars.                                                                                   |
+| **Sunrise**   |                                                            |                                                                                                                                                                            |
+|               | Midnight on the 4th (Market Day)                           | Dry season begins.                                                                                                                                                         |
+|               | Morning on the 14th (Bathing Day)                          | _Bartermoot_: Representatives from the smaller towns and villages trade steel for lumber in ritual arrangement with the denizens of the Wood.                              |
+| **Bright**    |                                                            |                                                                                                                                                                            |
+|               | Afternoon until midnight on the 9th (Tithe Day)            | _Dustset_: A carnival marked by parades and masquerades, where participants wear masks to protect from dust and wind.                                                      |
+|               | Midnight on the 10th (Bathing Day)                         | Dry Equinox: Marks the midpoint of the Dry season.                                                                                                                         |
+| **Ashfall**   |                                                            |                                                                                                                                                                            |
+|               | Dawn until the afternoon on the 16th (Song Day)            | _Boughmeal_: A market day held exclusively within the Wood, where artisans and merchants from all over the realm meet to trade their wares.                                |
+|               | Afternoon on the 24th (Resting Day)                        | _Parade of Ash_: In celebration of the final day of the Dry season, participants mark their faces with ash and play music. Most kinds of labor are frowned upon.           |
+| **Flood**     |                                                            |                                                                                                                                                                            |
+|               | Midnight on the 4th (Market Day)                           | Wet season begins.                                                                                                                                                         |
+|               | 3 days starting on the 5th (Garden Day to Song Day)        | _Splash Festival_: Celebrates the abundance of water, with boat races, contests, gifts, and water blessings.                                                               |
+|               | All day on the 14th (Tithe Day)                            | _Float_: Communities build and decorate enormous boats or rafts to float down rivers.                                                                                      |
+| **Highwater** |                                                            |                                                                                                                                                                            |
+|               | Dawn until midnight on the 1st (Market Day)                | _Highwater Fair_: A major trade event taking place when the waters are highest. Every major town and city celebrates with fairs and markets.                               |
+|               | Midnight on the 10th (Resting Day)                         | Wet Equinox: Marks the midpoint of the Wet season.                                                                                                                         |
+|               | 18th on the afternoon of the 18th (Song Day).              | _First Plant_: A festival marking the beginning of planting season. Communities gather to plant the first seeds of the year together.                                      |
+|               |                                                            |                                                                                                                                                                            |
+| **Rise**      |                                                            |                                                                                                                                                                            |
+|               | Lunchtime on the 14th (Bathing Day)                        | _Waterwish_: Participants write wishes on scrolls, place them into holes in a boulder, and roll it downhill. When it stops, any remaining wishes are thought to come true. |
+|               | Five days starting on the 19th (Market Day to Resting Day) | _Storm Dance_: Dances and betrothals meant to please the masters of storm and rain for a fruitful Harvest season ahead.                                                    |
+| **Quell**     |                                                            |                                                                                                                                                                            |
+|               | Midnight on the 1st (Market Day)                           | Harvest season begins.                                                                                                                                                     |
+|               | Afternoon on the 4th (Garden Day)                          | _Harvest Festival_: Celebrates the start of the harvest with feasting and communal gatherings to begin harvesting crops.                                                   |
+|               | Dusk on the 24th (Resting Day)                             | _Gathering Night_: Communities come together to collect and store the harvested crops, followed by a night of storytelling and music.                                      |
+| **Bane**      |                                                            |                                                                                                                                                                            |
+|               | Daylight hours of the 12th of Bane                         | _The Golden Hind_: Hunters from far and wide join a great hunt in search of a mythical stag amid great revelry.                                                            |
+|               | All day on the 18th (Bathing Day)                          | _Firelight_: A day of kite-flying, wind chimes, and noisemakers. At night, massive bonfires are lit as dancers perform impressive fire dances.                             |
+|               |                                                            |                                                                                                                                                                            |
+| **Sunset**    |                                                            |                                                                                                                                                                            |
+|               | Midnight on the 10th (Song Day)                            | Harvest Equinox: Marks the midpoint of the Harvest season.                                                                                                                 |
+|               | Evening on the 11th (Resting Day)                          | _Ember_: Pays homage to the setting sun and the hard work ahead preparing for the Dead season. Lantern release ceremonies are a common practice.                          |
+|               | Evening of the 24th (Resting Day)                          | _Gloam_: The final grand feast of the year, celebrating gratitude for the harvest, with the sun as centerpiece. Pregnancies are common.                                |
 
 
-## Creating Location Names
+## Weather in Vald
 
-- Roll on the table for the appropriate **Domain**.
-- Roll a d66 on each table twice, first for the adjective and then for the noun. 
-- Combine the results to create a name! You can also mix in a randomly rolled [Name](#on-naming) with the results. 
-
-### Tips & Changes
-- Be specific! "Golden Barley" creates a more vivid image than "Golden Fields."
-- Use contrasting words (e.g. "Thorny Meadows") to evoke an interesting detail about the location.
-- Make it sound nice. Alliteration and pleasing combinations can create pleasant sounds. "Babbling Brook" is more pleasing than "Rambling Brook." 
-
-### Cities and Towns Location Names
-
-|          |               |             |
-| -------- | ------------- | ----------- |
-| **d100** | **Adjective** | **Noun**    |
-| **1**    | Soaring       | Spire       |
-| **2**    | Elegant       | Tower       |
-| **3**    | Whispering    | Gardens     |
-| **4**    | Enchanted     | Observatory |
-| **5**    | Gilded        | Palace      |
-| **6**    | Luminous      | Coliseum    |
-| **7**    | Misty         | Citadel     |
-| **8**    | Winding       | Fort        |
-| **9**    | Rustic        | Keep        |
-| **10**   | Arcane        | Hall        |
-| **11**   | Crystal       | Atrium      |
-| **12**   | Tumbling      | Colonnade   |
-| **13**   | Spiraling     | Staircase   |
-| **14**   | Hidden        | Grotto      |
-| **15**   | Stately       | Mansion     |
-| **16**   | Splendid      | Castle      |
-| **17**   | Emerald       | Palace      |
-| **18**   | Glittering    | Citadel     |
-| **19**   | Mystic        | Abbey       |
-| **20**   | Celestial     | Temple      |
-| **21**   | Verdant       | Park        |
-| **22**   | Tranquil      | Terrace     |
-| **23**   | Magnificent   | Pavilion    |
-| **24**   | Illuminated   | Arch        |
-| **25**   | Quaint        | Stone       |
-| **26**   | Tranquil      | Grove       |
-| **27**   | Mythic        | Lighthouse  |
-| **28**   | Majestic      | Citadel     |
-| **29**   | Wild          | Arena       |
-| **30**   | Ancient       | Colosseum   |
-| **31**   | Opulent       | Gallery     |
-| **32**   | Towering      | Courtyard   |
-| **33**   | Serene        | Citadel     |
-| **34**   | Vibrant       | Canopy      |
-| **35**   | Bustling      | Port        |
-| **36**   | Serpentine    | Canal       |
-| **37**   | Verdant       | Meadow      |
-| **38**   | Whistling     | Glen        |
-| **39**   | Shimmering    | Lake        |
-| **40**   | Mountainous   | Village     |
-| **41**   | Grand         | Cathedral   |
-| **42**   | Peaceful      | Sanctuary   |
-| **43**   | Gleaming      | Belfry      |
-| **44**   | Whispering    | Falls       |
-| **45**   | Blossoming    | Orchard     |
-| **46**   | Timeless      | Mausoleum   |
-| **47**   | Rustling      | Fields      |
-| **48**   | Windy         | Bluff       |
-| **49**   | Coastal       | Hamlet      |
-| **50**   | Enchanted     | Abbey       |
-| **51**   | Enigmatic     | Vault       |
-| **52**   | Storied       | Fountain    |
-| **53**   | Atmospheric   | Plaza       |
-| **54**   | Fragrant      | Obelisk     |
-| **55**   | Verdant       | Acres       |
-| **56**   | Golden        | Barley      |
-| **57**   | Serene        | Basin       |
-| **58**   | Fragrant      | Blossoms    |
-| **59**   | Thorny        | Brambles    |
-| **60**   | Babbling      | Brook       |
-| **61**   | Dappled       | Clearing    |
-| **62**   | Rushing       | Creek       |
-| **63**   | Abundant      | Crop        |
-| **64**   | Crossed       | Crossroads  |
-| **65**   | Rich          | Dirt        |
-| **66**   | Muddy         | Ditch       |
-| **67**   | Bountiful     | Farm        |
-| **68**   | Rolling       | Field       |
-| **69**   | Misty         | Glen        |
-| **70**   | Lush          | Grass       |
-| **71**   | Shaded        | Grove       |
-| **72**   | Abundant      | Harvest     |
-| **73**   | Windy         | Heath       |
-| **74**   | Still         | Pond        |
-| **75**   | Rolling       | Hill        |
-| **76**   | Peaceful      | Meadow      |
-| **77**   | Grazing       | Pasture     |
-| **78**   | Vast          | Prairie     |
-| **79**   | Rocky         | Ridge       |
-| **80**   | Rushing       | River       |
-| **81**   | Rocky         | Rock        |
-| **82**   | Wide          | Savanna     |
-| **83**   | Shadowy       | Dale        |
-| **84**   | Hidden        | Dell        |
-| **85**   | Rolling       | Downs       |
-| **86**   | Endless       | Expanse     |
-| **87**   | Bountiful     | Fall        |
-| **88**   | Rich          | Furrow      |
-| **89**   | Golden        | Grains      |
-| **90**   | Vast          | Grassland   |
-| **91**   | Tranquil      | Riverbank   |
-| **92**   | Radiant       | Garden      |
-| **93**   | Whimsical     | Bower       |
-| **94**   | Majestic      | Chateau     |
-| **95**   | Enchanted     | Glade       |
-| **96**   | Verdant       | Terrace     |
-| **97**   | Serene        | Vale        |
-| **98**   | Glittering    | Reef        |
-| **99**   | Quaint        | Hamlet      |
-| **100**  | Celestial     | Observatory |
-
-### The Wood Location Names
-
-|          |               |             |
-| -------- | ------------- | ----------- |
-| **d100** | **Adjective** | **Noun**    |
-| **1**    | Dense         | Thicket     |
-| **2**    | Ancient       | Grove       |
-| **3**    | Silent        | Glade       |
-| **4**    | Mossy         | Path        |
-| **5**    | Twisted       | Branches    |
-| **6**    | Murmuring     | Stream      |
-| **7**    | Moonlit       | Clearing    |
-| **8**    | Whispering    | Wind        |
-| **9**    | Gnarled       | Roots       |
-| **10**   | Enchanted     | Copse       |
-| **11**   | Lush          | Ferns       |
-| **12**   | Misty         | Hollow      |
-| **13**   | Dappled       | Sunlight    |
-| **14**   | Towering      | Trees       |
-| **15**   | Leafy         | Canopy      |
-| **16**   | Wild          | Brambles    |
-| **17**   | Shadowy       | Undergrowth |
-| **18**   | Rustling      | Leaves      |
-| **19**   | Secluded      | Dell        |
-| **20**   | Tranquil      | Pond        |
-| **21**   | Vibrant       | Foliage     |
-| **22**   | Hidden        | Spring      |
-| **23**   | Tangled       | Vines       |
-| **24**   | Winding       | Trail       |
-| **25**   | Fragrant      | Blossoms    |
-| **26**   | Trickling     | Brook       |
-| **27**   | Luminous      | Pathway     |
-| **28**   | Shrouded      | Forest      |
-| **29**   | Hushed        | Woods       |
-| **30**   | Beckoning     | Clearing    |
-| **31**   | Serene        | Grove       |
-| **32**   | Ancient       | Timber      |
-| **33**   | Sturdy        | Oak         |
-| **34**   | Majestic      | Pine        |
-| **35**   | Verdant       | Moss        |
-| **36**   | Sacred        | Woodland    |
-| **37**   | Marshy        | Bog         |
-| **38**   | Muddy         | Path        |
-| **39**   | Soggy         | Field       |
-| **40**   | Damp          | Forest      |
-| **41**   | Gnarled       | Tree        |
-| **42**   | Foggy         | Moor        |
-| **43**   | Ominous       | Pool        |
-| **44**   | Overgrown     | Trail       |
-| **45**   | Chilling      | Wind        |
-| **46**   | Stagnant      | Pond        |
-| **47**   | Eerie         | Silence     |
-| **48**   | Hallowed      | Ground      |
-| **49**   | Haunting      | Mist        |
-| **50**   | Verdant       | Moss        |
-| **51**   | Sunken        | Ruins       |
-| **52**   | Swirling      | Marsh       |
-| **53**   | Twisted       | Root        |
-| **54**   | Spooky        | Uplands     |
-| **55**   | Gloomy        | Expanse     |
-| **56**   | Whispering    | Reeds       |
-| **57**   | Withered      | Branch      |
-| **58**   | Desolate      | Hill        |
-| **59**   | Tangled       | Undergrowth |
-| **60**   | Forsaken      | Clearing    |
-| **61**   | Murky         | Waters      |
-| **62**   | Ancient       | Stone       |
-| **63**   | Shrouded      | Copse       |
-| **64**   | Enchanted     | Grove       |
-| **65**   | Creaking      | Bridge      |
-| **66**   | Abandoned     | Cabin       |
-| **67**   | Quivering     | Quagmire    |
-| **68**   | Rotten        | Stump       |
-| **69**   | Slumbering    | Willow      |
-| **70**   | Flickering    | Shadows     |
-| **71**   | Lurking       | Stem        |
-| **72**   | Sinking       | Peat        |
-| **73**   | Crumbling     | Archway     |
-| **74**   | Whispering    | Grasses     |
-| **75**   | Shadowy       | Copse       |
-| **76**   | Echoing       | Canyons     |
-| **77**   | Bleak         | Plateau     |
-| **78**   | Dusty         | Plains      |
-| **79**   | Wind-swept    | Dunes       |
-| **80**   | Glowing       | Sands       |
-| **81**   | Abandoned     | Oasis       |
-| **82**   | Rocky         | Crag        |
-| **83**   | Jagged        | Peak        |
-| **84**   | Treacherous   | Pass        |
-| **85**   | Barren        | Wasteland   |
-| **86**   | Bitter        | Tundra      |
-| **87**   | Scorching     | Desert      |
-| **88**   | Frosty        | Glacier     |
-| **89**   | Frigid        | Icefield    |
-| **90**   | Thundering    | Falls       |
-| **91**   | Roaring       | Rapids      |
-| **92**   | Towering      | Cliffs      |
-| **93**   | Crashing      | Waves       |
-| **94**   | Salty         | Spray       |
-| **95**   | White-capped  | Bay         |
-| **96**   | Sun-kissed    | Beach       |
-| **97**   | Rugged        | Coastline   |
-| **98**   | Mysterious    | Shipwreck   |
-| **99**   | Enchanted     | Lagoon      |
-| **100**  | Fathomless    | Abyss       |
-
-### The Roots Location Names
-
-|          |               |              |
-| -------- | ------------- | ------------ |
-| **d100** | **Adjective** | **Noun**     |
-| **1**    | Golden        | Glade        |
-| **2**    | Damp          | Root         |
-| **3**    | Flaming       | Ruin         |
-| **4**    | Snowy         | Tundra       |
-| **5**    | Firefly       | Wasteland    |
-| **6**    | Decrepit      | Copse        |
-| **7**    | Tangled       | Mansion      |
-| **8**    | Chilling      | Cabin        |
-| **9**    | Desolate      | Branch       |
-| **10**   | Wavy          | Wasteland    |
-| **11**   | Soaring       | Shadows      |
-| **12**   | Rolling       | Tree         |
-| **13**   | Dreamy        | Bay          |
-| **14**   | Soggy         | Earth        |
-| **15**   | Moonlit       | Sea          |
-| **16**   | Bustling      | Pines        |
-| **17**   | Verdant       | Grove        |
-| **18**   | Enchanted     | Cliffs       |
-| **19**   | Lavish        | Thicket      |
-| **20**   | Sunken        | Canyon       |
-| **21**   | Ominous       | Ruins        |
-| **22**   | Whispering    | Beach        |
-| **23**   | Thundering    | Mist         |
-| **24**   | Glowing       | Oasis        |
-| **25**   | Emerald       | Trail        |
-| **26**   | Gleaming      | Desert       |
-| **27**   | Whispering    | Meadow       |
-| **28**   | Glimmering    | Lake         |
-| **29**   | Tranquil      | Shipwreck    |
-| **30**   | Rustic        | Reeds        |
-| **31**   | Verdant       | Forest       |
-| **32**   | Overgrown     | Valley       |
-| **33**   | Crystal       | Seas         |
-| **34**   | Frozen        | Waters       |
-| **35**   | Blossoming    | Village      |
-| **36**   | Rustling      | Waterfall    |
-| **37**   | Crumbling     | Clearing     |
-| **38**   | Chilling      | Reef         |
-| **39**   | Cobwebbed     | Pool         |
-| **40**   | Crystal       | Waterfall    |
-| **41**   | Scorching     | Sky          |
-| **42**   | Marshy        | Moss         |
-| **43**   | Radiant       | Stream       |
-| **44**   | Eerie         | Downpour     |
-| **45**   | Shimmering    | Undergrowth  |
-| **46**   | Harvest       | Plains       |
-| **47**   | Haunting      | Cemetery     |
-| **48**   | Slumbering    | Bridge       |
-| **49**   | Lush          | Tomb         |
-| **50**   | Flaming       | Stars        |
-| **51**   | Haunted       | Attic        |
-| **52**   | Tranquil      | Pond         |
-| **53**   | Endless       | Cliffs       |
-| **54**   | Rotten        | Icicles      |
-| **55**   | Radiant       | Island       |
-| **56**   | Thundering    | Sunrise      |
-| **57**   | Enchanted     | Beach        |
-| **58**   | Mysterious    | Willow       |
-| **59**   | Roaring       | Mountains    |
-| **60**   | Twinkling     | House        |
-| **61**   | Flowing       | Ocean        |
-| **62**   | Hallowed      | River        |
-| **63**   | Submerged     | Rainbow      |
-| **64**   | Calm          | Oasis        |
-| **65**   | Gothic        | Cave         |
-| **66**   | Quaint        | Volcano      |
-| **67**   | Foggy         | Peat         |
-| **68**   | Breezy        | Mine         |
-| **69**   | Stagnant      | Savanna      |
-| **70**   | Flickering    | Brook        |
-| **71**   | Rocky         | Thunderstorm |
-| **72**   | Starry        | Bayou        |
-| **73**   | Stormy        | Castle       |
-| **74**   | Verdant       | Hilltop      |
-| **75**   | Parched       | Orchard      |
-| **76**   | Glistening    | Bog          |
-| **77**   | Swirling      | Fields       |
-| **78**   | Forsaken      | Grass        |
-| **79**   | Diamond       | Cave         |
-| **80**   | Tranquil      | Silence      |
-| **81**   | Autumnal      | Glacier      |
-| **82**   | Macabre       | Stump        |
-| **83**   | Spooky        | Lake         |
-| **84**   | Forgotten     | Palace       |
-| **85**   | Desolate      | Moor         |
-| **86**   | Mystic        | Sunset       |
-| **87**   | Glistening    | City         |
-| **88**   | Coastal       | Mansion      |
-| **89**   | Gloomy        | Lagoon       |
-| **90**   | Withered      | Barn         |
-| **91**   | Abandoned     | Crypt        |
-| **92**   | Muddy         | Canopy       |
-| **93**   | Striking      | Stone        |
-| **94**   | Gnarled       | Night        |
-| **95**   | Twisted       | Mountains    |
-| **96**   | Lurking       | Clouds       |
-| **97**   | Parched       | Desert       |
-| **98**   | Barren        | Garden       |
-| **99**   | Shaded        | Marsh        |
-| **100**  | Vibrant       | Hill         |
-
-
+|        |                 |                     |                    |                 |
+| ------ | --------------- | ------------------- | ------------------ | --------------- |
+| **d6** | **Dead**        | **Dry**             | **Wet**            | **Harvest**     |
+| **1**  | Cold and clear  | Hot and sunny       | Light rain         | Mild and sunny  |
+| **2**  | Frosty mornings | Warm and sunny      | Overcast           | Cool and clear  |
+| **3**  | Overcast skies  | Warm and breezy     | Breezy             | Warm and sunny  |
+| **4**  | Light snow      | Hot and humid       | Heavy rain         | Warm and breezy |
+| **5**  | Snow showers    | Occasional heatwave | Thunderstorms      | Light rain      |
+| **6**  | Freezing rain   | Dry and windy       | Occasional showers | Heavy rain      |

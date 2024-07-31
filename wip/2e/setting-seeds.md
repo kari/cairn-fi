@@ -11,7 +11,7 @@ search_exclude: true
 
 ## Overview
 
-The following procedure is designed to help create the _seed_ of a setting: the unique topography, natural features, people, and paths that an adventuring party may have to navigate as they travel throughout a region. We'll start by develop the people that live there, their ambitions and resources, and the factions that rule them. Then we'll generate the terrain of your region, followed by its various points of interest, landmarks, roads, trails, and so on.
+The following procedure is designed to help create the _seed_ of a setting: the unique topography, natural features, people, and paths that an adventuring party may encounter as they travel throughout a region. We'll start by developing the people that live there, their ambitions and resources, and the factions that affect them. Then we'll generate the terrain of your region, followed by its various points of interest, landmarks, roads, trails, and so on. As with any other rule, if you don't like a table result, roll again or tweak as desired!
 
 ## Example
 
@@ -21,26 +21,23 @@ Before you begin please check out this example (click on it):
 
 ## The Realm
 
-A **Realm** is a general term for a related collection of regions, potentially encompassing hundreds of places for the player characters to visit and interact with. Each region is defined by its terrain, as well as the culture of its people, their ambitions, their resources, and the Factions that rule them.
+A **Realm** is a general term for a related collection of regions, potentially encompassing hundreds of places for the player characters to visit and interact with.
 
 ### Materials Required
 
-- A sheet of paper and a notebook. Letter/A4 is OK, but the larger the better.
-- Pencils and erasers. Color pencils if you want to make it pretty, or want to designate terrain with color.
+- A sheet of paper and a notebook. Letter/A4 is OK, but the larger the better. Going forward, we will refer to the sheet of paper as the **map**.
+- Pencils and erasers. Colored pencils if you want to make it pretty or want to indicate terrain with color.
 - At least one d6 and one d20, but 6d6 and 2d20 would be ideal.
-
-> Going forward, we will refer to the sheet of paper as the **map**.
-> As with any other rule, if you don't like a table result, roll again or tweak as desired!
 
 ## Theme
 
 ### People
 
-The most important aspect of a region are its _people_: their character, ambitions, and the resources that tie them to this land. Roll on the [Culture](#culture) and [Resources](#resources) tables, then note the results in your notebook.    
+The most important aspect of a region is its _people_: their character, ambitions, and the resources that tie them to this land. Roll on the [Culture](#culture) and [Resources](#resources) tables, then note the results in your notebook.    
 
 #### Culture
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |               |                 |
 | ------- | ------------- | --------------- |
@@ -68,7 +65,7 @@ Roll 2d20 and combine the results.
 
 #### Resources
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |               |               |
 | ------- | ------------- | ------------- |
@@ -100,11 +97,9 @@ A region is typically dominated by one or more factions, each with their own uni
 
 Agents are often in charge of completing one or more of the goals of the Agenda of a faction. Particularly large factions may have additional agents, each in charge of a distinct goal. Agents may have personal motivations that differ from the faction's main agenda, a fact that canny PCs can exploit for their own gain.
 
-> Do not feel limited by the table results below. If something feels "off" or a different table result would work better for your setting, use it!
-
 #### Advantages
 
-Factions possess advantages that assist them in accomplishing their agenda. Advantages reflect a faction's influence, materials, wealth, and other unique features. Factions add or lose advantages by trying to complete their agenda, leveraging their advantages as much as possible to achieve their goals, and at the same time work to acquire _more_ advantages. Larger factions will
+Factions possess advantages that assist them in accomplishing their agenda. Advantages reflect a faction's influence, materials, wealth, and other unique features. Factions leverage their advantages as much as possible when trying to achieve their goals, and at the same time continually work to acquire _more_ advantages.
 
 #### Agendas
 
@@ -114,7 +109,7 @@ Goals should focus on acquiring a distinct advantage in order to proceed to the 
 
 Completing a faction's agendas should be a significant event, potentially changing the political or natural landscape of a region.
 
-> The region map should reflect the impact of factions as they work on completing their agendas and acquiring more advantages.
+> The region map should continually reflect the impact of factions as they work on completing their agendas and acquiring more advantages.
 
 #### Creating factions
 
@@ -122,7 +117,7 @@ Roll one or more times on the [Faction Types](#faction-types), [Faction Traits](
 
 #### Faction Types
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |                 |             |
 | ------- | --------------- | ----------- |
@@ -150,35 +145,35 @@ Roll 2d20 and combine the results.
 
 #### Faction Traits
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |               |               |
 | ------- | ------------- | ------------- |
 | **d20** | **Trait 1**   | **Trait 2**   |
 | **1**   | Cautious      | Adaptable     |
-| **2**   | Discreet      | Bankrupt      |
-| **3**   | Enigmatic     | Brutal        |
-| **4**   | Fierce        | Collaborative |
-| **5**   | Dogmatic      | Corrupt       |
-| **6**   | Judicious     | Craven        |
-| **7**   | Keen          | Cruel         |
-| **8**   | Loyal         | Cunning       |
-| **9**   | Meticulous    | Cynical       |
-| **10**  | Pragmatic     | Deceptive     |
-| **11**  | Resourceful   | Generous      |
-| **12**  | Tenacious     | Incompetent   |
-| **13**  | Decadent      | Manipulative  |
-| **14**  | Connected     | Mercurial     |
-| **15**  | Disciplined   | Repressed     |
-| **16**  | Incorruptible | Ruthless      |
-| **17**  | Intellectual  | Selfish       |
-| **18**  | Shrewd        | Stealthy      |
-| **19**  | Popular       | Threatened    |
-| **20**  | Secretive     | Xenophobic    |
+| **2**   | Connected     | Bankrupt      |
+| **3**   | Decadent      | Brutal        |
+| **4**   | Disciplined   | Collaborative |
+| **5**   | Discreet      | Corrupt       |
+| **6**   | Dogmatic      | Craven        |
+| **7**   | Enigmatic     | Cruel         |
+| **8**   | Fierce        | Cunning       |
+| **9**   | Incorruptible | Cynical       |
+| **10**  | Intellectual  | Deceptive     |
+| **11**  | Judicious     | Generous      |
+| **12**  | Keen          | Incompetent   |
+| **13**  | Loyal         | Manipulative  |
+| **14**  | Meticulous    | Mercurial     |
+| **15**  | Popular       | Repressed     |
+| **16**  | Pragmatic     | Ruthless      |
+| **17**  | Resourceful   | Selfish       |
+| **18**  | Secretive     | Stealthy      |
+| **19**  | Shrewd        | Threatened    |
+| **20**  | Tenacious     | Xenophobic    |
 
 #### Faction Advantages
 
-Roll 2d20, first for the number of advantages the faction has, then for each subsequent advantage. For example, if a "2" was rolled for the "# of Advantages" column, you would roll on the "Advantage" column twice, noting each result. Reroll repeated results.
+Roll 1d20 to determine the number of advantages the faction has, then roll 1d20 again for each of the corresponding advantages. For example, if a result of “2” was received from the “# of Advantages” column, you would roll on the “Type” column twice, noting each result. Reroll repeated results.
 
 |         |                     |                |
 | ------- | ------------------- | -------------- |
@@ -206,7 +201,7 @@ Roll 2d20, first for the number of advantages the faction has, then for each sub
 
 #### Faction Agendas
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |                            |                                                         |
 | ------- | -------------------------- | ------------------------------------------------------- |
@@ -236,7 +231,7 @@ Roll 2d20 and combine the results.
 
 #### Type
 
-- **Academics**: _Royal Cartographer's Guild_. Respected and feared, even by the Royal Family. 
+- **Academics**: _Royal Cartographer's Guild_. Respected and feared, even by the royal family. 
 
 ### Advantages
 
@@ -251,7 +246,7 @@ Roll 2d20 and combine the results.
 
 - Hire a skilled party to escort Horatia to a location written on the map.
 - Travel through the lands of the dead in search of the _Order_'s original founder.
-- Bring the founder back to the Cities. Overthrow the Ruler of the Realm.
+- Bring the founder back to the Cities. Overthrow the ruler of the Realm.
 
 #### Obstacle
 
@@ -260,24 +255,22 @@ The _Guild_ has been warned that a well-placed operative moves within their rank
 #### Faction Rules
 
 - By default, factions operate independent of the player character's actions. If the PCs do nothing, the faction should still act to achieve their aims.
-- Whenever a faction is positioned to advance a goal in their agenda, roll a **d12** on the [Faction Actions](#faction-actions) table. 
-- If two factions are _opposed_, the faction _most at risk_ makes a WIL save, using the score of its highest-ranking agent. 
-  - On a success, the faction most at risk rolls on the [Faction Actions](#faction-actions) table, and their opponent does not.
-  - On a fail, the faction most at risk _does not_ roll on the [Faction Actions](#faction-actions) table, but their opponent does.
-
-> The **Warden** should rely on the fiction to determine whether a faction is positioned to advance their agenda. Goals may be time-sensitive or depend on explicit circumstances. Other times it might be more appropriate after a major event, alliance, or friction between one or more factions, etc.
+- The **Warden** should rely on the fiction to determine whether a faction is positioned to advance their agenda. 
+- Some goals may be time-sensitive or depend on explicit circumstances. Other times it might be more appropriate to introduce a new goal after a major event, alliance, or friction between one or more factions, etc.
+- Whenever a faction is positioned to advance a goal in their agenda, roll a **d6** on the [Faction Actions](#faction-actions) table. 
+- If two factions are _opposed_, the faction _most at risk_ makes a WIL save, using the score of its highest-ranking agent. On a fail, the faction does not roll on the Faction Actions table at this time.
 
 #### Faction Actions
 
-|           |                   |                                                                |
-| --------- | ----------------- | -------------------------------------------------------------- |
-| **d12**   | **Consequence**   | **Impact**                                                     |
-| **1-2**   | **Failure**       | A new **Obstacle** is introduced, and a **Advantage** is lost. |
-| **3-4**   | **Setback**       | An **Advantage** is lost.                                      |
-| **5-6**   | **Status Quo**    | Nothing is gained, but nothing is lost.                        |
-| **7-8**   | **Mixed Success** | A **goal** is achieved,  but an **Advantage** is lost.         |
-| **9-10**  | **Success**       | A **goal** is achieved, and no **Advantages** are lost.        |
-| **11-12** | **Major Success** | A **goal** is achieved, and a new **Advantage** is found.      |
+|         |                   |                                                                 |
+| ------- | ----------------- | --------------------------------------------------------------- |
+| **d12** | **Consequence**   | **Impact**                                                      |
+| **1**   | **Failure**       | A new **Obstacle** is introduced, and an **Advantage** is lost. |
+| **2**   | **Setback**       | An **Advantage** is lost.                                       |
+| **3**   | **Status Quo**    | Nothing is gained, but nothing is lost.                         |
+| **4**   | **Mixed Success** | A **goal** is achieved,  but an **Advantage** is lost.          |
+| **5**   | **Success**       | A **goal** is achieved, and no **Advantages** are lost.         |
+| **6**   | **Major Success** | A **goal** is achieved, and a new **Advantage** is found.       |
 
 > The actions of the PCs can always overrule the necessity for a **faction** action, or in some cases shift the outcome of the roll in a favorable or unfavorable direction. 
 
@@ -291,9 +284,10 @@ A region's terrain and natural features are an essential part of any map, affect
 
 #### Draw Terrain
 
-- Roll **1d6** on the table, then roll an amount of dice equal to that number on the map. Collect any dice that roll off the page and set them aside.
-- Draw long, curvy lines across the page, carving up the map around each die. 
-- Roll on the relevant table for each result, writing the terrain type on the map.
+1. Roll **1d6**, then roll an amount of dice equal to that number on the map. Collect any dice that roll off the page and set them aside.
+2. Note the face-up result for each die, then use the [Terrain Die Drop Table](#terrain-die-drop-table) to mark the terrain type on the map. For example, a die showing a 4 would indicate Tough terrain.
+3. Draw long, curvy lines across the page, carving up the map around each die.
+4. Roll on the appropriate table for each result, writing the terrain and landmark results on the map.
   - Replace the die with a triangle, writing the landmark result on the map.
   - Roll any dice that fell off the map page, repeating the last step until none remain.
   - If there are any empty spaces in need of terrain, roll a die anywhere you like and use the face-up result as before.
@@ -309,17 +303,17 @@ A region's terrain and natural features are an essential part of any map, affect
 
 ### Easy
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |             |                    |
 | ------- | ----------- | ------------------ |
 | **d20** | **Terrain** | **Landmark**       |
 | **1**   | Bluffs      | Broken Sundial     |
-| **2**   | Farmlands   | Circle of Menhirs  |
-| **3**   | Fells       | Circular Maze      |
-| **4**   | Foothills   | Cloud Stairway     |
-| **5**   | Glens       | Dead Aqueduct      |
-| **6**   | Gorges      | Enormous Footprint |
+| **2**   | Dells       | Circle of Menhirs  |
+| **3**   | Farmlands   | Circular Maze      |
+| **4**   | Fells       | Cloud Stairway     |
+| **5**   | Foothills   | Dead Aqueduct      |
+| **6**   | Glens       | Enormous Footprint |
 | **7**   | Grasslands  | Fallen Column      |
 | **8**   | Gulleys     | False Oasis        |
 | **9**   | Heaths      | Giant's Throne     |
@@ -337,7 +331,7 @@ Roll 2d20 and combine the results.
 
 ### Tough
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |             |                     |
 | ------- | ----------- | ------------------- |
@@ -347,11 +341,11 @@ Roll 2d20 and combine the results.
 | **3**   | Chaparral   | Behemoth Graveyard  |
 | **4**   | Coral Reefs | Canyon Bridge       |
 | **5**   | Deserts     | Cinder Cones        |
-| **6**   | Dunes       | Crystal Forest      |
-| **7**   | Estuaries   | Flame Pits          |
-| **8**   | Fens        | Forest of Arrows    |
-| **9**   | Forests     | Frozen Waterfall    |
-| **10**  | Heathlands  | Fungal Forest       |
+| **6**   | Dunes       | Flame Pits          |
+| **7**   | Estuaries   | Forest of Arrows    |
+| **8**   | Fens        | Frozen Waterfall    |
+| **9**   | Forests     | Fungal Forest       |
+| **10**  | Heathlands  | Half-Buried Ark     |
 | **11**  | Hills       | Hanging Valley      |
 | **12**  | Mangroves   | Inverted Lighthouse |
 | **13**  | Marshlands  | Leviathan Bones     |
@@ -365,22 +359,22 @@ Roll 2d20 and combine the results.
 
 ### Perilous
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |                |                     |
 | ------- | -------------- | ------------------- |
 | **d20** | **Terrain**    | **Landmark**        |
 | **1**   | Alpine Meadows | Active Volcano      |
 | **2**   | Bogs           | Ammonia Caves       |
-| **3**   | Boulders       | Behemoth's Skull    |
+| **3**   | Boulders       | Bone Mountain       |
 | **4**   | Caverns        | Crystalline Forest  |
 | **5**   | Cliffs         | Dome of Darkness    |
 | **6**   | Craters        | Enormous Hive       |
 | **7**   | Crevasses      | Floating Object     |
 | **8**   | Geysers        | Inactive Automaton  |
 | **9**   | Glaciers       | Land Scar           |
-| **10**  | Gorges         | Large Thermal Vents |
-| **11**  | Hollows        | Magma Fields        |
+| **10**  | Gorges         | Large Vents         |
+| **11**  | Hollows        | Magma Sculptures    |
 | **12**  | Ice Fields     | Mao on the Mountain |
 | **13**  | Jungles        | Meteor Garden       |
 | **14**  | Lava Fields    | Obsidian Needle     |
@@ -393,8 +387,8 @@ Roll 2d20 and combine the results.
 
 #### Rivers, Seas, and Lakes
 
-Every region should have some kind of water source. Otherwise, where would the locals get their drinking water, or receive news from the rest of the realm? 
-- To create water, draw a wiggly line from the highest elevation point (i.e. Mountains) to the lowest (i.e. Plains). 
+Every region should have some kind of water source. Otherwise, where would the locals get their drinking water or receive news from the rest of the realm? 
+- To create waterways, draw a wiggly line from the highest elevation point (e.g. Mountains) to the lowest (e.g. Grassways). 
 - If the river runs through terrain that is higher in elevation, it might terminate in a **lake**. If your map has a sea, it might terminate there. Otherwise, the river can continue on off the map page.
 
 ### Weather
@@ -421,61 +415,42 @@ The weather can have a great impact on the people, culture, and terrain of a reg
 | **1**   | An annual fog appears randomly, turning metallic surfaces to gold on contact.                               |
 | **2**   | An aurora that is visible even during the day.                                                              |
 | **3**   | Birds fly backwards, yet somehow still move forward.                                                        |
-| **4**   | Days are erratic. The Sun goes backwards for a time, then jumps forward as night rapidly sets.              |
-| **5**   | Distant chimes instead of thunder. A smoky, sweet wind of no apparent origin blows in from the West.        |
+| **4**   | Days are erratic. The Sun goes backwards for a time, then jumps forward as night rapidly sets in.           |
+| **5**   | Distant chimes instead of thunder. A smoky, sweet wind blows in from the West.                              |
 | **6**   | Enormous, fleshy eyes peer down from the skies, their pupils lighting up the night sky.                     |
 | **7**   | Flashes of movement in the periphery that always amount to nothing.                                         |
-| **8**   | Fog there fills the belly (no need for rations). Tomorrow, vomiting.                                        |
-| **9**   | Lakes and streams dry up in minutes, filling storm clouds that drench the landscape.                        |
+| **8**   | Fog that fills the belly (no need for rations). Tomorrow, vomiting.                                         |
+| **9**   | Lakes and streams evaporate in minutes, filling storm clouds that drench the landscape.                     |
 | **10**  | Periodic rains of small aquatic creatures (tadpoles, frogs, small fish). No one knows where they come from. |
-| **11**  | Rainbows lack most of their colors, and occasionally flicker. Raindrops fall in various colors.             |
-| **12**  | Roaming, coughing, dust clouds that smell of cinnamon.                                                      |
-| **13**  | Shadows disappear at random. Animals are reluctant to enter.                                                |
+| **11**  | Rainbows lack most of their colors and occasionally flicker. Raindrops fall in various colors.             |
+| **12**  | Rolling dust clouds that smell of cinnamon. The coughing lasts long after they've moved on.                 |
+| **13**  | Shadows disappear at random. Animals become more reluctant.                                                 |
 | **14**  | The air is thicker than usual, and breathing is difficult.                                                  |
 | **15**  | The clouds are shaped like faces. They appear to be laughing.                                               |
-| **16**  | The moon appears larger, and softly hums at night.                                                          |
+| **16**  | The moon appears larger and softly hums at night.                                                           |
 | **17**  | The rain glows gently at night. It can be gathered, but the light eventually fades.                         |
-| **18**  | The stars arrange themselves in intricate patterns, making navigation difficult.                            |
-| **19**  | The winds carry whispers of voices. Some say they tell hints of the future.                                 |
+| **18**  | The stars rearrange themselves in intricate patterns, making navigation difficult.                          |
+| **19**  | The winds carry whispers. Some say they tell hints of the future.                                 |
 | **20**  | When it snows, the flakes are warm and dry.                                                                 |
-
-### Put It All Together
-
-Ask yourself the following questions:
-
-- What would draw people to this region? What keeps them here?
-- How do the people here think of outsiders? How do outsiders think of them?
-- What power do the Factions have over the people who live here?
-- Who or what threatens their agendas?
-- How would a faction interact with any newcomers (i.e. an adventuring party)?
-- How does the region's terrain and weather effect the people that live here? 
-
-You should now have a sufficient idea about the people and terrain of this region, and are finally ready to form these results into a coherent theme. 
-
-For example, if my results described a people that were there religious and sought conversion, I'd assume they were a proud folk, but prone to religious extremes and proselytizing. And if their primary resources were land, yet spices were rare, I'd assume they grew their own food, but that due to a religious prohibition their cuisine was often bland.
-
-Presume that for Factions the result were a group of Nomads, with conviction their primary advantage. I could then assume that their elites were a class of religious chiefs. If the faction's agenda was to cultivate a rare resource, but they were hindered by cultural taboos, I might decide that they had hired the party to take on the task instead. Perhaps the object of their quest was a unique plant, only grown in a distant place, and that the mission must remain a secret? 
- 
-Finally, the party would meet with one of the faction's agents, a spy posing as a peddler. Only she could tell them where the plant grew, and how to cultivate it. I keep in mind that this person should likely appear in the region's **Heart** (see below).
 
 ## Points of Interest
 
 Points of Interest on a map (or POIs) are generally divided into the following categories:  
 - **Heart**: The primary settlement in a region. It isn't necessarily the largest or most important place, but it should always be significant to the region's history and people. 
 - **Settlements**: Permanent, largely self-sufficient population centers, typically governed by a political body or faction. 
-- **Waypoints**: A safe place to refill supplies, get a good night's sleep, or get directions. Often rely on travelers for survival, but provide necessary services.
+- **Waypoints**: A safe place to refill supplies, get a good night's sleep, or get directions.
 - **Curiosities**: A wilderness locale of note, somewhere remarkable or strange. It may indeed be hazardous, but only if the PCs interact with it.
-- **Lairs**: A source of heightened monster activity, enemy encampment, or hive.
+- **Lairs**: An enemy encampment, hive, or source of heightened monster activity.
 - **Dungeons**: An explicitly dangerous locale, dungeon, or adventure site.
 
 ### Draw Points of Interest
 
 - Draw the letter **H** close to a water source on the map. 
-- Roll **1d6** on the table, then roll an amount of dice equal to that number on the map. Collect any dice that roll off the page and set them aside.
-- Remove each die, noting the face up result according to the [POI Die Drop Table](#poi-die-drop-table) on the map. For example, the number 4 would indicate a Lair, denoted by the letter "L" on the page. 
+- Roll 3-8 d6 dice on the map, collecting any dice that roll off the page and setting them aside.
+- Note the face-up result for each die, then use the [POI Die Drop Table](#poi-die-drop-table) to mark the type of POI on the map. For example, a die showing a 4 would indicate a Lair, denoted by the letter "L" on the page.
 - Roll any dice that fell off the map page, repeating the last step until none remain.
 - Starting with the Heart, number each POI on the map.
-- Roll on the relevant tables for each POI, including the Heart and all Landmarks. Note the results for each in your notebook.
+- Roll on the relevant tables for each POI, including the Heart (usually a Waypoint or Settlement). Note the results for each in your notebook.
 
 > Some POIs may allow the PCs to see more of the world than what appears on their map.
 
@@ -491,7 +466,7 @@ Points of Interest on a map (or POIs) are generally divided into the following c
  
 ### Settlements
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |                 |                               |
 | ------- | --------------- | ----------------------------- |
@@ -499,7 +474,7 @@ Roll 2d20 and combine the results.
 | **1**   | Academy         | Built Atop Ruins              |
 | **2**   | Caravan         | Built on Bones of Giants      |
 | **3**   | Citadel         | Center of Learning            |
-| **4**   | City            | Close-knit                    |
+| **4**   | City            | Close-Knit                    |
 | **5**   | Commune         | Divided                       |
 | **6**   | Compound        | Emits a Mysterious Hum        |
 | **7**   | Convent         | Famous for its Artisans       |
@@ -519,7 +494,7 @@ Roll 2d20 and combine the results.
 
 ### Waypoints
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |               |                                  |
 | ------- | ------------- | -------------------------------- |
@@ -530,13 +505,13 @@ Roll 2d20 and combine the results.
 | **4**   | Beacon Tower  | Cursed By Previous Occupants     |
 | **5**   | Bunker        | Decrepit Buildings               |
 | **6**   | Cabin         | Distrustful Occupants            |
-| **7**   | Campground    | Does Not Appear On Any Map       |
+| **7**   | Campground    | Does Not Appear on Any Map       |
 | **8**   | Guildhall     | Front for Illegal Operations     |
 | **9**   | Hospice       | Host to a Renowned Artisan       |
 | **10**  | Hunting Lodge | Known for its Elaborate Defenses |
-| **11**  | Inn           | Occupants are Lawful to a Fault  |
-| **12**  | Observatory   | Occupants are Overly Formal      |
-| **13**  | Reservoir     | Outsiders are Barred             |
+| **11**  | Inn           | Occupants Are Lawful to a Fault  |
+| **12**  | Observatory   | Occupants Are Overly Formal      |
+| **13**  | Reservoir     | Outsiders Are Barred             |
 | **14**  | Sanatorium    | Outsiders Cannot Carry Weapons   |
 | **15**  | Sanctuary     | Part of an Illegal Trade Route   |
 | **16**  | Shrine        | Popular Pilgrim Destination      |
@@ -547,7 +522,7 @@ Roll 2d20 and combine the results.
 
 ### Curiosities
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |                    |                        |
 | ------- | ------------------ | ---------------------- |
@@ -567,7 +542,7 @@ Roll 2d20 and combine the results.
 | **13**  | Hanging Bridges    | Infested With Vermin   |
 | **14**  | Illegible Signpost | Irregular Gravity      |
 | **15**  | Leviathan Skeleton | Isolated Weather       |
-| **16**  | Oddly-shaped Lake  | Only Appears At Night  |
+| **16**  | Oddly-Shaped Lake  | Only Appears at Night  |
 | **17**  | Petrified Trees    | Perpetual Mist         |
 | **18**  | Purple Geysers     | Perpetual Shadows      |
 | **19**  | Singing Stones     | Site of Ancient Battle |
@@ -575,13 +550,13 @@ Roll 2d20 and combine the results.
 
 ### Lairs
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |                     |                     |
 | ------- | ------------------- | ------------------- |
 | **d20** | **Lair**            | **Feature**         |
 | **1**   | Abandoned Tower     | Abandoned           |
-| **2**   | Ancient prison      | At Crossroads       |
+| **2**   | Ancient Prison      | At Crossroads       |
 | **3**   | Collapsed Mine      | Baited Entrance     |
 | **4**   | Colossal Hive       | Bioluminescence     |
 | **5**   | Crashed Ship        | Constant Screaming  |
@@ -603,7 +578,7 @@ Roll 2d20 and combine the results.
 
 ### Dungeons
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |               |              |
 | ------- | ------------- | ------------ |
@@ -633,13 +608,13 @@ Roll 2d20 and combine the results.
 
 ## Paths
 
-**Paths** act as geographic connectors on the map, ranging from well-traveled roads and trails to rough wilderness routes. Paths should provide compelling choices between POIs, who must weigh factors such as safety, speed, and travel difficulty. 
+**Paths** act as geographic connectors on the map, ranging from well-traveled roads and trails to rough wilderness routes. Paths should provide compelling choices between POIs, where factors such as safety, speed, and travel difficulty must be weighed. 
 
 ### Path Types
 
 - **Standard** paths are obvious or well-trod routes between two POIs. _Represented by a thick line._
 - **Hidden** paths do not appear on any known maps. Their discovery always requires some kind of cost. _Represented by a dashed line._
-- **Conditional** paths may be blocked, or requires specialized tools (boats, climbing gear, etc.) to cross. Others may even be impossible to navigate without a map or guide. _Represented by a crossed line._
+- **Conditional** paths may be blocked or require specialized tools (boats, climbing gear, etc.) to cross. Others may even be impossible to navigate without a map or guide. _Represented by a crossed line._
 
 ### Draw Paths
 
@@ -648,23 +623,23 @@ Roll 2d20 and combine the results.
   - Some paths may be parts of a chain and tied to a particular terrain (mountain passes, rivers, etc.).
   - Some paths are Conditional, represented by a crossed line.
   - Some paths are Hidden, represented by a dashed line.
-- Designate each path using the number of a POI and its connecting point, e.g. 1 &harr; 3. You can denote this in your notebook under the originating POI or in a separate section.  
-- Decide whether a path represents a road, a trail, or a wilderness route and write the results in your notebook.
+- Designate each path using the number of a POI and its connecting point, e.g. 1 &harr; 3. Indicate this in your notebook under the originating POI or in a separate section.  
+- Decide whether a path represents a road, a trail, or a wilderness route, and write the results in your notebook.
 - Roll on the [Path Features](#path-features) table for each path, writing the results in your notebook. 
-- Determine the path distances between POIs and note the duration on the map:
-  - A short distance between POIs takes one Watch to traverse, a medium distance takes two Watches, and a long distance takes three Watches. 
-  - For Trails add 1 more Watch, and for Wilderness routes add 2 additional Watches.
+- Determine the path distances between POIs, and note the duration on the map:
   - A Watch is 8 hours long. Denote days between POIs wherever possible (typically two Watches and one rest per day of travel).
+  - A short distance between POIs takes one Watch to traverse, a medium distance takes two Watches, and a long distance takes three Watches. 
+  - For Trails, add 1 more Watch, and for Wilderness routes, add 2 additional Watches.
 
 ### Path Features
 
-Roll 2d20 and combine the results.
+Roll 1d20 for each column and combine the results.
 
 |         |                       |                              |
 | ------- | --------------------- | ---------------------------- |
 | **d20** | **Feature**           | **Condition**                |
 | **1**   | Abandoned Fields      | Bandit Ambushes              |
-| **2**   | Blood-red             | Blocked by Giant Boulder     |
+| **2**   | Blood-Red             | Blocked by Giant Boulder     |
 | **3**   | Buried Charms         | Collapsed Bridge             |
 | **4**   | Cattle Prints         | Confusing to Navigate        |
 | **5**   | Constant Patrols      | Dense Bramble                |
@@ -677,13 +652,28 @@ Roll 2d20 and combine the results.
 | **12**  | Mile Markers          | Night Predators              |
 | **13**  | Mineral Flecks        | Occasional Stampedes         |
 | **14**  | Newly Made            | Overcrowded                  |
-| **15**  | Overgrown             | Passed Over Rapids           |
+| **15**  | Overgrown             | Passes over Rapids           |
 | **16**  | Rusted Tools          | Poisonous Fruit              |
 | **17**  | Shriveled Away        | Smoke-filled                 |
-| **18**  | Smells of Smoke       | Steep Climb                  |
+| **18**  | Shredded              | Steep Climb                  |
 | **19**  | Twisted               | Thick Evening Mist           |
 | **20**  | Ubiquitous Footprints | Uneven, Soggy Ground         |
 
-## Conclusion
+### Put It All Together
 
-Your first region is now complete. To expand your realm, repeat the process as many times as you wish.
+Ask yourself the following questions:
+
+- What would draw people to this region? What keeps them here?
+- How do the people here think of outsiders? How do outsiders think of them?
+- What power do the Factions have over the people who live here?
+- Who or what threatens their agendas?
+- How would a faction interact with any newcomers (e.g. an adventuring party)?
+- How does the region's terrain and weather affect the people that live here? 
+
+You should now have a sufficient idea about the people and terrain of this region, and your first region is now complete. To expand your realm, repeat the process as many times as you wish.
+
+For example, if my results described a people that were religious and sought conversion, I'd assume they were a proud folk, prone to religious extremes and proselytizing. And if their primary resource was land, yet spices were rare, I'd assume they grew their own food, but due to a religious prohibition their cuisine was often bland.
+
+Presume that for a faction the result was a group of Nomads, with conviction their primary advantage. I could then assume that their elites were a class of religious chiefs. If the faction's agenda was to cultivate a rare resource, but they were hindered by cultural taboos, I might decide that they had hired the party to take on the task instead. Perhaps the object of their quest was a unique plant, only grown in a distant place, and that the mission must remain a secret!
+ 
+Finally, the party would meet with one of the faction agents: a spy posing as a peddler. Only she could tell them where the plant grew, and how to cultivate it. I keep in mind that this person should likely appear in an important place such as the region's **Heart**.
