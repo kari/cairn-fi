@@ -1,28 +1,30 @@
 ---
 layout: default
-title: Fork This
-parent: Hacks
+title: Forkkaa tämä
+parent: Hackit
 nav_order: 9
 ---
 
-# Fork This!
+# Forkkaa tämä!
 
-1. Create a [Github](https://github.com) account.
+1. Luo [Github](https://github.com)-tunnus.
 
-2. Go to [the repo](https://github.com/yochaigal/cairn) and click "Fork" in the upper right corner.
+2. Mene [tähän repoon](https://github.com/yochaigal/cairn) ja klikkaa "Fork" oikeasta ylänurkasta.
 
-3. Name the repo whatever you wish (usually the name of your hack).
+3. Nimeä reposi miksi ikinä haluat (yleensä hackisi nimellä).
 
-4.  Follow this [guide](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site) to enable github pages on the new repo.
+4. Seuraa tätä [ohjetta](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site) saadaksesi github pages -sivut päälle repoosi.
 
-5. If you'd like to make changes to a local version of the website, take a look at the [submission guide](/submissions/submission-guide) for tips on git and markdown.
+5. Jos haluat tehdä muutoksia verkkosivun paikalliseen versioon, kurkista  [sisällönlähetysohjeeseen](https://cairnrpg.com/submissions/submission-guide/) saadaksesi vinkkejä gitin ja markdownin käyttöön.
 
-## Building the PDF in Affinity Publisher
-1. Download the trial of Affinity Publisher, and substitute the translation per word block. You will need to also sort spells and inventory items by name.
+## PDF:n kääntäminen Affinity Publisherissa
 
-2. Credit yourself and anyone who helped you!
+1. Lataa Affinity Publisherin kokeiluversio ja korvaa käännökset lohkoihin. Sinun tulee myös järjestää loitsut ja tavarat nimen mukaan.
 
-## Character Sheet
-1. Contact [Licopeo](https://twitter.com/LicopeoArt) and ask nicely. Maybe throw him some cash.
+2. Lisää itsesi ja kaikki jotka auttoivat sinua tekijälistaan!
 
-Credit to [Stefano Grassi](https://twitter.com/idolofmanyhands).
+## Hahmolomake
+
+1. Ota yhteyttä [Licopeo'on](https://twitter.com/LicopeoArt) ja pyydä nätisti. Kenties anna hänelle rahaa.
+
+Kiitokset [Stefano Grassille](https://twitter.com/idolofmanyhands).

@@ -3,6 +3,8 @@ layout: default
 title: GLOG Spells
 parent: Hacks
 nav_order: 2
+nav_exclude: true
+search_exclude: true
 ---
 
 

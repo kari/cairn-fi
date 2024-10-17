@@ -4,6 +4,8 @@ title: Simple Backgrounds
 parent: Hacks
 nav_order: 3
 redirect_from: /wip/simple-backgrounds/
+nav_exclude: true
+search_exclude: true
 ---
 
 # Simple Backgrounds
@@ -24,4 +26,4 @@ redirect_from: /wip/simple-backgrounds/
 - **Second Breakfast**: You have to eat _a lot_, at least 5 times a day. Fortunately you can consume nearly anything if you have to.
 
 ### Greenskin
-- **Blood Brothers**: Being surrounded by at least two other trusted warriors bolsters your battle sense, and you always go first.  
+- **Blood Brothers**: Being surrounded by at least two other trusted warriors bolsters your battle sense, and you always go first.

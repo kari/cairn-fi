@@ -3,6 +3,8 @@ layout: default
 title: GLOG Magic
 parent: Hacks
 nav_order: 1
+nav_exclude: true
+search_exclude: true
 ---
 
 # GLOG Magic Hack
