@@ -4,6 +4,7 @@ title: More Relics
 parent: Resources
 nav_order: 4
 redirect_from: /resources/relics/
+search_exclude: true
 ---
 
 # More Relics
@@ -448,18 +449,18 @@ This ornate pull-out scroll made of whale bone, has a silver foil sheet inscribe
 - **Recharge**: Finish a ghost's business.
 
 ### Reading Glass, 1 Charge
-- This unassuming magnifying glass is inhabited by an entity from the beyond. 
-- When used, the entity will translate any language, written or spoken for 1 hour. The entity communicates telepathically and always speaks in a different voice. 
+- This unassuming magnifying glass is inhabited by an entity from the beyond.
+- When used, the entity will translate any language, written or spoken for 1 hour. The entity communicates telepathically and always speaks in a different voice.
 - **Recharge**: Tell the entity a shameful secret.
 
 ### Brawlers teeth.
 - A pair of large, pure gold front teeth. When placed into your mouth, unarmed attacks are now d6+d6.
-- On a failed critical damage save from a bludgeoning attack, you can choose to instead have the teeth knocked out. You can never get them back in. 
+- On a failed critical damage save from a bludgeoning attack, you can choose to instead have the teeth knocked out. You can never get them back in.
 
 ### Staff of Serpents (d8), 4 charges.
 - Staff carved from jade in the shape of a long serpent.
-- Attacks with the staff have **Critical Damage**: The victim loses d6 STR and is **Deprived** until it fully rests. 
-- Touch the staff to the ground and spend 1 charge to summon a **Serpent** (see below). 
+- Attacks with the staff have **Critical Damage**: The victim loses d6 STR and is **Deprived** until it fully rests.
+- Touch the staff to the ground and spend 1 charge to summon a **Serpent** (see below).
 - Spend 4 Charges to instead summon a **Giant Serpent** (same stats, but Detachment Scale).
 - **Recharge**: Drip the venom of four different serpents into the mouth of the staff.
 
@@ -503,27 +504,27 @@ This ornate pull-out scroll made of whale bone, has a silver foil sheet inscribe
 - When removed, one bullish trait remians. Horns, thick skin, hooves, etc.  At the same time, the Warden rolls 1d8. If the number is *less than* the current number of bull traits, the wearer doesn't change back.
 
 ### Lizardskin Cloak, 1 charge
-- A billowing cloak made of tanned lizard skin, scale pattern still visible. 
+- A billowing cloak made of tanned lizard skin, scale pattern still visible.
 - If charged the cloak is a bright yellow like a morning sun, while discharged it's a dull blue. While charged, can be made to glow as a dim torch.
 - Spend a charge to release a bright flash of sunlight which dazzles anyone looking at it.
-- Spend a charge to release a focused beam of sunlight dealing d10 STR damage which sets its target alight. 
+- Spend a charge to release a focused beam of sunlight dealing d10 STR damage which sets its target alight.
 **Recharge**: Wear the coat and bask in sunlight for 6 hours.
 
 ### Whalerʼs Lodestone
 - A humble magnetic stone carved in the shape of a sperm whale.
-- When suspended in salt water, points to the nearest, safest place or harbor within 6 miles. 
+- When suspended in salt water, points to the nearest, safest place or harbor within 6 miles.
 - **Recharge**: Boil the stone in oil.
 
 ### Ammonite Snorkel
-- A wooden tube curving at the end into a mouthpiece, with inlaid onyx spirals running along its length. 
-- Breating into the tube causes the holder to vanish from their current location and find themselves snorkeling beneath the surface of a deep but narrow pool at the bottom of a crystal shaft. Through a faint blue light discern a massive ammonite sleeping in the center of the pool. 
-- For the first round, there is a 1 in 10 chance of the ammonite waking and immediately devouring the PC. For each successive round this chance increases to 1 in 8, then 1 in 6, then 1 in 4. 
+- A wooden tube curving at the end into a mouthpiece, with inlaid onyx spirals running along its length.
+- Breating into the tube causes the holder to vanish from their current location and find themselves snorkeling beneath the surface of a deep but narrow pool at the bottom of a crystal shaft. Through a faint blue light discern a massive ammonite sleeping in the center of the pool.
+- For the first round, there is a 1 in 10 chance of the ammonite waking and immediately devouring the PC. For each successive round this chance increases to 1 in 8, then 1 in 6, then 1 in 4.
 - The PC may return to their previous location by blowing sharply through the snorkel three times.
 
 ### Trackers Tongue
 - Blue, in a jar of vinegar, stiff until attached.
 - The user can taste the name of the last person that interacted with a licked person.
-- **Recharge**: Rest the tongue in jar with vinegar, detached, for 8 hours. 
+- **Recharge**: Rest the tongue in jar with vinegar, detached, for 8 hours.
 
 ### Lock Powder, one use
 - Thoroughly coat any lock to make it open automatically.
@@ -531,12 +532,12 @@ This ornate pull-out scroll made of whale bone, has a silver foil sheet inscribe
 
 ### Five-Finger Fieldkit
 - Worn but high-quality rucksack with two external extradimensional pockets that can each hold a single item up to the size of a set of platemail.
-- Items placed in these extra pockets don't use inventory slots. 
+- Items placed in these extra pockets don't use inventory slots.
 - When retrieving an item from one of the pockets, roll a d20; on a 20 the item is lost, leaving only a mummified finger in its place.
 
-### Tablet of Interrogation 
+### Tablet of Interrogation
 - This baked clay tablet contains and incantation that allows you to summon the spirit of a dead person and ask them three yes-or-no questions.
-- You must also have a human skull for the spirit to speak through. 
+- You must also have a human skull for the spirit to speak through.
 - **Recharge**: Sleep three consecutive nights on a fresh grave.
 
 ### Toymaker’s Key
@@ -564,13 +565,13 @@ This ornate pull-out scroll made of whale bone, has a silver foil sheet inscribe
 - This old brass key fits in any lock, but cannot open any.
 
 ### Illusory Blade of Treachery (d8)
-- This elegant silvery weapon looks exactly like a longsword, but has the words "This is not a Longsword" engraved in it with flowery script. 
-- It doesn't count as a longsword for any effects, rules or laws that would take such in consideration. 
+- This elegant silvery weapon looks exactly like a longsword, but has the words "This is not a Longsword" engraved in it with flowery script.
+- It doesn't count as a longsword for any effects, rules or laws that would take such in consideration.
 - A PC can only fully use it after spending one month of training "unlearning" to see it as a longsword, after which, it deals damage to WIL instead of STR.
 
 ### Wand of Smoke, 4 charges
-- A wand roughly carved from charred wood that is hard as stone. 
-- Spend 1 Charge to create a 30 ft. diameter thick cloud of smoke centered on you. It lasts for 1 Turn or until the wand leaves the area. 
+- A wand roughly carved from charred wood that is hard as stone.
+- Spend 1 Charge to create a 30 ft. diameter thick cloud of smoke centered on you. It lasts for 1 Turn or until the wand leaves the area.
 - The wielder of the wand is not affected by the smoke and can see normally while inside the cloud.
 - **Recharge:** Wrap the wand in parchment paper and burn it into a fire hot enough to melt iron.
 
@@ -582,13 +583,11 @@ This ornate pull-out scroll made of whale bone, has a silver foil sheet inscribe
 ### Gaze of Two Minds (d6), 2 charges
 - A blackened double-bladed dagger with a tiny jewelled handle.
 - Cut yourself with the blade and spend 1 charge to summon an exact copy of yourself, with all your carried equipment. It disappears at the next dawn or dusk, whichever comes first.
-- The copy will follow all your commands. It has all your knowledge and capabilities, and acts mostly like you, only being more reckless and cold. 
+- The copy will follow all your commands. It has all your knowledge and capabilities, and acts mostly like you, only being more reckless and cold.
 - **Recharge:** Feed a hungry beast with the fresh body of an innocent, and them kill the beast with the blade.
 
 ### Ring of the Usurper
 - A sturdy golden ring, its surface engraved with intertwined circles.
 - Once donned, the ring can only be removed by the death of the wielder.
-- The wielder no longer ages, and is able to kill any immortal being if they're able to deliver a mortal wound to such being. 
+- The wielder no longer ages, and is able to kill any immortal being if they're able to deliver a mortal wound to such being.
 - Any immortal beings in the same world can feel when the ring is donned, by whom, and it's capabilities.
-
-

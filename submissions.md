@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Submissions
+title: Lisäsisällön lähettminen
 has_children: true
 nav_order: 15
-nav_exclude: true
-search_exclude: true
 ---
 
-# Submissions
+# Lisäsisällön lähettminen
+
+Tutustu lisäsisällön lähettämisen ohjeisiin pelin [englanninkielisillä sivuilla](https://cairnrpg.com/submissions/submission-guide/).

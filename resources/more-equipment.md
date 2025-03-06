@@ -3,15 +3,16 @@ layout: default
 title: More Equipment
 parent: Resources
 nav_order: 6
+search_exclude: true
 ---
 
 # More Equipment
 
 # Equipment list
 
-- Item prices listed in gold pieces.  
-- The list below does not change any of the items listed in the SRD, it just adds new ones.  
-- The main inspiration for this document is the OSE price list [Old School Essentials](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page) and [Kimberly Chapman page](https://kimberlychapman.com/rpg/equipment.html).  
+- Item prices listed in gold pieces.
+- The list below does not change any of the items listed in the SRD, it just adds new ones.
+- The main inspiration for this document is the OSE price list [Old School Essentials](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page) and [Kimberly Chapman page](https://kimberlychapman.com/rpg/equipment.html).
 - Credit to [Oskar Swida](https://oskarswida.itch.io/)
 
 ## Buildings: Base Structures

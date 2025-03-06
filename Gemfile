@@ -4,6 +4,7 @@ group :jekyll_plugins do
   gem "just-the-docs"
   gem 'jekyll-redirect-from'
   gem 'jekyll-include-cache'
+  gem 'jekyll-sitemap'
 end
 
 gem "webrick", "~> 1.8"
