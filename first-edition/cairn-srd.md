@@ -681,7 +681,7 @@ Kilvet, taisteluhansikkaat ja kypärät voivat antaa lisäetuja niiden käytön 
 
 ### Reaktiot
 
-Kun PC:t kohtaavat sivuhahmon, jonka reaktio ryhmää kohtaan ei ole ilmeinen, Vartija voi heittää 2d6 ja käyttää seuraavaa taulukkoa:
+Kun pelaajahahmot kohtaavat sivuhahmon (NPC:n), jonka reaktio ryhmää kohtaan ei ole ilmeinen, Vartija voi heittää 2d6 ja käyttää seuraavaa taulukkoa:
 
 |              |            |         |              |         |
 | :----------: | :--------: | :-----: | :----------: | :-----: |
@@ -790,7 +790,7 @@ Hyökkäykset, joissa on ominaisuus **räjähdys**, vaikuttavat kaikkiin kohteis
 
 Vahinko, joka vähentää kohteen HP:n alle nollan, vähentää kohteen STR:ää jäljellä olevalla määrällä. Sen jälkeen on tehtävä STR-pelastusheitto **kriittisen vahingon** välttämiseksi. Lisäksi joillakin vihollisilla on erikoiskykyjä tai -vaikutuksia, jotka tulevat voimaan, kun heidän kohteensa epäonnistuu kriittisen vahingon torjunnassa.
 
-Kriittistä vahinkoa kärsivä PC ei voi tehdä muuta kuin ryömiä heiveröisesti henkihieverissä. Jos hän saa apua ja lepää, hänen tilansa vakautuu. Jos häntä ei hoideta, hän kuolee tunnin kuluessa.
+Kriittistä vahinkoa kärsivä pelaajahahmo ei voi tehdä muuta kuin ryömiä heiveröisesti henkihieverissä. Jos hän saa apua ja lepää, hänen tilansa vakautuu. Jos häntä ei hoideta, hän kuolee tunnin kuluessa.
 
 ### Kykyarvojen menetys
 
@@ -1075,7 +1075,7 @@ Kenelläkään ei voi olla yli 3 Panssaria.
 Jos hyökkäys on **heikentynyt**, vahinkonoppa pienenee 1d4:ään, riippumatta aseesta. Jos hyökkäys on **vahvennettu**, hyökkääjä heittää 1d12. Hyökkäykset **räjähdys**ominaisuudella vaikuttavat kaikkiin alueen kohteisiin, jokaiselle heitetään erikseen.
 
 **VAHINKO**\
-Jos hyökkäys vähentää PC:n HP:n täsmälleen nollaan, katso [**Arvet**](#arvet-1)-taulukko.
+Jos hyökkäys vähentää pelaajahahmon HP:n täsmälleen nollaan, katso [**Arvet**](#arvet-1)-taulukko.
 
 Vahinko, joka vähentää kohteen HP:n **alle** nollan, vähentää tämän STR:ää lopulla. Tämän jälkeen hänen on tehtävä STR-pelastusheitto välttääkseen **kriittinen vahinko.** Epäonnistuminen poistaa hänet taistelusta ja hän kuolee, jos häntä ei hoideta.
 

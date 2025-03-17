@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Blood Elk
+# Hurmehirvi (Blood Elk)
 
-4 HP, 12 STR, 13 DEX, 5 WIL, horns (d8)
+4 HP, 12 STR, 13 DEX, 5 WIL, sarvet (d8)
 
-- Born from violence resulting from a greedy or selfish act.
-- Kill their victims for sustenance, but gains no succor. They are always hungry.
-- **Critical Damage**: Gores its victims by ripping out their entrails.
+- Syntyvät ahneen tai itsekkän teon aiheuttaman väkivallan seurauksena.
+- Tappavavat uhrinsa ravinnokseen, mutta ei saa siitä helpotusta. Ovat alati nälkäisiä.
+- **Kriittinen vahinko**: Viiltävät uhriansa repimällä niiden sisälmykset esiin.

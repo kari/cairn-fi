@@ -1,424 +1,435 @@
 ---
 layout: default
-title: FAQs
-parent: First Edition
-search_exclude: true
+title: Usein Kysyttyä
+parent: Ensimmäinen laitos
 nav_order: 1
 ---
 
-# Frequently Asked Questions
+# Usein kysytyt kysymykset
+
 ---
 
-## Introduction
-Below are a few answers to some of the most commonly asked questions from folks new to Cairn.
-Please refer to the [SRD](/cairn-srd/) while reading the following, particularly with regards to [**saves**](/cairn-srd/#saves) and [combat](/cairn-srd/#combat).
+## Johdanto
 
-**Keep the following in mind when reading the example text!**
-- **Esther** is playing an ex-**Herbalist**.
-- **Barry** plays a former **Hunter**.
-- The PCs are in search of a powerful [**Relic**](/cairn-srd/#relics), rumored to have restorative powers.
-- Recently the party uncovered a parchment that detailed the item's true location, somewhere on the far East side of the **Geunant Forest**, a wood known for having massive, ancient trees that allow little light through their humongous leaves.
+Alla on muutamia vastauksia joihinkin yleisimmin kysyttyihin kysymyksiin, joita pelaajat joille Cairn on vieras kysyvät.
+Lukiessasi pidä [Sääntökokoelma](/cairn-srd) käsillä, etenekin kun puhutaan [**pelastusheitoista**](/cairn-srd/#saves) ja [taistelusta](/cairn-srd/#combat).
 
-You can read also the entire **Example of Play** as a single page [here](/resources/example-of-play).
+**Pidä seuraavat mielessä, kun luet esimerkkitekstiä!**
 
-<a href='#/' id='expAll' class='exp'>Click Here To Expand/Collapse All Examples</a>{: .btn }
+- **Esteri** pelaa entistä **Yrttimestaria**.
+- **Pertti** pelaa entistä **Metsästäjää**.
+- Pelaajahahmot etsivät voimakasta [**Muinaisesinettä**](/cairn-srd/#relics), jolla huhutaan olevan parantavia voimia.
+- Hiljattain ryhmä löysi pergamentin, jossa kerrottiin esineen todellinen sijainti jossain kaukaisella itäpuolella **Geunantin metsää**, joka tunnetaan valtavista, ikivanhoista puista, jotka päästävät vain vähän valoa valtavien lehtiensä läpi.
 
-## What impact does a PC's background have?
-A character's relevant background, history, and experiences may provide a potential benefit (or disadvantage) to certain situations. Similarly, previous events in the game may influence the impact of their actions, including negating the need for a **save** in some circumstances!
+Voit lukea myös koko **esimerkin pelaamisesta** yhtenä kokonaisena sivuna [täällä](/resources/example-of-play).
 
-<details markdown="block">
-  <summary>
-Expand For Example
+<a href='#/' id='expAll' class='exp'>Klikkaa tästä laajentaaksesi/tiivistääksesi kaikki esimerkit</a>{: .btn }
+
+## Mitä vaikutusta pelihahmojen taustoilla on?
+
+Hahmon taustasta, historiasta ja kokemuksista voi mahdollisesti olla hyötyä (tai haittaa) tietyissä tilanteissa. Vastaavasti aiemmat tapahtumat pelissä voivat vaikuttaa hahmon tekoihin, mukaan lukien mitätöidä tarpeen tehdä **pelastusheitto** joissakin tilanteissa!
+
+<details markdown="block"><summary>
+Laajenna esimerkki
  </summary>
 
- **Warden**: _"You've spent the better part of the morning cutting your way through the **Geunant Forest**, chopping past hanging vines and waist-high brambles. It is very easy to get lost here among the surrounding underbrush. To make matters worse the Sun is completely obscured by the thick overhead branches."_
+**Vartija**: _"Olette viettäneet valtaosan aamusta raivaamalla tietänne Geunantin metsän halki, pilkkoen tietä läpi roikkuvien köynnösten ja halki vyötärön korkuisten pensasaitojen. Täällä on hyvin helppo eksyä ympäröivän aluskasvillisuuden keskellä. Kaiken kukkuraksi päällänne olevat oksat ovat täysin peittäneet auringon.”_
 
- **Barry**: _"Does my **Hunter** background help at all?"_
+**Pertti**: _"Auttaako **metsästäjä**taustani ollenkaan?"_
 
- **Warden:** _"Yes, though you have to stop every few minutes to survey your surroundings; progress is slow-going as a result. You continue heading East towards your destination."_
+**Vartija**: _"Kyllä, vaikkakin sinun on pysähdyttävä muutaman minuutin välein tutkimaan ympäristöäsi; eteneminen on sen vuoksi hidasta. Jatkatte matkaa idän suuntaan kohti määränpäätänne."_
 
- **Warden:** _"After a few hours you exit into a small clearing in the wood, perfect for a short break. On the other end of the clearing is a small, visible path heading East. The entrance to the path is blocked by a large flowering plant sitting in a solitary sunbeam; it drips a green ichor from open, blue pods."_
+**Vartija**: _"Muutaman tunnin kuluttua saavutte pienelle metsäaukiolle, joka sopii erinomaisesti lyhyelle tauolle. Aukion toisessa päässä on pieni, selvästi näkyvä polku joka suuntaa kohti itää. Polun suuaukon tukkii suuri kukkiva kasvi, joka kasvaa yksinäisen auringonsäteen alla; se valuttaa vihreää nestettä avoimista, sinisistä palkoistaan."_
 
- **Esther**: _"As a former **Herbalist**, do I recognize this plant?"_
+**Esteri**: _"Entisenä **yrttimestarina**, tunnistanko tämän kasvin?"_
 
- **Warden**: _"Yes. You also know that it is probably overgrown on account of the sunbeam drenching it in natural light."_
+**Vartija**: _"Kyllä. Tiedät myös, että se on luultavasti kasvanut yli, koska auringonsäde antaa sille rutkasti luonnonvaloa."_
 
-**Esther**: _"What do the colors tell me about the plant? Is it poisonous? What about the green ichor?"_
+**Esteri**: _"Mitä värit kertovat minulle kasvista? Onko se myrkyllinen? Entä vihreä neste?"_
 
-**Warden**: _"You observe all these things, and reckon that yes it is very likely poisonous, as the petals closely resemble that of Wolfsbane."_
+**Vartija**: _"Tarkastelet kaikkia näitä asioita, ja päättelet, että kyllä, se on hyvin todennäköisesti myrkyllinen sillä sen terälehdet muistuttavat ukonhattua."_
 
- **Barry**: _"All right, here's the plan: I'll climb up one of these trees above the plant and drape my blanket over it, blocking the sunlight. Hopefully that'll make the pods close up!"_
+**Pertti**: _"Hyvä on, tässä on suunnitelma: Kiipeän yhteen näistä puista kasvin yläpuolella ja vedän huopani sen päälle, jolloin auringonvalo peittyy. Toivottavasti se saa palot sulkeutumaan!"_
 
-**Warden**: _"You carefully lay your sleeping blanket between to trunks, casting a shadow over the blue pods of the plant below. Immediately they begin to close, just enough to allow a careful person to squeeze around them."_
+**Vartija**: _"Asettelet varovasti makuuhuopasi puunrunkojen väliin, varjostaen allaolevan kasvin siniset palot. Ne alkavat välittömästi sulkeutua, ja juuri sen verran että huolellinen ihminen kykenee mahtumaan niiden ohi."_
 
-**Esther**: _"Excellent. I'm going to carefully extract one of the leaves for later use, then move on."_
+**Esteri**: _"Erinomaista. Aion huolellisesti poimia yhden lehdistä myöhempää käyttöä varten ja jatkan sitten matkaa."_
 
- **What if none of the PCs had any relevant experience or expertise?**
- - Had there been no PC with the **Herbalist** background, the Warden would likely have declared the PCs ignorant of the plant's properties, and (hopefully) the players would try to learn more by asking questions and experimentation.
- - If a PC had a _tangential_ background (like the **Hunter**) the Warden could let the [Fates decide](/cairn-srd/#die-of-fate) and roll 1d6. The higher the roll, the more likely the PC would know something relevant or useful.
+**Entä jos yhdelläkään pelaajahahmolla ei ole asiaan liittyvää kokemusta tai asiantuntemusta?**
+
+- Jos yhdelläkää pelaajahahmolla ei olisi ollut **yrttimestari**taustaa, Vartija olisi todennäköisesti todennut hahmot epätietoisiksi kasvin ominaisuuksista, ja pelaajat olisivat (toivottavasti) yrittäneet selvittää lisää kysymällä ja kokeilemalla.
+- Jos jollain pelaajahahmolla olisi ollut asiaa sivuavaa taustaa (kuten **metsästäjä**), Vartija olisi voinuta antaa [Kohtalon päättää](/cairn-srd/#die-of-fate) ja heittää 1d6. Mitä korkeampi tulos, sitä todennäköisemmin pelaajahahmo tietäisi jotain olennaista tai hyödyllistä.
 
 </details>
 
-## When should combat break out?
-**Cairn** assumes that the characters live in a dangerous world where even the most minor interaction can become quite deadly. The players should therefore be encouraged to find non-violent ways to solve their problems. There are of course times where this is quite impossible, and it is up to the Warden to determine if a violent situation should be resolved through combat.
+## Milloin taistelun tulisi alkaa?
 
-<details markdown="block">
-  <summary>
-Expand For Example
+**Cairn** olettaa, että hahmot elävät vaarallisessa maailmassa jossa pieninkin yhteenotto voi hyvinkin johtaa kuolemaan. Pelaajia tulisi tämän vuoksi rohkaista löytämään väkivallattomia tapoja ratkaista ongelmansa. On tietysti tilanteita joissa tämä on lähes mahdotonta ja tällöin on Vartijan tehtävä päättää tulisiko väkivaltainen tilanne ratkaista taistelemalla.
+
+<details markdown="block"><summary>
+Laajenna esimerkki
  </summary>
 
- **Warden**: _"By late afternoon you finally break through the forest boundary. Spilling out of the treeline, you nearly step into a deep chasm splitting the forest in two. Finally, you have arrived at the **God-Slip**, a seemingly endless ravine with no bridge crossing it. Judging by the sheer rock walls on either side, climbing down would be extremely dangerous. Unfortunately, your quarry is likely located just across, where the cliffs meet the edge of the world. There is a small clearing nearby where you could set up camp, shrouded by a humongous Oak tree planted close to the chasm."_
+**Vartija**: _"Myöhään iltapäivällä saavutte vihdoin metsän rajan yli. Päästessänne ulos puurajasta olette melkein astumassa syvään rotkoon, joka halkoo metsän kahtia. Olette lopultakin saapuneet Jumalluiskalle, loputtomalta vaikuttavalle rotkolle, jota ei ylitä mikään silta. Molemmin puolin olevista jyrkistä kallioseinämistä päätellen alas kiipeäminen olisi erittäin vaarallista. Valitettavasti saaliinne sijaitsee todennäköisesti toisella puolella, kohdassa jossa kalliot kohtaavat maailman reunan. Lähistöllä on pieni aukea, jonne voisit pystyttää leirin, ja sitä varjostaa valtava tammi, joka on istutettu kuilun reunalle.”_
 
- **Esther**: _"I think we should make camp before moving out. If we have to climb into or around this chasm, I'd rather have the light on our side!"_
+**Esteri**: _"Mielestäni meidän tulisi leiriytyä ennen jatkamista. Jos meidän on kiivettävä tämä kuilu alas tai sen ympäri, haluan tehdä sen päivänvalossa!”_
 
- **Barry**: _"Definitely. I wonder what the safest way to do it would be? Backs against the ravine?"_
+**Pertti**: _"Todellakin. Mikähän olisi truvallisin tapa sen tekemiseen? Selkä rotkoa vasten?"_
 
- **Warden**: _"Yes, unless of course something comes out of it!" Who's on first watch, by the way?"_
+**Vartija**: _"Kyllä, ellei tietysti sieltä tule vastaan jotakin!" Kuka on muuten ensimmäisenä vahtivuorossa?"_
 
- **Esther**: _"I'll take first shift._"
+**Esteri**: _"Minä otan ensimmäisen vuoron._"
 
-  **Warden**: _"You make camp and eat one of your rations. Halfway through the first shift, you hear a snapping of twigs coming from just to the West of the campsite, back towards the **Geunant Forest**. What do you do?"_
+**Vartija**: _"Leiriydytte ja syötte yhden muona-annoksen. Ensimmäisen vuoron puolivälissä kuulet oksien napsahtelun ääniä juuri leirin länsipuolelta, **Geunantin metsän** suunnalta. Mitä teet?"_
 
-  **Esther**: _"I'd like to kick my comrade awake so I'm not alone in this, quietly nodding my head towards the direction of the noise and making the symbol for silence."_
+**Esteri**: _"Haluaisin potkaista toverini hereille, jotten olisi yksin tässä tilanteessa ja nyökkän hiljaa päätäni hänelle äänen suuntaan ja teen hiljaisuuden merkin."_
 
-  **Warden**: _"You do that, and he sits up just as a pair of horrid red eyes become visible behind the underbrush._"
+**Vartija**: _"Teet niin, ja hän nousee istumaan juuri kun aluskasvillisuuden takaa tulee näkyviin kauhistuttavan punainen silmäpari._"
 
-  **Barry**: _"What do we know about the creatures here?"_
+**Pertti**: _"Mitä me tiedämme tämän alueen olennoista?"_
 
-  **Warden**: _"You know that whatever creatures may be stalking this forest at night are very likely dangerous. You will likely not have time to chat with whatever is about to come out of there."_
+**Vartija**: _"Tiedätte, että mitä tahansa olentoja tässä metsässä yöllä vaeltaakin, ne ovat hyvin todennäköisesti vaarallisia. Teillä ei luultavasti ole aikaa jutella sen kanssa mikä ikinä sieltä onkaan tulossa."_
 
-  **Esther**: _"I'm prepared to fight, then. I stand up and draw my sword, ready for whatever comes."_
+**Esteri**: _"Olen sitten valmis taistelemaan. Nousen ylös ja vedän esiin miekkani, valmiina mitä sieltä ikinä tuleekaan."_
 
 </details>
 
-## How is turn order decided?
-Some games rely on "Initiative" to determine who goes first when combat begins. In **Cairn**, the PCs must each make a **DEX save** in order to act before their opponents. After that round has been concluded, the two "sides" each take turns attacking, their individual members acting in whatever order they wish. In some cases a **DEX save** may _not_ be necessary, especially when the PC or NPC was on guard or ready for an attack.
+## Kuinka vuorojärjestys päätetään?
 
- **A standard combat scenario would work like this:**
+Jotkut pelit käyttävät "Aloitejärjestystä" selvittämään kuka aloittaa ensimmäisenä kun taistelu alkaa. **Cairnissa** pelaajahahmojen täytyy jokaisen tehdä oma **DEX-pelastusheitto**, jotta he voivat toimia ennen vastustajiaan. Tämän kierroksen päätyttyä molemmat "puolet" hyökkäävät vuorollaan, ja niiden yksittäiset jäsenet toimivat haluamassaan järjestyksessä. Joissain tapauksissa **DEX-pelastusheitto** _ei_ ole tarpeen, etenkin jos pelaajahahmo tai sivuhahmo oli varuillaan tai valmiina hyökkäämään.
 
-### Round 1
-- PCs make a DEX save. Those who successfully pass go before the enemies (collectively one "side"). They go in whatever order they wish; the results however are simultaneous.
-- All enemies go, in whatever order the **Warden** chooses; the results are simultaneous.
+**Tavallinen taistelukohtaaminen toimisi näin:**
 
-### Round 2
-- _All_ PCs (including those that failed the original DEX save) get to go in whatever order they wish. The results however are simultaneous.
-- _All_ enemies get to go in whatever order the Warden chooses; the results however are simultaneous.
+### 1. Kierros
 
-### Round 3
-- All PCs get to go, as per round 2.
-- All enemies get to go, as per round 2.
+- Pelaajajahahmot tekevät DEX-pelastusheiton. Ne, jotka onnistuvat, toimivat ennen vihollisia (kollektiivisesti yksi "puoli"). He voivat toimia missä järjestyksessä haluavat; tulokset ovat kuitenkin samanaikaisia.
+- Kaikki viholliset toimivat, missä tahansa järjestyksessä **Vartija** valitsee; tulokset ovat samanaikaisia.
 
-And so on.
+### 2. Kierros
 
-<details markdown="block">
-  <summary>
-Expand For Example
+- _Kaikki_ pelaajahahmot (mukaanlukien ne jotka epäonnistuivat alkuperäisessä DEX-pelastusheitossa) saavat toimia haluamassaan järjestyksessä. Tulokset ovat kuitenkin samanaikaisia.
+- _Kaikki_ viholliset toimivat, missä tahansa järjestyksessä **Vartija** haluaa; tulokset ovat kuitenkin samanaikaisia.
+
+### 3. Kierros
+
+- Kaikki pelaajahahmot saavat toimia, kuten kierroksella 2.
+- Kaikki viholliset saavat toimia, kuten kierroksella 2.
+
+Ja niin edelleen.
+
+<details markdown="block"><summary>
+Laajenna esimerkki
  </summary>
 
- **Warden**: _"An Elk-like creature with glowing-red eyes explodes from the darkness of the wood opposite the party's campsite. A sea of mist flows off the creature's body as it runs directly at you, **Barry**. **Esther** was at the ready, so she gets to go first."_
+**Vartija**: _"Ryhmän leiripaikkaa vastapäätä olevan metsän pimeydestä syöksyy esiin hirven kaltainen olento, jolla on hehkuvanpunaiset silmät. Olennon kehosta virtaa sumuvana kun se juoksee suoraan kohti sinua, **Pertti**. **Esteri** oli valmiina, joten hän saa toimia ensimmäisenä."_
 
- **Barry**: _"What about me?"_
+**Pertti**: _"Entäs minä?"_
 
- **Warden**: _"You'll need to make a **DEX save** to see if you are able to ready yourself in time to react before the creature."_
+**Vartija**: _"Sinun täytyy tehdä **DEX-pelastusheitto**, jotta selviää pystytkö valmistautumaan ajoissa ja reagoimaan ennen olentoa.”_
 
- **Barry**: _"I rolled 1d20, and the result is a 17. Ouch."_
+**Pertti**: _"Heitin 1d20 ja sain tuloksesi 17. Auts."_
 
- **Warden**: _"Yes, that's a fail. **Esther** will go first, then the creature. After that you both will go again in any order you wish, then the creature, and so on."_
+**Vartija**:_"Kyllä, se on epäonnistuminen. Esteri toimii ensin, sitten olento. Sen jälkeen molemmat teistä toimitte haluamassanne järjestyksessä, sitten olento ja niin edelleen."_
 
 </details>
 
-## When Should a PC or NPC **save**?
-A PC or NPC should **save** only if one or more of the following conditions are met:
-- When the outcome of an action is uncertain.
-- When something is at risk (a life, a threatening danger, etc.).
-- When making a critical damage save during [**combat**](/cairn-srd/#critical-damage).
+## Milloin pelaajahahmon tai sivuhahmon tulisi tehdä **pelastusheitto**?
 
-**Saves** can happen both in an out of combat. A **save** is _almost_ never required when a PC or NPC is under attack, as attacks hit automatically. However, there are situations in which the fiction might dictate that an attack is automatically unsuccessful or impossible.
+Pelaajahahmonn tai sivuhahmon tulisi heittää **pelastusheitto** vain, jos yksi tai useampi seuraavista ehdoista täyttyy:
 
-<details markdown="block">
-  <summary>
-Expand For Example
+- Kun toimen lopputulos on epävarma.
+- Kun jokin tai jotain on vaarassa (henki, uhkaava vaara jne.).
+- Kun heitetään kriittisen vahingon pelastusheitto [**taistelun**](/cairn-srd/#critical-damage) aikana.
+
+**Pelastusheitot** voivat tapahtua sekä taistelussa että sen ulkopuolella. **Pelastusheittoa** ei _lähes_ koskaan tarvita, kun pelaaja- tai sivuhahmo on hyökkäyksen kohteena, sillä hyökkäykset osuvat automaattisesti. On kuitenkin tilanteita, joissa tarinankerronta saattaa sanella, että hyökkäys on automaattisesti epäonnistunut tai mahdoton.
+
+<details markdown="block"><summary>
+Laajenna esimerkki
  </summary>
 
- **Esther**: _"Do we know anything about this creature?"_
+**Esteri**: _"Tiedämmekö mitään tästä olennosta?"_
 
- **Warden**: _"Yes - it's a [**Blood Elk**](/resources/monsters/blood-elk/), which is a sort of killer deer born from great greed or envy. They are pretty powerful, from what you've heard."_
+**Vartija**: _"Kyllä - se on [**Hurmehirvi**](/resources/monsters/blood-elk/), joka on eräänlainen suuren ahneuden tai kateuden synnyttämä tappajahirvi. Ne ovat aika voimakkaita, sen perusteella mitä olette kuulleet."_
 
- **Esther**: _"Spooky! In that case, I want to use my action to help drag my comrade out of the way, maybe towards that Oak tree you mentioned earlier."_
+**Esteri**: _"Karmeaa! Siinä tapauksessa haluan käyttää toimintani auttaakseni raahaamaan kumppanini pois tieltä, ehkäpä kohti tuota aiemmin mainitsemaasi tammea."_
 
- **Warden**: _"You were already standing and ready to go, so I'm going to rule that this just happens, too quickly for the creature to change its trajectory. You manage to pull **Barry** just to the East of the now-trampled campsite, close to the Oak tree located just steps away from the **God-Slip**. Now, it's the **Blood Elk's** turn. It plows through the space **Barry** once occupied, wrecking the campfire. It swings wildly around, nearly careening off the cliff-face in the process. It's eyes glow a hateful violet as it turns back towards the both of you. **Barry**, it's your turn. You should note that you have only your hip-knife for combat, as everything else is still back at the camp. Worse, the darkness has impeded your ability to see more than its flaming red eyes. Use 1d4 when rolling damage."_
+**Vartija**: _"Olit jo seisomassa ja valmiina lähtöön, joten päätän että tämä vain tapahtuu, liian nopeasti jotta olento olisi voinut muuttaa liikerataansa. Onnistut vetämään **Pertin** juuri nyt tallatun leirintäalueen itäpuolelle, lähelle tammea, joka sijaitsee vain muutaman askeleen päässä **Jumalluiskasta**. Nyt on **Hurmehirven** vuoro. Se kyntää lävitse paikan jossa **Pertti** hetki sitten oli, tuhoten leirinuotion. Se pyörii villisti ympäriinsä ja melkein syöksyy jyrkänteeltä alas tässä rytäkässä. Sen silmät hehkuvat vihamielistä purppuraa, kun se kääntää itsensä takaisin teitä molempia kohti. **Pertti**, nyt on sinun vuorosi. Kannattaa huomata, että teillä on taistelua varten vain puukkonne, sillä kaikki muu on jäänyt leiriinne. Mikä pahempaa, pimeys estää teitä näkemästä muuta kuin olennon liekehtivät punaiset silmät. Käyttäkää 1d4 vahinkonoppana."_
 
- **Barry**: _"Screaming, I launch my dagger straight at the creature. I roll 1d4 and the result is a 1."_
+**Pertti**: _"Huudan ja sivallan tikarillani suoraan olentoa kohti. Heitän 1d4 ja tulos on 1."_
 
- **Warden**: _"The knife flies expertly from your hand, slicing through the misty air just above the creature, landing a few feet behind it. The beast whinnies in anger, then crouches as it prepares to charge again. It's your side's turn now. Go in any order."_
+**Vartija**: _"Veitsi lähtee taitavasti kädestäsi ja viiltää sumuista ilmaa juuri olennon yläpuolelta ja osuu maahan muutaman metrin päähän sen taakse. Peto vinkuu vihoissaan ja kyykistyy sitten valmistautuessaan hyökkäämään uudelleen. Nyt on teidän puolenne vuoro. Toimikaa missä tahansa järjestyksessä."_
 
- **Esther**: _"I have an idea: the creature previously charged at **Barry**, right? So it seems reasonable that it would do so again. What if I tossed one end of my rope to **Barry**, and then looped it to a nearby tree? Then if it comes close enough try and trample him again, he could just... leap off the cliff? Holding the rope for support, of course."_
+**Esteri**: _"Minulla on idea: olento hyökkäsi aiemmin **Pertin** kimppuun, eikö vain? On siis kohtuullista olettaa, että se tekisi niin uudelleen. Mitä jos heittäisin köyteni toisen pään **Pertille** ja sitten kiinnittäisin sen silmukalla viereiseen puun ympäri? Sitten jos se tulee tarpeeksi lähelle yrittäen talloa hänet uudelleen, hän voisi vain... hyppätä alas jyrkänteeltä? Pitäen tietysti kiinni köydestä."_
 
- **Barry**: _"Uh... That sounds like a plan, I guess. Yes, let's do it!"_
+**Pertti**: _"Öh... Kuulostaa hyvältä, kai. Okei, tehdään se!"_
 
- **Why didn't Barry need to save in order to successfully wrap the rope around the tree?**
- On a turn, a PC can attempt any action; a **save** is only required if one of the conditions listed above are met. It seemed reasonable that **Barry** would be able to make a mad dash around the tree (which was only a few feet away) with the rope without much danger. Had he tried to run close to the **Blood Elk** or done something equally uncertain or dangerous, he would have been required to **save**.
-
-</details>
-
-## In a contested action, who should save?
-If two opponents are both attempting to overcome the other, whoever is most at risk should **save**. The Warden should make a _consistent_ ruling in this regard, and make sure it is explained clearly to the players before a risk is taken if possible.
-
- <details markdown="block">
-   <summary>
- Expand For Example
-  </summary>
-
-  **Warden**: _"**Esther**, you toss one end of your rope to **Barry**, who quickly loops the rope around the Oak tree, then rushes towards the cliff-face on the other side, screaming at the creature to charge at him. **Esther** takes point as a sort of ballast in case he falls. **Barry**, as you are in position to react, I'm going to allow you a sort of out of combat reaction."_
-
-  **Barry**: _"All right, if it comes near me I'd like to stand near the cliff edge, ready to leap out of the way."_
-
-  **Warden**: _"Understood. It is now the **Blood Elk's** turn, and obviously it's still very angry at you, **Barry**. Raising its devilish hooves, the beast charges towards you once again. You leap off the cliff at the last second, holding onto the rope with all your might. The **Blood Elk** attempts to halt its attack the moment it sees its target falling. It makes a **DEX save** to see if it can successfully stop. Ack, it rolled a 20, and goes tumbling off the cliff and into the vast dark below."_
-
-  **Why didn't the Blood Elk make an attack roll, as the combat rules imply?**
-  The attack was considered possible, but very dangerous as well. Had the creature used a ranged attack or was a trained melee attacker it would have been far less risky to attack **Barry**. Unfortunately it was a beast, and only capable of running people down with its sharp hooves.
-
-  **Why did the Blood Elk make the save instead of Barry, who was also at risk?**
-  In this example, the **Blood Elk** was far more at risk than its human opponent, because:
-  - As an enthralled beast, it was likely not capable of creative thinking or advanced problem solving.
-  - One of its primary features is its relative bulk and speed, and it is likely that these properties would make a sudden stop quite difficult.
-  - Accordingly, there were no situational or mechanical benefits that could provide any advantage to the **Blood Elk** in this scenario.
-
-  Conversely, **Barry** was the least at risk of the two:
-  - As a former hunter, he had already firmly established his ability to do things of this nature.
-  - **Esther** had tied the rope around a tree, using herself as a ballast. This provided a clear *situational* advantage.
-
-  If **Barry** had been injured or had less time to prepare, it would be conceivable to ask for a **STR save** to see if he could hold on to the rope.
+**Miksi Pertin ei tarvinnut tehdä pelastusheittoa, jotta hänen onnistui kietoa köysi puun ympärille?**
+Vuorollaan pelaajahahmo voi yrittää mitä tahansa tekoa; **pelastusheitto** vaaditaan vain, jos jotkin edellä luetelluista ehdoista täyttyvät. Oli järkeenkäypää, että **Pertti** voisi rynnätä puun (joka oli vain muutaman metrin päässä) ympäri köyden kanssa ilman suurempaa vaaraa. Jos hän olisi yrittänyt juosta **Hurmehirven** lähelle tai tehnyt jotain yhtä epävarmaa tai vaarallista, häntä olisi vaadittu heittämään **pelastusheitto**.
 
 </details>
 
-## How is damage awarded outside of combat?
-Occasionally a dangerous action, trap, surprise attack, or cataclysmic event will cause grave injury or even death. Typically the Warden declares the type of damage (e.g. **STR/DEX/WIL**) followed by the amount lost (either in terms of specific amounts, or a variable dice roll). It can be difficult to determine exactly what kind of damage to dole out, and how much.
+## Vastustetussa toiminnassa, kenen pitäisi tehdä pelastusheitto?
 
-<details markdown="block">
-  <summary>
-Expand For Example
+Jos kaksi vastustajaa yrittävät molemmat päihittää toisensa, sen joka on eniten vaarassa, pitäisi tehdä **pelastusheitto**. Vartijan tulisi tehdä _johdonmukainen_ päätös tässä asiassa ja varmistaa, että se on selitetty pelaajille selkeästi ennen riskien ottamista, jos mahdollista.
+
+ <details markdown="block"><summary>
+Laajenna esimerkki
  </summary>
 
- **Warden**: "_After your encounter with the **Blood Elk**, you return to camp and try to catch as much sleep as they can. By daybreak both of you are awake and ready to continue on your journey."_
+**Vartija**: _"**Esteri**, heität köyden toisen pään **Pertille**, joka solmii köyden nopeasti tammen ympärille ja ryntää sitten vastakkaisessa suunnassa olevaa kallioseinämää kohti samalla huutaen olennolle, että se hyökkäisi häntä kohti. **Esteri** asettuu toimimaan eräänlaisena vastapainona siltä varalta, että hän putoaa. **Pertti**, koska olet valmiina reagoimaan, sallin sinulle eräänlaisen taistelun ulkopuolisen reaktion."_
 
- **Esther**: _"Right. The question is, how do we cross the **God-Slip**? Are there any bridges at our level?"_
+**Pertti**: _"Hyvä on. Jos se tulee lähelleni, haluaisin seistä lähellä jyrkänteen reunaa, valmiina hyppäämään pois sen tieltä."_
 
- **Warden**: _"Not that you can see. In the far North a copse of trees hugs the ravine and partially blocks your way; you'd need to explore a bit to see past them.  A few hundred meters South however you can see a small shelf jutting out from inside the ravine, probably fifty feet down. It makes a sort of "L" shape, getting pretty close to the other side. It might require a little work to shimmy onto, but it seems doable."_
+**Vartija**: _"Ymmärretty. Nyt on **Hurmehirven** vuoro ja selvästikin se on edelleen hyvin vihainen sinulle, **Pertti**. Pirulliset kavionsa kohottaen peto ryntää jälleen kerran sinua kohti. Hyppäät viime hetkellä alas jyrkänteeltä, pitäen köydestä kiinni kaikin voimin. **Hurmehirvi** yrittää pysäyttää hyökkäyksensä heti, kun se näkee kohteensa putoavan. Se tekee **DEX-pelastusheiton** nähdäkseen, voiko se pysähtyä onnistuneesti. Öh, se heitti 20 ja syöksyy jyrkänteeltä alas kohti alla olevaan valtavaan pimeyteen."_
 
- **Barry**: _"I say, let's go for the shelf. Still got that rope and pitons?"_
+**Miksei Hurmehirvi tehnyt hyökkäysheittoa, kuten taistelusäännöt edellyttävät?**
+Hyökkäystä pidettiin mahdollisena, mutta myös hyvin vaarallisena. Jos olento olisi käyttänyt kantamahyökkäystä tai ollut koulutettu lähitaisteluhyökkääjä, olisi **Pertin** kimppuun hyökkääminen ollut huomattavasti vähemmän riskialtista. Valitettavasti se oli peto ja kykenevä vain ajamaan ihmisiä maahan terävillä kavioillaan.
 
- **Esther**: _"Yeah, I don't see a better way across. Let's go."_
+**Miksi Hurmehirvi teki pelastusheiton Pertin sijaan, vaikka hänkin oli myös vaarassa?**
+Tässä esimerkissä **Hurmehirvi** oli paljon suuremmassa vaarassa kuin sen ihmisvastustaja, koska:
 
- **Warden**: _"After a half hour's walk along the ravine, you finally arrive at a spot just above the shelf. Deep within the chasm you can see a blanket of early morning fog, and just beneath it the glitter of rushing water."_
+- Tenhottuna petona se ei todennäköisesti ollut kykenevä luovaan ajatteluun tai kehittyneempään ongelmanratkaisuun.
+- Yksi olennon ensisijaisista ominaisuuksista on sen suhteellinen massa ja nopeus, ja on todennäköistä että nämä ominaisuudet tekisivät äkkipysähtymisestä melko vaikeaa.
+- Näin ollen ei ollut mitään tilannekohtaisia tai mekaanisia etuja, jotka olisivat voineet antaa **Hurmehirvelle** etua tässä tilanteessa.
 
- **Barry**: _"Are there any large stones near the edge? I'd like to hammer a piton into it, then loop our rope through. I can lower myself safely into the ravine and onto the shelf."_
+Sen sijaan **Pertti** oli näistä kahdesta vähiten vaarassa:
 
- **Warden**: _"You find a large stone along the edge and hammer the piton into it."_
+- Entisenä metsästäjänä hän oli jo vakiinnuttanut vankasti kykynsä tehdä tämänkaltaisia asioita.
+- **Esteri** oli sitonut köyden puun ympärille käyttäen itseään painolastina. Tämä tarjosi selkeän _tilannekohtaisen_ etulyöntiaseman.
 
- **Barry**: _"Great, I lower myself down, then light up my lantern. **Esther** will follow, I assume."_
-
- **Warden**: _"Carefully planting your feet on the shelf, you test the rope and call up to **Esther**, who climbs down. After she has arrived safely on the shelf, you survey your surroundings. The shelf appears to zigzag down the inside of the ravine, nearly to the bottom. The sound of rushing water below fills the ravine. Do you leave the rope behind for the return journey?"_
-
- **Esther**: _"Unfortunately, yes. I'm also going to mark our location on my map. Who knows if it'll make a difference, but just in case... OK, let's get out of here."_
-
- **Warden**: _"You move carefully along the shelf, digging your fingers into the cliff-face for safety. After an arduous fifteen minutes, you finally arrive at a small waterfall blocking the path forward. Icy water flows down the slippery rock surface and into a small basin below. The rock wall is slick with moss here, and you will likely slip if you try to step through. What do you do?"_
-
- **Barry**: _"Is there another way forward?"_
-
- **Warden**: _"Not from what you can tell. You could try and climb down, but it is quite dark and likely even more dangerous."_
-
- **Barry**: _"OK, I think I'll try my luck with the waterfall, thank you. **Esther**, can you hold on to my bag as I step through?"_
-
- **Esther**: _"And have you take me with you? No thanks!"_
-
- **Warden**: _"You'll have to make a **DEX save** to see if you can cross over the slick surface without slipping."_
-
- **Barry**: _"OK, I hand **Esther** my lantern so I can use both hands.... and I rolled a 14, a fail. Damn."_
-
- **Warden**: _"You slip and tumble down the waterfall and into the water-filled basin below, smacking your hand hard into the side of the pool at the same time. You lose 1d4 DEX damage, and you are unable to properly squeeze items in your dominant hand. It's almost completely dark, but you can still make out the light of your comrade's torch above."_
-
-**Which Ability should non-combat damage impact?**
-- If the injury affects their physical strength or health, subtract from **STR**. _This does not trigger a **critical damage save**_. **STR** is a reflection of a PC's health, and should reflect that in subtle but interesting ways: perhaps requiring a **save** where none would have been necessary before.
-- If the injury impacts their ability to move, react quickly, or their fine motor skills, subtract from **DEX**. This frequently is paired with an in-fiction impact as well; broken fingers would impact a PC's ability to pick locks, for example.
-- If the spirit, willpower, or determination of a PC has been impacted, subtract from **WIL**. Especially helpful to consider during magical or superficial injuries. A PC whose soul was burnt by arcane energy may need to make a **WIL** save to read Spellbooks, for example.
-
-A few considerations:
-- An injury could take on multiple facets: [**Deprivation**](/cairn-srd/#deprivation--fatigue) may accompany STR loss from poison, for instance. Provide a potential solution to overcoming the illness, as well.
-- Damage should happen as a consequence of failing a **save**. Do not make players **save** after-the-fact.
-- Fictional injuries are just as powerful as direct mechanical damage. **DEX** loss will have an impact on a character's reflexes and speed, but a broken leg may prevent a character from being able to move at all!
+Jos **Pertti** olisi ollut loukkaantunut tai hänellä olisi ollut vähemmän aikaa valmistautua, olisi voitu pyytää **STR-pelastusheittoa**, jotta nähtäisiin kykenisikö hän pitämään kiinni köydestä.
 
 </details>
 
-## When does what's happening in the fiction overrule game mechanics?
-The realities of the game's fiction should always take precedence over mechanics. Occasionally the details of a particular scene (such as a PC or NPC's knowledge or abilities) will render a mechanic or rule obsolete. If a short-legged thief attempts to leap across an impossible gap, there is no save. They simply fall into the abyss. Likewise if that same thief were to try to knock unconscious an oblivious & defenseless guard, it just happens. There is no need for a roll.
+## Kuinka vahinkoa jaetaan taistelun ulkopuolella?
 
-<details markdown="block">
-  <summary>
-Expand For Example
+Toisinaan vaarallinen teko, ansa, yllätyshyökkäys tai katastrofaalinen tapahtuma voi aiheuttaa vakavia vammoja tai jopa kuoleman. Tyypillisesti Vartija ilmoittaa vahingon tyypin (esim. **STR/DEX/WIL**) ja menetetyn määrän (joko tiettynä määränä tai nopanheittona). Voi olla vaikea määrittää, tarkalleen millaista vahinkoa jakaa ja kuinka paljon.
+
+<details markdown="block"><summary>
+Laajenna esimerkki
  </summary>
 
- **Barry**: _"Well, that was a bad idea! How exactly am I going to get back up? Unless... hey, how much can I see into the darkness below?"_
+**Vartija**: _"**Hurmehirven** kanssa kohtaamisenne jälkeen palaatte leiriinne ja yritätte nukkua niin paljon kuin mahdollista. Aamun sarastaessa olette molemmat hereillä ja valmiita jatkamaan matkaanne."_
 
- **Warden**: _"There isn't much light here, but something glints in the darkness beneath you. If you had more light, you could perhaps make out what it is."_
+**Esteri**: _"Okei. Kysymys kuuluu, miten ylitämme **Jumalluiskan**? Onko meidän korkeudellamme mitään siltoja?"_
 
- **Esther**: _"Why don't I toss him down my lantern. Does that require a roll?"_
+**Vartija**: _"Ei nähdäksenne. Kauempana pohjoisessa puusto syleilee rotkoa ja estää osittain kulkunne; teidän tulisi tutkiskella hieman, jotta näkisitte siitä eteenpäin.  Muutaman sadan metrin päässä etelän suuntaan näette kuitenkin pienen reunuksen, joka työntyy esiin rotkosta, luultavasti viisikymmentä metriä alaspäin. Se muodostaa eräänlaisen L-kirjaimen muodon, ja se yleettää melko lähelle toista puolta. Sen päällä kiipeäminen saattaa vaatia hieman työtä, mutta se vaikuttaa mahdolliselta."_
 
- **Warden**: _"Normally, no. But remember his hand is still somewhat injured from the fall. I'm going to say that he has to roll, since he's also the most at risk."_
+**Pertti**: _"Minusta meidän pitäsi mennä reunalle. Vieläkö sinulla on köysi ja kiipeilyhaat?"_
 
-**Barry**: _"I rolled a 3. Finally!"_
+**Esteri**: _"Joo, en keksi parempaa tietä rotkon yli. Mennään."_
 
- **Warden**: _"**Barry**, you catch it without issue. Now you get a decent view of the chasm beneath. You see a series of small waterfalls, basins and protruding shelves going all the way down to a rushing river on the bottom. There is even a narrowing of the ravine itself about 50 feet South where you could conceivably leap over to the other side!"_
+**Vartija**: _"Kun olette kävelleet puolisen tuntia rotkoa pitkin, saavutte vihdoin paikkaan, joka on aivan reunuksen yläpuolella. Syvällä kuilun pohjalla näkyy peittävä aamusumu, ja aivan sen alapuolella kimaltelee virtaava vesi."_
 
- **Barry**: _"Ha! I knew this was a good idea. But how do we get down there?"_
+**Pertti**: _"Onko reunuksen lähellä suuria kiviä? Haluaisin lyödä siihen haan ja sitten pujottaa köyden sen läpi. Voin laskea itseni turvallisesti rotkoon ja reunukselle."_
 
- **Warden**: _"You can actually slide down the waterfall pouring out from the small pool you're already standing in... it's a short drop, so you aren't in any great danger, even with that hand of yours."_
+**Vartija**: _"Löydät reunalta ison kiven ja lyöt haan siihen."_
 
- **Esther**: _"And how exactly do I get down there, though? Wait, I've got an idea. I can see him, right? What if I were to jump..."_
+**Pertti**: _"Hienoa, lasken itseni alas ja sytytän sitten lyhtyni. **Esteri** seuraa, oletan."_
 
- **Barry**: _"...Am I supposed to catch you? With which hand, exactly?"_
+**Vartija**: _"Asetat varovasti jalkasi rotkon reunustalle. Testaat köyttä ja kutsut **Esteriä**, joka kiipeää alas. Kun hän on saapunut turvallisesti reunustalle, kartoitatte ympäristöänne. Reunusta näyttää kulkevan mutkittelevasti rotkon sisäreunaa lähes pohjalle asti. Alhaalla virtaavan veden kuohunta täyttää rotkon. Jätätkö köyden paluumatkaa varten?"_
 
- **Esther**: _"Don't be ridiculous. You'll be my landing pad."_
+**Esteri**: _"Valitettavasti kyllä. Merkitsen myös sijaintimme kartalle. Kuka tietää, onko sillä merkitystä, mutta varmuuden vuoksi... OK, lähdetään pois täältä."_
 
- **Warden**: _"You should know that you aren't in any terrible danger here since you're actually aiming for the pool, but that doesn't mean it's risk-free. You'll need to hold on to the wall with both hands, and it should be a bumpy ride. Something could pop loose."_
+**Vartija**: _"Liikutte varovasti reunusta pitkin, painaen sormenpäänne kallionseinämään varmuuden vuoksi. Vaivalloisen viidentoista minuutin jälkeen saavutte vihdoin pienen vesiputouksen luo, joka tukkii tien eteenpäin. Jäinen vesi virtaa liukasta kallionpintaa pitkin alas pieneen altaaseen. Kallioseinämä on tässä kohdin sammaloitunut ja liukas, ja todennäköisesti liukastutte, jos yritätte astua siitä läpi. Mitä teette?"_
 
- **Esther**: _"OK, my DEX isn't great, but here goes anyways... and I rolled an 13, a fail. See **Barry**? You're not the only one with bad luck around here."_
+**Pertti**: _"Onko olemassa toista tapaa edetä?"_
 
- **Warden**: _"You make it, but the journey down wasn't fun. One item from your pack is knocked loose, so I'm going to roll a Fate die... hey, a lucky 5! OK, you get to choose what falls out."_
+**Vartija**: _"Ei sen perusteella, mitä voitte nähdä. Voisitte yrittää kiivetä alas, mutta siellä on melko pimeää ja se on todennäköisesti vielä vaarallisempaa."_
 
- **Esther**: _"If I get to choose what I lose though... how about my remaining torch? Everything else is just too important, and we still have a lantern and oil."_
+**Pertti**: _"Okei, taidan kokeilla onneani vesiputouksen kanssa, kiitos vain. **Esteri**, voisitko pitää laukustani kiinni sillä välin kun astun lävitse?"_
 
- **Warden**: _"You hear the small metal shard bounce against the ravine wall, ending in a splash as it lands in the flowing water beneath."_
+**Esteri**: _"Ottaen minut mukanasi? Ei kiitos!"_
+
+**Vartija**: _"Sinun on tehtävä **DEX-pelastusheitto** selvittääksesi, pystytkö ylittämään liukkaan pinnan liukastumatta."_
+
+**Pertti**: Okei, annan **Esterille** lyhtyni, jotta voin käyttää molempia käsiäni.... ja heitin 14, epäonnistuminen. Pahus."_
+
+**Vartija**: _"Liukastut ja kaadut alas pitkin vesiputousta sen alla olevaan vesialtaaseen, lyöden samalla kätesi lujaa altaan reunaan. Menetät 1d4 DEX-vahinkoa, etkä pysty kunnolla puristamaan esineitä hallitsevalla kädelläsi. On lähes täysin pimeää, mutta ylhäällä näkyy vielä kumppanisi lyhdyn valo."_
+
+**Mihin kykyyn taistelum ulkopuolisen vahingon pitäisi vaikuttaa?**
+
+- Jos vamma vaikuttaa fyysiseen voimakkuuteen tai terveyteen, vähennä **STR**:stä. _Tämä ei aiheuta **kriittisen vahingon pelastusheittoa**_. **STR** kuvastaa pelaajahahmon terveyttä, ja sen pitäisi kuvastaa sitä hienovaraisen mielenkiintoisella tavalla: vaatien kenties **pelastusheiton**, vaikka sitä ei olisi tarvittu aiemmin.
+- Jos vamma vaikuttaa kykyyn liikkua, reagoida nopeasti tai hienomotorisiin taitoihin, vähennä **DEX**:istä. Tähän liitetän usein tarinankerronnallinen vaikutus myös; murtuneet sormet vaikuttaisivat esimerkiksi pelaajahahmon kykyyn tiirikoida lukkoja.
+- Jos pelaajahahmon henki, tahdonvoima tai päättäväisyys on kärsinyt, vähennä **WIL**-arvosta. Tämä on erityisen hyödyllistä huomioida maagisten tai pinnallisten vammojen kohdalla. Pelaajahahmo, jonka sielua on polttanut loihtoenergiasta, saattaa esimerkiksi joutua tekemään **WIL**-pelastusheiton voidakseen lukea loitsukirjoja.
+
+Muutamia huomioita:
+
+- Vamma voi olla monitahoinen: [**Puutos**](/cairn-srd/#deprivation--fatigue) voi liittyä esimerkiksi myrkystä aiheutuvaan STR-menetykseen. Tarjoa myös mahdollinen ratkaisu sairauden voittamiseksi.
+- Vahingon pitäisi tapahtua **pelastusheiton** epäonnistumisen seurauksena. Älä pakota pelaajia tekemään **pelastusheittoa** jälkikäteen.
+- Tarinankerronnalliset vammat ovat yhtä voimakkaita kuin suorat mekaaniset vahingot. **DEX**-menetys vaikuttaa hahmon reflekseihin ja nopeuteen, mutta murtunut jalka voi estää hahmoa liikkumasta lainkaan!
 
 </details>
 
-## How do PCs advance without things like levels or XP?
-In **Cairn**, character _growth_ is preferable over _advancement_. This means that although a PC _will_ change, they may not necessarily get _better_ with time. Growth occurs through both mechanical means (such as [**Scars**](/cairn-srd/#scars)), as well as through events happening solely in the fiction.
+## Milloin tarinassa tapahtuva ohittaa pelimekaniikat?
 
-**The Warden should consider the following when awarding non-mechanical growth to PCs:**
-- Growth should be tied to a _specific_ experience occurring in the fiction.
-- It is more important for a PC to grow more _interesting_ than more skilled or capable.
-- PCs experience growth not necessarily because they've gotten more skill and experience, but because they are _changed_ in a significant way.
-- There should be opportunities for growth & change everywhere, _especially_ when a PC puts themselves at risk.
-- Growth occurs _while things are happening_, not just after the PC has rested.
-- Training & Specialization should be tied to quests and character growth as much as possible.
+Pelin tarinan realiteettien tulisi aina mennä mekaniikkojen edelle. Toisinaan pelikohtauksen yksityiskohdat (kuten pelaaja- tai sivuhahmon tiedot tai kyvyt) tekevät jonkin mekaniikan tai säännön tarpeettomaksi. Jos lyhytjalkainen varas yrittää hypätä mahdottoman kuilun yli, ei pelastusheittoa tarvita. Hän vain yksinkertaisesti putoaa kuiluun. Samoin jos samainen varas yrittäisi lyödä tietämättömän ja puolustuskyvyttömän vartijan tajuttomaksi, se vain tapahtuu. Heittoa ei tarvita.
 
-**A Few Examples of Training & Specialization:**
-- Two days of study under a former royal archer has taught you how to fire arrows more effectively. Attacks with a longbow are enhanced.
-- After two weeks' of daily practice with the _Blade of Gwoed_, you feel confident enough to use the deadly weapon in combat. Critical Damage: target loses a limb or is disemboweled (your choice).
-- Three days' worth of study under the tutelage of a skilled warrior has taught you how to never be surprised. You no longer need to make a DEX save before combat (unless the Warden says otherwise).
-- Five nights of intense study with the _Book of Curses_ has given you an edge in battle. If you insult an opponent before combat, all of their attacks against you and your friends are impaired.
-- After training with the _Mourning Monks of Es'ta_, you can now speak with the dead. You are deprived afterwards.
-
-
-<details markdown="block">
-  <summary>
-Expand For Example
+<details markdown="block"><summary>
+Laajenna esimerkki
  </summary>
 
-  **Warden**: _"Slowly you descend into the near-absolute darkness of the ravine. Your lantern is bright enough to allow safe travel, but also acts as a shining beacon to anyone or anything that might be down here. Fortunately it seems that you are largely alone, at least for now. Eventually the roar of the river below begins to drown out your voices."_
+**Pertti**: _"No, se oli huono ajatus! Miten minä tarkalleen ottaen pääsen takaisin ylös? Ellen... hei, kuinka pitkälle voin nähdä alla olevaan pimeyteen?"_
 
-  **Esther**: _"Ugh, I have a bad feeling about this. How far down do we have to go?"_
+**Vartija**: _"Täällä ei ole paljon valoa, mutta jokin välkkyy pimeydessä alapuolellasi. Jos sinulla olisi enemmän valoa, voisit ehkä nähdä, mikä se on."_
 
-  **Warden**: _"You're just above the riverbed, actually. Carefully placing your feet onto the slick surface, you hold your lantern high and watch as the water glitters, almost in response. You are only a few dozen feet from the shelf you saw earlier as well."_
+**Esteri**: _"Miksen heittäisi hänelle alas lyhtyni. Vaatiiko se heiton?"_
 
-  **Esther**: _"How dangerous do we think it would be to cross that way?"_
+**Vartija**: _"Tavallisesti, ei. Mutta muista, että hänen kätensä on vielä jonkin verran loukkaantunut putoamisesta. Sanoisin, että hänen on heitettävä, koska hän on myös kaikkein vaarallisimmassa asemassa."_
 
-  **Warden**: _"You'll have to jump. The water rushes right beneath, so you'd have a soft landing. The current looks strong as well._
+**Pertti**: _"Heitin 3. Vihdoinkin!"_
 
-  **Esther**: _"What did you mean before when you said that the river glittered as if in response? I am not prepared to deal with intelligent rivers."_
+**Vartija**: _"**Pertti**, saat sen kiinni ilman ongelmia. Nyt saat kohtuullisen näkymän alla olevaan railoon. Näet sarjan pieniä vesiputouksia, altaita ja ulkonevia reunuksia, jotka laskeutuvat aina pohjassa virtaavalle joelle asti. Itse rotkossa on jopa kaventuma noin 15 metriä etelään ja siitä voisi mahdollisesti hypätä toiselle puolelle!"_
 
-  **Warden**: _"You're not totally sure, but it looked like there might be something alive in there. As a former herbalist, you already know about bioluminescent plants."_
+**Pertti**: _"Haa! Tiesin, että tämä oli hyvä idea. Mutta miten pääsemme tuonne alas?"_
 
-  **Barry**: _"Plants? We can handle plants. Why don't we just wade through the river here?"_
+**Vartija**: _"Voitte itse asiassa liukua alas pitkin tuota vesiputousta, joka virtaa alas tuosta pienestä altaasta, jossa jo seisot... siinä on vain pieni pudotus, joten et ole suuressa vaarassa, edes tuolla kädelläsi."_
 
-  **Esther**: _"Hmm that's might be a good idea. Wait, what about hidden rocks and such?"_
+**Esteri**: _"Ja miten minä tarkalleen ottaen pääsen sinne alas? Hetkinen, minulla on idea. Minä näen hänet, eikö niin? Mitä jos hyppäisin..."_
 
-  **Warden**: _"You could try, certainly. There don't appear to be a lot of rocks poking out of here that you can see, either."_
+**Pertti**: _"...Pitäisikö minun saada sinut kiinni? Millä kädellä, tarkalleen?"_
 
-  **Esther**: _"I'll go first this time. You hold the lantern up with your good hand, **Barry**."_
+**Esteri**: _"Älä ole hölmö. Sinusta tulee laskeutumisalustani."_
 
-  **Barry**: _"Good call. I'll yell out if something leaps out of the river and tries to eat you, too."_
+**Vahti**: _"Sinun tulisi tietää, että et ole juurikaan vaarassa, koska tähtäät itse asiassa altaaseen, mutta se ei tarkoita, etteikö se olisi riskitöntä. Sinun on pidettävä kallionseinästä kiinni molemmin käsin, ja matkasta tulee kuoppainen. Jotain voi irrota."_
 
-  **Warden**: _"You step into the rushing river. It pulls on your legs, but otherwise you feel strong enough to cross without aide. Slowly you begin your journey; with each step you can see the colorful plants - algae, perhaps - glowing and moving in response to your footsteps. It might also just be the light."_
+**Esteri**: _"Okei, DEXini ei ole kovin hyvä, mutta tässä mennään... ja heitin 13, epäonnistuminen. Katsos **Pertti**? Et ole ainoa, jolla on huonoa tuuria."_
 
-  **Esther**: _"Uh... Can I feel them?"_
+**Vartija**: _"Pääset perille, mutta matka alas ei ollut mitenkään hauska. Yksi esine repustasi on päässyt irti, joten heitän Kohtalon noppaa... Hei, onnekas vitonen! OK, saat valita, mikä putoaa."_
 
-  **Warden**: _"Only the wetness of the river. Perhaps a distant tickling but that could be the reeds. They seem to react to your every movement."_
+**Esteri**: _"Jos kerran saan valita, mitä menetän... miten olisi jäljellä oleva soihtuni? Kaikki muu on hyvin tärkeää ja meillä on vielä lyhty ja öljyä."_
 
-  **Esther**: _"Interesting. If I'm not in any danger though I think I'll press. Does our light allow us to see across the whole river yet?"_
-
-  **Warden**: _"Nearly. You are about halfway across when **Barry** sees something moving in the waters ahead. It is jet-black and sleek, like an eel. It is also around 5 feet long."_
-
-  **Barry**: _"I warn her to pull back."_
-
-  **Esther**: _"Can I outrun this thing?"_
-
-  **Warden**: _"Hmm... You'd have to make a DEX save."_
-
-  **Esther**: _"Sorry **Barry**, I want to see if I can outrun it. We'll figure out how to get you across once I'm on dry land again. OK, here goes... Yes, a 2! I charge across."_
-
-  **Warden**: _"You increase your pace dramatically, sprinting across the water in big splashes. With each leap, your foot disrupts the colorful creatures within. The water begins to roil violently around your ankles. Ahead, the eel-like creature darts away as if in response. You finally arrive at the other bank, the river's water bubbling behind you. As you leap out of the water, some of the bioluminescent substance sticks to your right ankle. Standing up on the dry ground, you seem unable to kick it off. It doesn't hurt you or anything, but feels like its been painted to your ankle."_
-
-  **Esther**: _"Damn! What does it feel like? Also, what do I see on this side of the river?"_
-
-  **Warden**: _"It feels a bit wet, but otherwise like a tattoo on your skin. Like it's a part of you. You are standing on a near-identical bank as the opposite side; you'll have to explore a bit to learn more."_
-
-  **Esther**: _"I suppose I can ignore this for now, if it isn't hurting me or anything. **Barry**, how are you going to cross these swirling eel-infested waters? Maybe off that ledge further down?"_
-
-  **Barry**: _"That works. How many torches do you have left? I don't leave you in the dark when I head down there. You could also follow me down a bit, though the light might not be perfect."_
-
-  **Esther**: _"I'm all out, unfortunately. But maybe if I follow you I can do something on this end to help you jump that ledge?"_
-
-  **Warden**: _"You march in parallel on either sides of the fast-moving river the light from **Barry's** lamp just barely illuminating your way. **Esther**, you are having an especially difficult time as you have to hug the riverbank or avoid stepping into shadows unknown."_
-
-  **Esther**: _"If I'm close to the river, I'd like to study it some more. Do I still see the swirling bioluminescent plant things?"_
-
-  **Warden**: _"Yes, and they seem to be following you. Interestingly, the light from their movement is almost enough to see into the river."_
-
-  **Barry**: _"That's good. Maybe now you can keep an eye out for any more eels? What about me? What do I see as I trod down this godforsaken ravine?"_
-
-  **Warden**: _"The walls on your side of the river narrow a bit as you get closer to the raised shelf you spied earlier; in fact you begin to feel quite squeezed-in. Fortunately you are scrawny enough to just make it to the shelf, which completely blocks your way forward."_
-
-  **Esther**: _"What can I see from my side of the river? Am I still forced to hug the riverbank?"_
-
-  **Warden**: _"The ravine isn't nearly as narrow from your end, meaning it would be easy to continue on forward from where you are, were you to move away from the light of course. But more importantly, you can see that the shelf used to extend across the river, as there is a mirrored shelf sticking out from the other side as well. There is a massive gap between, though. Perhaps it collapsed at some point in the past? Anyway, **Barry** can try and climb the shelf or enter the river and move around it. At least this time there isn't a slimy waterfall to get around!_
-
-  **Barry**: _"Assuming I can easily scale this thing, I'd say: let's go for it."_
-
-  **Warden**: _"You mount it with ease after placing your lamp on top and then pulling yourself up. Now you just have to get across."_
-
-  **Barry**: _"Quick question, what is the water like in the exact center of the river where the gap is?"_
-
-  **Warden**: _"It's a bit difficult to tell from here, but if you move closer you might get a better look. **Esther** however has been watching the river all the while, and can see that the waters within are moving quite rapidly, in a circular formation."_
-
-  **Esther**: _"These are eels right? I bet they're eels. What are my bio-friends doing right now?"_
-
-  **Warden**: _"Looking down into the waters near the shore you see that all of the bioluminescent creatures have fled, almost as if in fear of this part of the river."_
-
-  **Esther**: _"Hmm... alright, I've got a theory. **Barry**, you should hold the lantern between the gap in the "bridge" and see what happens."_
-
-  **Barry**: _"Uh, OK. I carefully walk to the middle of the river on the "bridge", then lay down, hanging my lantern over the edge - but only just. I want to be as safe as possible here."_
-
-  **Warden**: _"The moment you lower it, a slick black eel leaps into the air and snaps at the lantern with needle-like teeth. You're quick enough to save it, though. The eel splashes back into the water."_
-
-  **Barry**: _"Wow! That was scary. I'm guessing I'll need to save in order to jump across, right?"_
-
-  **Warden**: _"Unless you've got a better idea, yes."_
-
-  **Esther**: _"I have one. Hey **Barry**, why don't you extinguish that light?"_
-
-  **Barry**: _"Done. Now what?"_
-
-  **Warden**: _"You switch off the lantern. Blinking in the darkness, your eyes slowly being to adjust. Suddenly you see a light beginning to glimmer on the far-off shore where **Esther** is standing. It's her ankle; it is lit up like a candle!"_
-
-  **Esther**: _"Wait, can I make light now? Am I a human torch?"_
-
-  **Warden**: _"In complete darkness, yes. Let's hope you don't to go sneaking around in the dark anytime soon."_
-
-  **Barry**: _"Well, this is cool. So the eels like the light, right? This gives me an idea..."_
+**Vartija**: _"Kuulet pienen metallisirpaleen kimmahtavan rotkon seinämää vasten ja molskahtavan alapuolella virtaavaan veteen."_
 
 </details>
 
+## Miten pelaajahahmot etenevät ilman tasojen tai kokemuspisteiden (XP) kaltaisia asioita?
+
+**Cairnissa** hahmon _kasvu_ on tärkeämpää kuin _edistyminen_. Tämä tarkoittaa sitä, että vaikka pelaajahamo _tulee_ muuttumaan, hän ei välttämättä _parane_ ajan myötä. Kasvu tapahtuu sekä mekaanisin keinoin (kuten [**Arpien**](/cairn-srd/#scars)) että pelkästään tarinankerronnassa tapahtuvien tapahtumien kautta.
+
+**Vartijan tulisi harkita seuraavia seikkoja myöntäessään pelaajahahmoille ei-mekaanista kasvua:**
+
+- Kasvun tulisi olla sidoksissa tarinassa tapahtuvaan _tiettyyn_ kokemukseen.
+- Pelaajahahmon on tärkeämpää kasvaa _kiinnostavammaksi_ kuin taitavammaksi tai kykenevämmäksi.
+- Pelaajahahmot kasvavat ei välttämättä siksi, että he ovat saaneet lisää taitoa ja kokemusta, vaan siksi, että heissä on tapahtunut merkittävä _muutos_.
+- Kasvulle ja muutoksille olisi tarjottava mahdollisuuksia kaikkialla, _erityisesti_ silloin kun pelaajahahmo asettaa itsensä vaaraan.
+- Kasvu tapahtuu _kun asioita tapahtuu_, ei vain sen jälkeen kun pelaajahahmo on levännyt.
+- Koulutus ja erikoistuminen tulisi sitoa mahdollisimman paljon tehtäviin ja hahmon kasvuun.
+
+**Joitakin esimerkkejä koulutuksesta ja erikoistumisesta:**
+
+- Kahden päivän opiskelu entisen kuninkaallisen jousimiehen johdolla on opettanut sinut ampumaan nuolia tehokkaammin. Hyökkäykset pitkäjousella ovat vahvistettuja.
+- Kahden viikon päivittäisen harjoittelun Gwoedin Terän kanssa jälkeen tunnet olosi tarpeeksi luottavaiseksi käyttääksesi tätä tappavaa asetta taistelussa. Kriittinen vahinko: Kohde menettää raajan tai suolistetaan (valintasi mukaan).
+- Kolmen päivän opiskelu taitavan soturin johdolla on opettanut sinut miten et koskaan tule yllätetyksi. Sinun ei enää tarvitse tehdä DEX-pelastusheittoa ennen taistelua (ellei Vartija toisin määrää).
+- Viisu intensiivistä yötä opiskellen _Kirousten Kirjan_ parissa on antanut sinulle etulyöntiaseman taistelussa. Jos herjaat vastustajaa ennen taistelua, kaikki hänen hyökkäyksensä sinua ja ystäviäsi vastaan ovat heikentyneet.
+- Harjoiteltuasi _Es'tan Surumunkkien_ kanssa voit nyt puhua kuolleiden kanssa. Kärsit puutostilasta jälkeenpäin.
+
+<details markdown="block"><summary>
+Laajenna esimerkki
+ </summary>
+
+**Vartija**: _"Laskeudutte hitaasti rotkon lähes täydelliseen pimeyteen. Lyhtynne on tarpeeksi kirkas, jotta se sallii turvallisen kulkemisen, mutta toimii myös loistavana majakkana kenelle tai mille tahansa, joka voi olla täällä alhaalla. Onneksi näyttää siltä, että olette suurelta osin yksin, ainakin toistaiseksi. Lopulta alapuolella olevan joen pauhu alkaa hukuttaa alleen äänenne."_
+
+**Esteri**: _"Öh, minulla on paha tunne tästä. Kuinka pitkälle meidän on vielä mentävä?"_
+
+**Vartija**: _"Olette itse asiassa aivan joenuoman yläpuolella. Asetatte jalkanne varovasti liukkaalle pinnalle, pidätte lyhtynne korkealla ja katsotte kuinka vesi kimaltelee, melkein reagoiden teihin. Olette myös vain muutaman kymmenen metrin päässä aiemmin näkemästänne kallionreunamasta."_
+
+**Esteri**: _"Kuinka vaarallista olisi mielestämme ylittää rotko tuota kautta?"_
+
+**Vartija**: _"Teidän on hypättävä. Vesi syöksyy suoraan allanne, joten saisitte ainakin pehmeän laskun. Virta näyttää myös voimakkaalta."_
+
+**Esteri**: _"Mitä tarkoitit aiemmin, kun sanoit, että joki kimmeltää kuin vastaten meille? En ole valmistautunut kohtaamaan älyllisiä jokia."_
+
+**Vartija**: _"Et ole täysin varma, mutta näytti aivan siltä kuin siellä voisi olla jotain elävää. Entisenä yrttimestarina tiedätkin jo bioluminesoivista kasveista."
+
+**Pertti**: _"Kasveja? Pystymme kyllä hoitelemaan kasvit. Miksemme vain kahlaa joen läpi tästä?"_
+
+**Esteri**: _"Hmm, se saattaa olla hyvä idea. Hetkinen, entäs karikot ja sellaiset?"_
+
+**Vartija**: _"Voitte toki yrittää. Täällä ei näytä olevan paljonkaan vedestä nousevia kiviä, ainakaan nähdäksenne."_
+
+**Esteri**: _"Minä menen ensin tällä kertaa. Pidä sinä lyhtyä ylhäällä hyvällä kädelläsi, **Pertti**."_
+
+**Pertti**: _"Hyvä päätös. Huudan myös, jos jokin aikoo hypätä joesta ja yrittää syödä sinut."_
+
+**Vartija**: _"Astut virtaavaan jokeen. Se vetää jalkojasi, mutta muuten tunnet olevasi tarpeeksi vahva ylittämään sen ilman apua. Aloitat matkasi hitaasti; jokaisella askeleella näet värikkäiden kasvien - ehkä levien - hehkuvan ja liikkuvan vastaten askeleisiisi. Se voi olla myös vain valon oikkuja."_
+
+**Esteri**: _"Öö... Tunnenko niitä?"_
+
+**Vartija**: _"Tunnet vain joen märkyyden. Ehkä kaukaista kutitusta, mutta se voi johtua kaislikosta. Ne tuntuvat reagoivan jokaiseen liikkeeseesi."_
+
+**Esteri**: _"Mielenkiintoista. Jos en kuitenkaan ole missään vaarassa, taidan vain painaa eteenpäin. Näemmekö valomme avulla jo koko joen yli?"_
+
+**Vartija**: _"Melkein. Olet noin puolivälissä, kun **Pertti** näkee jotain liikkuvan edessäpäin vedessä. Se on sysimusta ja sileä kuin ankerias. Se on myös noin 1,5 metriä pitkä."_
+
+**Pertti**: _"Varoitan häntä palaamaan takaisin."_
+
+**Esteri**: _"Pystynkö juoksemaan tuota otusta karkuun?"_
+
+**Vartija**:_"Hmm... Sinun pitäisi tehdä DEX-pelastusheitto."_
+
+**Esteri**: Anteeksi **Pertti**, haluan selvittää, pääsenkö sitä karkuun. Keksimme miten saamme sinut ylitse, kunhan olen taas kuivalla maalla. Okei, nyt mennään... Kyllä, 2! Ryntään veden poikki."_
+
+**Vartija**: _"Lisäät vauhtia voimakkaasti ja spurttaat veden poikki suurien roiskeiden saattelemana. Jokaisella loikallasi jalkasi häiritsevät värikkäitä olentoja veden alla. Vesi alkaa kuohua rajusti nilkkojesi ympärillä. Edessäsi ankeriasmainen otus syöksyy pois alta kuin vastaten. Saavut vihdoin toiselle rannalle, joen vesi kuplii takanasi. Kun hyppäät vedestä, osa bioluminesensoivasta aineesta tarttuu oikeaan nilkkaasi. Seisoessasi kuivalla maalla et kuitenkaan näytä kykenevän ravistamaan sitä irti. Se ei satu tai mitään, mutta tuntuu siltä kuin se olisi maalattu nilkkaasi."_
+
+**Esteri**: _"Hitto! Miltä se tuntuu? Myös, mitä näen tällä puolella jokea?"_
+
+**Vahti**: _"Se tuntuu hieman märältä, mutta muuten kuin tatuoinnilta iholla. Kuin se olisi osa sinua. Seisot lähes identtisellä rannalla kuin vastakkaisella puolella; sinun on tutkittava hieman ympärillesi saadaksesi tietää enemmän."_
+
+**Esteri**: _"Voin kai jättää tämän toistaiseksi huomiotta, jos se ei satuta minua tai mitään. **Pertti**, miten aiot ylittää nämä pyörteiset ankeriaiden valtaamat vedet? Ehkä tuolta reunalta alempana?"_
+
+**Pertti**: _"Se voisi toimia. Kuinka monta soihtua sinulla on jäljellä? En halua jättää sinua pimentoon, kun lähden sinnepäin. Voisit myös seurata minua vähän matkaa alaspäin, vaikka valaistus ei ehkä olekaan paras mahdollinen."_
+
+**Esteri**: _"Minulta on kaikki loppu, valitettavasti. Mutta ehkä jos seuraan sinua, voin tehdä jotain tässä päässä auttaakseni sinua hyppäämään tuon reunan yli?"_
+
+**Vartija**: Marssitte rinnakkain nopeasti virtaavan joen molemmin puolin. **Pertin** lampun valo valaisee juuri ja juuri tietänne. **Esteri**, sinulla on erityisen vaikea koska joudut kulkemaan ihan joen rantaa pitkin välttääksesi astumasta tuntemattomiin varjoihin."_
+
+**Esteri**: _"Jos olen lähellä jokea, haluaisin tutkia sitä vielä lisää. Näenkö yhä niitä pyöriviä bioluminesoivia kasviolentoja?"_
+
+**Vartija**: _"Kyllä, ja ne näyttävät seuraavan sinua. Mielenkiintoista on, että niiden liikkeistä tuleva valo riittää melkeinpä näkemään joen veteen."_
+
+**Pertti**: _"Se on hyvä juttu. Ehkäpä nyt voi pitää silmällä, jos tulee lisää ankeriaita? Entäs minä? Mitä minä näen astellessani tätä jumalan hylkäämää rotkoa pitkin?"_
+
+**Vartija**: _"Seinämät sinun puolellasi jokea kapenevat hiukan sitä mukaa kun pääset lähemmäs aiemmin näkemääsi reunusta; itse asiassa alat tuntea olosi melko puristuksissa olevaksi. Onneksi olet tarpeeksi hoikka, jotta pääset juuri ja juuri reunukselle, joka estää täysin tiesi eteenpäin."_
+
+**Esteri**: _"Mitä näen omalta puoleltani jokea? Vieläkö minun on pakko mennä ihan joenrantaa myöten?"_
+
+**Vartija**: _"Rotko ei ole suinkaan yhtä kapea sinun puolellasi, eli olisi helppoa jatkaa eteenpäin siitä missä olet - jos siirryt pois valosta, tietysti. Mutta mikä tärkeämpää, voit nähdä, että reunus ulottui aikoinaan joen yli, sillä myös toiselta puolelta törröttää vastakkainen reunus. Niiden välissä on kuitenkin valtava kuilu. Ehkä se romahti joskus aikaisemmin? Joka tapauksessa **Pertti** voi joko yrittää kiivetä reunamalle tai mennä jokeen ja kahlalta sen yli. Ainakaan tällä kertaa ei ole limaista vesiputousta kierrettävänä!_
+
+**Pertti**: _"Olettaen, että voin helposti kiivetä tämän, sanoisin että tehdään se."_
+
+**Vahti**: _"Kipuat reunalle helposti, kunhan olet ensin asettanut lampun sille ja vetänyt sen jälkeen itsesi ylös. Nyt sinun on vain päästävä yli."_
+
+**Pertti**: _"Nopea kysymys, millaista vesi on tarkalleen keskellä jokea, siinä kohtaa missä kuilu on?"_
+
+**Vartija**: _"Sitä on hieman vaikea sanoa täältä käsin, mutta jos menet lähemmäs, saat ehkä paremman kuvan. **Esteri** on kuitenkin sillä välin tarkkaillut jokea ja näkee, että vedet liikkuvat siinä kohtaa varsin nopeasti, ympyränmuotoisesti."_
+
+**Esteri**: _"Ne ovat ankeriaita, eikö vain? Ne ovat varmasti ankeriaita. Mitä biokaverini tekevät juuri nyt?"_
+
+**Vartija**: _"Kun katsot rannan lähivesiin, huomaat että kaikki hohtavat olennot ovat paenneet, melkein kuin peläten tätä jokiosuutta."_
+
+**Esteri**: _"Hmm... hyvä on, minulla on teoria. **Pertti**, sinun pitäisi pitää lyhtyä "sillan" raon välissä ja katsoa, mitä tapahtuu."_
+
+**Pertti**: _"Öh, selvä. Kävelen varovasti joen keskelle "sillalle", asetun sitten makuulle ja roikutan lyhtyäni reunan yli - mutta vain juuri ja juuri. Haluan olla mahdollisimman turvassa täällä."_
+
+**Vahti**: _"Heti kun lasket sen alas, liukas musta ankerias hyppää ilmaan ja napsauttaa neulamaisilla hampaillaan kiinni lyhtyyn. Olet kuitenkin tarpeeksi nopea pelastamaan sen. Ankerias roiskahtaa takaisin veteen."_
+
+**Pertti**: _"Vau! Se oli pelottavaa. Minun täytyy kai tehdä pelastusheitto, jotta voin hypätä yli, eikö vain?"_
+
+**Vartija**: _"Ellei sinulla ole parempaa ideaa, niin kyllä."_
+
+**Esteri**: _"Minulla olisi yksi. Hei **Pertti**, mikset sammuta tuota valoa?"_
+
+**Pertti**: _"Tehty. Mitä nyt?"_
+
+**Vartija**: _"Sammutat lyhdyn. Silmäsi räpyttelevät pimeydessä ja sopeutuvat hitaasti siihen. Yhtäkkiä näet valon alkavan välkkyä kaukaisella rannalla, jolla **Esteri** seisoo. Se on hänen nilkkansa; se valaisee kuin kynttilä!"_
+
+**Esther**: _"Hetkinen, voinko valaista nyt? Olenko minä jokin ihmissoihtu?"_
+
+**Vartija**: _"Täydellisessä pimeydessä, kyllä. Toivottavasti et lähiaikoina joudu hiippailemaan pimeässä."_
+
+**Pertti**: _"No, tämähän on siistiä. Eli ankeriaat tykkäävät valosta, eikö vaan? Tästä sain idean..."_
+
+</details>
 
 <script src="/js/expand-all.js"></script>
