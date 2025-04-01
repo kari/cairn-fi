@@ -845,7 +845,7 @@ Kun hyökkäys vähentää pelaajahahmon HP:n tasan nollaan, se vaikuttaa hänee
 4 HP, 8 STR, 14 DEX, 8 WIL, keihäs (d6)
 
 - Välttää taistelua, ellei niillä ole etulyöntiasemaa (kuten suurempi vahvuus).
-- Varjelevat varastamiaan tavaroita kuolemaan.
+- Varjelevat varastamiaan tavaroita kuolemaan asti.
 - Arvostavat Loitsukirjoja; halukkaita vaihtokauppaan.
 
 **Viittamiehet**\
