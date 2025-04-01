@@ -62,3 +62,4 @@ Sama on Skoren ja Adventure Hourin tekijä ja hän kirjoittaa Into The Oddista (
 - By Odin's Beard: ["How is Cairn Different from D&D 5e"](https://www.youtube.com/watch?v=3vQTAa8rIzg)
 - Jorphdan's Jocular Junction: ["Taking Cairn of Business"](https://youtu.be/x0LJAruoxks?si=oVIa51TgdkVih7dQ)
 - Axe Wizard: ["Cairn 2e Worldbuilding"](https://www.youtube.com/watch?v=TpvejI8ivtg)
+- Legends & Dice Cafe: ["ACTUAL Solo Playthrough"](https://www.youtube.com/watch?v=Av6OJc3vwKs)
