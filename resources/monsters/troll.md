@@ -4,7 +4,7 @@ parent: Hirviöitä
 grand_parent: Lisäaineistot
 ---
 
-# Vuorenpeikko (Troll)
+# Luolapeikko (Troll)
 
 14 HP, 1 Panssari, 14 STR, 12 DEX, 4 WIL, kynnet (d8+d8), nuija (d10)
 

@@ -4,7 +4,7 @@ parent: Hirviöitä
 grand_parent: Lisäaineistot
 ---
 
-# Cocatrix (Cockatrice)
+# Käärmekukko (Cockatrice)
 
 5 HP, 8 STR, 14 DEX, 4 WIL, nokka (d6)
 
