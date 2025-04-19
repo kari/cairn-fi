@@ -4,7 +4,7 @@ parent: Hirviöitä
 grand_parent: Lisäaineistot
 ---
 
-# Merisyöjätär (Sea Hag)
+# Näkki (Sea Hag)
 
 6 HP, 11 STR, 15 DEX, 14 WIL, pitkät kynnet (d6+d6)
 
