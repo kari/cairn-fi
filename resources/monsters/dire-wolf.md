@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Dire Wolf
+# Alkususi (Dire Wolf)
 
-8 HP, 14 STR, 12 DEX, 8 WIL, bite (d10)
+8 HP, 14 STR, 12 DEX, 8 WIL, puraisu (d10)
 
-- Horse-sized, semi-intelligent wolves that roam the forests and mountains. Highly territorial.
-- Can be trained as pets if captured young. 
+- Hevosen kokoisia, puoli-älyllisiä susia, jotka vaeltavat metsissä ja vuorilla. Erittäin reviiritietoisia.
+- Voidaan kouluttaa lemmikeiksi, jos ne pyydystetään poikasina.

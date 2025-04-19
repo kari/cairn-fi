@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Zombie
+# Zombi (Zombie)
 
-2 HP, 12 STR, 6 DEX, 3 WIL, jagged nails (d6)
+2 HP, 12 STR, 6 DEX, 3 WIL, lohkeilleet kynnet (d6)
 
-- Re-animated corpse brought back through necromantic ritual or fell influence. Immune to all mind-influencing effects.
-- If not utterly destroyed (by fire, complete dismemberment, etc.), the Zombie will rise again within a few minutes.
-- **Critical Damage**: Target is infected and becomes _deprived_. Without the services of a specialist or healer, they will become a zombie in d4 days.
+- Manausrituaalin tai pahan vaikutuksen kautta takaisin henkiin herätetty ruumis. Immuuni kaikille mielenvaikutusyrityksille.
+- Jos zombia ei tuhota täysin (tulen, paloittelun tms. seurauksena), se nousee uudelleen muutaman minuutin kuluessa.
+- **Kriittinen vahinko**: Kohde saa tartunnan ja se kärsii _puutostilasta_. Ilman asiantuntijan tai parantajan apua heistä tulee zombeja d4 päivässä.

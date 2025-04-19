@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Bronze Construct
+# Pronssirakento (Bronze Construct)
 
-3 HP, 3 Armor, 18 STR, 6 DEX, 0 WIL, fists (d10+d10), _detachment_
+3 HP, 3 Panssari, 18 STR, 6 DEX, 0 WIL, nyrkit (d10+d10), _joukko-osasto_
 
-- Towering humanoid constructs made of pure bronze. Resemble old men with long beards and hair, and emanate a strong heat.
-- Immune to fire and heat.
-- If punctured, spurts a burning hot liquid dealing d6 STR damage to anyone nearby.
+- Silkasta pronssista valmistettuja, korkealle kohoavia ihmismäisiä rakennelmia. Muistuttavat pitkäpartaisia ja -hiuksisia vanhoja miehiä ja säteilevät voimakasta lämpöä.
+- Immuuni tulelle ja kuumuudelle.
+- Lävistettynä roiskauttaa polttavan kuumaa nestettä, joka aiheuttaa d6 STR-vahinkoa kaikille lähellä oleville.

@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Driver Ant
+# Vaeltajamuurahainen (Driver Ant)
 
-3 HP, 4 STR, 12 DEX, 1 WIL, bite (d6)
+3 HP, 4 STR, 12 DEX, 1 WIL, puraisu (d6)
 
-- Giant, omnivorous black ants that build colonies deep underground.
-- Consume any edible object in their path.
-- Often act as a hive mind. Two or more Driver Ants together is a _detachment_.
+- Jättimäisiä, kaikkiruokaisia mustia muurahaisia, jotka rakentavat yhdyskuntansa syvälle maan alle.
+- Syövät kaiken syömäkelpoisen tiellään.
+- Toimivat usein parviälynä. Kaksi tai useampi vaeltajamuurahaista yhdessä on _joukko-osasto_.

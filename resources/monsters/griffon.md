@@ -1,14 +1,14 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Griffon
+# Aarnikotka (Griffon)
 
-7 HP, 14 STR, 15 DEX, 12 WIL, claws (d6+d6), _detachment_
+7 HP, 14 STR, 15 DEX, 12 WIL, kynnet (d6+d6), _joukko-osasto_
 
-- Ravenous hybrids, with the head and wings of an eagle and the lower body of a lion.
-- Can be used as mounts if taken young and properly trained.
-- Fly and attack at astonishing speeds, diving in to scoop up their prey.
-- **Critical Damage**: Tears flesh and bone from its victim with its razor-sharp beak.
+- Ahnaita hybridejä, joilla on kotkan pää ja siivet sekä leijonan alaruumis.
+- Voidaan käyttää ratsuina, jos ne on pyydystetty poikasina ja koulutetaan asianmukaisesti.
+- Ne lentävät ja hyökkäävät huikealla vauhdilla ja syöksyvät nappaamaan saaliinsa.
+- **Kriittinen vahinko**: Repii uhristaan lihaa ja luuta erittäin terävällä nokallaan.

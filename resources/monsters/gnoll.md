@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Gnoll
+# Halli (Gnoll)
 
-6 HP, 1 Armor, 12 STR, 14 DEX, 8 WIL, spear (d8)
+6 HP, 1 Panssari, 12 STR, 14 DEX, 8 WIL, keihäs (d8)
 
-- Ferocious humanoid hyenas spawned from arcane experiments long ago.   
-- Deadly warriors, they attack as a pack (as _detachment_) or on their own.
+- Hurjia ihmismäisiä hyeenoja, jotka ovat peräisin kauan sitten tehdyistä salaperäisistä kokeista.
+- Vaarallisia sotureita, ne hyökkäävät niin laumana (_joukko-osasto_) tai yksin.

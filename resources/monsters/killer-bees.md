@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Killer Bees
+# Tappajamehiläiset (Killer Bees)
 
-6 HP, 6 STR, 14 DEX, 8 WIL, sting (d6), _detachment_
+6 HP, 6 STR, 14 DEX, 8 WIL, pisto (d6), _joukko-osasto_
 
-- Oversized bees that build underground hives. Hyper-aggressive, attack anything that comes near.
-- Produce special honey that heals 1d6 STR. 3 uses.
-- When the bees cause STR damage, the stingers are lodged into the target, dealing d4 damage each round until removed.
+- Ylisuuria mehiläisiä, jotka rakentavat maanalaisia pesiä. Erittäin aggressiivisia, hyökkäävät kaiken lähelle tulevan kimppuun.
+- Tuottaavat erikoishunajaa, joka parantaa 1d6 STR. 3 käyttöä.
+- Kun mehiläiset aiheuttavat STR-vahinkoa, niiden pistimet juuttuvat kohteeseen aiheuttaen d4 vahinkoa joka kierros, kunnes ne poistetaan.

@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
 # Triton
 
-6 HP, 12 STR, 15 DEX, 12 WIL, trident (d8)
+6 HP, 12 STR, 15 DEX, 12 WIL, kolmikärki (d8)
 
-- Aquatic humanoids with silvery skin, blue-green hair, and scaled legs ending in fins. Dwell in warmer waters close to land.
-- Lair in beautiful castles sculpted from sea rock and coral. Command vast schools of fish for both protection and food.
+- Vesi-ihmisolentoja, joilla on hopeanhohtoinen iho, sinivihreät hiukset ja eviin päättyvät suomuiset jalat. Asuvat lämpimissä vesissä lähellä rantoja.
+- Piileskelevät kauniissa, merikivestä ja koralleista muovatuista linnoissa. Hallitsevat valtavia kalaparvia niin turvaksi kuin ravinnoksi.

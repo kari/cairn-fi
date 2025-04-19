@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Cobblehounds
+# Mukulahurtat (Cobblehounds)
 
-12 HP, 2 Armor, 14 STR, 1 DEX, 8 WIL, bite (d10)
+12 HP, 2 Panssari, 14 STR, 1 DEX, 8 WIL, puraisu (d10)
 
-- Immobile constructs typically used as guardians to great tombs or artifacts.
-- Unaffected by mundane persuasion techniques, but love a good bone.
+- Paikallaan olevia rakennelmia, joita käytetään yleensä suurten hautakammioiden tai muinaisesineiden vartijoina.
+- Tavalliset suostuttelutekniikat eivät tepsi niihin, mutta ne rakastavat hyviä luita.

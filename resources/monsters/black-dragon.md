@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Black Dragon
+# Musta lohikäärme (Black Dragon)
 
-16 HP, 1 Armor, 13 STR, 18 DEX, 14 WIL, bite (d12), claws (d10+d10), _detachment_
+16 HP, 1 Panssari, 13 STR, 18 DEX, 14 WIL, puraisu (d12), kynnet (d10+d10), _joukko-osasto_
 
-- Amphibious dragons with glossy black scales and thick hides. Dwell in swamps or similarly dangerous and flooded environments.
-- Cruel and prone to violence. Make use of the dark and their surprising agility to separate their victims and kill them one by one.
+- Maalla ja vedessä asuvia lohikäärmeitä, joilla on kiiltävän mustat suomut ja paksut nahat. Asuvat soilla tai vastaavissa vaarallisissa ja tulvivissa ympäristöissä.
+- Julmia ja taipuvaisia väkivaltaan. Hyödyntävät pimeyttä ja yllättävää ketteryyttään erottaakseen uhrinsa toisistaan ja tappaakseen heidät yksi kerrallaan.

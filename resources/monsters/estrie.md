@@ -1,15 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
 # Estrie
 
-10 HP, 11 STR, 15 DEX, 14 WIL, draining hair (d8)
+10 HP, 11 STR, 15 DEX, 14 WIL, valuvat hiukset (d8)
 
-- Appears as a woman with long dark hair that extends all the way to her feet.
-- Can transform into owls, but only at night. Binding their hair prevents transformation. 
-- Drinks the blood of small animals and sleeping travelers, who dream of feathers and the moon.
-- If killed they resurrect at the next full moon. This can be stopped by burying the head under ground and filling the mouth with sand.
-- **Critical Damage**: target falls unconscious for 1d6 hours.
+- Esiintyy naisena, jolla on pitkät tummat hiukset jotka ulottuvat jalkoihin asti.
+- Voi muuttua pöllöksi, mutta vain öisin. Hiusten sitominen estää muodonmuutoksen.
+- Juo verta pienistä eläimistä ja nukkuvista matkalaisista, jotka uneksivat höyhenistä ja kuusta.
+- Jos ne tapetaan, ne heräävät takaisin henkiin seuraavan täysikuun aikaan. Tämä voidaan estää hautaamalla niiden pää maan alle ja täyttämällä suu hiekalla.
+- **Kriittinen vahinko**: Kohde menettää tajuntansa 1d6 tunniksi.

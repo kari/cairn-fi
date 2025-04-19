@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Treant
+# Puupaimen (Treant)
 
-10 HP, 3 Armor, 15 STR, 3 DEX, 12 WIL, roots (d8+d8, _blast_)
+10 HP, 3 Panssari, 15 STR, 3 DEX, 12 WIL, juuret (d8+d8, _räjähdys_)
 
-- Sentient, bipedal trees with a vaguely humanoid face on their trunks. Found in the deepest part of the wood.
-- Speak slowly and ponderously, with a deep voice. Timeless, living for thousands of years.
+- Tietoisia, kaksijalkaisia puita, joiden rungossa on epämääräisen ihmismäiset kasvot. Löytyvät metsän sisimmästä kolkasta.
+- Puhuvat syvä-äänisesti sekä hitaasti ja mietteliäästi. Ajattomia, eläneet tuhansia vuosia.

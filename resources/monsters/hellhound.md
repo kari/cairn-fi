@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Hellhound
+# Hornanhurtta (Hellhound)
 
-8 HP, 12 STR, 15 DEX, 9 WIL, bite (d8) or fire breath (d6, _blast_)
+8 HP, 12 STR, 15 DEX, 9 WIL, puraisu (d8) tai tulenhenkäys (d6, _räjähdys_)
 
-- Monstrous, intelligent dogs that dwell near volcanoes.
-- Immune to fire and heat damage. Hot enough to melt iron simply by biting it.
+- Hirviömäiset ja älykkäät koirat, jotka asustelevat tulivuorten lähellä.
+- Immuuni tuli- ja kuumuusvahingolle. Tarpeeksi kuuma sulattamaan rautaa yksinkertaisesti vain puremalla sitä.

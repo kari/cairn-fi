@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Red Cap
+# Punalakki (Red Cap)
 
-6 HP, 6 STR, 12 DEX, 8 WIL, dual sickles (d6+d6)
+6 HP, 6 STR, 12 DEX, 8 WIL, tuplasirpit (d6+d6)
 
-- Born from blood left to rot in the land of Fairy. Their hats are a deep red from the blood they bathe in.
-- Ignore those with little to live for, as there is no pleasure in their murder.
-- **Critical Damage**: Target is eviscerated, the spray of their blood restoring STR loss suffered by the Red Cap.
+- Syntyneet keijukaisten maahan mätänemään jätetystä verestä. Niiden lakit ovat syvänpunaiset verestä, jossa ne kylpevät.
+- Eivät välitä niistä joilla on vain vähän minkä vuoksi elää, sillä heidän muurhaamisestaan ei saa mitään iloa.
+- **Kriittinen vahinko**: Kohteen sisälmykset nyljetään, ja veriroiske palauttaa Punalakin kärsimät STR-menetykset.

@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Black Bear
+# Mustakarhu (Black Bear)
 
-6 HP, 14 STR, 12 DEX, 6 WIL, claws (d6+d6)
+6 HP, 14 STR, 12 DEX, 6 WIL, kynnet (d6+d6)
 
-- Waist-high bears that subsist mostly on berries and roots. Drawn to campsites in search of food.  
-- Aggressive if cornered or feel that their young are threatened. 
-- **Critical Damage**: A large chunk of flesh is bitten off (d6 STR damage).
+- Vyötärön korkuisia karhuja, jotka elävät lähinnä marjoilla ja juurilla. Tulevat leirintäpaikoille ruoan perässä.
+- Aggressiivisia jos joutuvat ahdistetuksi nurkkaan tai jos kokevat poikastensa olevan uhattuina.
+- **Kriittinen vahinko**: Suuri pala lihaa on puraristu irti (d6 STR-vahinkoa).

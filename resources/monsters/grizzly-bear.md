@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Grizzly Bear
+# Harmaakarhu (Grizzly Bear)
 
-6 HP, 15 STR, 13 DEX, 5 WIL, claws (d8+d8)
+6 HP, 15 STR, 13 DEX, 5 WIL, kynnet (d8+d8)
 
-- Reddish-brown bears commonly found in mountains, woodlands, and prairies. 
-- Prefer to eat fish and meat, and will attack the rare unfortunate who crosses their path.
-- **Critical Damage**: Bites the victim for an additional d6 STR damage. They bleed out very quickly.
+- Punaruskeita karhuja, joita tavataan yleisesti vuorilla, metsissä ja preerioilla.
+- Syövät mieluiten kalaa ja lihaa, ja hyökkäävät niiden tielle osuvan harvinaisen epäonnisen kimppuun.
+- **Kriittinen vahinko**: Puree uhria aiheuttaen d6 STR-vahinkoa lisää. Hän vuotaa kuiviin hyvin nopeasti.

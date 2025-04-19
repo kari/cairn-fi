@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Shambling Mound
+# Tappajakeko (Shambling Mound)
 
-9 HP, 15 STR, 6 DEX, 8 WIL, tendrils (d8+d8), _detachment_
+9 HP, 15 STR, 6 DEX, 8 WIL, kärhet (d8+d8), _joukko-osasto_
 
-- Tall humanoids made of slimy vegetation. Dwell in dark swamps and damp undergrounds.
-- **Critical Damage**: Target is swallowed whole and dragged away.
+- Pitkiä limaisesta kasvillisuudesta tehtyjä ihmisolentoja. Asuvat pimeillä soilla ja maan alla kosteikoissa.
+- **Kriittinen vahinko**: Kohde nielaistaan kokonaisena ja raahataan pois.

@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Harpy
+# Harpyija (Harpy)
 
-8 HP, 7 STR, 12 DEX, 14 WIL, claws (d6+d6)
+8 HP, 7 STR, 12 DEX, 14 WIL, kynnet (d6+d6)
 
-- Hideous monstrosities with the body of a giant eagle and a humanoid head.
-- Their movements and flight are clumsy due to their disproportionate size. Rely on charmed victims to do anything of note. 
-- **Song**: Anyone nearby must save WIL or be charmed by its voice, following the harpy and defending it from any threat.
+- Kammottavia hirviöitä, joilla on jättiläiskotkan vartalo ja ihmismäinen pää.
+- Niiden liikkeet ja lentäminen ovat kömpelöitä niiden epäsuhtaisen koon vuoksi. Luottavat lumottujen uhriensa tekevän kaiken merkittävän.
+- **Laulu**: Kaikkien lähistöllä olevien on tehtävä WIL-pelastusheitto tai ne lumoutuvat sen äänestä, seuraten harpyijaa ja puolustaen sitä kaikelta uhkaavalta.

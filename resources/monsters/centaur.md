@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Centaur
+# Kentauri (Centaur)
 
-6 HP, 1 Armor, 14 STR, 12 DEX, 14 WIL, spear (d8) or short bow (d6)
+6 HP, 1 Panssari, 14 STR, 12 DEX, 14 WIL, keihäs (d8) tai lyhyt jousi (d6)
 
-- Creatures with the lower body and legs of a horse, but a humanoid upper body.
-- Rarely found alone, preferring the company of their own.
+- Olentoja, joilla on hevosen alavartalo ja jalat, mutta ihmismäinen ylävartalo.
+- Löytyvät harvoin yksin, suosivat omankaltaistensa seuraa.

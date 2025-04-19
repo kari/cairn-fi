@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Wood Troll
+# Metsänpeikko (Wood Troll)
 
-10 HP, 15 STR, 12 DEX, 7 WIL, bite (d8), club (d10)
+10 HP, 15 STR, 12 DEX, 7 WIL, puraisu (d8), nuija (d10)
 
-- Large humanoids with elongated arms made of bark or root. They live in forests, sharing a deep connection with the vegetation around them.
-- If killed, they will slowly regenerate unless their corpse is taken out of the forest or burned with fire.
-- **Critical Damage**: Moss and twigs begin growing out of the target's wounds.
+- Kookkaita ja ihmisimäisiä ja joilla on pitkulaiset puunkuoresta ja puunjuurista tehdyt kädet. Ne elävät metsissä, ja niillä on syvä yhteys niitä ympäröivään kasvillisuuteen.
+- Jos ne tapetaan, ne uusiutuvat hitaasti ellei niiden ruumista viedä pois metsästä tai polteta tulessa.
+- **Kriittinen vahinko**: Kohteen haavoista alkaa kasvaa sammalta ja oksia.

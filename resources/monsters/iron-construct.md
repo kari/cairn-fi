@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Iron Construct
+# Rautarakento (Iron Construct)
 
-8 HP, 3 Armor, 15 STR, 5 DEX, 8 WIL, giant sword (d12)
+8 HP, 3 Panssari, 15 STR, 5 DEX, 8 WIL, jättiläismiekka (d12)
 
-- Tall, humanoid statues forged of metal, fire, and magic. Wield massive swords of iron.
-- Immune to mundane attacks, electricity, and cold. Fire damage is absorbed and heals any lost STR.
+- Metallista, tulesta ja magiasta taotut korkeat, ihmisenkaltaiset patsaat. Kantavat massiivisia rautamiekkoja.
+- Immuuneja tavallisille hyökkäyksille, sähkölle ja kylmälle. Tulivahinko nielaistaan ja parantaa menetetyn STR:n.

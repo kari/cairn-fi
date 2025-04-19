@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Wyvern
+# Siipilisko (Wyvern)
 
-11 HP, 15 STR, 14 DEX, 13 WIL, stinger (d10)
+11 HP, 15 STR, 14 DEX, 13 WIL, pistin (d10)
 
-- Large, intelligent, winged reptiles. Dwell in any terrain, but favor dry cliffs.
-- Shy away from other creatures, preferring to silently stalk their targets from afar.
-- **Critical Damage**: The victim is impaled and held in place. The wyvern then bites their head off.
+- Suuria ja älykkäitä siivekkäitä matelijoita. Asuvat kaikenlaisissa maastoissa, mutta suosivat kuivia kallioita.
+- Pysyvät kaukana muista olennoista ja mieluummin kyttäävät hiljaa kohdettaan kaukaa.
+- **Kriittinen vahinko**: Uhri lävistetään ja pysyy paikoillaan. Sitten siipilisko puree sen pään irti.

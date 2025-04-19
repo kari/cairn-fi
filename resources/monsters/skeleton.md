@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Skeleton
+# Luuranko (Skeleton)
 
-5 HP, 1 Armor, 8 STR, 13 DEX, 0 WIL, rusty sword (d6) or bow (d6)
+5 HP, 1 Panssari, 8 STR, 13 DEX, 0 WIL, ruosteinen miekka (d6) tai jousi (d8)
 
-- Frequently found serving a master or necromancer, often in groups of 3 or more.
-- Found wearing whatever was on them at the time of their death.
-- If a skeleton is killed and its bones are not scattered, it reforms.
+- Löytyvät usein palvelemassa isäntäänsä tai manaajavelhoa, yleensä kolmen tai useamman ryhmissä.
+- Vaatteina on mitä ikinä niillä oli päällään kuolinhetkellään.
+- Jos luuranko tapetaan eikä sen luita hajoteta, se kokoaa itsensä uudelleen.

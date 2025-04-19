@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Unicorn
+# Yksisarvinen (Unicorn)
 
-6 HP, 14 STR, 12 DEX, 14 WIL, horn (d10, ignores armor)
+6 HP, 14 STR, 12 DEX, 14 WIL, sarvi (d10, ohittaa panssarin)
 
-- Magical horses with a single long horn on their foreheads. Timid, but proud and willful, are seen as divine beings.
-- Their hair is worth a small fortune due to its powerful healing properties.
+- Maagisia hevosia, joilla on yksi pitkä sarvi otsassaan. Arkoja, mutta ylpeitä ja omapäisiä. Nähdään jumalallisina olentoina.
+- Niiden hiukset ovat omaisuuksien arvoisia niiden voimakkaiden parantavien ominaisuuksiensa vuoksi.

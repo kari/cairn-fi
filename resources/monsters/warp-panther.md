@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Warp Panther
+# Poimupantteri (Warp Panther)
 
-8 HP, 13 STR, 16 DEX, 12 WIL, tentacles (d8+d8, _blast_), bite (d10)
+8 HP, 13 STR, 16 DEX, 12 WIL, lonkerot (d8+d8, _räjähdys_), puraisu (d10)
 
-- Grotesque panther-like predators with long razored tentacles growing out of their backs.
-- Resistant to magical attacks. Caster must make a WIL save for the intended effect to succeed.
-- Can teleport a short distance away at will. Hate Blink Dogs.
+- Irvokkaita pantterimaisia petoeläimiä, joiden selästä kasvaa pitkiä, terähampaisia lonkeroita.
+- Vastutuskykyisiä taikahyökkäyksiä vastaan. Loitsijan on tehtävä WIL-pelastusheitto, jotta aiottu vaikutus onnistuu.
+- Voi halutessaan kaukosiirtyä lyhyen matkan päähän. Vihaavat väikekoiria.

@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Cyclops
+# Kyklooppi (Cyclops)
 
-9 HP, 18 STR, 8 DEX, 6 WIL, club (d10)
+9 HP, 18 STR, 8 DEX, 6 WIL, nuija (d10)
 
-- Giant humanoids with a single large eye centered on the face. Dwell in caves and herd small animals.
-- Slow-witted and easily fooled.
+- Jättimäisiä ihmisolentoja, joilla on yksi suuri silmä keskellä kasvoja. Asuvat luolissa ja paimentavat pieneläimiä.
+- Hidasälyisiä ja helposti huijattavia.

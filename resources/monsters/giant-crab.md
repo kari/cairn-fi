@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Giant Crab
+# Jättiläisrapu (Giant Crab)
 
-6 HP, 3 Armor, 14 STR, 3 DEX, 8 WIL, pincers (d8+d8)
+6 HP, 3 Panssari, 14 STR, 3 DEX, 8 WIL, sakset (d8+d8)
 
-- Huge crustaceans that live in coastal areas. 
-- Their pincers ignore non-metallic armor completely.
+- Valtavia äyriäisiä, jotka elävät rannikkoalueilla.
+- Niiden sakset ohittavat ei-metalliset panssarit kokonaan.

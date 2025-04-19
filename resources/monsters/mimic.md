@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Mimic
+# Valekapine (Mimic)
 
-9 HP, 2 Armor, 13 STR, 6 DEX, 12 WIL, bite (d8)
+9 HP, 2 Panssari, 13 STR, 6 DEX, 12 WIL, puraisu (d8)
 
-- Malicious shape shifters that take on the form of inanimate objects commonly found in dungeons.
-- Remain motionless while in disguise, surprising anyone that comes near.
-- The mimic's saliva is extremely sticky and difficult to remove. Alchemists will pay up to 150gp for even the smallest vial.
+- Pahantahtoisia muodonmuuttajia, jotka ottavat luolastoista tavallisesti löytyvien elottomien esineiden muodon.
+- Pysyvät liikkumatta naamioituneena ja yllättävät kaikki lähelle tulevat.
+- Valekapineen sylki on erittäin tahmeaa ja vaikeasti irroitettavaa. Alkemistit maksavat jopa 150gp pienimmästäkin pullosta.

@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Frost Giant 
+# Kuurajättiläinen (Frost Giant)
 
-14 HP, 2 Armor, 18 STR, 9 DEX, 12 WIL, great axe (d12) or longbow (d8)
+14 HP, 2 Armor, 18 STR, 9 DEX, 12 WIL, kahden käden kirves (d12) tai pitkäjousi (d8)
 
-- Colossal, pale-haired humanoids with blueish skin and pale hair. Unharmed by cold and ice. 
-- Excellent trackers, they are often accompanied by dire wolves.
+- Jättiläismäiset vaaleatukkaiset ihmisolennot, joilla on sinertävä iho. Kylmyys ja jää eivät vahingoita.
+- Erinomaisia jäljittäjiä, ja niillä on mukanaan usein alkususia.

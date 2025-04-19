@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Water Elemental
+# Vesielementaali (Water Elemental)
 
-14 HP, 15 STR, 16 DEX, 4 WIL, spray (d8)
+14 HP, 15 STR, 16 DEX, 4 WIL, roiske (d8)
 
-- Rare spirits of lakes, rivers, and seas. 
-- Mundane attacks against the Water Elemental are _impaired_.
-- **Critical Damage**: Target is enveloped by the water and drowns in three rounds.
+- Järvien, jokien ja merien harvinaisia henkiä.
+- Tavanomaiset hyökkäykset vesielementaalia vastaan ovat _heikentyneitä_.
+- **Kriittinen vahinko**: Kohde on veden ympäröimä ja hukkuu kolmessa kierroksessa.

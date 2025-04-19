@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Crypt Guardian
+# Hautakammion vartija (Crypt Guardian)
 
-12 HP, 12 STR, 11 DEX, 14 WIL, ethereal claws (d8+d8)
+12 HP, 12 STR, 11 DEX, 14 WIL, eteeriset kynnet (d8+d8)
 
-- Animated skeletons clothed in billowing robes. Their eye sockets are hypnotically red. Defend crypts and tombs, but will not attack if left undisturbed.
-- Non-magical attacks against them are _impaired_.
-- Can teleport any target in eyesight to a random room nearby.
+- Elävöitettyjä luurankoja, jotka ovat puettu aaltoileviin kaapuihin. Niiden silmäkuopat ovat hypnoottisen punaiset. Puolustavat hautakammioita ja kryptia, mutta eivät hyökkää, jos ne jätetään rauhaan.
+- Ei-maagiset hyökkäykset niitä vastaan ovat _heikentyneitä_.
+- Voi kaukosiirtää minkä tahansa näköpiirissä olevan kohteen satunnaiseen läheiseen huoneeseen.

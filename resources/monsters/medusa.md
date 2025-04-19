@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
 # Medusa
 
-10 HP, 8 STR, 12 DEX, 16 WIL, snake bite (d8)
+10 HP, 8 STR, 12 DEX, 16 WIL, käärmeen puraisu (d8)
 
-- Magical creatures that resemble humanoid women, but have snakes in place of hair. Proud and territorial. 
-- **Gaze**: Those who look into the eyes of the Medusa are quickly turned to stone (its reflection is harmless). Attacks against it are almost normally _impaired_.
-- If severed, a Medusa’s head maintains its powers for a full day.
+- Naisia muistuttavia taikaolentoja, joilla on käärmeitä hiusten sijasta. Ylpeitä ja reviiritietoisia.
+- **Katse**: Meduusan silmiin katsovat muuttuvat nopeasti kiveksi (heijastus on vaaraton). Hyökkäykset sitä vastaan ovat lähes yleensä _heikentyneitä_.
+- Irroitettuna Medusan pää säilyttää voimansa kokonaisen päivän ajan.

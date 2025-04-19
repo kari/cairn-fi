@@ -1,15 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Black Pudding
+# Mustaketto (Black Pudding)
 
-12 HP, 11 STR, 5 DEX, 3 WIL, devouring touch (d8)
+12 HP, 11 STR, 5 DEX, 3 WIL, ahmaiseva kosketus (d8)
 
-- Giant, brainless blobs of black jelly driven only by their insatiable hunger.
-- Moves along walls and across ceilings. Squeeze through holes and cracks with ease.
-- Immune to mundane attacks, save fire. Normal attacks splits the Black Pudding. creating two Puddings that share HP and STR.   
-- **Critical Damage**: Targets wearing non-metallic armor lose 1 point of Armor, and any STR loss to unarmored targets is _permanent_.  
+- Jättimäisiä, aivottomia mustia hyytelömöhkäleitä, joita ohjaa vain niiden kyltymätön nälkä.
+- Liikkuvat seiniä ja kattoja pitkin. Tunkeutuvat helposti reikien ja halkeamien läpi.
+- Immuuni maallisille hyökkäyksille, paitsi tulelle. Normaalit hyökkäykset halkaisevat Mustaketon  luoden kaksi kettoa jotka jakavat HP:n ja STR:n.
+- **Kriittinen vahinko**: Kohteet, joiden panssari ei ole metallista, menettävät 1 Panssaripisteen ja panssaroimattomien kohteiden STR-menetys on _pysyvä_.
 

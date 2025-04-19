@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Ettin
+# Jatuli (Ettin)
 
-10 HP, 16 STR, 8 DEX, 6 WIL, club (d10)
+10 HP, 16 STR, 8 DEX, 6 WIL, nuija (d10)
 
-- The two-headed kin of giants. Prefer caves and underground hovels.
-- Cannot be surprised.
+- Kaksipäinen jättiläisten sukulainen. Suosivat luolia ja maanalaisia hökkeleitä.
+- Ei voi yllättää.

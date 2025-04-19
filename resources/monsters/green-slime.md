@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Green Slime
+# Viherlima (Green Slime)
 
-3 HP, 18 STR, 6 DEX, 3 WIL, acidic touch (d10)
+3 HP, 18 STR, 6 DEX, 3 WIL, happokosketus (d10)
 
-- Large blobs of green slime that stick to walls and ceiling. Immune to all damage except fire.
-- **Drop Attack**: As trap. Deals 1d6 STR damage per round, corroding metal, wood, and flesh. Flesh consumed in this way becomes more Green Slime.
+- Suuria vihreän liman möykkyjä, jotka tarttuvat seiniin ja kattoihin. Immuuni kaikelle muulle vahingolle paitsi tulelle.
+- **Pudotushyökkäys**: Kuten ansa. Aiheuttaa 1d6 STR-vahinkoa kierrosta kohti, syövyttäen metallia, puuta ja lihaa. Näin syödystä lihasta tulee lisää viherlimaa.

@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Fire Giant
+# Tulijättiläinen (Fire Giant)
 
-13 HP, 3 Armor, 17 STR, 8 DEX, 5 WIL, greatsword (d10)
+13 HP, 3 Armor, 17 STR, 8 DEX, 5 WIL, suurmiekka (d10)
 
-- Colossal, red-haired humanoids build their fortresses in or near volcanoes. They are immune to fire and heat.
-- They forge heavy armor made of brass, bronze, or copper and are masters of their craft.
+- Jättiläismäiset punatukkaiset ihmisolennot rakentavat linnoituksiaan tulivuorten sisälle tai niiden läheisyyteen. Ne ovat immuuneja tulelle ja kuumuudelle.
+- Ne takovat raskaita messingistä, pronssista tai kuparista valmistettuja haarniskoja ja ovat käsityönsä mestareita.

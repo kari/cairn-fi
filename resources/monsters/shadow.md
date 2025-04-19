@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Shadow
+# Varjo (Shadow)
 
-14 HP, 1 STR, 18 DEX, 14 WIL, draining touch (d6, ignores armor) 
+14 HP, 1 STR, 18 DEX, 14 WIL, riistävä kosketus (d10, ohittaa panssarin)
 
-- Incorporeal monsters that look like animated shadows. Unharmed by mundane attacks, sleep or mind control.
-- **Critical Damage**: Target loses d4 STR. If reduced to 0 STR, they become a shadow as well.
+- Ruumiittomia hirviöitä, jotka näyttävät eläviltä varjoilta. Tavalliset hyökkäykset, nukutus tai mielenhallinta eivät vaikuta niihin.
+- **Kriittinen vahinko**: Kohde menettää 4d STR-pistettä. Jos STR vähenee nollaan, niistä tulee myös varjo.

@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Foxwoman
+# Kettunainen (Foxwoman)
 
-8 HP, 12 STR, 14 DEX, 15 WIL, claws (d6+d6), bite (d8)
+8 HP, 12 STR, 14 DEX, 15 WIL, kynnet (d6+d6), puraisu (d8)
 
-- Can take the form of a fox or a woman with a hidden fox leg.
-- Immune to attacks from metal weapons.
-- **Critical damage**: Victim is choked unconscious.
+- Voi ottaa ketun tai naisen, jolla on yksi piilotettu ketun jalka, muodon.
+- Immuuni metalliaseiden hyökkäyksille.
+- **Kriittinen vahinko**: Uhri tukehtuu tajuttomaksi.

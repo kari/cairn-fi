@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Hunting Dog
+# Metsästyskoira (Hunting Dog)
 
-3 HP, 4 STR, 12 DEX, 8 WIL, bite (d6)
+3 HP, 4 STR, 12 DEX, 8 WIL, puraisu (d6)
 
-- Domestic canines shaped into ferocious hunters, attacking only at their owner’s command.
-- Track by scent, relentlessly following their target. 
+- Kesyjä koiraeläimiä, jotka on muovattu hurjiksi metsästäjiksi ja jotka hyökkäävät vain omistajansa käskystä.
+- Jäljittävät hajun perusteella, seuraten peräänantamattomasti kohdettaan.

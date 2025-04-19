@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Fire Elemental
+# Tulielementaali (Fire Elemental)
 
-16 HP, 8 STR, 12 DEX, 14 WIL, flare (d10, _blast_), _detachment_
+16 HP, 8 STR, 12 DEX, 14 WIL, soihtu (d10, _räjähdys_), _joukko-osasto_
 
-- Living columns of pure flame capable of changing shape at will.
-- Mundane attacks are ineffective, but water deals d12 STR damage upon contact.
-- **Critical Damage**: The target and all their non-metallic belongings are burnt to a crisp.
+- Puhtaasta liekistä koostuvia eläviä pylväitä, jotka kykenevät muuttamaan muotoaan mielensä mukaan.
+- Tavalliset hyökkäykset ovat tehottomia, mutta vesi aiheuttaa osuessaan d12 STR-vahinkoa.
+- **Kriittinen vahinko**: Kohde ja kaikki sen ei-metalliset tavarat palavat karrelle.

@@ -1,13 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
+# Kuhisevat köynnökset (Creeping Vines)
 
-# Creeping Vines
+8 HP, 10 STR, 12 DEX, 2 WIL, köynnökset (d4, _räjähdys_)
 
-8 HP, 10 STR, 12 DEX, 2 WIL, vines (d4, _blast_)
-
-- Appear as an inert, typical vine. Attacks passing creatures to use their corpses as fertilizer.
-- **Critical Damage**: Target is pulled into the air where they asphyxiate within a few minutes.
+- Esiintyy harmittomana, tyypillisenä köynnöksenä. Hyökkää ohi kulkevien olentojen kimppuun käyttääkseen niiden ruumiita lannoitteena.
+- **Kriittinen vahinko**: Kohde vetäistään ilmaan, jossa se tukehtuu muutamassa minuutissa.

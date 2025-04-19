@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Sphinx
+# Sfinksi (Sphinx)
 
-18 HP, 12 STR, 13 DEX, 18 WIL, claws (d8+d8, _blast_), beak (d10)
+18 HP, 12 STR, 13 DEX, 18 WIL, kynnet (d8+d8, _räjähdys_), nokka (d10)
 
-- Mythical beasts with the upper body and head of a human, the wings of an eagle, and the body of a lion. Immune to magic of any kind.
-- Poses riddles to anyone they meet. Failure to answer correctly is usually met with death. They know almost everything worth knowing.
-- **Roar**: Anyone in earshot must save WIL or flee in fear.
+- Tarunomaisia petoja, joilla on ihmisen ylävartalo ja pää, kotkan siivet ja leijonan vartalo. Immuuni kaikenlaiselle taikomiselle.
+- Esittää arvoituksia kaikille tapaamilleen. Vääristä vastuksista seuraa yleensä kuolema. Ne tietävät lähes kaiken tietämisen arvoisen.
+- **Karjaisu**: Kaikkien kuuloetäisyydellä olevien on tehtävä WIL-pelastusheitto tai paettava peloissaan.

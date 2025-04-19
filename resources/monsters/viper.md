@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Viper
+# Kyykäärme (Viper)
 
-3 HP, 5 STR, 12 DEX, 3 WIL, bite (d6)
+3 HP, 5 STR, 12 DEX, 3 WIL, puraisu (d6)
 
-- Poisonous snakes often found in caves, pits, and other dark places. An antitoxin can be made from their poison sacs.
-- Use heat and smell to track their victims.
-- **Critical Damage**: Target is poisoned, dying in 1d12 hours without a cure.
+- Myrkkykäärmeitä, joita tavataan usein luolissa, kuiluissa ja muissa pimeissä paikoissa. Niiden myrkkypusseista voidaan valmistaa vastamyrkkyä.
+- Aistivat lämpöä ja hajua jäljittääkseen uhriaan.
+- **Kriittinen vahinko**: Kohde saa myrkytyksen ja kuolee 1d12 tunnissa ilman parannuskeinoa.

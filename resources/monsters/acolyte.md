@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Acolyte
+# Alttaripalvelija (Acolyte)
 
-4 HP, 1 Armor, 8 STR, 11 DEX, 14 WIL, ceremonial dagger (d6)
+4 HP, 1 Panssari, 8 STR, 11 DEX, 14 WIL, seremoniallinen tikari (d6)
 
-- Holy servants bound to a particular deity. Typically travel in groups of four or more.
-- Carry a holy symbol (_Ward_ once per day).
+- Tiettyyn jumaluuteen sitoutuneet pyhät palvelijat. Liikkuvat usein neljän tai useamman ryhmissä.
+- Kantaa pyhää tunnusmerkkiä. (_Vartiokuvio_ kerran päivässä).

@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Boggart
+# Peikko (Boggart)
 
 3 HP, 4 STR, 17 DEX, 13 WIL
 
-- Wild, hairy tricksters that prize shiny trinkets above coin.
-- Boggarts have true names that describe their true nature. Knowing these names gives a person control over them.
-- **Magic**: The Boggart can _bring objects to life_,  _sow confusion_, _create magical disguises_, use _telekinesis_, and _teleport_.
+- Villejä, karvaisia huijareita, jotka arvostavat kiiltäviä rihkamaa enemmän kuin rahaa.
+- Peikoilla on nimet, jotka kuvaavat heidän todellista luonnettaan. Ken tietää tämän oikean nimen, voi hallita peikkoa.
+- **Taikuus**: Peikko voi _herättää esineitä henkiin_, _aiheuttaa hämmennystä_, _luoda maagisia valeasuja_, _kaukoliikutella_ ja _kaukosiirtyä_.

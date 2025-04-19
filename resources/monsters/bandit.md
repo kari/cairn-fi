@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Bandit
+# Maantierosvo (Bandit)
 
-4 HP, 1 Armor, 12 STR, 12 DEX, 9 WIL, shortsword (d6) or short bow (d6)
+4 HP, 1 Panssari, 12 STR, 12 DEX, 9 WIL, lyhytmiekka (d6) or lyhytjousi (d6)
 
-- Outlaws who raid settlements, attack ships, or ambush travelers. Groups of four or more are a _detachment_.
-- A detachment always travels with one leader wearing chainmail or similar (2 Armor) and a long sword (d10) or crossbow (d8).
-- **Loyal**: When testing Morale, save using the leader's WIL (13). If the leader dies, the others will flee.
+- Lainsuojattomia, jotka ryöstävät asutuksiin, hyökkäävät laivojen kimppuun tai väijyvät matkaajia. Neljän tai useamman ryhmät ovat _joukko-osasto_.
+- Osasto matkustaa aina yhden johtajan kanssa, jolla on yllään regnaspanssari tai vastaava (2 Panssaria) ja pitkämiekka (d10) tai varsijousi (d8).
+- **Lojaali**: Kun kokeillaan moraalia, tee pelastusheitto käyttäen johtajan WIL:iä (13). Jos johtaja kuolee, muut pakenevat.

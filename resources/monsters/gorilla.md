@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
 # Gorilla
 
-3 HP, 14 STR, 14 DEX, 9 WIL, fists (d8+d8)
+3 HP, 14 STR, 14 DEX, 9 WIL, nyrkit (d8+d8)
 
-- Large, muscular apes that dwell in hot jungles. Highly territorial.
-- **Critical Damage**: Breaks a limb, dealing 1d4 extra STR damage.
+- Suuria, lihaksikkaita apinoita, jotka asuvat kuumissa viidakoissa. Erittäin reviiritietoisia.
+- **Kriittinen vahinko**: Murtaa raajan, aiheuttaen 1d4 ylimääräistä STR-vahinkoa.

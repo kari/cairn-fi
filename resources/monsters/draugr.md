@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
 # Draugr
 
-12 HP, 2 Armor, 15 STR, 9 DEX, 13 WIL, rusty broadsword (d8)
+12 HP, 2 Panssari, 15 STR, 9 DEX, 13 WIL, ruosteinen leveämiekka (d8)
 
-- Undead horror made of withered flesh. Rises from those killed in battle and left to rot.
-- **Critical Damage**: target is instantly killed, only to rise later as a Thrall.
+- Epäkuollut kuihtuneesta lihasta ja nahasta tehty hirvitys. Nousee niistä jotka ovat kuolleet taistelussa ja jätetty mätänemään.
+- **Kriittinen vahinko**: Kohde kuolee välittömästi, mutta nousee myöhemmin sen orjana.

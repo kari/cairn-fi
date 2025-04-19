@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
 # Kraken
 
-16 HP, 15 STR, 13 DEX, 8 WIL, arms (d10, _blast_)
+16 HP, 15 STR, 13 DEX, 8 WIL, lonkerot (d10, _räjähdys_)
 
-- Titanic, eight-armed saltwater monstrosities that build enormous "castles" deep below the ocean.
-- Terrorize ships and coastal cities alike in their obsessive search for building materials.
+- Jättimäisiä kahdeksanlonkeroisia suolaisten vesien hirviöitä jotka rakentavat valtavia "linnoja" meren syvyyksissä.
+- Terrorisoivat niin laivoja kuin rannikkokaupunkejakin etsiessään pakkomielteisesti rakennusmateriaalejaan.

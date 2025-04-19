@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Minotaur
+# Minotauros (Minotaur)
 
-12 HP, 1 Armor, 16 STR, 12 DEX, 8 WIL, two-handed axe (d10) or charge (d12)
+12 HP, 1 Panssari, 16 STR, 12 DEX, 8 WIL, kahden käden kirves (d10) tai ryntäys (d12)
 
-- Large humanoids (typically male) with the head of a bull. Dwell in mazes or dungeons.
-- Extraordinary trackers with an excellent sense of smell and navigation skills. 
+- Kookkaita ihmisolentoja (tyypillisesti miehiä), joilla on härän pää. Asu sokkeloissa tai luolastoissa.
+- Erinomaisia jäljittäjiä, joilla on erinomainen hajuaisti ja suunnistustaito.

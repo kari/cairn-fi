@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Bugbear
+# Ohtohiisi (Bugbear)
 
-8 HP, 1 Armor, 14 STR, 12 DEX, 11 WIL, club (d8)
+8 HP, 1 Panssari, 14 STR, 12 DEX, 11 WIL, nuija (d8)
 
-- Large, goblin-like creatures covered in fur.
-- Prefer stealth and trickery to gain an advantage.
-- Often command parties of like creatures (typically goblins).
+- Suuria hiidenkaltaisia karvaisia olentoja.
+- Suosivat salakavaluutta ja temppuja saadakseen etulyöntiasemaa.
+- Komentavat usein samankaltaisten olentojen (tyypillisesti hiisien) joukkoja.

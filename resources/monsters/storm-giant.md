@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Storm Giant
+# Myrskyjättiläinen (Storm Giant)
 
-18 HP, 2 Armor, 18 STR, 16 DEX, 18 WIL, great sword (d12), _detachment_
+18 HP, 2 Panssari, 18 STR, 16 DEX, 18 WIL, suurmiekka (d12), _joukko-osasto_
 
-- Building-sized humanoids with bronze-hued skin and light-colored hair. Live on the highest mountain peaks and rockiest coastlines.
-- Unharmed by lightning, can summon storm clouds at their will. Can fly with the wind as a their chariot.
-- **Thunderclap**: Deals 4 STR damage against a single target. Targets wearing metal armor take double damage.   
+- Rakennuksen kokoisia ihmisolentoja, joilla on pronssinsävyinen iho ja vaaleat hiukset. Asuvat korkeimmilla vuorenhuipuilla ja kivisimmillä rannikoilla.
+- Salama ei vahingoita, voivat loihtia esiin myrskypilviä halutessaan. Voivat lentää tuuli sotavaunuinaan.
+- **Jyrähdys**: Aiheuttaa 4 STR-vahinkoa yhteen kohteeseen. Metallihaarniskaiset kohteet ottavat vahinkoa kaksinkertaisesti.

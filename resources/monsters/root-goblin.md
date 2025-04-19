@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Root Goblin
+# Juurakkohiisi (Root Goblin)
 
-4 HP, 8 STR, 14 DEX, 8 WIL, spear (d6)
+4 HP, 8 STR, 14 DEX, 8 WIL, keihäs (d6)
 
-- Avoid combat unless they have the advantage (such as greater numbers).
-- Guard their stolen goods to the death.
-- Root Goblins prize spellbooks and are always willing to trade.
+- Välttää taistelua ellei niillä ole etulyöntiasemaa (kuten suurempi vahvuus).
+- Varjelevat varastamiaan tavaroita kuolemaan asti.
+- Juurakkohiidet arvostavat loitsukirjoja ja ovat aina halukkaita vaihtokauppaan.

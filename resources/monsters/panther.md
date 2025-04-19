@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Panther
+# Pantteri (Panther)
 
-4 HP, 11 STR, 14 DEX, 8 WIL, claws (d6+d6)
+4 HP, 11 STR, 14 DEX, 8 WIL, kynnet (d6+d6)
 
-- Dark-furred cats that live in forests and plains. Hunt animals of almost any size, pouncing on unsuspecting targets from on high.
-- **Critical Damage**: Delivers a killing bite to the target's throat, dealing an extra d4 STR damage. 
+- Tummaturkkisia kissaeläimiä, jotka elävät metsissä ja tasangoilla. Mestästävät lähes kaikenkokoisia eläimiä, iskien kyntensä pahaa-aavistamattomiin kohteisiin korkealta käsin.
+- **Kriittinen vahinko**: Puree tappavasti kohteen kurkkuun, aiheuttaen ylimääräisen d4 STR-vahingon.

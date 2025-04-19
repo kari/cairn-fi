@@ -86,7 +86,7 @@ Otetaan esimerkiksi tämä olento:
 #### Kettunainen
 
 Voi ottaa ketun, naisen tai kaksimetriä pitkän kettupäisen muodon.
-_HD 5, Nopeus 120', Panssari 14, Moraali 11, Hyökkäys: +4 d8hp (kynnet, puraisu or tukehdutus)_
+_HD 5, Nopeus 120', Panssari 14, Moraali 11, Hyökkäys: +4 d8hp (kynnet, puraisu tai tukehdutus)_
 - Puolustus: Metalli ei voi vahingoittaa
 - Erikoisuus: Voi halutessaan muuttua ketuksi tai neidoksi, jonka yksi ketunjalka on piilossa (samat ominaisuudet)
 

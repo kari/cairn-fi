@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Chimera
+# Khimaira (Chimera)
 
-10 HP, 14 STR, 11 DEX, 13 WIL, bite (d10)
+10 HP, 14 STR, 11 DEX, 13 WIL, puraisu (d10)
 
-- A flying, sorcerous hybrid of lion, goat, and dragon (pick one).
-- **Dragon's Breath**: The dragon's head spits acid, lightning, or fire depending on its type. d8 STR damage.
+- Lentävä, yliluonnollinen leijonan, vuohen ja lohikäärmeen (valitse yksi) sekasikiö.
+- **Lohikäärmeen henkäys**: Lohikäärmeen pää sylkee happoa, salamoita tai tulta sen tyypistä riippuen. d8 STR-vahinkoa.

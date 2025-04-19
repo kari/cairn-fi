@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Lich
+# Kalmomaagi (Lich)
 
-14 HP, 1 Armor, 8 STR, 8 DEX, 18 WIL, soul dagger (d8)
+14 HP, 1 Panssari, 8 STR, 8 DEX, 18 WIL, sielutikari (d8)
 
-- Powerful sorcerers that paid the ultimate price for immortality: their own life. Now their thirst for power knows no bounds.
-- Maintain unlife by binding themselves to an earthly artifact, which is typically protected by at least d6 other undead servants.
-- Carry up to six of the following spellbooks: _Animate Object_, _Arcane Eye_, _Deafen_, _Disassemble_, _Elemental Wall_, _Frenzy_, _Gate_, _Hover_, _Hatred_, _Identify Owner_, _Knock_, _Pacify_, _Raise Dead_, _Raise Spirit_, _Shield_, _Sleep_, _Smoke Form_, _Telekinesis_, _Telepathy_, _Teleport_, _Vision_, _Wizard Mark_.
+- Voimakkaita taikureita, jotka maksoivat äärimmäisen hinnan kuolemattomuudestaan: oman henkensä. Nyt heidän vallanhimonsa ei tunne rajoja.
+- Ylläpitävät epäelämäänsä sitomalla itsensä maalliseen artefaktiin, jota tyypillisesti suojelee vähintään d6 muuta epäkuollutta palvelijaa.
+- Kantavat mukanaan enintään kuutta seuraavista loitsukirjoista: _Esineen elävöitys_, _Loihtosilmä_, _Kuuroutus_, _Irrottelu_, _Elementaalivalli_, _Raivo_, _Portti_, _Leijailu_, _Vihanpito_, _Omistajan tunnistus_, _Kolkutus_, _Tyynnytys_, _Kuolleista nostatus_, _Hengen herätys_, _Kilpi_, _Nukutus_, _Savumuoto_, _Kaukoliikottelu_, _Telepatia_, _Teleportti_, _Ilmestys_, _Velhonmerkki_.

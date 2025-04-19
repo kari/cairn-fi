@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
 # Naga
 
-6 HP, 1 Armor, 14 STR, 12 DEX, 14 WIL, sword (d6), bite (d10)
+6 HP, 1 Panssari, 14 STR, 12 DEX, 14 WIL, miekka (d6), puraisu (d10)
 
-- Humanoids with the lower body, tail, and neck of snakes. Dwell in hot jungles and temples lost to time.
-- Use cunning and hypnosis to capture other creatures to be enslaved.
-- **Gaze**: A target facing the Naga is hypnotized, falling under its will. Its victims cannot be compelled to violence.
+- Ihmisolentoja, joilla on käärmeen alavartalo, häntä ja kaula. Asuvat kuumissa viidakoissa ja aikojen saatossa unohdetuissa temppeleissä.
+- Käytä oveluutta ja hypnoosia vangitakseen muita olentoja orjikseen.
+- **Katse**: Kohde, joka on kasvokkain Nagan kanssa, tulee hypnotisoiduksi ja joutuu sen tahdon alaiseksi. Sen uhreja ei voida pakottaa väkivaltaan.

@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Mind Lasher
+# Mielipiiskuri (Mind Lasher)
 
-12 HP, 8 STR, 12 DEX, 18 WIL, tentacles (d6, _blast_)
+12 HP, 8 STR, 12 DEX, 18 WIL, lonkerot (d6, _räjähdys_)
 
-- Humanoid creatures with purple skin and squid-like heads. Dwell deep underground or in spacefaring vessels. Feed on the brains of other humanoids, absorbing their memories and life essence. Highly intelligent, but evil beyond belief.
-- **Mind Blast**: Nearby targets must save WIL or lose 1d4 WIL and become paralyzed.
-- **Critical Damage**: A tentacle rips the victim's brain out of their skull.
+- Ihmisolentoja, joilla on violetti nahka ja kalmarinkaltaiset päät. Asuvat syvällä maan alla tai avaruusaluksissa. Syövät muiden ihmisenkaltaisten aivoja, imien niiden muistot ja elonaineksen. Erittäin älykkäitä, mutta uskomattoman pahoja.
+- **Mielenhävitys**: Lähellä olevien kohteiden on tehtävä WIL-pelastusheitto tai menetettävä 1d4 WIL ja halvaannuttava.
+- **Kriittinen vahinko**: Lonkero repii uhrin aivot irti sen kallosta.

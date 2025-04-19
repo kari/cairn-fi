@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Vampire
+# Vampyyri (Vampire)
 
-12 HP, 1 Armor, 14 STR, 12 DEX, 16 WIL, bite (d10)
+12 HP, 1 Panssari, 14 STR, 12 DEX, 16 WIL, puraisu (d10)
 
-- Charming, undead creatures that drink the blood of mortals. Act at night and sleep in a coffin during the day. Can change into a bat at will.
-- **Regeneration**: A damaged vampire regains 6 HP when it bites a target that has blood. If killed, it becomes a cloud of gas and retreats to its coffin, reforming at the next nightfall. Can only be killed if exposed to sunlight or if the coffin is destroyed.
-- **Critical Damage**: The vampire drains the target's essence, dealing d12 damage to WIL. If the target reaches 0 WIL this way, it dies and is raised as a thrall of the vampire.
+- Hurmaavia, epäkuolleita olentoja, jotka juovat kuolevaisten verta. Liikkuvat öisin ja nukkuvat päivisin arkussa. Voivat muuttua halutessaan lepakoksi.
+- **Uudennus**: Vahingoittunut vampyyri saa takaisin 6 HP:ta, kun se puraisee kohdetta, jossa on verta. Jos se tapetaan, se muuttuu kaasupilveksi ja vetäytyy takaisin arkkuunsa, uudentuen seuraavan iltahämärän aikaan. Voidaan tappaa vain, jos se altistuu auringonvalolle tai jos arkku tuhotaan.
+- **Kriittinen vahinko**: Vampyyri imee kohteen elonainesta, aiheuttaen d12 WIL-vahinkoa. Jos kohteen WIL-arvo saavuttaa tällä tavoin 0, se kuolee ja nousee vampyyrin orjana.

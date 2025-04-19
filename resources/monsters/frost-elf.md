@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Frost Elf
+# Pakkashaltija (Frost Elf)
 
-14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6)
+14 HP, 1 Panssari, 8 STR, 13 DEX, 14 WIL, jääpuikkotikari (d6)
 
-- Beautiful, amoral, and long-lived.
-- Resistant to most forms of magic.
-- Can cast the following spells at will: _Sleep_, _Teleport_, _Detect Magic_.
+- Kaunis, moraaliton ja pitkäikäinen.
+- Vastustuskykyinen useimpia taikuuden muotoja vastaan.
+- Voi käyttää seuraavia loitsuja halutessaan: _Nukutus_, _Teleportti_, _Taikuuden paljastus_.

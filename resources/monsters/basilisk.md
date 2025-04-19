@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Basilisk
+# Basiliski (Basilisk)
 
-10 HP, 1 Armor, 12 STR, 13 DEX, 13 WIL, bite (d10)
+10 HP, 1 Panssari, 12 STR, 13 DEX, 13 WIL, puraisu (d10)
 
-- Long, serpentine lizards that nest deep below the earth or in brambles just underfoot. 
-- Fighting a **Basilisk** without meeting its gaze is difficult. (Attacks facing it are _impaired_.)
-- **Gaze**: A target facing the Basilisk is slowly petrified from the bottom up and completely frozen after three rounds. An antidote can be brewed from the Basilisk's gizzards. The creature's reflection is harmless.
+- Pitkiä, käärmemäisiä liskoja, jotka pesivät syvälle maan alle tai pensaisiin aivan jalkojen juureen.
+- Taisteleminen **basiliskia** vastaan kohtaamatta sen katsetta on vaikeaa. (Edestäpäin tehdyt hyökkäykset ovat _heikentyneitä_.)
+- **Katse**: Basiliskia päin oleva kohde kivettyy hitaasti alhaalta ylöspäin ja jähmettyy täysin kolmen kierroksen jälkeen. Vastalääkettä voidaan keittää basiliskin mahalaukusta. Olennon heijastus on vaaraton.

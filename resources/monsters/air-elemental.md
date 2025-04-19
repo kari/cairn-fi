@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Air Elemental
+# Ilmaelementaali (Air Elemental)
 
-16 HP, 11 STR, 15 DEX, 8 WIL, _detachment_
+16 HP, 11 STR, 15 DEX, 8 WIL, _irrottaminen_
 
-- Living vortexes of whirling air and gas. Lighter creatures are swept away by their mere presence.
-- **Whirlwind**: All nearby targets that fail a STR save are blown away. 
+- Eläviä ilma- ja kaasupyörteitä. Niiden pelkkä paikallaolo on tarpeeksi pyyhkäisemään kevyemmät olennot ilmaan.
+- **Tuulenpyörre**: Tuuli lennättää pois kaikki läheiset kohteet, jotka epäonnistuvat STR-pelastusheitossa.

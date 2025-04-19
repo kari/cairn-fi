@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Wight
+# Marras (Wight)
 
-12 HP, 3 Armor, 16 STR, 8 DEX, 12 WIL, longsword (d10)
+12 HP, 3 Armor, 16 STR, 8 DEX, 12 WIL, pitkämiekka (d10)
 
-- Grotesque, fallen warriors, raised from death for ill purpose. Often astride equally nightmarish steeds, leading lesser undead creatures into battle.
-- **Critical Damage**: On a fail, any STR loss is permanent.
+- Kaatuneiden sotureiden irvikuvia, jotka on herätetty kuolemasta pahoja tarkoituksia varten. Ratsastaa usein yhtä painajaismaisten ratsujen selässä johtaen vähäisempiä epäkuolleita olentoja kohti taistelua.
+- **Kriittinen vahinko**: Jos epäonnistut, STR-menetys on pysyvä.

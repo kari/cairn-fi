@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Sky Giant
+# Taivasjättiläinen (Sky Giant)
 
-12 HP, 1 Armor, 16 STR, 12 DEX, 14 WIL, mace (d10), _detachment_
+12 HP, 1 Panssari, 16 STR, 12 DEX, 14 WIL, sotanuija (d10), _joukko-osasto_
 
-- Towering, white-skinned giants that live in castles high in the mountains.
-- Missile attacks against them are _impaired_ due to the powerful winds surrounding them.
+- Korkealle kohoavia, valkoihoisia jättiläisiä, jotka asuvat linnoissaan korkealla vuoristojen huipuilla.
+- Vasamahyökkäykset heitä vastaan _heikentyvät_ niitä ympäröivien voimakkaiden tuulien vuoksi.

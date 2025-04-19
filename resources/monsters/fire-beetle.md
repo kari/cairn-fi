@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Fire Beetle
+# Tulikuoriainen (Fire Beetle)
 
-2 HP, 1 Armor, 4 STR, 14 DEX, 3 WIL, bite (d6)
+2 HP, 1 Panssari, 4 STR, 14 DEX, 3 WIL, puraisu (d6)
 
-- Dog-sized beetles that make their home deep underground. 
-- Their organs produce a brilliant slime that glows for several days, making them highly valuable to alchemists and artists alike. 
+- Koiran kokoisia kovakuoriaisia, jotka asuvat syvällä maan alla.
+- Niiden elimet tuottavat loistavaa limaa, joka hehkuu useita päiviä, mikä tekee niistä erittäin arvokkaita sekä alkemisteille että taiteilijoille.

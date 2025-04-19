@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
 # Hydra
 
-12 HP, 2 Armor, 13 STR, 7 DEX, 12 WIL, bite (d12, _blast_), _detachment_
+12 HP, 2 Panssari, 13 STR, 7 DEX, 12 WIL, puraisu (d12, _räjähdys_), _joukko-osasto_
 
-- Large reptilians with nine serpentine heads. Very difficult to throw off once their quarry is detected.
-- On taking **Critical Damage**, the hydra loses one head. It then continues fighting until no heads remains.
+- Suuria matelijoita, joilla on yhdeksän käärmeen päätä. Erittäin vaikea päästä eroon, kun ne ovat havainneet saaliinsa.
+- Ottaessaan **kriittistä vahinkoa** hydra menettää yhden pään. Se jatkaa sitten taistelua, kunnes yhtään päätä ei ole jäljellä.

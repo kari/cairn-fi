@@ -1,11 +1,11 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Halfling
+# Puolituinen (Halfling)
 
-4 HP, 8 STR, 14 DEX, 14 WIL, shortsword (d6)
+4 HP, 8 STR, 14 DEX, 14 WIL, lyhytmiekka (d6)
 
-- Small humanoids with hairy feet live in small settlements. Highly resistant to mental attacks.
+- Pieniä karvajalkaisia ihmisolioita, jotka asuvat pienissä yhdyskunnissa. Erittäin vastustuskykyisiä henkisiä hyökkäyksiä vastaan.

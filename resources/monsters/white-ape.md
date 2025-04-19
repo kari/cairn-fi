@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# White Ape
+# Valkoapina (White Ape)
 
-6 HP, 14 STR, 15 DEX, 12 WIL, claws (d6+d6), rocks (d6, _blast_)
+6 HP, 14 STR, 15 DEX, 12 WIL, kynnet (d6+d6), kivet (d6, _räjähdys_)
 
-- Nocturnal gorillas covered in snow-white hair.
-- Defend their territory with threatening gestures followed by sudden violence.
+- Yöaikaan liikkuvia, lumivalkoisen karvan peittämiä gorilloita.
+- Puolustaa reviiriään uhkaavilla eleillä, joita seuraa äkillinen väkivalta.

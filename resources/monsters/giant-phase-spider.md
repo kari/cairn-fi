@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Giant Phase Spider
+# Jättiläishäilyhämähäkki (Giant Phase Spider)
 
-6 HP, 13 STR, 14 DEX, 12 WIL, bite (d6), _detachment_
+6 HP, 13 STR, 14 DEX, 12 WIL, puraisu (d6), _joukko-osasto_
 
-- 8’ long, black spiders that have the ability to become intangible. Dwell in web-filled lairs and sometimes prey on humans.
-- Can freely shift in and out of its current plane, phasing back to attack. It cannot phase out again until its next turn. 
-- **Critical Damage**: Without specialist healing the target begins to slowly phase out of reality over 1d6 days.
+- 2,5 metriä pitkiä mustia hämähäkkejä, joilla on kyky muuttua aineettomiksi. Asuvat verkojen peittämissä pesissä ja joskus saalistavat ihmisiä.
+- Voi vapaasti siirtyä nykyiseen sfääriinsä ja sieltä pois, häilyten takaisin hyökkäykseen. Se ei voi vaihtaa sfääriä uudelleen ennen kuin vasta seuraavalla vuorollaan.
+- **Kriittinen vahinko**: Ilman asiantuntijan parantamista kohde alkaa hitaasti häilyä pois todellisuudesta 1d6 päivän aikana.

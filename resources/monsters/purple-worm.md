@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Purple Worm
+# Purppuramato (Purple Worm)
 
-18 HP, 1 Armor, 18 STR, 8 DEX, 6 WIL, bite (d12), _detachment_
+18 HP, 1 Panssari, 18 STR, 8 DEX, 6 WIL, puraisu (d12), _joukko-osasto_
 
-- Gargantuan worms that lair in enormous burrows deep underground, only coming to the surface to eat. Found in high deserts and hot tundra.
-- **Critical Damage**: The target is devoured, taking d8 STR damage from the acid in the worm's stomach.
+- Jättimäisiä matoja, jotka majailevat valtavissa koloissa syvällä maan alla ja tulevat pinnalle vain syömään. Löytyvät ylänköaavikoilta ja kuumalta tundralta.
+- **Kriittinen vahinko**: Kohde ahmitaan ja madon vatsahapot aiheuttavat sille d8 STR-vahinkoa.

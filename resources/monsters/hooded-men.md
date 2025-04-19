@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Hooded Men
+# Viittamiehet (Hooded Men)
 
-12 HP, 9 STR, 12 DEX, 14 WIL, leystaff (d8)
+12 HP, 9 STR, 12 DEX, 14 WIL, niittysauva (d8)
 
-- The Watchers of the Wood; a cult that derive their power from leylines, rune stones, and the like.
-- **Critical Damage**: Leech a part of the victim's soul (1d4 WIL damage).
-- Carries two of the following spellbooks: _Charm, Hypnotize, Push/Pull, Shield_.
+- Metsän Vartijat; kultti, joka saa voimansa leylinjoista, riimukivistä ja vastaavista.
+- **Kriittinen vahinko**: Imevät osan uhrin sielusta (1d4 WIL-vahinkoa).
+- Kantavat mukaan kahta seuraavista loitsukirjoista: _Lumous, Hypnotisointi, Sysäys/Veto, Kilpi_.

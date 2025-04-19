@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Lion
+# Leijona (Lion)
 
-5 HP, 12 STR, 12 DEX, 11 WIL, claws (d6+d6)
+5 HP, 12 STR, 12 DEX, 11 WIL, kynnet (d6+d6)
 
-- Carnivorous hunters that live in the savannah or other similarly dry lands.
-- Can follow the scent of blood over great distances.
-- **Critical Damage**: Delivers a killing bite to the throat (d6 STR damage). 
+- Lihaasyöviä metsästäjiä, jotka elävät savannilla tai muilla vastaavilla kuivilla mailla.
+- Pystyy seuraamaan veren tuoksua pitkienkin matkojen päähän.
+- **Kriittinen vahinko**: Puree tappavasti kurkkuun (d6 STR-vahinkoa).

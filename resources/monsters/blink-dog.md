@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Blink Dog
+# Väikekoira (Blink Dog)
 
-5 HP, 11 STR, 14 DEX, 5 WIL, bite (d6)
+5 HP, 11 STR, 14 DEX, 5 WIL, puraisu (d6)
 
-- Teleporting canines in service of a powerful master.
-- Can phase out of reality at will. Melee attacks against them are _impaired_.   
+- Kaukosiirtyviä koiria, jotka palvelevat mahtavaa isäntää.
+- Voivat halutessaan häilyä pois todellisuudesta. Lähitaisteluhyökkäykset niitä vastaan ovat _heikentyneitä_.

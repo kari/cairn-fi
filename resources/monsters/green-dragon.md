@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Green Dragon
+# Vihreä lohikäärme (Green Dragon)
 
-12 HP, 2 Armor, 14 STR, 15 DEX, 18 WIL, bite (d12), _detachment_
+12 HP, 2 Panssari, 14 STR, 15 DEX, 18 WIL, puraisu (d12), _joukko-osasto_
 
-- Forest-dwelling snakes topped with tall green scales. Collect great hoards of treasure.
-- Use intelligence and cunning to manipulate the weak into their service.
-- **Chlorine Gas**: Anyone nearby must make a DEX save to escape its reach or lose 1d4 STR and becomes _deprived_.
+- Metsässä asuvia käärmeitä, joilla pitkät vihreät suomut. Hamstraavat suuria määriä aarteita.
+- Käyttävät älyä ja oveluutta manipuloidakseen heikompia niiden palvelukseen.
+- **Kloorikaasu**: Kaikkien lähistöllä olevien on tehtävä DEX-pelastusheitto paetakseen sen vaikutuspiiristä tai ne menettävät 1d4 STR:ää ja kärsivät _puutostilasta_.

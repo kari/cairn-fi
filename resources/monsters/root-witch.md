@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Root Witch
+# Juurakkonoita (Root Witch)
 
-8 HP, 9 STR, 16 DEX, 14 WIL, tuber-fingers (d6)
+8 HP, 9 STR, 16 DEX, 14 WIL, pottusormet (d6)
 
-- Excellent tunnelers that hide underground near water. Wiggle tiny fronds into the air as lures.
-- Above-ground, appear vaguely humanoid with the face of a rotted tree stump.
-- Will exchange rare minerals for a “fresh corpse” of any kind.
+- Erinomaisia tekemään vesistöjen lähelle maanalaisia tunneleita, joihin piiloutua. Heiluttelevat ilmassa syöttinä pieniä lehtiä.
+- Maan päällä, näyttävä epämääräisen ihmismäisiltä, mutta joiden kasvot ovat kuin mädäntyneen puun kanto.
+- Vaihtavat harvinaisia mineraaleja mihin tahansa "tuoreeseen ruumiiseen".

@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Wolf
+# Susi (Wolf)
 
-6 HP, 12 STR, 14 DEX, 8 WIL, bite (d8)
+6 HP, 12 STR, 14 DEX, 8 WIL, puraisu (d8)
 
-- Large canines that dwell primarily in forest or tundra. 
-- Can be trained with effort if captured at a young age.
+- Kookkaita koiraeläimiä, jotka asuvat pääasiassa metsissä tai tundralla.
+- Voidaan vaivoin kouluttaa, kunhan se on pyydystetty poikasena.

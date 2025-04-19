@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Blue Dragon
+# Sininen lohikäärme (Blue Dragon)
 
-14 HP, 3 Armor, 14 STR, 16 DEX, 15 WIL, bite (d12), claws (d10+d10), _detachment_
+14 HP, 3 Panssari, 14 STR, 16 DEX, 15 WIL, puraisu (d12), kynnet (d10+d10), _joukko_osasto_
 
-- Enormous, centipede-like reptilian creatures that dwells in deserts and rocky drylands. 
-- Proud and vain, they often keep victims as slaves. The more prestigious the better.
-- **Thunderclap**: Deals 4 STR damage against a single target. Targets wearing metal armor take double damage.   
+- Valtavia, tuhatjalkaisia muistuttavia matelijaolentoja, jotka asuvat aavikoilla ja kivisillä kuivilla alueilla.
+- Ylpeitä ja turhamaisia, ne pitävät usein uhrejaan orjina. Mitä arvokkaampia, sitä parempia.
+- **Jyrähdys**: Aiheuttaa 4 STR-vahinkoa yhteen kohteeseen. Metallihaarniskaiset kohteet ottavat vahinkoa kaksinkertaisesti.

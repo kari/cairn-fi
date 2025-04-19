@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Vampire Bat
+# Verivampyyri (Vampire Bat)
 
-3 HP, 6 STR, 14 DEX, 3 WIL, bite (d8)
+3 HP, 6 STR, 14 DEX, 3 WIL, puraisu (d8)
 
-- Large, nocturnal mammals that feed on live blood. 
-- Use echolocation to navigate. Fear loud noises.
-- **Critical Damage**: Target is infected by disease and are _deprived_ without specialist healing.
+- Suuria yönisäkkäitä, jotka syövät elävää verta.
+- Käyttävät kaikuluotainta suunnistukseen. Pelkäävät kovia ääniä.
+- **Kriittinen vahinko**: Kohde on saanut tautitartunnan ja on _puutostilassa_ ilman erikoistunutta parannusta.

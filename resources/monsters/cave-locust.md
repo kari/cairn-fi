@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Cave Locust
+# Luolasirkka (Cave Locust)
 
-2 HP, 6 STR, 12 DEX, 3 WIL, bite (d6)
+2 HP, 6 STR, 12 DEX, 3 WIL, puraisu (d6)
 
-- Giant plant-eating crickets that dwell in caves. Immune to most types of poison.
-- Their natural coloration allows them to blend in with the stone. They emit loud shrieks when threatened.
+- Jättimäisiä kasveja syöviä sirkkoja, jotka asuvat luolissa. Immuuni useimmille myrkkytyypeille.
+- Luonnollisen värinsä ansiosta ne sulautuvat kivistöön. Uhattuina ne päästävät kovaäänisiä huutoja.

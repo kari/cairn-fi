@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Gnome
+# Maahinen (Gnome)
 
-4 HP, 8 STR, 12 DEX, 14 WIL, crossbow (d8, bulky)
+4 HP, 8 STR, 12 DEX, 14 WIL, varsijousi (d8, kookas)
 
-- Short humanoids with long noses and ears.   Live underground or deep in forests.
-- Intelligent tinkers, love messing with any kind of mechanism. Can easily be convinced by the promise of something novel or uncommon.
-- Can understand and communicate with small mammals like moles or squirrels.
+- Lyhyitä ihmisolioita, joilla on pitkät nenät ja korvat.   Elävät maan alla tai syvällä metsissä.
+- Älykkäitä puuhastelijoita, jotka rakastavat kaikenlaisten mekanismien kanssa sorkkimista. Voidaan helposti vakuuttaa lupauksella jostain uutukaisesta tai epätavallisesta.
+- Ymmärtävät ja voivat kommunikoida pienten nisäkkäiden, kuten myyrien tai oravien kanssa.

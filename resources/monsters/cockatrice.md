@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Cockatrice
+# Cocatrix (Cockatrice)
 
-5 HP, 8 STR, 14 DEX, 4 WIL, beak (d6)
+5 HP, 8 STR, 14 DEX, 4 WIL, nokka (d6)
 
-- Small, agile creatures resembling chickens with reptilian features.
-- **Critical Damage**: The target's injured area is covered in stone, which spreads to the rest of their body within three rounds. The stone can be chipped off.
+- Pieniä, ketteriä kanankaltaisia olentoja, joilla on matelijamaisia piirteitä.
+- **Kriittinen vahinko**: Kohteen loukkaantunut alue peittyy kiveen, joka leviää muualle kehoon kolmen kierroksen kuluessa. Kivi voidaan pilkkoa irti.

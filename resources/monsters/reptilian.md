@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Reptilian
+# Lisko-olento (Reptilian)
 
-5 HP, 1 Armor, 14 STR, 12 DEX, 5 WIL, bone spear (d8)
+5 HP, 1 Panssari, 14 STR, 12 DEX, 5 WIL, luukeihäs (d8)
 
-- Amphibian humanoids that live in large tribes near swamps and jungles.
-- Craft their armor and weapons from the bones of their prey. They will eat anything, including humanoids.
+- Maalla ja vedessä asuvia ihmisolentoja, jotka elävät suurissa heimoissa soiden ja viidakoiden läheisyydessä.
+- Valmistavat panssarinsa ja aseensa saaliidensa luista. Ne syövät mitä tahansa, myös ihmisolentoja.

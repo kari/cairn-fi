@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Camel
+# Kameli (Camel)
 
-3 HP, 14 STR, 13 DEX, 4 WIL, bite or kick (d6)
+3 HP, 14 STR, 13 DEX, 4 WIL, puraisu tai potku (d6)
 
-- Beasts of burden native to dry, arid lands.
-- Can survive without water for weeks at a time.
-- Moves through sand and broken ground without difficulty.
+- Kuivilta mailta kotoisin olevia kantojuhtia.
+- Voi selviytyä ilman vettä viikkoja kerrallaan.
+- Liikkuu vaikeuksitta hiekan peittämän tai rikkonaisen maan halki.

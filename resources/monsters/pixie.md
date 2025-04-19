@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Pixie
+# Keiju (Pixie)
 
 3 HP, 3 STR, 15 DEX, 13 WIL
 
-- Tiny humanoids with insectoid wings. Naturally invisible.
-- Can cast _Sleep_ and _Masquerade_ at will.
+- Pikkuruisia ihmisolentoja, joilla on hyönteismaiset siivet. Luonnostaan näkymättömiä.
+- Voi langettaa _Nukutuksen_ ja _Naamioituksen_ halutessaan.

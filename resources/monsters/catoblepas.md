@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Catoblepas
+# Katoblepas (Catoblepas)
 
-7 HP, 1 Armor, 16 STR, 9 DEX, 13 WIL, tail (d8)
+7 HP, 1 Panssari, 16 STR, 9 DEX, 13 WIL, häntä (d8)
 
-- A chimeric monstrosity bearing traits of buffalo, lizard, and boar. Its enormous head is always pointing towards the ground.
-- **Paralyze**: A single target is turned to stone. Moonlight reverses the effect.   
+- Kimeerinen hirviö, jolla on puhvelin, liskon ja villisian piirteitä. Sen valtava pää osoittaa aina kohti maata.
+- **Jähmettyminen**: Yksittäinen kohde muuttuu kiveksi. Kuunvalo kumoaa vaikutuksen.
 

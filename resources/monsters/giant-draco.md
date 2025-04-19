@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Giant Draco
+# Jättiläistraakki (Giant Draco)
 
-6 HP, 14 STR, 14 DEX, 5 WIL, bite (d10)
+6 HP, 14 STR, 14 DEX, 5 WIL, puraisu (d10)
 
-- Tall, carnivorous lizards that glide in the air on flaps of skin.
-- Wait atop tall natural formations to swing down and surprise their unsuspecting targets.
+- Pitkiä lihansyöjäliskoja, jotka liitävät ilmassa nahkapoimujen avulla.
+- Odottavat korkeiden luonnonmuodostelmien päällä heilahtaakseen alaspäin ja yllättääkseen pahaa-aavistamattomat kohteensa.

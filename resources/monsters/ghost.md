@@ -1,12 +1,12 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# Ghost
+# Aave (Ghost)
 
-8 HP, 14 STR, 12 DEX, 15 WIL, life drain (d6)
+8 HP, 14 STR, 12 DEX, 15 WIL, elinvoiman riisto (d6)
 
-- Incorporeal spirits of the restless dead, vulnerable only to magic and specific anointed rites.
-- **Critical Damage**: Target must save WIL or is possessed, acting only on behalf of the ghost's whims.
+- Levottomien kuolleiden aineettomia henkiä, jotka ovat haavoittuvia vain taikuudelle ja tietyille pyhitetyille riiteille.
+- **Kriittinen vahinko**: Kohteen on tehtävä WIL-pelastusheitto tai siitä tulee riivattu ja se käyttäytyy vain aaveen oikkujen mukaan.

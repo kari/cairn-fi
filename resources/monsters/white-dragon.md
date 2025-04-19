@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Hirviöitä
+grand_parent: Lisäaineistot
 ---
 
-# White Dragon
+# Valkoinen lohikäärme (White Dragon)
 
-16 HP, 1 Armor, 16 STR, 16 DEX, 12 WIL, bite (d12), _detachment_
+16 HP, 1 Panssari, 16 STR, 16 DEX, 12 WIL, puraisu (d12), _joukko-osasto_
 
-- A massive winged creature of frost that lairs comfortably in only the coldest regions. 
-- Perpetually accompanied by a storm of ice and wind, the White Dragon is a manifestation of winter itself.
-- **Frost Breath**: Nearby targets must make a DEX save or are frozen solid, their breath turned to icicles in their lungs.
+- Jättimäinen siivekäs pakkasolento, joka majailee mukavasti vain kylmimmillä alueilla.
+- Jatkuvan jäisen ja tuulisen myrskyn ympäröimä valkonen lohikäärme on talven ilmestys.
+- **Pakkasen henkäys**: Läheisten kohteiden on tehtävä DEX-pelastusheitto tai ne jäätyvät paikalleen ja niiden hengitys muuttuu jääpuikoiksi keuhkoissa.
