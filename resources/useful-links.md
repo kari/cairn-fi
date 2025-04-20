@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kolmannen osapuolen linkit
+title: Kolmannen osapuolen linkkejä
 parent: Lisäaineistot
 nav_order: 10
 redirect-from: /third-party-links

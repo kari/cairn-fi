@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Kolmansien osapuolien lisäaineistot
+title: Kolmannen osapuolen lisäaineistoja
 nav_order: 9
 parent: Lisäaineistot
 ---
 
-# Kolmansien osapuolien lisäaineistot
+# Kolmannen osapuolen lisäaineistoja
 
 ## Huomautus
 
