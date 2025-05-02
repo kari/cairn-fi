@@ -4,7 +4,6 @@ title: Lisää muinaisjäänteitä
 parent: Lisäaineistot
 nav_order: 4
 redirect_from: /resources/relics/
-search_exclude: true
 ---
 
 # Lisää muinaisjäänteitä
