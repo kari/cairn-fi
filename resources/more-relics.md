@@ -110,7 +110,7 @@ Seuraavassa on luvalla kopioitu luettelo muinaisjäänteistä eri puolilta verkk
 - Leimaa latauksen kustannuksella ihmeellisen laitteen tai taikaesineen kaaviokuva ja kerää tätä esinettä epämääräisesti muistuttava kasa kiiltävistä kivistä, oljista, ötököistä, sienistä tai vastaavista. Kasa kiinnittyy yhteen ja toimii kuvatunlaisena esineenä noin tunnin ajan. Sitten se romahtaa tuhoisasti.
 - **Lataus**: Anele Suurhiiden edessä ja kuvaile korusanoin, kuinka alempiarvoisia sinä ja toverisi olette hänen mahtavuuteensa nähden. Pyydä häneltä lahjaa - jos hän on vaikuttunut, hän antaa pienen, luultavasti limaisen merkin, jonka voi kiinnittää sinettiin.
 
-### [Ialath'ilta](https://ialath.com/)
+## [Ialath'ilta](https://ialath.com/)
 
 ### Kallokalotti, 1 lataus
 
@@ -161,7 +161,7 @@ Seuraavassa on luvalla kopioitu luettelo muinaisjäänteistä eri puolilta verkk
 - Lapioi kalliota kuin se olisi maata.
 - **Lataus**: Vietä 1 tunti lapioimalla maata sateessa.
 
-### NSR Discordista
+## NSR Discordista
 
 ### Viimeinen henkäys, lyhytmiekka, d8 vahinkoia, 1 lataus
 
