@@ -713,7 +713,7 @@ Koristeellinen, valaan luusta ja hopeafoliosta valmistettu ulosvedettävä kää
 
 - Tummunut kaksiteräinen tikari, jossa on pieni jalokivikahva.
 - Viillä itseäsi terällä ja käytä 1 lataus loihtiaksesi esiin tarka kopio itsestäsi, jolla on kaikki kantamasi varusteet. Se katoaa seuraavana aamu- tai iltahämäränä, riippuen siitä kumpi tulee ensin.
-- Kopio seuraa kaikkia komentojasi. Sillä on kaikki tietosi ja kykysi, ja se toimii enimmäkseen kuten sinä, mutta on vain holtittomampi ja kylmempi.
+- Kopio seuraa kaikkia komentojasi. Sillä on kaikki tietosi ja kykysi, ja se käyttäytyy enimmäkseen kuten sinä, mutta on vain holtittomampi ja kylmempi.
 - **Lataus:** Ruoki nälkäistä petoa tuoreella viattoman ruumiilla ja tapa sitten tämä peto tällä veitsellä.
 
 ### Vallananastajan sormus
