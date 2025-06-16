@@ -877,7 +877,7 @@ Kun hyökkäys vähentää pelaajahahmon HP:n tasan nollaan, se vaikuttaa hänee
 
 - Villi, karvainen huijari, joka nauttii pienenä riesana olemisesta.
 - Arvostaa ennen kaikkea muinaisesineitä ja kiiltävää rihkamaa, mutta ei ole halukas vaihtamaan niitä rahaan.
-- Peikoilla on nimet, jotka kuvaavat heidän todellista luonnettaan. Ken tietää sen oikean nimen, voi hallita peikkoa.
+- Peikoilla on tosinimet, jotka kuvaavat heidän todellista luonnettaan. Ken tietää tosinimen, voi hallita peikkoa.
 
 ### Hirviöiden luominen
 
