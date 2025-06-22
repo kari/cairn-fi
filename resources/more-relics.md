@@ -518,7 +518,7 @@ Koristeellinen, valaan luusta ja hopeafoliosta valmistettu ulosvedettävä kää
 
 ### Linnunminttukurpitsa
 
-- 3 käyttöä. Kalebassisäiliö, joka on täytetty kuivatulla kissaminutlla, harvinaisella yrtillä, jota kaikki linnut pitävät vastustamattomana. Minne tahansa yrttiä ripotellaankin, 30 sekunnin kuluessa kaikki alueen linnut parveilevat paikalle hurjassa vimmassa 5 minuutin ajaksi ja jokainen keskelle joutunut kärsii 1d4 nokinta/raapimisvahinkoa kierrosta kohden, kunnes linnut syövät kaiken linnunmintun tai uhri hyppää veteen, sytyttää itsensä tuleen tai niin edelleen. Linnut pysyvät kuitenkin puolentoista metrin säteellä kurpitsasta ja sen kantajasta.
+- 3 käyttöä. Kalebassisäiliö, joka on täytetty kuivatulla linnunmintulla, harvinaisella yrtillä, jota kaikki linnut pitävät vastustamattomana. Minne tahansa yrttiä ripotellaankin, 30 sekunnin kuluessa kaikki alueen linnut parveilevat paikalle hurjassa vimmassa 5 minuutin ajaksi ja jokainen keskelle joutunut kärsii 1d4 nokinta/raapimisvahinkoa kierrosta kohden, kunnes linnut syövät kaiken linnunmintun tai uhri hyppää veteen, sytyttää itsensä tuleen tai niin edelleen. Linnut pysyvät kuitenkin puolentoista metrin säteellä kurpitsasta ja sen kantajasta.
 - **Lataus**: Linnunminttu kasvaa vain vuorenrinteillä, huippujen alapuolella, joissa roklinnut pesivät.
 
 ### Vartijan ruyi
