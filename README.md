@@ -9,7 +9,7 @@ Cairn on seikkailupeli, jossa tutkitaan pimeää ja salaperäistä Metsää, jok
 
 Pelistä on kaksi laitosta, joiden säännöt ovat keskenään yhteensopivia. Vain pelin [ensimmäinen laitos](/first-edition/cairn-srd/) on tällä hetkellä käännetty suomeksi.
 
-Pelin PDF-version voit ladata ilmaiseksi [Itch.io](https://kartza.itch.io/cairn-fi):sta.
+PDF-version pelistä voit ladata ilmaiseksi [Itch.io](https://kartza.itch.io/cairn-fi):sta.
 
 Pelin koko teksti on lisensoitu [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) -käyttöluvalla.
 
