@@ -422,7 +422,7 @@ Seuraavassa on luvalla kopioitu luettelo muinaisjäänteistä eri puolilta verkk
 
 ### Silmänkääntäjän piippu, 5 latausta
 
-- Pitkä kaareva savupiippu, joka on katkottu päärynäpuun juurista.
+- Pitkä kaareva piippu, joka on katkottu päärynäpuun juurista.
 - Kun poltat piipulla, voit saada savun muuttamaan väriä ja muotoutumaan fantastisiksi muodoiksi (esim. laukkaavat hevoset).
 - Kun poltat piippua ja käytät 1 latauksen, voit puhaltaa savua jonkun silmiin hämmentäen hänet oudoilla väreillä ja muodoilla.
 - **Lataus**: Hiero piippua maahisen nenää vasten.

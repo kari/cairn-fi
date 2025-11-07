@@ -803,7 +803,7 @@ Kun pelaajahahmoon kohdistuva vahinko vähentää hänen HP:nsä tasan nollaan, 
 
 ### Tajuttomuus ja kuolema
 
-Kun hahmo kuolee, pelaaja voi vapaasti luoda uuden hahmon tai ottaa haltuunsa palkkalaisen. Hän liittyy välittömästi seurueeseen, jotta seisokkiaika lyhenee.
+Kun hahmo kuolee, pelaaja voi vapaasti luoda uuden hahmon tai ottaa haltuunsa palkkalainen. Hän liittyy välittömästi seurueeseen, jotta seisokkiaika lyhenee.
 
 ### Joukko-osastot
 
