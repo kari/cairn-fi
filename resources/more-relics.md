@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Lisää muinaisjäänteitä
+title: Lisää muinaisesineitä
 parent: Lisäaineistot
 nav_order: 4
 redirect_from: /resources/relics/
 ---
 
-# Lisää muinaisjäänteitä
+# Lisää muinaisesineitä
 
-Seuraavassa on luvalla kopioitu luettelo muinaisjäänteistä eri puolilta verkkoa.
+Seuraavassa on luvalla kopioitu luettelo muinaisesineistä eri puolilta verkkoa.
 
 ## [Glass Bird Gamesilta](https://glassbirdgames.blogspot.com/)
 
