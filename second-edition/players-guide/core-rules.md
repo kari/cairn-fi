@@ -158,7 +158,7 @@ Jos pelaajahahmoon kohdistuva vahinko vähentäisi hänen HP:nsä tasan nollaan,
 
 **Kääröt** ovat kuin Loitsukirjat, paitsi että:
 
-- Ne ovat _pikkuisia_.
+- Ne ovat _mitättömän_ kokoisia.
 - Ne eivät aiheuta **Väsymystä**.
 - Ne häviävät yhden käyttökerran jälkeen.
 
