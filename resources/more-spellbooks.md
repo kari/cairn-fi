@@ -7,8 +7,7 @@ nav_order: 5
 
 # Lisää loitsukirjoja
 
-Jos Cairnin [perusloitsut](/cairn-srd#100-spells) eivät täsmälleen vastaa etsimääsi, etsi se alla olevasta d666-taulukosta.
-Huomaa, että oletetaan, että vahinkoheitot tehdään HP:ta vastaan, ellei toisin mainita (esim. 1d6 vahinkoa vs. 1d6 STR-menetys).
+Jos Cairnin [perusloitsut](/cairn-srd#100-spells) eivät täsmälleen vastaa etsimääsi, etsi se alla olevasta d666-taulukosta. Huomaa, että oletetaan, että vahinkoheitot tehdään HP:ta vastaan, ellei toisin mainita (esim. 1d6 vahinkoa vs. 1d6 STR-menetys).
 
 |     |                                                         |                                                                                                                                                                                                                           |
 | --- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

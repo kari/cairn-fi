@@ -6,7 +6,7 @@ grand_parent: Lisäaineistot
 
 # Maantierosvo (Bandit)
 
-4 HP, 1 Panssari, 12 STR, 12 DEX, 9 WIL, lyhytmiekka (d6) or lyhytjousi (d6)
+4 HP, 1 Panssari, 12 STR, 12 DEX, 9 WIL, lyhytmiekka (d6) tai lyhytjousi (d6)
 
 - Lainsuojattomia, jotka ryöstävät asutuksiin, hyökkäävät laivojen kimppuun tai väijyvät matkaajia. Neljän tai useamman ryhmät ovat _joukko-osasto_.
 - Osasto matkustaa aina yhden johtajan kanssa, jolla on yllään regnaspanssari tai vastaava (2 Panssaria) ja pitkämiekka (d10) tai varsijousi (d8).
