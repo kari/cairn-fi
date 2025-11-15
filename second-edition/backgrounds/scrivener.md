@@ -23,7 +23,7 @@ Lazlo, Stilo, Akshara, Pisa, Ji-Yun, Kalamos, Hugo, Shui, Kalam, Julius
 - Naskali (d6)
 - Rintamerkki (_mitätön_)
 
-## Minkä teoksen pidit itselläsi? Heitä 1d6.
+## Minkä teoksen pidit itselläsi? Heitä 1d6:
 
 |       |                                                                                                                                                                                                                                                             |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -34,7 +34,7 @@ Lazlo, Stilo, Akshara, Pisa, Ji-Yun, Kalamos, Hugo, Shui, Kalam, Julius
 | **5** | **Katedraali ja katos**. Sidotut suuret pergamenttiarkit. Nimellisesti lasten satukirja, jonka marginaaleissa on yksityiskohtaista tietoa pilvimetsissä matkustamisesta, syömisestä ja nukkumisesta.                                                        |
 | **6** | **Lasien puutarha**. Sidottu toisen kirjan kansiin. Harhaoppinen teos, jossa kuvataan **Portin** avaamiseen tarvittavat materiaalit, menetelmät ja sopivimmat paikat.                                                                                       |
 
-## Miten kopioit arkaluonteisia tietoja? Heitä 1d6.
+## Miten kopioit arkaluonteisia tietoja? Heitä 1d6:
 
 |       |                   |                                                                                                                              |
 | ----- | ----------------- | ---------------------------------------------------------------------------------------------------------------------------- |

@@ -57,8 +57,8 @@ Kun PC:t kohtaavat sivuhahmon, jonka reaktio ryhmää kohtaan ei ole ilmeinen, V
 ## Palkkalaiset
 
 - Seikkailijoiden seurue voi värvätä palkkalaisia, turvautuen heidän ainutlaatuisiin taitoihinsa, tietoihinsa ja koulutukseensa retkikunnan apuna.
-- Luodaksesi palkkalaisen, valitse sopiva rooli Markkinapaikan [Palkkalaiset](/second-edition/players-guide/marketplace#hirelings-per-day)-taulukosta. Heitä 3d6 kutakin ominaisuutta varten ja 1d6 hänen HP:tänsä varten. Anna hänelle asemaansa sopivat **varusteet** ja täydennä häntä sitten hahmonpiirretaulukoiden avulla.
-- Vaihtoehtoisesti voit valita sopivan [**taustan**](/second-edition/players-guide/character-creation#backgrounds) ja **nimen** [Hahmonluonti](/second-edition/players-guide/character-creation)-oppaasta. Heitä (tai valitse) sen taustan taulukoita apuna käyttäen. Heitä sitten muona-annokset, kultarahat, kyvyt, HP ja ikä.
+- Luodaksesi palkkalaisen, valitse sopiva rooli Markkinapaikan [Palkkalaiset](/second-edition/players-guide/marketplace#palkkalaiset-per-päivä)-taulukosta. Heitä 3d6 kutakin ominaisuutta varten ja 1d6 hänen HP:tänsä varten. Anna hänelle asemaansa sopivat **varusteet** ja täydennä häntä sitten hahmonpiirretaulukoiden avulla.
+- Vaihtoehtoisesti voit valita sopivan [**taustan**](/second-edition/players-guide/character-creation#taustat) ja **nimen** [Hahmonluonti](/second-edition/players-guide/character-creation)-oppaasta. Heitä (tai valitse) sen taustan taulukoita apuna käyttäen. Heitä sitten muona-annokset, kultarahat, kyvyt, HP ja ikä.
 
 ## Kohtalon Noppa
 
@@ -81,7 +81,7 @@ Vuorollaan hahmo voi liikkua enintään 12 metriä ja tehdä enintään yhden to
 
 - Hyökkääjä heittää asenoppansa ja vähentää siitä kohteen panssariarvon, ja aiheuttaa sitten jäljelle jäävän määrän vahinkoa vastustajan HP:hen. Hyökkäykset taistelussa osuvat automaattisesti.
 - Jos useampi hyökkääjä hyökkää samaa vihollista vastaan, heitä kaikki vahinkonopat ja pidä korkein tulos. Kaikki toiminnot on ilmoitettava ennen kuin ne ratkaistaan.
-- Jos hyökkäys veisi pelaajahahmon HP:n tasan nollaan, katso [Arvet](#scars-table)-taulukosta, mikä yksilöllinen vaikutus sillä on.
+- Jos hyökkäys veisi pelaajahahmon HP:n tasan nollaan, katso [Arvet](#arpitaulukko)-taulukosta, mikä yksilöllinen vaikutus sillä on.
 
 ### Hyökkäysmuuttujat
 

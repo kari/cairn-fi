@@ -12,8 +12,8 @@ grand_parent: Toinen laitos
 ### Perusteet
 
 - Luolaston tutkimuskierros (ks. alla) on jaettu **Vuorojen**, **Toimien** ja niiden seurauksien tapahtumasarjaan.
-- Hahmo voi **vuorollaan** liikkua soihtunsa valaisemaa aluetta vastaavan matkan (noin 12 metriä) ja suorittaa yhden **toiminnon**. Pelaajat voivat käyttää **toimintonsa** liikkuakseen enintään kolme kertaa tuon matkan verran, vaikka tämä kasvattaakin mahdollisuutta [**Luolaston tapahtumat**](#dungeon-events) -taulukon heitolle.
-- **Vartijan** tulisi kertoa itsestään selvät tiedot alueesta ja sen vaaroista ilman esteitä ja ilman kustannuksia. Nopea tai varomaton liikkuminen voi lisätä mahdollisuutta kohdata vaeltava hirviö, joutua ansaan tai [**Luolaston tapahtumat**](#dungeon-events) -taulukon heitolle.
+- Hahmo voi **vuorollaan** liikkua soihtunsa valaisemaa aluetta vastaavan matkan (noin 12 metriä) ja suorittaa yhden **toiminnon**. Pelaajat voivat käyttää **toimintonsa** liikkuakseen enintään kolme kertaa tuon matkan verran, vaikka tämä kasvattaakin mahdollisuutta [**Luolaston tapahtumat**](#luolaston-tapahtumat) -taulukon heitolle.
+- **Vartijan** tulisi kertoa itsestään selvät tiedot alueesta ja sen vaaroista ilman esteitä ja ilman kustannuksia. Nopea tai varomaton liikkuminen voi lisätä mahdollisuutta kohdata vaeltava hirviö, joutua ansaan tai [**Luolaston tapahtumat**](#luolaston-tapahtumat) -taulukon heitolle.
 
 > Vaikka tässä käytetään termiä "luolasto", se voi tarkoittaa mitä tahansa vaarallista paikkaa (kartanoita, maalaistaloja, seikkailun tapahtumapaikkaa jne.).
 
@@ -21,7 +21,7 @@ grand_parent: Toinen laitos
 
 1. **Vartija** kuvailee mitä seurueen ympärillä on, mukaan lukien mahdolliset välittömät vaarat (taistelu, ansat, yllätykset jne.). Tämän jälkeen pelaajat ilmoittavat hahmojensa aiotut liikkeet ja **toiminnot**.
 2. Vartija ratkaisee jokaisen hahmon **toiminnot** samanaikaisesti, yhdessä jo mahdollisesti käynnissä olevien **toimintojen** kanssa. Muista, että Kohtalon Noppa voi olla hyödyllinen työkalu aina kun Vartija on epävarma!
-3. Pelaajat kirjaavat ylös kaikki resurssien menetykset ja kaikki uudet olotilat (esim. esineiden käyttö, _puutostilat_ jne.). Tämän jälkeen kierros alkaa alusta. Tarvittaessa **Vartijan** tulisi tehdä heitto [**Luolaston tapahtumat**](#dungeon-events) -taulukolla. Pidä maalaisjärki mielessä tuloksia tulkittaessa!
+3. Pelaajat kirjaavat ylös kaikki resurssien menetykset ja kaikki uudet olotilat (esim. esineiden käyttö, _puutostilat_ jne.). Tämän jälkeen kierros alkaa alusta. Tarvittaessa **Vartijan** tulisi tehdä heitto [**Luolaston tapahtumat**](#luolaston-tapahtumat) -taulukolla. Pidä maalaisjärki mielessä tuloksia tulkittaessa!
 
 ### Luolaston tapahtumat
 
@@ -33,11 +33,11 @@ Kun seurue:
 - Siirtyy uudelle alueelle, tasolle tai vyöhykkeelle
 - Aiheuttaa kovaäänisen häiriön
 
-**Tee heitto alla olevaa taulukkoa käyttäen**
+#### Tee heitto alla olevaa taulukkoa käyttäen
 
 |       |                 |                                                                                                                                                 |
 | :---: | :-------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: |
-| **1** | **Kohtaaminen** | Heitä kohtaamistaulukkoa. Mahdollisesti **vihamielinen**. (Katso [Reaktiot](/second-edition/players-guide/core-rules/#reactions).)              |
+| **1** | **Kohtaaminen** | Heitä kohtaamistaulukkoa. Mahdollisesti **vihamielinen**. (Katso [Reaktiot](/second-edition/players-guide/core-rules/#reaktiot).)               |
 | **2** |    **Merkki**   |                                                    Johtolanka, jälki, hylätty piilopaikka, haju, uhri jne. löytyy.                              |
 | **3** |  **Ympäristö**  |                                    Ympäristö muuttuu tai vakavoituu. Vesi nousee, katot romahtavat, rituaali lähestyy loppuaan jne.             |
 | **4** |   **Menetys**   |                                Soihdut sammuvat, käynnissä oleva loitsu raukeaa jne. Seurueen on ratkaistava vaikutus ennen jatkamista.         |
@@ -93,7 +93,7 @@ Kun seurue:
 ### Vahtivuorot
 
 - Päivä on jaettu kolmeen **vahtivuoroon**, joita kutsutaan _aamuksi_, _iltapäiväksi_ ja _yöksi_.
-- Jokainen hahmo voi valita _yhden_ [**Erämaatoiminnon**](#wilderness-actions) per **vahtivuoro**.
+- Jokainen hahmo voi valita _yhden_ [**Erämaatoiminnon**](#toiminnot-erämaassa) per **vahtivuoro**.
 - Jos hahmot jakautuvat, kutakin ryhmää käsitellään itsenäisenä kokonaisuutena.
 
 ### Karttapisteet
@@ -166,14 +166,14 @@ Joka päivä Vartijan tulisi heittää noppaa soveltuvan vuodenajan säätaulukk
 ### Erämaan tutkimiskierros
 
 1. **Vartija** kuvailee nykyisen **pisteen** tai **alueen** kartalla ja kuinka reitti, sää, maasto tai ryhmän tila voivat vaikuttaa **matkanopeuteen**. Seurue suunnittelee tai korjaa tietyn suunnan kohti määränpäätä.
-2. Jokainen seurueen jäsen valitsee yhden **Erämaatoiminnon**. **Vartija** kertoo tulokset ja heittää sitten [**Erämaan tapahtumat**](#wilderness-events) -taulukkoa. Seurue reagoi tulokseen.
+2. Jokainen seurueen jäsen valitsee yhden **Erämaatoiminnon**. **Vartija** kertoo tulokset ja heittää sitten [**Erämaan tapahtumat**](#toiminnot-erämaassa) -taulukkoa. Seurue reagoi tulokseen.
 3. **Pelaajat** ja **Vartija** kirjaavat ylös kaikki resurssien menetykset ja uudet olosuhteet (esim. soihdun käyttö, _puute_ jne.), ja kierros alkaa alusta.
 
 ### Erämaan tapahtumat
 
 |       |                 |                                                                                                                                                                                                                                                                                    |
 | ----- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Kohtaaminen** | Heitä kyseisen maastotyypin tai paikan kohtaamistaulukkoa. Älä unohda tehdä sivuhahmon [reaktioheittoa](/second-edition/players-guide/core-rules.md/#reactions) tarvittaessa.                                                                                                      |
+| **1** | **Kohtaaminen** | Heitä kyseisen maastotyypin tai paikan kohtaamistaulukkoa. Älä unohda tehdä sivuhahmon [reaktioheittoa](/second-edition/players-guide/core-rules.md/#reaktiot) tarvittaessa.                                                                                                       |
 | **2** | **Merkki**      | Seurue löytää vihjeen, jäljen tai merkin läheisestä kohtaamisesta, paikasta, piilotetusta erikoisuudesta tai tietoa lähialueesta.                                                                                                                                                  |
 | **3** | **Ympäristö**   | Muutos säässä tai maastossa.                                                                                                                                                                                                                                                       |
 | **4** | **Menetys**     | Seurue joutuu tekemään valinnan, jonka kustannus on resurssi (muona-annos, työkalu jne.), aikaa tai vaivaa.                                                                                                                                                                        |
@@ -185,12 +185,12 @@ Joka päivä Vartijan tulisi heittää noppaa soveltuvan vuodenajan säätaulukk
 #### Yö
 
 - Seurue voi halutessaan matkustaa yöllä ja levätä päivällä, mutta yöllä matkustaminen on paljon hitaampaa ja petollisempaa!
-- Yöllä matkustaminen on aina vaarallisempaa! **Vartijan** tulisi heittää _kahdesti_ [**Erämaan tapahtumat**](#wilderness-events) -taulukkoa.
+- Yöllä matkustaminen on aina vaarallisempaa! **Vartijan** tulisi heittää _kahdesti_ [**Erämaan tapahtumat**](#erämaan-tapahtumat) -taulukkoa.
 - Joissakin maastoissa ja sääolosuhteissa voi olla helpompi kulkea yöllä (esimerkiksi aavikolla). **Vartijan** tulisi tasapainottaa nämä haasteet yhdessä muiden kanssa.
 
 #### Nukkuminen
 
-- Päivän viimeinen **vahtivuoro** on yleensä varattu [**Leiriytyminen**](#make-camp) -toiminnolle.
+- Päivän viimeinen **vahtivuoro** on yleensä varattu [**Leiriytyminen**](#leiriytyminen) -toiminnolle.
 - Hahmot tarvitsevat tyypillisesti unta joka päivä. Mikä tahansa vähäistä keskeytystä suurempi tapahtuma voi mitätöidä tai kumota unen hyödyt.
 - Jos seurue jättää **Leiriytyminen**-toiminnon väliin, jokainen heistä lisää **Väsymyksen** varusteluetteloonsa ja on _puutteessa_. Lisäksi univajeessa matkustaminen nostaa maaston **vaikeutta** asteella (eli _Helppo_ muuttuu _Vaikeaksi_).
 

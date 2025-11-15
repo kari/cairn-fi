@@ -9,8 +9,8 @@ grand_parent: Toinen laitos
 
 ## Heitä tai valitse tausta
 
-- Heitä nopalla tai valitse ensin alla olevasta [Taustat](#backgrounds)-taulukosta ja merkitse sivunumero muistiin. Parissa seuraavassa vaiheessa viitataan tuohon sivuun.
-- Valitse nimi käytettävissä olevasta luettelosta ja merkitse muistiin sitten jokainen hahmosi aloitusvaruste. Katso kohdat [Varusteluettelo](#inventory) ja [Varustepaikat](#inventory-slots) miten esineistä pidetään kirjaa.
+- Heitä nopalla tai valitse ensin alla olevasta [Taustat](#taustat)-taulukosta ja merkitse sivunumero muistiin. Parissa seuraavassa vaiheessa viitataan tuohon sivuun.
+- Valitse nimi käytettävissä olevasta luettelosta ja merkitse muistiin sitten jokainen hahmosi aloitusvaruste. Katso kohdat [Varusteluettelo](#varusteluettelo) ja [Varustepaikat](#varustepaikat) miten esineistä pidetään kirjaa.
 - Heitä noppaa jokaista taustassa olevaa taulukkoa kohti. Kirjaa hahmosi esineet, taidot tai kyvyt jokaisesta tuloksesta. Jotkut taustat saattavat viitata sinut [Markkinapaikan](/second-edition/players-guide/marketplace) taulukoihin.
 
 ## Taustat
@@ -32,8 +32,8 @@ grand_parent: Toinen laitos
 ## Kyvyt, osumasuojaus ja piirteet
 
 - Heitä hahmosi **Kyvyt** ja **Osumasuojaus**.
-- Heitä loput hahmosi [Piirteistä](#character-traits-d10) ja sitten [Siteet](#bonds) taulukosta.
-- Lopuksi heitä hahmosi **Ikä** (2d20+10). Jos olet _nuorin_ hahmo, heitä [Enteet](#omens)-taulukosta. Tulos olisi luettava ääneen muille pelaajille. Vartijan tulisi sisällyttää Enteitä peliympäristöön parhaaksi katsomallaan tavalla.
+- Heitä loput hahmosi [Piirteistä](#hahmon-piirteet-d10) ja sitten [Siteet](#siteet) taulukosta.
+- Lopuksi heitä hahmosi **Ikä** (2d20+10). Jos olet _nuorin_ hahmo, heitä [Enteet](#enteet)-taulukosta. Tulos olisi luettava ääneen muille pelaajille. Vartijan tulisi sisällyttää Enteitä peliympäristöön parhaaksi katsomallaan tavalla.
 
 ## Kyvyt
 
@@ -43,8 +43,8 @@ grand_parent: Toinen laitos
 
 ## Osumasuojaus
 
-- Heitä 1d6 määrittääksesi pelaajahahmosi alkutason **Osumasuojaus** (HP), joka kuvastaa hänen kykyään välttää vahinkoa taistelussa. Se ei ilmaise hahmon elämää tai voimaa, eikä hän menetä sitä kovin pitkäksi aikaa. Katso [Paraneminen & toipuminen](/second-edition/players-guide/core-rules#healing--recovery).
-- Jos hyökkäys veisi pelaajahahmon HP:n tasan nollaan, pelaajan on tehtävä heitto [**Arvet**](/second-edition/players-guide/core-rules#scars)-taulukkoon.
+- Heitä 1d6 määrittääksesi pelaajahahmosi alkutason **Osumasuojaus** (HP), joka kuvastaa hänen kykyään välttää vahinkoa taistelussa. Se ei ilmaise hahmon elämää tai voimaa, eikä hän menetä sitä kovin pitkäksi aikaa. Katso [Paraneminen & toipuminen](/second-edition/players-guide/core-rules#paraneminen--toipuminen).
+- Jos hyökkäys veisi pelaajahahmon HP:n tasan nollaan, pelaajan on tehtävä heitto [**Arvet**](/second-edition/players-guide/core-rules#arvet)-taulukkoon.
 
 ## Varusteluettelo
 
