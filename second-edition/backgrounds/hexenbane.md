@@ -21,14 +21,14 @@ Percival, Felix, Isolde, Wolfram, Aldric, Eira, Oswin, Ivor, Brunhilda, Beatrix
 - Veljeskunnan vaatetus (_mitätön_)
 - Siunatut rohdosuutteet
 - Hopeaveitsi (d6)
-- Varsijuosi (d8, _kookas_)
+- Varsijousi (d8, _kookas_)
 
 ## Mihin veljeskuntaan kuulut? Heitä 1d6:
 
 |       |                                                                                                                                                                                                                                                                                                                                                   |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Risteysten Veljeskunta**. Ota **Ley-linojen taskuetsin**. Se osoittaa läheisiin ley-linjoihin ja muihin salaperäisten voimien lähteisiin. Jos menetät sen, rangaistuksena on kuolema.                                                                                           |
-| **2** | **Verestävän Tähden Veljeskunta**. Ota **Rautainen piikkinuija** (d8). Se loistaa heikosti pimeässä ja muuttuu hyvin kuumaksi noituuden läsnäollessa.                                                                                                                          |
+| **2** | **Verestävän Tähden Veljeskunta**. Ota **Rautainen piikkinuija** (d8). Se loistaa heikosti pimeässä ja muuttuu hyvin kuumaksi noituuden läsnä ollessa.                                                                                                                         |
 | **3** | **Lasikuvion Veljeskunta**. Ota lyhytmiekka (d8) ja rengaspanssari (2 Panssaria, _kookas_). Sinulla on yhteyshenkilöitä useimmissa kylissä (mitä kauempana, sitä paremmin), jotka ovat valmiita tarjoamaan apua, ruokaa tai jopa aseita. |
 | **4** | **Tyhjän Silmän Veljeskunta**. Ota **Tyhjyyslasin sirpale**. Kurkista sen läpi nähdäksesi näkymättömiä merkkejä, olentoja ja muita maagisia vaikutuksia. Menetät silmäsi käytön tunniksi sen jälkeen (olet _puutteessa_).                                      |
 | **5** | **Ulvaan Veljeskunta**. Kerran päivässä voit muuttua sudeksi. Ota **Elohopeaketju**. Ilman sitä et pysty muuttumaan takaisin.                                                                                                                                                     |

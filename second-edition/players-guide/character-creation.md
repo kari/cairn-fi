@@ -33,7 +33,7 @@ grand_parent: Toinen laitos
 
 - Heitä hahmosi **Kyvyt** ja **Osumasuojaus**.
 - Heitä loput hahmosi [Piirteistä](#character-traits-d10) ja sitten [Siteet](#bonds) taulukosta.
-- Lopuksi, heitä hahmosi **Ikä** (2d20+10). Jos olet _nuorin_ hahmo, heitä [Enteet](#omens)-taulukosta. Tulos olisi luettava ääneen muille pelaajille. Vartijan tulisi sisällyttää Enteitä peliympäristöön parhaaksi katsomallaan tavalla.
+- Lopuksi heitä hahmosi **Ikä** (2d20+10). Jos olet _nuorin_ hahmo, heitä [Enteet](#omens)-taulukosta. Tulos olisi luettava ääneen muille pelaajille. Vartijan tulisi sisällyttää Enteitä peliympäristöön parhaaksi katsomallaan tavalla.
 
 ## Kyvyt
 
@@ -44,19 +44,19 @@ grand_parent: Toinen laitos
 ## Osumasuojaus
 
 - Heitä 1d6 määrittääksesi pelaajahahmosi alkutason **Osumasuojaus** (HP), joka kuvastaa hänen kykyään välttää vahinkoa taistelussa. Se ei ilmaise hahmon elämää tai voimaa, eikä hän menetä sitä kovin pitkäksi aikaa. Katso [Paraneminen & toipuminen](/second-edition/players-guide/core-rules#healing--recovery).
-- Jos hyökkäyys veisi pelaajahahmon HP:n tasan nollaan, pelaajan on tehtävä heitto [**Arvet**](/second-edition/players-guide/core-rules#scars)-taulukkoon.
+- Jos hyökkäys veisi pelaajahahmon HP:n tasan nollaan, pelaajan on tehtävä heitto [**Arvet**](/second-edition/players-guide/core-rules#scars)-taulukkoon.
 
 ## Varusteluettelo
 
 - Hahmoilla on yhteensä kymmenen varustepaikkaa, mutta he voivat kuljettaa vain neljää tai viittä esinettä mukavasti ilman laukkuja, reppuja, hevosia, kärryjä tai muuta sellaista.
 - Jokaisella pelaajahahmolla on aluksi **Reppu**, johon mahtuu enintään kuuden paikan edestä esineitä tai **Väsymystä**. Kärryt (joita on vedettävä molemmilla käsillä), hevoset tai muulit voivat tehdä valtavan eron siihen, kuinka paljon pelaajahahmo voi ottaa mukaansa seikkailuun. **Palkkalaisille** voidaan myös maksaa varusteiden kantamisesta.
-- Varusteluettelo on abstrakti ja riippuu vain tarinankerronasta Vartijan päätösten mukaisesti. Jokaisen, jonka varustepaikat ovat täynnä (eli kaikki 10 paikkaa täyttyvät), HP laskee nollaan. Hahmo ei voi täyttää enempää kuin kymmenen paikkaa.
+- Varusteluettelo on abstrakti ja riippuu vain tarinankerronnasta Vartijan päätösten mukaisesti. Jokaisen, jonka varustepaikat ovat täynnä (eli kaikki 10 paikkaa täyttyvät), HP laskee nollaan. Hahmo ei voi täyttää enempää kuin kymmenen paikkaa.
 
 ### Varustepaikat
 
 - Useimmat esineet vievät yhden paikan, ellei toisin mainita.
 - _Pikkuiset_ esineet eivät vie yhtään paikkaa. _Kookkaat_ esineet vievät **kaksi** paikkaa.
-- Alle 100 gp:n arvoinen kolikkopussi on _mitätön_ eikä se vie paikkaa.
+- Alle 100gp:n arvoinen kolikkopussi on _mitätön_ eikä se vie paikkaa.
 
 ## Hahmon Piirteet (d10)
 
@@ -152,8 +152,8 @@ grand_parent: Toinen laitos
 | **5**   | Vapautit kerran najadin tukkeutuneesta purosta. Vastineeksi se antoi sinulle hieman **hopeasammalta** (_mitätön_). Niele se veden lähellä niin tämä olento tulee, kerran, maksamaan takaisin velkansa.                                        |
 | **6**   | Perit vanhan **päiväkirjan**, joka on sidottu kaarnaan. Joka ilta sen sivut täyttyvät päivän tapahtumista, tylysti kirjoitettuna päiväkirjan näkökulmasta. Kirjoitus on karkeaa mutta täsmällistä.                                                               |
 | **7**   | Suojelet pitkään uinunutta perhesalaisuutta. Ota puolikas **muinaisesta avaimesta** (_mitätön_). Sanotaan, että jos se yhdistetään kaksosensa kanssa, se avaa **Portin** minkä tahansa oven läpi.                                             |
-| **8**   | Sait **kirjeen** (_mitätön_), jossa on kiistaton todiste siitä että todellinen syntyperäsi on keijuaatelia. Viestissä ilmoitetaan myös päivämäärä ja paikka, jossa voit kohdata kirjeen kirjoittajan syvällä Korvessa.                                        |
-| **9**   | Olet suuresti veloisssa eräälle aateliston jäsenelle ja kannat hänen **sinettisormustaan** (_mitätön_) todisteena hänen suojeluksestaan sekä velvollisuuksistasi.                                                                                                             |
+| **8**   | Sait **kirjeen** (_mitätön_), jossa on kiistaton todiste siitä, että todellinen syntyperäsi on keijuaatelia. Viestissä ilmoitetaan myös päivämäärä ja paikka, jossa voit kohdata kirjeen kirjoittajan syvällä Korvessa.                                       |
+| **9**   | Olet suuresti veloissa eräälle aateliston jäsenelle ja kannat hänen **sinettisormustaan** (_mitätön_) todisteena hänen suojeluksestaan sekä velvollisuuksistasi.                                                                                                              |
 | **10**  | Olet niellyt **ilkikurisen hengen**, joka aiheuttaa tuhoa sisuksissasi ja vaatii että viet sen takaisin kotiin, syvälle Korpeen. Se vie yhden paikan, mutta syö yhden **Väsymyksen** joka päivä. Se haluaa pitää sinut elossa (toistaiseksi). |
 | **11**  | Vaeltava tarinankertoja sepitti sinulle kerran tarinoita suuresta aarteesta, joka oli kätketty syvälle Korpeen. Pidit sitä humpuukina, kunnes hän antoi sinulle **rullatun kartan** (_mitätön_), jossa on paikka merkittynä X:llä.            |
 | **12**  | Tapasit matkoillasi kuolemaisillaan olleen metsästäjän, joka pyysi sinua toimittamaan viestin läheisilleen. Ota **kirje** (_mitätön_), joka on sinetöity puunmahlalla. Se on osoitettu ainoastaan **Talven herralle**.                        |
@@ -174,7 +174,7 @@ grand_parent: Toinen laitos
 | **1**   | Joen kerran runsaat ja antoisat vedet ovat muuttuneet mustiksi ja mädäksi, saastuttaen maan ja tehneen sairaiksi siitä juoneet. Kylän vanhin ehdottaa syyksi jonkin viimeaikaisen häpäisyn, mutta useimmat eivät kiinnitä huomiota hänen sanoihinsa.                               |
 | **2**   | Tuntuu kuin talvi olisi saapunut tänä vuonna liian aikaisin, pakkanen ja lumet ilmestyvät paljon odotettua aikaisemmin. Ikkunoiden, lammikoiden ja maan halkeamien huurteessa puhutaan olevan jokin kuvio. Se näyttää ihan kartalta.                               |
 | **3**   | Paksu, luonnoton sumu on alkanut tunkeutua muinaiseen ja pyhään metsikköön. Sen sanotaan olevan suuren metsänhengen, joka on suuttunut läheisestä metsäkadosta, tekosia.                                                                                                           |
-| **4**   | Yötaivas himmenee joka ilta, aivan kuin tähdet katoaisivat yksi kerrallaan. Huhut helvetillisistä maanviljelijöitä kidnappaavista ja Juurikkoon vetävistä olennoista leviävät kulovalkean tavoin. Kylän vanhimmat uskovat näiden kahden asian liittyvät toisiinsa. |
+| **4**   | Yötaivas himmenee joka ilta, aivan kuin tähdet katoaisivat yksi kerrallaan. Huhut helvetillisistä maanviljelijöitä kidnappaavista ja Juuristoon vetävistä olennoista leviävät kulovalkean tavoin. Kylän vanhimmat uskovat näiden kahden asian liittyvät toisiinsa. |
 | **5**   | Korven laululinnut ovat viime aikoina hiljenneet aavemaisesti. Metsästäjät kertovat, että metsässä on nähty vaelteleva aavemainen hahmo, joka katsoo kaihoisasti jokaista kohtaamaansa.                                                                                            |
 | **6**   | Eri puolilta seutua on löydetty outoja, kyyneleenmuotoisia kiviä, mikä on herättänyt eräänlaisen "kultakuumeen" niin koruseppien kuin varkaidenkin keskuudessa. Paikalliset uskovat niiden olevan kyyneleitä maasta itsestään, joka itkee vielä tulossa olevaa suurta tragediaa.   |
 | **7**   | Parveilevat tuholaiset nakertavat unien reunamilla ja maanviljelijät puhuvat kovasta surinasta, joka kuuluu Korven syvyyksistä. He sanovat myös, että ääni lähenee.                                                                                                                |
@@ -184,7 +184,7 @@ grand_parent: Toinen laitos
 | **11**  | Aikoinaan sukupuuttoon kuolleeksi luultu yökukka on leviämässä ympäri Korpea. Sen tuoksu on huumaava mutta aiheuttaa myös voimakkaita painajaisia.                                                                                                                                 |
 | **12**  | Paikallinen karja on viime aikoina muuttunut yhä levottomammiksi ja vauhkoiksi. Vanha paimen sanoo, että se johtuu joka täysikuu Korvesta kantautuvasta järkyttävästä ulvonnasta.                                                                                                  |
 | **13**  | Hyönteisparvet pakenevat sankoin joukoin Korvesta tuhoten kaikki puiset rakenteet, jotka osuvat niiden tielle. Kun ne lentävät yläpuolella, niiden siipien ääni humisee tuttua sävelmää, kuten jotain unohdettua lastenlaulua.                                                     |
-| **14**  | Metsästäjät puhuvat kirouksesta, joka lankeaa jokaiseen joka tappaa pedon, jolla on turkissaan valkoinen raita: pian sen jälkeen heidät löydetään kuolleina kodeistaan. Joka päivä on yhä vähemmän olentoja metsästettäväksi.                                      |
+| **14**  | Metsästäjät puhuvat kirouksesta, joka lankeaa jokaiseen, joka tappaa pedon, jolla on turkissaan valkoinen raita: pian sen jälkeen heidät löydetään kuolleina kodeistaan. Joka päivä on yhä vähemmän olentoja metsästettäväksi.                                     |
 | **15**  | Ihmiset sanovat, että ympäri kaupunkia voi kuulla kaivoista kaikuvaa vaimeaa naurua, ja että kaiku vaihtuu yöllä nyyhkytykseksi.                                                                                                                                                                   |
 | **16**  | Tähdistöt ovat hitaasti alkaneet liikkua yötaivaalla muodostaen vieraita kuvioita, saaden tähtien katselijat ja tietäjät ymmälleen. Jopa eläimet vaikuttavat häiriintyneiltä.                                                                                                      |
 | **17**  | Hiljaisen kylän sydämessä ollut ikivanha puu on yhtäkkiä kuihtunut ja kuollut, vaikka siinä ei ollut mitään merkkejä taudista. Kun sen runko oli kaadettu, sen ytimestä löytyi verinen käsi.                                                                                       |

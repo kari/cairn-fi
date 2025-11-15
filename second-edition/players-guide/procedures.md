@@ -19,7 +19,7 @@ grand_parent: Toinen laitos
 
 ### Luolaston tutkimiskierros
 
-1. **Vartija** kuvailee mitä seurueen ympärillä on, mukaanlukien mahdolliset välittömät vaarat (taistelu, ansat, yllätykset jne.). Tämän jälkeen pelaajat ilmoittavat hahmojensa aiotut liikkeet ja **toiminnot**.
+1. **Vartija** kuvailee mitä seurueen ympärillä on, mukaan lukien mahdolliset välittömät vaarat (taistelu, ansat, yllätykset jne.). Tämän jälkeen pelaajat ilmoittavat hahmojensa aiotut liikkeet ja **toiminnot**.
 2. Vartija ratkaisee jokaisen hahmon **toiminnot** samanaikaisesti, yhdessä jo mahdollisesti käynnissä olevien **toimintojen** kanssa. Muista, että Kohtalon Noppa voi olla hyödyllinen työkalu aina kun Vartija on epävarma!
 3. Pelaajat kirjaavat ylös kaikki resurssien menetykset ja kaikki uudet olotilat (esim. esineiden käyttö, _puutostilat_ jne.). Tämän jälkeen kierros alkaa alusta. Tarvittaessa **Vartijan** tulisi tehdä heitto [**Luolaston tapahtumat**](#dungeon-events) -taulukolla. Pidä maalaisjärki mielessä tuloksia tulkittaessa!
 
@@ -66,13 +66,13 @@ Kun seurue:
 
 - Hahmo, joka on vihollisten ympäröimä, pimeyden peittämä tai joka kohtaa suurimmat pelkonsa, voi kokea _paniikkia_. **WIL** **pelastusheitto** on yleensä tarpeen, jotta vältytään otteen menettämiseltä ja _paniikkiin_ joutumiselta.
 - _Paikoivan_ hahmon on tehtävä **WIL** **pelastusheitto** selvitäkseen olotilastaan **toimintona** omalla **vuorollaan**.
-- _Panikoivalla_ hahmolla on 0 **HP**:ta, hän ei toimi taistelun ensimmäisellä kierroksella ja kaikki hänen hyökkäyksensä ovat _heikentyneitä_.
+- _Panikoivalla_ hahmolla on 0 **HP**:tä, hän ei toimi taistelun ensimmäisellä kierroksella ja kaikki hänen hyökkäyksensä ovat _heikentyneitä_.
 
 ### Luolaston osat
 
 #### Valaistus
 
-- Soihdut ja muut vastaavat valonlähteet valaisevat ympärilleen 12 metriä luolastoa ja sen ulkopuolella näkyy vain hämäriä ääriviivoja esineistä. Soihdut palavat kunnes hahmo tai ympäristö sammuttaa ne.
+- Soihdut ja muut vastaavat valonlähteet valaisevat ympärilleen 12 metriä luolastoa ja sen ulkopuolella näkyy vain hämäriä ääriviivoja esineistä. Soihdut palavat, kunnes hahmo tai ympäristö sammuttaa ne.
 - Soihtu voidaan sytyttää 3 kertaa ennen kuin se hajoaa pysyvästi. Lyhty voidaan sytyttää uudelleen 6 kertaa per öljykannu, mutta se vie enemmän varustepaikkoja.
 - Hahmot, joilla ei ole valonlähdettä, voivat kärsiä _paniikista_, kunnes heidän tilanteensa paranee.
 
@@ -99,7 +99,7 @@ Kun seurue:
 ### Karttapisteet
 
 - Kartan mahdollisia määränpäitä kutsutaan **pisteiksi**.
-- Kahden kartan **pisteen** väliseen matkaan saatta kuluayksi tai useampi **vahtivuoro**, riippuen reitistä, maastosta, säästä ja seurueen tilasta.
+- Kahden kartan **pisteen** väliseen matkaan saattaa kulua yksi tai useampi **vahtivuoro**, riippuen reitistä, maastosta, säästä ja seurueen tilasta.
 - Seurueella on karkea käsitys siitä, millaisia haasteita määränpäähän pääseminen sisältää, mutta harvoin mitään yksityiskohtia.
 
 ### Matkan kesto
@@ -186,7 +186,7 @@ Joka päivä Vartijan tulisi heittää noppaa soveltuvan vuodenajan säätaulukk
 
 - Seurue voi halutessaan matkustaa yöllä ja levätä päivällä, mutta yöllä matkustaminen on paljon hitaampaa ja petollisempaa!
 - Yöllä matkustaminen on aina vaarallisempaa! **Vartijan** tulisi heittää _kahdesti_ [**Erämaan tapahtumat**](#wilderness-events) -taulukkoa.
-- Joissakin maastoissa ja sääolosuhteissa voi olla helpompi kulkea yöllä (esimerkiksi aavikolla). **Vartjian** tulisi tasapainottaa nämä haasteet yhdessä muiden kanssa.
+- Joissakin maastoissa ja sääolosuhteissa voi olla helpompi kulkea yöllä (esimerkiksi aavikolla). **Vartijan** tulisi tasapainottaa nämä haasteet yhdessä muiden kanssa.
 
 #### Nukkuminen
 
@@ -211,7 +211,7 @@ Joka päivä Vartijan tulisi heittää noppaa soveltuvan vuodenajan säätaulukk
 
 - Matka alkaa. Lähialueiden ilmeiset kohteet, piirteet ja maasto paljastetaan niiden etäisyyden mukaan. Tämän toiminnon tekee yleensä koko seurue yhdessä.
 - Seurue heittää 1d6 nähdäkseen, eksyvätkö he matkan varrella. Tämä riski voi kasvaa tai pienentyä riippuen reitin **Vaikeudesta**, kartoista, seurueen taidoista ja oppaista.
-- Jos seurue eksyy, se voi joutua käyttämään **Erämäätoiminnon** löytääkseen takaisin reitille. Muussa tapauksessa seurue saavuttaa reittinsä seuraavan **pisteen**.
+- Jos seurue eksyy, se voi joutua käyttämään **Erämaatoiminnon** löytääkseen takaisin reitille. Muussa tapauksessa seurue saavuttaa reittinsä seuraavan **pisteen**.
 
 > Muista verrata eksymisen tulosta kyseiseen reitin **Vaikeuteen**.
 
@@ -250,15 +250,15 @@ Pelaajahahmot voivat suorittaa yksittäisiä **Merkkipaaluja** tekemällä **Vap
 - **Maine**: Luottaminen hahmon maineeseen, persoonallisuuteen, olemukseen, suhteisiin jne.
 - **Menetys**: Uhrata jotain erityistä ja ainutlaatuista. Sormi, sielu, **Muinaisesine** jne.
 
-Jotkin **Kustannukset** voivat laskea tai jäädä kokonaan huomioimatta hahmon taitojen, yhteyksien tai tahdonvoiman avulla. Pelaajahahmo on esimerkiksi saattanut jo saavuttaa tarvittavan maineen saadakseen pääsyn kuuluisaan laitokseen, jolloin **kustannus** on pienempi. Toisaalta joku toinen hahmo ei ehkä ole yhtä onnekas ja joutuu sen sijaan luottamaan persoonallisuutensa voimaan. Tässä tapauksessa Vartijan tulisi ilmoittaa riskistä (pysyvä pääsykielto, maineen menetys jne.). Tämän jälkeen pelaajahahmo tekee **WIL**-pelastusheiton; jos se onnistuu, kustannus joko pieneee tai siltä vältytään kokonaan.
+Jotkin **Kustannukset** voivat laskea tai jäädä kokonaan huomioimatta hahmon taitojen, yhteyksien tai tahdonvoiman avulla. Pelaajahahmo on esimerkiksi saattanut jo saavuttaa tarvittavan maineen saadakseen pääsyn kuuluisaan laitokseen, jolloin **kustannus** on pienempi. Toisaalta joku toinen hahmo ei ehkä ole yhtä onnekas ja joutuu sen sijaan luottamaan persoonallisuutensa voimaan. Tässä tapauksessa Vartijan tulisi ilmoittaa riskistä (pysyvä pääsykielto, maineen menetys jne.). Tämän jälkeen pelaajahahmo tekee **WIL**-pelastusheiton; jos se onnistuu, kustannus joko pienenee tai siltä vältytään kokonaan.
 
 ## Vapaa-ajan toiminnot
 
-Seuraavat aktiviteetit edustavat joitakin yleisimpiä **Vapaa-ajan toimimtoja**, joita pelaajat voivat valita. **Vartija** voi myös luoda omia toimintoja pelin tarpeiden mukaan.
+Seuraavat aktiviteetit edustavat joitakin yleisimpiä **Vapaa-ajan toimintoja**, joita pelaajat voivat valita. **Vartija** voi myös luoda omia toimintoja pelin tarpeiden mukaan.
 
 ### Tutkimustyö
 
-Pelaajahahmo selvittää kysymystä kadonneesta tai unohdetusta tarusta, kadonneen esineen sijainnista, tärkeän sivuhahmon olinpaikasta ja niin edelleen. Tämän toiminnon suorittaminen edellyttää että pelaajalla on selkeästi muotoiltu kysymys, johon hän haluaa vastauksen, sekä pelimaailman tiedon**lähde**, jonka kanssa hänen hahmonsa voi olla vuorovaikutuksessa. Jos pelaajahahmolla ei ole **Lähdettä**, hän voi käyttää **Vpaa-ajan toiminnon** yrittäessään löytää sellaisen. Ei ole mitään takeita siitä että hän onnistuu. Kun kysymys on esitetty ja sopiva **Lähde** on tunnistettu, **Vartijan** olisi ilmoitettava mahdolliset **Merkkipaalut** ja niihin liittyvät **Kustannukset**.
+Pelaajahahmo selvittää kysymystä kadonneesta tai unohdetusta tarusta, kadonneen esineen sijainnista, tärkeän sivuhahmon olinpaikasta ja niin edelleen. Tämän toiminnon suorittaminen edellyttää, että pelaajalla on selkeästi muotoiltu kysymys, johon hän haluaa vastauksen, sekä pelimaailman tiedon**lähde**, jonka kanssa hänen hahmonsa voi olla vuorovaikutuksessa. Jos pelaajahahmolla ei ole **Lähdettä**, hän voi käyttää **Vapaa-ajan toiminnon** yrittäessään löytää sellaisen. Ei ole mitään takeita siitä, että hän onnistuu. Kun kysymys on esitetty ja sopiva **Lähde** on tunnistettu, **Vartijan** olisi ilmoitettava mahdolliset **Merkkipaalut** ja niihin liittyvät **Kustannukset**.
 
 #### Kysymykset
 
@@ -299,5 +299,5 @@ Hahmo edistää suhdettaan pelimaailman sivuhahmoon tai Ryhmittymään. Ensin he
 **Esimerkkejä:**
 
 - Palattuaan epäonnistuneelta tutkimusretkeltä **Juuristoon**, pelaajahahmo huomaa, että hän oli tietämättään tuonut mukanaan salamatkustajan: silmättömän ahmijan, joka on juuri kuoriutunut. Hän päättää pitää olennon ja kouluttaa sitä salassa.
-- Pelikerran aikana pelaajahahmoo ystävystyy **Kypärän ritarikunnan** edustajan kanssa. Pelaajahahmo on vaikuttunut ritarikunnan arvoista ja kysyy, mitkä ovat jäsenvaatimukset.
+- Pelikerran aikana pelaajahahmo ystävystyy **Kypärän ritarikunnan** edustajan kanssa. Pelaajahahmo on vaikuttunut ritarikunnan arvoista ja kysyy, mitkä ovat jäsenvaatimukset.
 - Voimakkaan ryhmittymän edustaja kuolee **Sammakoiden taistelun** aikana, kun hän oli seurueen huolenpidon alla. Nyt tästä vastuulliset haluavat tarjota hyvitystä, jotta seurue voi jälleen suorittaa tehtäviä kyseiselle ryhmittymälle.

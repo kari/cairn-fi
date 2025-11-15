@@ -7,7 +7,7 @@ grand_parent: Toinen laitos
 
 # Puronkulkija
 
-> Laulusi kertovat tarinoita joista ja järvistä, kykysi on rauhoittaa niin ystäviä kuin luonnonvoimia. Olet nähnyt enemmän kuin useimmat, mutta se ei tunnu kuitenkaan koskaan riittävän.
+> Laulusi kertovat tarinoita joista ja järvistä; kykysi on rauhoittaa niin ystäviä kuin luonnonvoimia. Olet nähnyt enemmän kuin useimmat, mutta se ei tunnu kuitenkaan koskaan riittävän.
 
 ## Nimiä
 
@@ -30,7 +30,7 @@ Gale, Piper, Brook, Adair, Stone, Dale, Wren, Cliff, Rain, Robin
 | **1** | _Nikkaroijan polkka_. Humoristinen satu lahjoja jakelevasta matkustelijasta. Aloita **Ruokopillillä**. Kenen tahansa kuuloetäisyydellä olevan on läpäistävä WIL-pelastusheitto tehdäkseen väkivaltaa.                                              |
 | **2** | _Sylfi ja hänen rakastajansa_. Rietas tarina menetetystä rakkaudesta. Aloita **Tuulisolmulla** (3 latausta). Luo voimakkaan tuulenvireen. **Lataus**: Sido se mastoon myrskyn aikana.           |
 | **3** | _Harpunsoittajan hartaus_. Surullinen, lyhyt tarina muusikosta, joka rakastuu tähteen. Aloita **Taivaallisella luutulla**. Paljastaa tähtikuviot yläpuolellasi, säästä riippumatta.                                                                |
-| **4** | _Ruokokalastaja_. Ylistettu laulu suuresta karpista, joka tuntuu aina pääsevän karkuun. Aloita kelalla **Järvenlankaa** (5 käyttöä). Jokainen kastaminen jokeen takaa saaliin, vaikka se ei ehkä olekaan miellyttävä sellainen. |
+| **4** | _Ruokokalastaja_. Ylistetty laulu suuresta karpista, joka tuntuu aina pääsevän karkuun. Aloita kelalla **Järvenlankaa** (5 käyttöä). Jokainen kastaminen jokeen takaa saaliin, vaikka se ei ehkä olekaan miellyttävä sellainen. |
 | **5** | _Hopeavirran laulu_. Sanaton kehtolaulu, joka jäljittelee virtaavan veden ääntä. Ota **Kivihuilu**, joka voi rauhoittaa melkein minkä tahansa joen.                                                                                                                |
 | **6** | _Rastas ja niitty_. Tunnelmallinen tarina vaihtuvalla kertosäkeistöllä. Aloita **Sulkakynällä** (1 käyttö, _mitätön_). Tällä kynällä piirretty kartta paljastaa nopeimman reitin minkä tahansa kahden pisteen välillä.          |
 

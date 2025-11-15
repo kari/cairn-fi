@@ -22,14 +22,14 @@ grand_parent: Toinen laitos
 
 ## Aseet
 
-|                                                                                    |    |
-| ---------------------------------------------------------------------------------- | -- |
-| Tikari, nuija, sirppi, sauva jne. (d6 vahinkoa) | 5  |
-| Keihäs, miekka, sotanuija, kirves, varsta jne (d8 vahinkoa)     | 10 |
-| Hilpari, sotavasara, pitkämiekka jne (d10 vahinkoa, _kookas_)   | 20 |
-| Linko (d6 vahinkoa)                                             | 5  |
-| Jousi (d6 vahinkoa, _kookas_)                                   | 20 |
-| Varsijuosi (d8 vahinkoa, _kookas_)                              | 30 |
+|                                                                                                   |    |
+| ------------------------------------------------------------------------------------------------- | -- |
+| Tikari, nuija, sirppi, sauva jne. (d6 vahinkoa)                | 5  |
+| Keihäs, miekka, sotanuija, kirves, varsta jne. (d8 vahinkoa)   | 10 |
+| Hilpari, sotavasara, pitkämiekka jne. (d10 vahinkoa, _kookas_) | 20 |
+| Linko (d6 vahinkoa)                                                            | 5  |
+| Jousi (d6 vahinkoa, _kookas_)                                                  | 20 |
+| Varsijousi (d8 vahinkoa, _kookas_)                                             | 30 |
 
 ## Kuljetus
 

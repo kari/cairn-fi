@@ -7,7 +7,7 @@ grand_parent: Toinen laitos
 
 # Salaseppä
 
-> Olet loihtimisen käsityöläinen, hienovaraisten voimien seppä. Työpajasi sulatusuunissa tätä maailmaa sääteleävt lait taittuvat sinun tarpeittesi mukaan.
+> Olet loihtimisen käsityöläinen, hienovaraisten voimien seppä. Työpajasi sulatusuunissa tätä maailmaa säätelevät lait taittuvat sinun tarpeittesi mukaan.
 
 ## Nimiä
 
@@ -35,11 +35,11 @@ Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Jazia
 
 ## Mikä alkemian ihme on nerokkuutesi viimeisin tuote? Heitä 1d6:
 
-|       |                            |                                                                                                                                                                                                                                                                                               |
-| ----- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Itsestäänsyttyvä geeli** | Tahmea vihreä neste, joka syttyy tuleen kun se joutuu ilman kanssa kosketuksiin ja palaa sitten 8 tuntia. Ei voida sammuttaa (1 käyttö).                                                                                                   |
-| **2** | **Räjähdyspallo**          | Räjähdysainejauheella täytetty pään kokoinen rautapallo, joka räjähtää osuessaan (d12, _räjähdys_, _kookas_, 1 käyttö).                                                                                                                                    |
-| **3** | **Akvaviitti**             | Puhdistaa minkä tahansa nesteen, muuttaen sen puhtaaksi vedeksi. Sen juominen parantaa 1d6 STR (1 käyttö).                                                                                                                                 |
-| **4** | **Matkimiskivi**           | Tallentaa lyhyen lauseen, joka voidaan myöhemmin toistaa uudeelleen.                                                                                                                                                                                                          |
-| **5** | **Kipinäpöly**             | Syttyy helposti ja nopeasti. Hyödyllinen sytykkeenä tai palopommina (3 käyttöä).                                                                                                                                                           |
-| **6** | **Homunculus**             | Pienikokoinen savikopio itsestäsi, joka noudattaa jokaista käskyäsi. Se inhoaa olla sinun vallassasi ja valittaa katkerasti aina kun mahdollista. Kaikki homunculukselle aiheutunut vahinko aiheutuu myös sinulle. 3 HP, 4 STR, 13 DEX, 5 WIL |
+|       |                             |                                                                                                                                                                                                                                                                                               |
+| ----- | --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Itsestään syttyvä geeli** | Tahmea vihreä neste, joka syttyy tuleen, kun se joutuu ilman kanssa kosketuksiin ja palaa sitten 8 tuntia. Ei voida sammuttaa (1 käyttö).                                                                                                  |
+| **2** | **Räjähdyspallo**           | Räjähdysainejauheella täytetty pään kokoinen rautapallo, joka räjähtää osuessaan (d12, _räjähdys_, _kookas_, 1 käyttö).                                                                                                                                    |
+| **3** | **Akvaviitti**              | Puhdistaa minkä tahansa nesteen, muuttaen sen puhtaaksi vedeksi. Sen juominen parantaa 1d6 STR (1 käyttö).                                                                                                                                 |
+| **4** | **Matkimiskivi**            | Tallentaa lyhyen lauseen, joka voidaan myöhemmin toistaa uudelleen.                                                                                                                                                                                                           |
+| **5** | **Kipinäpöly**              | Syttyy helposti ja nopeasti. Hyödyllinen sytykkeenä tai palopommina (3 käyttöä).                                                                                                                                                           |
+| **6** | **Homunculus**              | Pienikokoinen savikopio itsestäsi, joka noudattaa jokaista käskyäsi. Se inhoaa olla sinun vallassasi ja valittaa katkerasti aina kun mahdollista. Kaikki homunculukselle aiheutunut vahinko aiheutuu myös sinulle. 3 HP, 4 STR, 13 DEX, 5 WIL |

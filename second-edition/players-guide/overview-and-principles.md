@@ -27,7 +27,7 @@ Nopat eivät aina kuvasta esteen vaikeutta tai sen lopputulosta. Sen sijaan, Var
 
 ### Kasvu
 
-Hahmot muuttuvat pelimaailmassa tapahtuvatn kehityksen myötä ja saavat uusia taitoja ja kykyjä selviytymällä vaarallisista tapahtumista ja päihittämällä esteitä.
+Hahmot muuttuvat pelimaailmassa tapahtuvan kehityksen myötä ja saavat uusia taitoja ja kykyjä selviytymällä vaarallisista tapahtumista ja päihittämällä esteitä.
 
 ### Pelaajien Valinnanvapaus
 
@@ -35,18 +35,18 @@ Pelaajien tulisi aina ymmärtää tekemiensä päätösten syyt, ja tietoa mahdo
 
 ### Periaatteet
 
-Vartijan ja pelaajien tulisi kummallakin olla ohjenuorat jotka auttavat edistämään sellaista pelikokemusta, jota määrittävät kriittinen ajattelu, tutkiskelu ja esiin nouseva tarinankerronta.
+Vartijan ja pelaajien tulisi kummallakin olla ohjenuorat, jotka auttavat edistämään sellaista pelikokemusta, jota määrittävät kriittinen ajattelu, tutkiskelu ja esiin nouseva tarinankerronta.
 
 ### Yhteiset Tavoitteet
 
-Pelaajat viovat luottavaa toisiinsa, että he kaikki osallistuvat yhteiseen ympäristöön, hahmojen tavoitteisiin ja peliryhmän haasteisiin. Näin peliryhmä työskentelee pääsääntöisesti tiiminä yhteisen päämäärän saavuttamiseksi.
+Pelaajat voivat luottavaa toisiinsa, että he kaikki osallistuvat yhteiseen ympäristöön, hahmojen tavoitteisiin ja peliryhmän haasteisiin. Näin peliryhmä työskentelee pääsääntöisesti tiiminä yhteisen päämäärän saavuttamiseksi.
 
 ## Periaatteet Pelaajille
 
 ### Toimijuus
 
 - Kyvyt ja niihin liittyvät pelastusheitot eivät määrittele pelaajahahmoasi. Ne ovat välineitä.
-- Älä mieiti pelkästään mitä hahmosi tekisi; meiti myös mitä itse tekisit.
+- Älä mieti pelkästään mitä hahmosi tekisi; mieti myös mitä itse tekisit.
 - Ole luova vaistosi, esineidesi ja suhteittesi kanssa.
 
 ### Yhteistyö
@@ -67,7 +67,7 @@ Pelaajat viovat luottavaa toisiinsa, että he kaikki osallistuvat yhteiseen ymp�
 
 ### Varovaisuus
 
-- Taistelu on valinta ja harvon viisas sellainen; harkitse onko väkivalta paras tapa saavuttaa tavoitteesi.
+- Taistelu on valinta ja harvoin viisas sellainen; harkitse onko väkivalta paras tapa saavuttaa tavoitteesi.
 - Yritä kerätä todennäköisyydet puolellesi ja peräänny kun tilanne näyttää epäsuotuisalta.
 
 ### Suunnittelu
@@ -88,18 +88,18 @@ Pelaajat viovat luottavaa toisiinsa, että he kaikki osallistuvat yhteiseen ymp�
 - Anna hyödyllistä informaatiota pelimaailmasta sitä mukaa kun pelaajat tutkivat sitä.
 - Pelaajien ei tarvitse heittää noppia saadakseen tietää olosuhteistaan.
 - Ole avulias ja suora vastatessasi heidän kysymyksiinsä.
-- Vastaa rehellisesti, kuvaile johdonmukaisesti ja anna heidän aina tietää että he voivat jatkaa kysymysten esittämistä.
+- Vastaa rehellisesti, kuvaile johdonmukaisesti ja anna heidän aina tietää, että he voivat jatkaa kysymysten esittämistä.
 
-### Vaikeusaste
+### Vaikeus
 
-- Käytä mielummin kontekstia ja realismia kuin numeroita ja mekaniikkoja.
+- Käytä mieluummin kontekstia ja realismia kuin numeroita ja mekaniikkoja.
 - Jos jokin pelaajien haluama on aidosti mahdotonta, mikään heitto ei tule antamaan heidän tehdä sitä.
 - Onko se mitä pelaaja kuvailee ja miten hän käyttää tilannetta hyväkseen järkevää? Anna sen tapahtua.
 - Pelastusheitot kattavat suuren osan epävarmoista tilanteista ja ovat usein kaikki mitä tarvitaan riskialttiisiin tekoihin.
 
 ### Valmistelu
 
-- Pelimaailma on orgaaninen, muovatuvainen ja satunnainen. Se aavistaa ja tekee yllättäviä käänteitä.
+- Pelimaailma on orgaaninen, muovautuvainen ja satunnainen. Se aavistaa ja tekee yllättäviä käänteitä.
 - Käytä satunnaistaulukoita ja -generaattoreita tilanteiden, ei tarinoiden tai juonien, kehittämiseen.
 - Sivuhahmot muistavat mitä pelaajahahmot sanovat ja tekevät ja miten he vaikuttavat maailmaan.
 - Sivuhahmot eivät halua kuolla. Sisällytä jokaiseen persoonallisuuteen heidän oma etunsa ajaminen ja elämänhalunsa.
@@ -113,14 +113,14 @@ Pelaajat viovat luottavaa toisiinsa, että he kaikki osallistuvat yhteiseen ymp�
 ### Vaara
 
 - Pelimaailma aiheuttaa todellisen kivun ja kuoleman vaaran pelaajahahmoille.
-- Paljasta ennakkoon vakava vaara pelaajille kun se on läsnä. Mitä vaarallisempi, sitä ilmeisempi.
+- Paljasta ennakkoon vakava vaara pelaajille, kun se on läsnä. Mitä vaarallisempi, sitä ilmeisempi.
 - Laita ansat näkyville ja anna pelaajille aikaa ratkaisun keksimiseen.
 - Suo pelaajille mahdollisuuksia ratkaista ongelmia ja olla yhteydessä pelimaailman kanssa.
 
 ### Aarteet
 
-- Aarre on sidoksissa siihen ympäristöön josta se on otettu talteen. Se kertoo tarinan.
-- Arteet ovat hyvin arvokkaita, lähes aina kookkaita ja harvoin hyödyllisiä arvonsa ja maineensa lisäksi.
+- Aarre on sidoksissa siihen ympäristöön, josta se on otettu talteen. Se kertoo tarinan.
+- Aarteet ovat hyvin arvokkaita, lähes aina kookkaita ja harvoin hyödyllisiä arvonsa ja maineensa lisäksi.
 - Muinaisesineet eivät ole Aarteita, vaikka ovatkin hyödyllisiä ja mielenkiintoisia.
 - Käytä Aarteita houkuttumina eksoottisiin paikkoihin, jotka ovat pelottavien vihollisten suojaamina.
 

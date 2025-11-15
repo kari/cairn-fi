@@ -7,7 +7,7 @@ grand_parent: Toinen laitos
 
 # Löytölapsi
 
-> Outo syntymämerkki, kummallinen haju: jotenkin _muun_ kosketus viipyy yhä. Missä tahansa oletkin, sinulla on vaikeuksia sopeutua joukkoon. Heitä **Enne**-taulukkoa (vaikka et olisikaan nuorin pelaaja), mutta pidä tulokset toistaiseksi omana tietosani.
+> Outo syntymämerkki, kummallinen haju: jotenkin _muun_ kosketus viipyy yhä. Missä tahansa oletkin, sinulla on vaikeuksia sopeutua joukkoon. Heitä **Enne**-taulukkoa (vaikka et olisikaan nuorin pelaaja), mutta pidä tulokset toistaiseksi omana tietonasi.
 
 ## Nimiä
 
@@ -19,7 +19,7 @@ Faunus, Snowdrop, Wisp, Silverdew, Brim, Solstice, Steeleye, Artea, Gossamer, Ha
 - Muona-annokset (3 käyttöä)
 - Soihtu (3 käyttöä)
 - Suolapussukka
-- Perintökoru (_mitätön_, hehkuu taikuuden läsnäollessa)
+- Perintökoru (_mitätön_, hehkuu taikuuden läsnä ollessa)
 - Linko (d6)
 - Tikari (d6)
 
