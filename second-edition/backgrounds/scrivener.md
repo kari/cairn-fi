@@ -25,22 +25,22 @@ Lazlo, Stilo, Akshara, Pisa, Ji-Yun, Kalamos, Hugo, Shui, Kalam, Julius
 
 ## Minkä teoksen pidit itselläsi? Heitä 1d6.
 
-|       |                                                                                                                                                                                                                                                                                                                                                |
-| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Villi kieli**. Nippu nahkaan sidottuja kääröjä. Uraauurtava teos, joka luetteloi petojen piilotetut kielet ja miten niitä voi ymmärtää.                                                                                                                                                      |
-| **2** | **Äänetön sinfonia**. Sidottu loistavaan kääreeseen. Hyvin harvinainen, se kertoo näkymättömyysmagiaa käyttävien hienovaraisista merkeistä.                                                                                                                                                    |
-| **3** | **Tutkielma syvyyksistä**. Mitäänsanomaton musta kirja. Syventävä, pitkälti teoreettinen teksti, jossa kerrotaan **Juuristosta** sekä sisältää tietoa läheisen **Portin** sijainnista.                                                                                                         |
+|       |                                                                                                                                                                                                                                                             |
+| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Villi kieli**. Nippu nahkaan sidottuja kääröjä. Uraauurtava teos, joka luetteloi petojen piilotetut kielet ja miten niitä voi ymmärtää.                                                                                                                   |
+| **2** | **Äänetön sinfonia**. Sidottu loistavaan kääreeseen. Hyvin harvinainen, se kertoo näkymättömyysmagiaa käyttävien hienovaraisista merkeistä.                                                                                                                 |
+| **3** | **Tutkielma syvyyksistä**. Mitäänsanomaton musta kirja. Syventävä, pitkälti teoreettinen teksti, jossa kerrotaan **Juuristosta** sekä sisältää tietoa läheisen **Portin** sijainnista.                                                                      |
 | **4** | **Tähtivalssi**. Sidottu hienoihin nahkakansiin ja varustettu komeetanmuotoiseen lukolla. Yksityiskohtaiset tähtitieteelliset kartat, taivaankappaleiden liikkeet ja tähtijuhlamenot. Erittäin arvokas (100gp) johtuen sen hyödyllisyydestä matkailijoille. |
-| **5** | **Katedraali ja katos**. Sidotut suuret pergamenttiarkit. Nimellisesti lasten satukirja, jonka marginaaleissa on yksityiskohtaista tietoa pilvimetsissä matkustamisesta, syömisestä ja nukkumisesta.                                                                                           |
-| **6** | **Lasien puutarha**. Sidottu toisen kirjan kansiin. Harhaoppinen teos, jossa kuvataan **Portin** avaamiseen tarvittavat materiaalit, menetelmät ja sopivimmat paikat.                                                                                                                          |
+| **5** | **Katedraali ja katos**. Sidotut suuret pergamenttiarkit. Nimellisesti lasten satukirja, jonka marginaaleissa on yksityiskohtaista tietoa pilvimetsissä matkustamisesta, syömisestä ja nukkumisesta.                                                        |
+| **6** | **Lasien puutarha**. Sidottu toisen kirjan kansiin. Harhaoppinen teos, jossa kuvataan **Portin** avaamiseen tarvittavat materiaalit, menetelmät ja sopivimmat paikat.                                                                                       |
 
 ## Miten kopioit arkaluonteisia tietoja? Heitä 1d6.
 
-|       |                   |                                                                                                                                                              |
-| ----- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | **Valemuste**     | Hehkuu kun sillä kirjoitetaan tosia väitteitä, mutta haalistuu, jos sillä kirjoitetaan valheellisia.                                         |
+|       |                   |                                                                                                                              |
+| ----- | ----------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Valemuste**     | Hehkuu kun sillä kirjoitetaan tosia väitteitä, mutta haalistuu, jos sillä kirjoitetaan valheellisia.                         |
 | **2** | **Salauskivi**    | Pari terävää mustaa kiveä. Kumpikin purkaa toisen kirjoittaman viestin.                                                      |
-| **3** | **Ikisulka**      | Sulkakynä, joka kirjoittaa mille tahansa pinnalle. Tarvitset silti mustetta. _Mitätön_.                      |
-| **4** | **Kuiskauspullo** | Kuiskaa viestisi pulloon, ja se toistaa sen sille, joka sen avaa seuraavaksi.                                                                |
+| **3** | **Ikisulka**      | Sulkakynä, joka kirjoittaa mille tahansa pinnalle. Tarvitset silti mustetta. _Mitätön_.                                      |
+| **4** | **Kuiskauspullo** | Kuiskaa viestisi pulloon, ja se toistaa sen sille, joka sen avaa seuraavaksi.                                                |
 | **5** | **Verevä linssi** | Ottaa verta kohteesta tämän tietämättä. Tippa varastettua verta silmälle laitettuna paljastaa menneen päivän muistot.        |
-| **6** | **Kaikuarkki**    | Tyhjä pergamentti. Sen avaava näkee päivän tekojensa paljastuvan hitaasti tiiviinä raapustuksena. _Mitätön_. |
+| **6** | **Kaikuarkki**    | Tyhjä pergamentti. Sen avaava näkee päivän tekojensa paljastuvan hitaasti tiiviinä raapustuksena. _Mitätön_.                 |
