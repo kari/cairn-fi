@@ -99,7 +99,7 @@ grand_parent: Toinen laitos
 | Peili                                                                               | 5  |
 | Pelit (kortit, nopat jne.)                                                          | 10 |
 | Pergamentti (3 käyttöä)                                                             | 10 |
-| Piikkisaappat                                                                       | 15 |
+| Piikkisaappaat                                                                       | 15 |
 | Piippu (_mitätön_)                                                                  | 15 |
 | Pilli (_mitätön_)                                                                   | 15 |
 | Pukuvarusteet (kasvomaalit, naamioitumisvälineet)                                   | 15 |
