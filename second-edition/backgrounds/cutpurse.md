@@ -31,7 +31,7 @@ Arlo, Lyra, Eamon, Salina, Elara, Freya, Bull, Sparrow, Ivy, Silas
 | **2** | Pankki. (Jäit kiinni.) Sinulla on polttomerkki, joka näkyy vain tulen valossa, ja jokainen sen nähnyt saa pyytää sinulta oluen. Ota **Sisäänvedettävä vaijeri**.                                     |
 | **3** | Killan varasto. Ota **Tikkaat** (_kookkaat_, 3 metriä) ja **Häikäisyjauhe** (1 käyttö).                                                                                                              |
 | **4** | Rahanlainaaja. Joku ehti ennen sinua, mutta jätti jälkeensä _Loihtosilmän_ **Käärön** (_mitätön_). _Loihtosilmä_: Voit nähdä läpi maagisen leijuvan silmämunan, joka lentelee ympäriinsä käskystäsi. |
-| **5** | Suurkonstaapelin asunto. Pakenit, mutta jätit ystäviä jälkeesi. Ota **Vahva silkkiköysi** (9 metriä) ja levoton olo.                                                                                 |
+| **5** | Linnanvoudin asunto. Pakenit, mutta jätit ystäviä jälkeesi. Ota **Vahva silkkiköysi** (9 metriä) ja levoton olo.                                                                                 |
 | **6** | Yliopisto. Sinut nähtiin, mutta sinua ei jahdattu. Et vieläkään tiedä miksi ei. Ota **Savukiekot** (3 käyttöä).                                                                                      |
 
 ## Mikä auttaa sinua varastamisessa? Heitä 1d6:
