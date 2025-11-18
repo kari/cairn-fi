@@ -103,7 +103,7 @@ Pelaajahahmoilla (PC:t) on kolme **Kykyä**:
 ### Palkkalaiset
 
 - Seikkailijoiden seurue voi värvätä palkkalaisia, turvautuen heidän ainutlaatuisiin taitoihinsa, tietoihinsa ja koulutukseensa retkikunnan apuna.
-- Luodaksesi palkkalaisen, valitse sopiva rooli Markkinapaikan [Palkkalaiset](/barebones/marketplace#hirelings-per-day)-taulukosta. Heitä 3d6 kutakin ominaisuutta varten ja 1d6 hänen HP:tänsä varten. Anna hänelle asemaansa sopivat **varusteet** ja täydennä häntä sitten hahmonpiirretaulukoiden avulla.
+- Luodaksesi palkkalaisen, valitse sopiva rooli Markkinapaikan [Palkkalaiset](/barebones/barebones-marketplace#palkkalaiset-per-päivä)-taulukosta. Heitä 3d6 kutakin ominaisuutta varten ja 1d6 hänen HP:tänsä varten. Anna hänelle asemaansa sopivat **varusteet** ja täydennä häntä sitten hahmonpiirretaulukoiden avulla.
 - Vaihtoehtoisesti voit noudattaa [**Hahmon luomisen**](/barebones/character-creation) menettelyä, mutta valitset hahmolle sopivan taustan, nimen ja varusteet.
 
 ### Reaktiot
