@@ -82,13 +82,13 @@ grand_parent: Toinen laitos
 | Jalkapiikit                                                                         | 10 |
 | Karkotteet (ukonhattu, pujo jne.)                                                   | 10 |
 | Kaukoputki                                                                          | 40 |
-| Ketju (10 jalkaa)                                                                   | 10 |
+| Ketju (3 metriä)                                                                   | 10 |
 | Kirja                                                                               | 50 |
 | Kompassi                                                                            | 75 |
 | Korttipakka                                                                         | 5  |
 | Kylpytarvikkeet (saippua, hajuvesi jne.)                                            | 5  |
 | Käsineet (_mitätön_)                                                                | 20 |
-| Köysi (25 jalkaa)                                                                   | 5  |
+| Köysi (8 metriä)                                                                   | 5  |
 | Liitu (_mitätön_)                                                                   | 1  |
 | Loukku (d6 STR-vahinkoa)                                                            | 35 |
 | Lyhty                                                                               | 10 |
@@ -106,7 +106,7 @@ grand_parent: Toinen laitos
 | Rauhoitteet                                                                         | 30 |
 | Retkivarusteet (kiipeilypiikit, väkipyörä jne.)                                     | 10 |
 | Ruoanlaittovälineet (kattilat, ruokailuvälineet jne.)                               | 10 |
-| Seiväs (10 jalkaa)                                                                  | 5  |
+| Seiväs (3 metriä)                                                                  | 5  |
 | Sidetarpeet (3 käyttöä)                                                             | 30 |
 | Soihtu (3 käyttöä)                                                                  | 5  |
 | Säiliöt (säkki, vesileili jne.)                                                     | 10 |

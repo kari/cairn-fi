@@ -38,7 +38,7 @@ grand_parent: Toinen laitos
 ## Kyvyt
 
 - Pelaajahahmoilla (PC:t) on vain kolme kykyä: (**Voimakkuus (STR)**, **Ketteryys (DEX)** ja **Tahdonvoima (WIL)**).
-- Heitä 3d6 jokaiselle hahmosi **Kyvylle**, järjestyksessä. Voit sitten vaihtaa keskenään mitkä tahansa kaksi tulosta keskenään.
+- Heitä 3d6 jokaiselle hahmosi **Kyvylle**, järjestyksessä. Voit sitten vaihtaa keskenään mitkä tahansa kaksi tulosta.
 - Kyvyt eivät ole yleispäteviä kuvauksia. Alhaisen STR:n hahmo ei välttämättä ole toivottoman heikko; hän voi silti yrittää nostaa raskasta ovea tai selvitä hengissä tappavasta taistelusta! Hänellä on vain suurempi riski.
 
 ## Osumasuojaus

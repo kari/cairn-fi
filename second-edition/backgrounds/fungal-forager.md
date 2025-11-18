@@ -19,7 +19,7 @@ Unther, Woozy, Hilda, Current, Leif, Ratan, Mourella, Lal, Per, Madrigal
 - Muona-annokset (3 käyttöä)
 - Teroitettu istutuslapio (d6)
 - Kynttiläkypärä (+1 Panssari, himmeä, 6 käyttöä)
-- Köysi (25 jalkaa)
+- Köysi (8 metriä)
 - Metalliämpäri
 
 ## Minkä oudon sienen löysit? Heitä 1d6:
