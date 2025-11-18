@@ -35,14 +35,14 @@ Kun seurue:
 
 #### Tee heitto alla olevaa taulukkoa käyttäen
 
-|       |                 |                                                                                                                                                                                                       |
-| :---: | :-------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **1** | **Kohtaaminen** | Heitä kohtaamistaulukkoa. Mahdollisesti **vihamielinen**. (Katso [Reaktiot](/second-edition/players-guide/core-rules/#reactions).) |
+|       |                 |                                                                                                                                                                       |
+| :---: | :-------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **1** | **Kohtaaminen** | Heitä kohtaamistaulukkoa. Mahdollisesti **vihamielinen**. (Katso [Reaktiot](/second-edition/players-guide/core-rules/#reaktiot).)                                     |
 | **2** |    **Merkki**   |                                                    Johtolanka, jälki, hylätty piilopaikka, haju, uhri jne. löytyy.                                                    |
 | **3** |  **Ympäristö**  |                                    Ympäristö muuttuu tai vakavoituu. Vesi nousee, katot romahtavat, rituaali lähestyy loppuaan jne.                                   |
 | **4** |   **Menetys**   |                                Soihdut sammuvat, käynnissä oleva loitsu raukeaa jne. Seurueen on ratkaistava vaikutus ennen jatkamista.                               |
-| **5** |   **Uupumus**   |                        Seurueen on levättävä (mikä aiheuttaa toisen heiton tässä taulukossa), lisättävä **Väsymys** tai syötävä muona-annos.                       |
-| **6** |  **Hiljaisuus** |                                                        Seurue on toistaiseksi vielä yksinään (ja turvassa).                                                        |
+| **5** |   **Uupumus**   |                        Seurueen on levättävä (mikä aiheuttaa toisen heiton tässä taulukossa), lisättävä **Väsymys** tai syötävä muona-annos.                          |
+| **6** |  **Hiljaisuus** |                                                        Seurue on toistaiseksi vielä yksinään (ja turvassa).                                                           |
 
 ### Toiminnot
 
@@ -153,14 +153,14 @@ Joka päivä Vartijan tulisi heittää noppaa soveltuvan vuodenajan säätaulukk
 
 #### Sään vaikeusaste
 
-|                      |                                                                                                                                |                                                                 |
-| :------------------: | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------- |
-|        **Sää**       | **Vaikutus**                                                                                                                   | **Esimerkkejä**                                                 |
+|                      |                                                                                                                |                                                                 |
+| :------------------: | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+|        **Sää**       | **Vaikutus**                                                                                                   | **Esimerkkejä**                                                 |
 |      **Mukava**      | Suotuisat olosuhteet matkustamiselle.                                                                          | _Selkeää, aurinkoista_                                          |
 |    **Kohtalainen**   | Suotuisat olosuhteet matkustamiselle.                                                                          | _Pilvistä, tuulista_                                            |
 |       **Huono**      | Lisää **Väsymys** _tai_ lisää yksi **vahtivuoro** matkaan.                                                     | _Puuskittaiset tuulet, sadekuurot, paahtava helle, viileä ilma_ |
-|      **Ankara**      | Lisää **Väsymys** _tai_ lisää **+1 vahtivuoro**. Lisää maaston **vaikeutta** yhdellä asteella. | _Ukkosmyrskyt, salamointi, sade, mutainen maa_                  |
-|    **Äärimmäinen**   | Lisää **Väsymys** _ja_ lisää **+1 vahtivuoro**. Lisää maaston **vaikeutta** yhdellä asteella.  | _Pakkasmyrskyt, jäätävät tuulet, tulvat, mutavyöryt_            |
+|      **Ankara**      | Lisää **Väsymys** _tai_ lisää **+1 vahtivuoro**. Lisää maaston **vaikeutta** yhdellä asteella.                 | _Ukkosmyrskyt, salamointi, sade, mutainen maa_                  |
+|    **Äärimmäinen**   | Lisää **Väsymys** _ja_ lisää **+1 vahtivuoro**. Lisää maaston **vaikeutta** yhdellä asteella.                  | _Pakkasmyrskyt, jäätävät tuulet, tulvat, mutavyöryt_            |
 | **Katastrofaalinen** | Useimmat seurueet eivät voi matkustaa näissä olosuhteissa.                                                     | _Pyörremyrskyt, hyökyaallot, hurrikaani, tulivuorenpurkaus_     |
 
 ### Erämaan tutkimiskierros
@@ -171,14 +171,14 @@ Joka päivä Vartijan tulisi heittää noppaa soveltuvan vuodenajan säätaulukk
 
 ### Erämaan tapahtumat
 
-|       |                 |                                                                                                                                                                                                                                                                                                                                       |
-| ----- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Kohtaaminen** | Heitä kyseisen maastotyypin tai paikan kohtaamistaulukkoa. Älä unohda tehdä sivuhahmon [reaktioheittoa](/second-edition/players-guide/core-rules.md/#reactions) tarvittaessa.                                                                                                                         |
-| **2** | **Merkki**      | Seurue löytää vihjeen, jäljen tai merkin läheisestä kohtaamisesta, paikasta, piilotetusta erikoisuudesta tai tietoa lähialueesta.                                                                                                                                                                                     |
-| **3** | **Ympäristö**   | Muutos säässä tai maastossa.                                                                                                                                                                                                                                                                                          |
+|       |                 |                                                                                                                                                                                                                                                                                    |
+| ----- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Kohtaaminen** | Heitä kyseisen maastotyypin tai paikan kohtaamistaulukkoa. Älä unohda tehdä sivuhahmon [reaktioheittoa](/second-edition/players-guide/core-rules.md/#reactions) tarvittaessa.                                                                                                      |
+| **2** | **Merkki**      | Seurue löytää vihjeen, jäljen tai merkin läheisestä kohtaamisesta, paikasta, piilotetusta erikoisuudesta tai tietoa lähialueesta.                                                                                                                                                  |
+| **3** | **Ympäristö**   | Muutos säässä tai maastossa.                                                                                                                                                                                                                                                       |
 | **4** | **Menetys**     | Seurue joutuu tekemään valinnan, jonka kustannus on resurssi (muona-annos, työkalu jne.), aikaa tai vaivaa.                                                                                                                                                                        |
 | **5** | **Uupumus**     | Seurue kohtaa esteen, joka pakottaa ponnistelemaan tai huolehtimaan tai aiheuttaa viivästyksen. Tämä saattaa tarkoittaa ylimääräisen ajan käyttämistä (ja ylimääräistä **Erämaatoimintoa**) tai **Väsymyksen** lisäämistä pelaajahahmon varusteluetteloon merkkinä vaikeuksistaan. |
-| **6** | **Löytö**       | Seurue löytää ruokaa, aarteen tai jotain muita hyödyllisiä resursseja. **Vartija** voi näiden sijaan valita paljastaa alueen tärkeimmän piirteen.                                                                                                                                                     |
+| **6** | **Löytö**       | Seurue löytää ruokaa, aarteen tai jotain muita hyödyllisiä resursseja. **Vartija** voi näiden sijaan valita paljastaa alueen tärkeimmän piirteen.                                                                                                                                  |
 
 ### Erämaan osat
 

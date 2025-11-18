@@ -138,189 +138,188 @@ Heitä hahmosi Piirteet seuraavia taulukoita apuna käyttäen.
 
 |       |               |        |               |
 | ----- | ------------- | ------ | ------------- |
-| **1** | Urheilullinen | **6**  | Ruipelo       |
-| **2** | Lihaksikas    | **7**  | Lyhyt         |
-| **3** | Pyöreä        | **8**  | Veistosmainen |
-| **4** | Hoikka        | **9**  | Tukeva        |
-| **5** | Jykevä        | **10** | Kookas        |
+| **1** | Hoikka        | **6**  | Pyöreä        |
+| **2** | Jykevä        | **7**  | Ruipelo       |
+| **3** | Kookas        | **8**  | Tukeva        |
+| **4** | Lihaksikas    | **9**  | Urheilullinen |
+| **5** | Lyhyt         | **10** | Veistosmainen |
 
 #### Iho
 
-|       |               |        |              |
-| ----- | ------------- | ------ | ------------ |
-| **1** | Syntymämerkki | **6**  | Pehmeä       |
-| **2** | Merkitty      | **7**  | Parkittu     |
-| **3** | Öljyiset      | **8**  | Tatuoitu     |
-| **4** | Ruusuinen     | **9**  | Kulunut      |
-| **5** | Arpinen       | **10** | Verkkomainen |
+|       |               |        |               |
+| ----- | ------------- | ------ | ------------- |
+| **1** | Arpinen       | **6**  | Ruusuinen     |
+| **2** | Kulunut       | **7**  | Syntymämerkki |
+| **3** | Merkitty      | **8**  | Tatuoitu      |
+| **4** | Parkittu      | **9**  | Verkkomainen  |
+| **5** | Pehmeä        | **10** | Öljyiset      |
 
 #### Hiukset
 
-|       |           |        |             |
-| ----- | --------- | ------ | ----------- |
-| **1** | Kalju     | **6**  | Pitkät      |
-| **2** | Letitetyt | **7**  | Ylelliset   |
-| **3** | Kiharat   | **8**  | Öljyiset    |
-| **4** | Törkyinen | **9**  | Aaltoilevat |
-| **5** | Pörröiset | **10** | Ohuet       |
+|       |             |        |             |
+| ----- | ----------- | ------ | ----------- |
+| **1** | Aaltoilevat | **6**  | Pitkät      |
+| **2** | Kalju       | **7**  | Pörröiset   |
+| **3** | Kiharat     | **8**  | Törkyinen   |
+| **4** | Letitetyt   | **9**  | Ylelliset   |
+| **5** | Ohuet       | **10** | Öljyiset    |
 
 #### Kasvot
 
-|       |             |        |                |
-| ----- | ----------- | ------ | -------------- |
-| **1** | Luisevat    | **6**  | Täydelliset    |
-| **2** | Rikkinäinen | **7**  | Rempseät       |
-| **3** | Leikatut    | **8**  | Terävät        |
-| **4** | Pitkät      | **9**  | Neliskulmaiset |
-| **5** | Kalpeat     | **10** | Painuneet      |
+|       |                |        |                |
+| ----- | -------------- | ------ | ---------- --- |
+| **1** | Kalpeat        | **6**  | Pitkät         |
+| **2** | Leikatut       | **7**  | Rempseät       |
+| **3** | Luisevat       | **8**  | Rikkonaiset    |
+| **4** | Neliskulmaiset | **9**  | Terävät        |
+| **5** | Painuneet      | **10** | Täydelliset    |
 
 #### Puhe
 
-|       |                  |        |           |
-| ----- | ---------------- | ------ | --------- |
-| **1** | Tyly             | **6**  | Karhea    |
-| **2** | Jyrisevä         | **7**  | Tarkka    |
-| **3** | Arvoituksellinen | **8**  | Kitisevä  |
-| **4** | Horiseva         | **9**  | Änkyttävä |
-| **5** | Muodollinen      | **10** | Kuiskaava |
+|       |                  |        |              |
+| ----- | ---------------- | ------ | ------------ |
+| **1** | Arvoituksellinen | **6**  | Kuiskaava    |
+| **2** | Horiseva         | **7**  | Muodollinen  |
+| **3** | Jyrisevä         | **8**  | Tarkka       |
+| **4** | Karhea           | **9**  | Tyly         |
+| **5** | Kitisevä         | **10** | Änkyttävä    |
 
 #### Vaatetus
 
-|       |             |        |           |
-| ----- | ----------- | ------ | --------- |
-| **1** | Antiikkinen | **6**  | Rähjäinen |
-| **2** | Verinen     | **7**  | Nuhjuinen |
-| **3** | Tyylikäs    | **8**  | Virkapuku |
-| **4** | Törkyinen   | **9**  | Hajuinen  |
-| **5** | Ulkomainen  | **10** | Likainen  |
+|       |             |        |            |
+| ----- | ----------- | ------ | ---------- |
+| **1** | Antiikkinen | **6**  | Tyylikäs   |
+| **2** | Hajuinen    | **7**  | Törkyinen  |
+| **3** | Likainen    | **8**  | Ulkomainen |
+| **4** | Nuhjuinen   | **9**  | Verinen    |
+| **5** | Rähjäinen   | **10** | Virkapuku  |
 
 #### Hyve
 
 |       |                 |        |                |
 | ----- | --------------- | ------ | -------------- |
-| **1** | Kunnianhimoinen | **6**  | Kunniallinen   |
-| **2** | Varovainen      | **7**  | Nöyrä          |
-| **3** | Rohkea          | **8**  | Armelias       |
-| **4** | Kurinalainen    | **9**  | Seesteinen     |
-| **5** | Seurallinen     | **10** | Suvaitsevainen |
+| **1** | Armelias        | **6**  | Rohkea         |
+| **2** | Kunniallinen    | **7**  | Seesteinen     |
+| **3** | Kunnianhimoinen | **8**  | Seurallinen    |
+| **4** | Kurinalainen    | **9**  | Suvaitsevainen |
+| **5** | Nöyrä           | **10** | Varovainen     |
 
 #### Pahe
 
 |       |                |        |                |
 | ----- | -------------- | ------ | -------------- |
 | **1** | Aggressiivinen | **6**  | Laiska         |
-| **2** | Katkera        | **7**  | Hermostunut    |
-| **3** | Pelkurimainen  | **8**  | Töykeä         |
-| **4** | Petollinen     | **9**  | Turhamainen    |
-| **5** | Ahne           | **10** | Kostonhimoinen |
+| **2** | Ahne           | **7**  | Pelkurimainen  |
+| **3** | Hermostunut    | **8**  | Petollinen     |
+| **4** | Katkera        | **9**  | Turhamainen    |
+| **5** | Kostonhimoinen | **10** | Töykeä         |
 
 ## Tausta
 
 Määritä hahmosi tausta ja aloitusvarusteet tekemällä heitto seuraavaa taulukkoa käyttäen:
 
-| d100 | Tausta ja aloitusvarusteet                                                                                                                                                                                                                          |
-| :--: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   1  | **Alttaripalvelija**: Suitsuke, pergamentti ja mustetta (3 käyttöä), [loitsukirja](/barebones/barebones-spellbooks)                                                                                              |
-|   2  | **Akrobaatti**: Seiväs (3m), Köysi (8 metriä), Savupommi                                                                                                                                      |
-|   3  | **Alkemisti**: Happoa, linssi, öljykangaslaukku                                                                                                                                                                                     |
-|   4  | **Apteekkari**: Vastamyrkky, sidetarpeita (3 käyttöä), suljettava pullo                                                                                                                                          |
-|   5  | **Salamurhaaja**: Kuristusvaijeri, naamio, myrkkyä                                                                                                                                                                                  |
-|   6  | **Tähdistäennustaja**: Kynttilä (3 käyttöä himmeä), marmorikuulat, kaukoputki                                                                                                                                    |
-|   7  | **Leipuri**: Jauhoja, hunajaa, suljettava pullo                                                                                                                                                                                     |
-|   8  | **Välskäri**: Sidetarpeet (3 käyttöä), sakset, rauhoite                                                                                                                                                          |
-|   9  | **Baarimestari**: Alkoholia, suljettava pullo, rauhoittava aine                                                                                                                                                                     |
-|  10  | **Suntio**: Soittokello, käsineet (_mitätön_), pilli (_mitätön_)                                                                                                                              |
-|  11  | **Mehiläishoitaja**: Paloöljy, käsineet (_mitätön_), hunajaa                                                                                                                                                     |
-|  12  | **Lukkari**: Käsineet (_mitätön_), köysi (8m), pilli (_mitätön_)                                                                                                           |
-|  13  | **Linnunhoitaja**: Häkki, verkko, pilli (_mitätön_)                                                                                                                                                              |
-|  14  | **Seppä**: Palkeet, vasara, rautahohtimet                                                                                                                                                                                           |
-|  15  | **Kirjansitoja**: Liimaa, pergamentti ja mustetta (3 käyttöä), ompelusetti                                                                                                                                       |
-|  16  | **Palkkionmetsästäjä**: Välähdysjauhe, kahleet, köysi (8m)                                                                                                                                                       |
-|  17  | **Teurastaja**:  Ämpäri, saha, hiomakivi                                                                                                                                                                                            |
-|  18  | **Timpuri**: Vasara, metalliviila, saha                                                                                                                                                                                             |
-|  19  | **Kartanpiirtäjä**: Kompassi, pergamentti ja mustetta (3 käyttöä), sekstantti                                                                                                                                    |
-|  20  | **Kärryseppä**: Käsipora, väkipyörä, saha                                                                                                                                                                                           |
-|  21  | **Kynttilänvalaja**: Kynttilä (3 käyttöä, himmeä), hunajaa, parfyymi                                                                                                                                             |
-|  22  | **Huijari**: Kortit, maali, parfyymi                                                                                                                                                                                                |
-|  23  | **Nuohooja**: Palkeet, kiipeilypiikit, köysi (8m)                                                                                                                                                                |
-|  24  | **Kelloseppä**: Suurennuslasi, metalliviila, pihdit                                                                                                                                                                                 |
-|  25  | **Suutari**: Pihdit, säkki, ompelusetti                                                                                                                                                                                             |
-|  26  | **Kokki**: Jauho, ämpäri, tupakkayrtit (3 käyttöä)                                                                                                                                                               |
-|  27  | **Tynnyrintekijä**: Vasara, käsipora, saha                                                                                                                                                                                          |
-|  28  | **Kuriiri**: Soittokello, kompassi, pergamentti ja mustetta (3 käyttöä)                                                                                                                                          |
-|  29  | **Hautakammion hoitaja**: Suitsuke, lyhty, öljykannu (6 käyttöä)                                                                                                                                                 |
-|  30  | **Kultisti**: Suitsuke, naamio, käärö satunnaisesta [loitsukirjasta](/barebones/barebones-spellbooks) (_mitätön_)                                                                                                |
-|  31  | **Räjäytystyöläinen**: Räjähde, suojalasit, rasvaa                                                                                                                                                                                  |
-|  32  | **Kaivonkatsoja**: Taikavarpu, suljettava pullo, lapio                                                                                                                                                                              |
-|  33  | **Kaksintaistelija**: Viitta (_mitätön_), käsineet (_mitätön_), hiomakivi                                                                                                                     |
-|  34  | **Viihdyttäjä**: Nopat, laulukirja, peruukki                                                                                                                                                                                        |
-|  35  | **Pyöveli**: Naamio, köysi (8 metriä), hiomakivi                                                                                                                                                                 |
-|  36  | **Haukankasvattaja**: Häkki, käsineet (_mitätön_), pilli (_mitätön_)                                                                                                                          |
-|  37  | **Maanviljelijä**: Köysi (8 metriä), säkki, lapio                                                                                                                                                                |
-|  38  | (Varastetun tavaran) **Kätkijä**: Pulttisakset, satunnainen lisävaruste, säkki                                                                                                                                   |
-|  39  | **Kalastaja**: Ilmarakko, onkivapa, verkko                                                                                                                                                                                          |
-|  40  | **Jousiseppä**: Säkki, loukku, hiomakivi                                                                                                                                                                                            |
-|  41  | **Uhkapeluri**: Alkoholia, kortit, nopat                                                                                                                                                                                            |
-|  42  | **Puutarhuri**: Käsineet (_mitätön_), säkki, lapio                                                                                                                                                               |
-|  43  | **Lasinpuhaltaja**: Suojalasit, linssi, pihdit                                                                                                                                                                                      |
-|  44  | **Rankkuri**: Käsineet (_mitätön_), säkki, lapio                                                                                                                                                                 |
-|  45  | **Haudankaivaja**: Alkoholia, tikkaat, lapio                                                                                                                                                                                        |
-|  46  | **Vartija**: Lyhty, kahleet, pilli (_mitätön_)                                                                                                                                                                   |
-|  47  | **Sanansaattaja**: Naamio, viestilippu, pilli (_mitätön_)                                                                                                                                                        |
-|  48  | **Yrttimestari**: Vastamyrkky, pujo, säkki                                                                                                                                                                                          |
-|  49  | **Erakko**: Viltti, seiväs (8 metriä), tupakkayrtit (3 käyttöä)                                                                                                                               |
-|  50  | **Maantierosvo**: heittokoukku, köysi (8m), viestilippu                                                                                                                                                          |
-|  51  | **Metsästäjä**: Loukku, köysi (8 metriä), tupakkayrtit (3 käyttöä)                                                                                                                            |
-|  52  | **Silmänkääntäjä**: Kynttilä (3 käyttöä, himmeä), välähdysjauhe, peili                                                                                                                                           |
-|  53  | **Majatalonpitäjä**: Alkoholia, sidetarpeet (3 käyttöä), pergamentti ja mustetta (3 käyttöä)                                                                                                  |
-|  54  | **Vanginvartija**: Ketjua (3 metriä), kahleet, pilli (_mitätön_)                                                                                                                              |
-|  55  | **Narri**: Kortit, luuttu, parfyymi                                                                                                                                                                                                 |
-|  56  | **Kultaseppä**: Suurennuslasi, pihdit, hohtimet                                                                                                                                                                                     |
-|  57  | **Ritari**: Käsineet (_mitätön_), viestilippu, hiomakivi                                                                                                                                                         |
-|  58  | **Lampunsytyttäjä**: tikkaat (3m, _kookkaat_), öljykannu (6 käyttöä), pilli (_mitätön_)                                                                                    |
-|  59  | **Iilimatojen kerääjä**: Käsineet (_mitätön_), verenimijä (palauttaa 1 STR, 3 käyttöä), verkko                                                                                                |
-|  60  | **Kirjastonhoitaja**: Kynttilä (3 käyttöä, himmeä), Pergamentti ja mustetta (3 käyttöä), Käärö satunnaisesta [loitsukirjasta](/barebones/barebones-spellbooks) (_mitätön_) |
-|  61  | **Lukkoseppä**: Lukko & avain, metalliviila, pihdit                                                                                                                                                             |
-|  62  | **Metsuri**: Köysi (8 metriä), saha, hiomakivi                                                                                                                                                                   |
-|  63  | **Muurari**: Taltta, viuhka, vasara                                                                                                                                                                                                 |
-|  64  | **Kauppias**: Satunnainen lisävaruste, kirjoituspuikko, vankkurit (+8 paikkaa, hidas)                                                                                                                            |
-|  65  | **Mylläri**: Kulho, jauhoja, köysi (8m)                                                                                                                                                                          |
-|  66  | **Kaivostyöläinen**: Lyhty, kulkukivi, hakku                                                                                                                                                                                        |
-|  67  | **Munkki**: Kynttilä (3 käyttöä, himmeä), viitta (_mitätön_), laulukirja                                                                                                                      |
-|  68  | **Muusikko**: Kulho, Viulu, Laulukirja                                                                                                                                                                                              |
-|  69  | **Luonnontieteilijä**: Riippumatto, köysi (8 metriä), kaukoputki                                                                                                                                                 |
-|  70  | **Navigaattori**: Kompassi, poncho (_mitätön_), kaukoputki                                                                                                                                                       |
-|  71  | **Öljynkerääjä**: Lyhty, öljykannu (6 käyttöä), suljettava pullo                                                                                                                                                 |
-|  72  | **Maalari**: Maali, pergamentti ja mustetta (3 käyttöä), kirjoituspuikko                                                                                                                                         |
-|  73  | **Kaupustelija**: Kärryt (+4 paikkaa, _kookkaat_), satunnainen lisävaruste, säkki                                                                                                                                |
-|  74  | **Filosofi**: Liitu (_mitätön_), pergamentti ja mustetta, piippu                                                                                                                                                 |
-|  75  | **Lääkäri**: Vastamyrkky, sidetarpeet (3 käyttöä), sorkkarauta                                                                                                                                                   |
-|  76  | **Pyhiinvaeltaja**: Huopa, seiväs (3 metriä), poncho (_mitätön_)                                                                                                                              |
-|  77  | **Savenvalaja**: Taltta, ämpäri, hohtimet                                                                                                                                                                                           |
-|  78  | **Pappi**: Sidetarpeet (3 käyttöä), kynttilä (3 käyttöä, himmeä), suitsuke                                                                                                                    |
-|  79  | **Malminetsijä**: Lyhty, kulkukivi, hakku                                                                                                                                                                                           |
-|  80  | **Rotanpyydystäjä**: Säkki, loukku, pilli (_mitätön_)                                                                                                                                                            |
-|  81  | **Merimies**: Riippumatto, köysi (15 metriä), kaukoputki                                                                                                                                                         |
-|  82  | **Kirjuri**: Kynttilä (3 käyttöä, himmeä), pergamentti ja mustetta (3 käyttöä), kirjoituspuikko                                                                                               |
-|  83  | **Paimen**: Viitta (_mitätön_), köysi (8m), pilli (_mitätön_)                                                                                                              |
-|  84  | **Salakuljettaja**: Lukko ja avain, öljykangaslaukku, köysi (8m)                                                                                                                                                 |
-|  85  | **Sotilas**: Piikkisaappaat, teltta (sopii kahdelle, _kookas_), hiomakivi                                                                                                                                        |
-|  86  | **Vakooja**: Valeasutarvikkeet, kuristusvaijeri, peili                                                                                                                                                                              |
-|  87  | **Tallirenki**: Huopa, köysi (8 metriä), lapio                                                                                                                                                                   |
-|  88  | **Katusaarnaaja**: Soittokello, pergamentti ja mustetta, käärö satunnaisesta [loitsukirjasta](/barebones/barebones-spellbooks) (_mitätön_)                                                                       |
-|  89  | **Räätäli**: Viitta (_mitätön_), sakset, ompelusetti                                                                                                                                                             |
-|  90  | **Parkitsija**: Käsineet (_mitätön_), pihdit, tervaa                                                                                                                                                             |
-|  91  | **Vouti**: Pergamentti ja mustetta (3 käyttöä), suljettava pullo, pilli (_mitätön_)                                                                                                           |
-|  92  | **Varas**: Jalkapiikit, heittokoukku, tiirikka                                                                                                                                                                                      |
-|  93  | **Peltiseppä**: rasvaa, vasara, pihdit                                                                                                                                                                                              |
-|  94  | **Tullimies**: Soittokello, lukko ja avain, vedenpitävä laukku                                                                                                                                                                      |
-|  95  | **Lelumaakari**: Liimaa, pihdit, sakset                                                                                                                                                                                             |
-|  96  | **Kulkuri**: Huopa, poncho (_mitätön_), köysi (8m)                                                                                                                                            |
-|  97  | **Viinuri**: Alkoholia, köysi (8m), suljettava pullo                                                                                                                                                             |
-|  98  | **Kankuri**: Parfyymi, köysi (8m), sakset                                                                                                                                                                        |
-|  99  | **Noita**: Kynttilä (3 käyttöä, himmeä), [loitsukirja](/barebones/barebones-spellbooks), ukonhattu                                                                                                               |
-|  100 | **Noidanetsijä**: Köysi (8m), käärö satunnaisesta [loitsukirjasta](/barebones/barebones-spellbooks) (_mitätön_), kaukoputki                                                                   |
-|      |                                                                                                                                                                                                                                                     |
+| d100 | Tausta ja aloitusvarusteet                                                                                                                                                 |
+| :--: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1  | **Akrobaatti**: Seiväs (3m), Köysi (8 metriä), Savupommi                                                                                                                   |
+|   2  | **Alkemisti**: Happoa, linssi, öljykangaslaukku                                                                                                                            |
+|   3  | **Alttaripalvelija**: Suitsuke, pergamentti ja mustetta (3 käyttöä), [loitsukirja](/barebones/barebones-spellbooks)                                                        |
+|   4  | **Apteekkari**: Vastamyrkky, sidetarpeita (3 käyttöä), suljettava pullo                                                                                                    |
+|   5  | **Baarimestari**: Alkoholia, suljettava pullo, rauhoittava aine                                                                                                            |
+|   6  | **Erakko**: Viltti, seiväs (8 metriä), tupakkayrtit (3 käyttöä)                                                                                                            |
+|   7  | **Filosofi**: Liitu (_mitätön_), pergamentti ja mustetta, piippu                                                                                                           |
+|   8  | **Haudankaivaja**: Alkoholia, tikkaat, lapio                                                                                                                               |
+|   9  | **Haukankasvattaja**: Häkki, käsineet (_mitätön_), pilli (_mitätön_)                                                                                                       |
+|  10  | **Hautakammion hoitaja**: Suitsuke, lyhty, öljykannu (6 käyttöä)                                                                                                           |
+|  11  | **Huijari**: Kortit, maali, parfyymi                                                                                                                                       |
+|  12  | **Iilimatojen kerääjä**: Käsineet (_mitätön_), verenimijä (palauttaa 1 STR, 3 käyttöä), verkko                                                                             |
+|  13  | **Jousiseppä**: Säkki, loukku, hiomakivi                                                                                                                                   |
+|  14  | **Kaivonkatsoja**: Taikavarpu, suljettava pullo, lapio                                                                                                                     |
+|  15  | **Kaivostyöläinen**: Lyhty, kulkukivi, hakku                                                                                                                               |
+|  16  | **Kaksintaistelija**: Viitta (_mitätön_), käsineet (_mitätön_), hiomakivi                                                                                                  |
+|  17  | **Kalastaja**: Ilmarakko, onkivapa, verkko                                                                                                                                 |
+|  18  | **Kankuri**: Parfyymi, köysi (8m), sakset                                                                                                                                  |
+|  19  | **Kartanpiirtäjä**: Kompassi, pergamentti ja mustetta (3 käyttöä), sekstantti                                                                                              |
+|  20  | **Katusaarnaaja**: Soittokello, pergamentti ja mustetta, käärö satunnaisesta [loitsukirjasta](/barebones/barebones-spellbooks) (_mitätön_)                                 |
+|  21  | **Kauppias**: Satunnainen lisävaruste, kirjoituspuikko, vankkurit (+8 paikkaa, hidas)                                                                                      |
+|  22  | **Kaupustelija**: Kärryt (+4 paikkaa, _kookkaat_), satunnainen lisävaruste, säkki                                                                                          |
+|  23  | **Kelloseppä**: Suurennuslasi, metalliviila, pihdit                                                                                                                        |
+|  24  | **Kirjansitoja**: Liimaa, pergamentti ja mustetta (3 käyttöä), ompelusetti                                                                                                 |
+|  25  | **Kirjastonhoitaja**: Kynttilä (3 käyttöä, himmeä), Pergamentti ja mustetta (3 käyttöä), Käärö satunnaisesta [loitsukirjasta](/barebones/barebones-spellbooks) (_mitätön_) |
+|  26  | **Kirjuri**: Kynttilä (3 käyttöä, himmeä), pergamentti ja mustetta (3 käyttöä), kirjoituspuikko                                                                            |
+|  27  | **Kokki**: Jauho, ämpäri, tupakkayrtit (3 käyttöä)                                                                                                                         |
+|  28  | **Kulkuri**: Huopa, poncho (_mitätön_), köysi (8m)                                                                                                                         |
+|  29  | **Kultaseppä**: Suurennuslasi, pihdit, hohtimet                                                                                                                            |
+|  30  | **Kultisti**: Suitsuke, naamio, käärö satunnaisesta [loitsukirjasta](/barebones/barebones-spellbooks) (_mitätön_)                                                          |
+|  31  | **Kuriiri**: Soittokello, kompassi, pergamentti ja mustetta (3 käyttöä)                                                                                                    |
+|  32  | **Kynttilänvalaja**: Kynttilä (3 käyttöä, himmeä), hunajaa, parfyymi                                                                                                       |
+|  33  | **Kärryseppä**: Käsipora, väkipyörä, saha                                                                                                                                  |
+|  34  | (Varastetun tavaran) **Kätkijä**: Pulttisakset, satunnainen lisävaruste, säkki                                                                                             |
+|  35  | **Lampunsytyttäjä**: tikkaat (3m, _kookkaat_), öljykannu (6 käyttöä), pilli (_mitätön_)                                                                                    |
+|  36  | **Lasinpuhaltaja**: Suojalasit, linssi, pihdit                                                                                                                             |
+|  37  | **Leipuri**: Jauhoja, hunajaa, suljettava pullo                                                                                                                            |
+|  38  | **Lelumaakari**: Liimaa, pihdit, sakset                                                                                                                                    |
+|  39  | **Linnunhoitaja**: Häkki, verkko, pilli (_mitätön_)                                                                                                                        |
+|  40  | **Lukkari**: Käsineet (_mitätön_), köysi (8m), pilli (_mitätön_)                                                                                                           |
+|  41  | **Lukkoseppä**: Lukko & avain, metalliviila, pihdit                                                                                                                        |
+|  42  | **Luonnontieteilijä**: Riippumatto, köysi (8 metriä), kaukoputki                                                                                                           |
+|  43  | **Lääkäri**: Vastamyrkky, sidetarpeet (3 käyttöä), sorkkarauta                                                                                                             |
+|  44  | **Maalari**: Maali, pergamentti ja mustetta (3 käyttöä), kirjoituspuikko                                                                                                   |
+|  45  | **Maantierosvo**: heittokoukku, köysi (8m), viestilippu                                                                                                                    |
+|  46  | **Maanviljelijä**: Köysi (8 metriä), säkki, lapio                                                                                                                          |
+|  47  | **Majatalonpitäjä**: Alkoholia, sidetarpeet (3 käyttöä), pergamentti ja mustetta (3 käyttöä)                                                                               |
+|  48  | **Malminetsijä**: Lyhty, kulkukivi, hakku                                                                                                                                  |
+|  49  | **Mehiläishoitaja**: Paloöljy, käsineet (_mitätön_), hunajaa                                                                                                               |
+|  50  | **Merimies**: Riippumatto, köysi (15 metriä), kaukoputki                                                                                                                   |
+|  51  | **Metsuri**: Köysi (8 metriä), saha, hiomakivi                                                                                                                             |
+|  52  | **Metsästäjä**: Loukku, köysi (8 metriä), tupakkayrtit (3 käyttöä)                                                                                                         |
+|  53  | **Munkki**: Kynttilä (3 käyttöä, himmeä), viitta (_mitätön_), laulukirja                                                                                                   |
+|  54  | **Muurari**: Taltta, viuhka, vasara                                                                                                                                        |
+|  55  | **Muusikko**: Kulho, Viulu, Laulukirja                                                                                                                                     |
+|  56  | **Mylläri**: Kulho, jauhoja, köysi (8m)                                                                                                                                    |
+|  57  | **Narri**: Kortit, luuttu, parfyymi                                                                                                                                        |
+|  58  | **Navigaattori**: Kompassi, poncho (_mitätön_), kaukoputki                                                                                                                 |
+|  59  | **Noidanetsijä**: Köysi (8m), käärö satunnaisesta [loitsukirjasta](/barebones/barebones-spellbooks) (_mitätön_), kaukoputki                                                |
+|  60  | **Noita**: Kynttilä (3 käyttöä, himmeä), [loitsukirja](/barebones/barebones-spellbooks), ukonhattu                                                                         |
+|  61  | **Nuohooja**: Palkeet, kiipeilypiikit, köysi (8m)                                                                                                                          |
+|  62  | **Paimen**: Viitta (_mitätön_), köysi (8m), pilli (_mitätön_)                                                                                                              |
+|  63  | **Palkkionmetsästäjä**: Välähdysjauhe, kahleet, köysi (8m)                                                                                                                 |
+|  64  | **Pappi**: Sidetarpeet (3 käyttöä), kynttilä (3 käyttöä, himmeä), suitsuke                                                                                                 |
+|  65  | **Parkitsija**: Käsineet (_mitätön_), pihdit, tervaa                                                                                                                       |
+|  66  | **Peltiseppä**: rasvaa, vasara, pihdit                                                                                                                                     |
+|  67  | **Puutarhuri**: Käsineet (_mitätön_), säkki, lapio                                                                                                                         |
+|  68  | **Pyhiinvaeltaja**: Huopa, seiväs (3 metriä), poncho (_mitätön_)                                                                                                           |
+|  69  | **Pyöveli**: Naamio, köysi (8 metriä), hiomakivi                                                                                                                           |
+|  70  | **Rankkuri**: Käsineet (_mitätön_), säkki, lapio                                                                                                                           |
+|  71  | **Ritari**: Käsineet (_mitätön_), viestilippu, hiomakivi                                                                                                                   |
+|  72  | **Rotanpyydystäjä**: Säkki, loukku, pilli (_mitätön_)                                                                                                                      |
+|  73  | **Räjäytystyöläinen**: Räjähde, suojalasit, rasvaa                                                                                                                         |
+|  74  | **Räätäli**: Viitta (_mitätön_), sakset, ompelusetti                                                                                                                       |
+|  75  | **Salakuljettaja**: Lukko ja avain, öljykangaslaukku, köysi (8m)                                                                                                           |
+|  76  | **Salamurhaaja**: Kuristusvaijeri, naamio, myrkkyä                                                                                                                         |
+|  77  | **Sanansaattaja**: Naamio, viestilippu, pilli (_mitätön_)                                                                                                                  |
+|  78  | **Savenvalaja**: Taltta, ämpäri, hohtimet                                                                                                                                  |
+|  79  | **Seppä**: Palkeet, vasara, rautahohtimet                                                                                                                                  |
+|  80  | **Silmänkääntäjä**: Kynttilä (3 käyttöä, himmeä), välähdysjauhe, peili                                                                                                     |
+|  81  | **Sotilas**: Piikkisaappaat, teltta (sopii kahdelle, _kookas_), hiomakivi                                                                                                  |
+|  82  | **Suntio**: Soittokello, käsineet (_mitätön_), pilli (_mitätön_)                                                                                                           |
+|  83  | **Suutari**: Pihdit, säkki, ompelusetti                                                                                                                                    |
+|  84  | **Tallirenki**: Huopa, köysi (8 metriä), lapio                                                                                                                             |
+|  85  | **Teurastaja**:  Ämpäri, saha, hiomakivi                                                                                                                                   |
+|  86  | **Timpuri**: Vasara, metalliviila, saha                                                                                                                                    |
+|  87  | **Tullimies**: Soittokello, lukko ja avain, vedenpitävä laukku                                                                                                             |
+|  88  | **Tynnyrintekijä**: Vasara, käsipora, saha                                                                                                                                 |
+|  89  | **Tähdistäennustaja**: Kynttilä (3 käyttöä himmeä), marmorikuulat, kaukoputki                                                                                              |
+|  90  | **Uhkapeluri**: Alkoholia, kortit, nopat                                                                                                                                   |
+|  91  | **Vakooja**: Valeasutarvikkeet, kuristusvaijeri, peili                                                                                                                     |
+|  92  | **Vanginvartija**: Ketjua (3 metriä), kahleet, pilli (_mitätön_)                                                                                                           |
+|  93  | **Varas**: Jalkapiikit, heittokoukku, tiirikka                                                                                                                             |
+|  94  | **Vartija**: Lyhty, kahleet, pilli (_mitätön_)                                                                                                                             |
+|  95  | **Viihdyttäjä**: Nopat, laulukirja, peruukki                                                                                                                               |
+|  96  | **Viinuri**: Alkoholia, köysi (8m), suljettava pullo                                                                                                                       |
+|  97  | **Vouti**: Pergamentti ja mustetta (3 käyttöä), suljettava pullo, pilli (_mitätön_)                                                                                        |
+|  98  | **Välskäri**: Sidetarpeet (3 käyttöä), sakset, rauhoite                                                                                                                    |
+|  99  | **Yrttimestari**: Vastamyrkky, pujo, säkki                                                                                                                                 |
+|  100 | **Öljynkerääjä**: Lyhty, öljykannu (6 käyttöä), suljettava pullo                                                                                                           |
 
 ### Panssari & Aseet
 
@@ -345,118 +344,118 @@ Lisäksi heitä seuraavia taulukoita käyttäen hahmollesi panssari, aseet ja li
 
 #### Aseet (d8)
 
-|   d6  | Aseet                                                                                             |
-| :---: | :------------------------------------------------------------------------------------------------ |
+|   d6  | Aseet                                                          |
+| :---: | :------------------------------------------------------------- |
 | **1** | Tikari, nuija, sirppi, sauva jne. (d6 vahinkoa)                |
 | **2** | Keihäs, miekka, sotanuija, kirves, varsta jne. (d8 vahinkoa)   |
 | **3** | Hilpari, sotavasara, pitkämiekka jne. (d10 vahinkoa, _kookas_) |
-| **4** | Linko (d6 vahinkoa)                                                            |
-| **5** | Jousi (d6 vahinkoa, _kookas_)                                                  |
-| **6** | Varsijousi (d8 vahinkoa, _kookas_)                                             |
+| **4** | Linko (d6 vahinkoa)                                            |
+| **5** | Jousi (d6 vahinkoa, _kookas_)                                  |
+| **6** | Varsijousi (d8 vahinkoa, _kookas_)                             |
 
 #### Lisävarusteet
 
-| d100 | Varusteet                                                                                            |
-| ---- | ---------------------------------------------------------------------------------------------------- |
-| 1    | Happoa                                                                                               |
-| 2    | Ilmarakko                                                                                            |
-| 3    | Alkoholia                                                                                            |
-| 4    | Vastamyrkky                                                                                          |
-| 5    | Sidetarpeet (3 käyttöä)                                                           |
-| 6    | Soittokello                                                                                          |
-| 7    | Palkeet                                                                                              |
-| 8    | Viltti                                                                                               |
-| 9    | Pulttisakset                                                                                         |
-| 10   | Kulho                                                                                                |
-| 11   | Häkki                                                                                                |
-| 12   | Jalkapiikit                                                                                          |
-| 13   | Kynttilä (3 käyttöä, himmeä)                                                      |
-| 14   | Pelikortit                                                                                           |
-| 15   | Kärryt (+4 paikkaa, _kookkaat_)                                                   |
-| 16   | Ketju (3 metriä)                                                                  |
-| 17   | Liitu (_mitätön_)                                                                 |
-| 18   | Taltta                                                                                               |
-| 19   | Kiipeilypiikit                                                                                       |
-| 20   | Viitta (_mitätön_)                                                                |
-| 21   | Kompassi                                                                                             |
-| 22   | Sorkkarauta                                                                                          |
-| 23   | Nopat                                                                                                |
-| 24   | Taikavarpu                                                                                           |
-| 25   | Räjähde                                                                                              |
-| 26   | Viuhka                                                                                               |
-| 27   | Viulu                                                                                                |
-| 28   | Paloöljy                                                                                             |
-| 29   | Onkivapa                                                                                             |
-| 30   | Välähdysjauhe                                                                                        |
-| 31   | Jauhoa                                                                                               |
-| 32   | Kuristusvaijeri                                                                                      |
-| 33   | Käsineet (_mitätön_)                                                              |
-| 34   | Liima                                                                                                |
-| 35   | Suojalasit                                                                                           |
-| 36   | Heittokoukku                                                                                         |
-| 37   | Voitelu                                                                                              |
-| 38   | Vasara                                                                                               |
-| 39   | Riippumatto                                                                                          |
-| 40   | Käsipora                                                                                             |
-| 41   | Hunajaa                                                                                              |
-| 42   | Tiimalasi                                                                                            |
-| 43   | Suitsuke                                                                                             |
-| 44   | Tikkaat (3 metriä, _kookkaat_)                                                    |
-| 45   | Lyhty                                                                                                |
-| 46   | Verenimijä (palauttaa 1 STR, 3 käyttöä)                                           |
-| 47   | Linssi                                                                                               |
-| 48   | Lukko & avain                                                                    |
-| 49   | Tiirikoija                                                                                           |
-| 50   | Kulkukivi                                                                                            |
-| 51   | Luuttu                                                                                               |
-| 52   | Suurennuslasi                                                                                        |
-| 53   | Kahleet                                                                                              |
-| 54   | Marmorikuulat                                                                                        |
-| 55   | Naamio                                                                                               |
-| 56   | Metalliviila                                                                                         |
-| 57   | Peili                                                                                                |
-| 58   | Pujo                                                                                                 |
-| 59   | Verkko                                                                                               |
-| 60   | Öljykannu (6 käyttöä)                                                             |
-| 61   | Öljykangaslaukku                                                                                     |
-| 62   | Ämpäri                                                                                               |
-| 63   | Maalia                                                                                               |
-| 64   | Pergamentti ja mustetta (3 käyttöä)                                               |
-| 65   | Parfyymi                                                                                             |
-| 66   | Hakku                                                                                                |
-| 67   | Piippu                                                                                               |
-| 68   | Pihdit                                                                                               |
-| 69   | Myrkkyä                                                                                              |
-| 70   | Seiväs (3 metriä)                                                                 |
-| 71   | Poncho (_mitätön_)                                                                |
-| 72   | Väkipyörä                                                                                            |
-| 73   | Satunnainen [loitsukirja](/barebones/barebones-spellbooks)                                           |
-| 74   | Köysi (8 metriä)                                                                  |
-| 75   | Säkki                                                                                                |
-| 76   | Saha                                                                                                 |
-| 77   | Sakset                                                                                               |
-| 78   | Käärö satunnaisesta [loitsukirjasta](/barebones/barebones-spellbooks) (_mitätön_) |
-| 79   | Suljettava pullo                                                                                     |
-| 80   | Rauhoitteet                                                                                          |
-| 81   | Ompelusetti                                                                                          |
-| 82   | Sekstantti                                                                                           |
-| 83   | Lapio                                                                                                |
-| 84   | Viestilippu                                                                                          |
-| 85   | Savupommi                                                                                            |
-| 86   | Tupakkayrtit (3 käyttöä)                                                          |
-| 87   | Laulukirja                                                                                           |
-| 88   | Piikkisaappaat                                                                                       |
-| 89   | Kaukoputki                                                                                           |
-| 90   | Kirjoituspuikko                                                                                      |
-| 91   | Terva                                                                                                |
-| 92   | Teltta (sopii kahdelle, _kookas_)                                                 |
-| 93   | Hohtimet                                                                                             |
-| 94   | Loukku (d6 STR-vahinkoa)                                                          |
-| 95   | Vankkurit (+8 paikkaa, hidas)                                                     |
-| 96   | Vedenpitävä laukku                                                                                   |
-| 97   | Hiomakivi                                                                                            |
-| 98   | Pilli (_mitätön_)                                                                 |
-| 99   | Peruukki                                                                                             |
-| 100  | Ukonhattu                                                                                            |
+| d100 | Varusteet                                                                         |
+| ---- | --------------------------------------------------------------------------------- |
+| 1    | Alkoholia                                                                         |
+| 2    | Hakku                                                                             |
+| 3    | Happoa                                                                            |
+| 4    | Heittokoukku                                                                      |
+| 5    | Hiomakivi                                                                         |
+| 6    | Hohtimet                                                                          |
+| 7    | Hunajaa                                                                           |
+| 8    | Häkki                                                                             |
+| 9    | Ilmarakko                                                                         |
+| 10   | Jalkapiikit                                                                       |
+| 11   | Jauhoa                                                                            |
+| 12   | Kahleet                                                                           |
+| 13   | Kaukoputki                                                                        |
+| 14   | Ketju (3 metriä)                                                                  |
+| 15   | Kiipeilypiikit                                                                    |
+| 16   | Kirjoituspuikko                                                                   |
+| 17   | Kompassi                                                                          |
+| 18   | Kulho                                                                             |
+| 19   | Kulkukivi                                                                         |
+| 20   | Kuristusvaijeri                                                                   |
+| 21   | Kynttilä (3 käyttöä, himmeä)                                                      |
+| 22   | Kärryt (+4 paikkaa, _kookkaat_)                                                   |
+| 23   | Käsineet (_mitätön_)                                                              |
+| 24   | Käsipora                                                                          |
+| 25   | Käärö satunnaisesta [loitsukirjasta](/barebones/barebones-spellbooks) (_mitätön_) |
+| 26   | Köysi (8 metriä)                                                                  |
+| 27   | Lapio                                                                             |
+| 28   | Laulukirja                                                                        |
+| 29   | Liima                                                                             |
+| 30   | Liitu (_mitätön_)                                                                 |
+| 31   | Linssi                                                                            |
+| 32   | Loukku (d6 STR-vahinkoa)                                                          |
+| 33   | Lukko & avain                                                                     |
+| 34   | Luuttu                                                                            |
+| 35   | Lyhty                                                                             |
+| 36   | Maalia                                                                            |
+| 37   | Marmorikuulat                                                                     |
+| 38   | Metalliviila                                                                      |
+| 39   | Myrkkyä                                                                           |
+| 40   | Naamio                                                                            |
+| 41   | Nopat                                                                             |
+| 42   | Ompelusetti                                                                       |
+| 43   | Onkivapa                                                                          |
+| 44   | Palkeet                                                                           |
+| 45   | Paloöljy                                                                          |
+| 46   | Parfyymi                                                                          |
+| 47   | Peili                                                                             |
+| 48   | Pelikortit                                                                        |
+| 49   | Pergamentti ja mustetta (3 käyttöä)                                               |
+| 50   | Peruukki                                                                          |
+| 51   | Pihdit                                                                            |
+| 52   | Piikkisaappaat                                                                    |
+| 53   | Piippu                                                                            |
+| 54   | Pilli (_mitätön_)                                                                 |
+| 55   | Poncho (_mitätön_)                                                                |
+| 56   | Pujo                                                                              |
+| 57   | Pulttisakset                                                                      |
+| 58   | Rauhoitteet                                                                       |
+| 59   | Riippumatto                                                                       |
+| 60   | Räjähde                                                                           |
+| 61   | Saha                                                                              |
+| 62   | Sakset                                                                            |
+| 63   | Satunnainen [loitsukirja](/barebones/barebones-spellbooks)                        |
+| 64   | Savupommi                                                                         |
+| 65   | Seiväs (3 metriä)                                                                 |
+| 66   | Sekstantti                                                                        |
+| 67   | Sidetarpeet (3 käyttöä)                                                           |
+| 68   | Soittokello                                                                       |
+| 69   | Sorkkarauta                                                                       |
+| 70   | Suitsuke                                                                          |
+| 71   | Suljettava pullo                                                                  |
+| 72   | Suojalasit                                                                        |
+| 73   | Suurennuslasi                                                                     |
+| 74   | Säkki                                                                             |
+| 75   | Taikavarpu                                                                        |
+| 76   | Taltta                                                                            |
+| 77   | Teltta (sopii kahdelle, _kookas_)                                                 |
+| 78   | Terva                                                                             |
+| 79   | Tiimalasi                                                                         |
+| 80   | Tiirikoija                                                                        |
+| 81   | Tikkaat (3 metriä, _kookkaat_)                                                    |
+| 82   | Tupakkayrtit (3 käyttöä)                                                          |
+| 83   | Ukonhattu                                                                         |
+| 84   | Vankkurit (+8 paikkaa, hidas)                                                     |
+| 85   | Vasara                                                                            |
+| 86   | Vastamyrkky                                                                       |
+| 87   | Vedenpitävä laukku                                                                |
+| 88   | Verenimijä (palauttaa 1 STR, 3 käyttöä)                                           |
+| 89   | Verkko                                                                            |
+| 90   | Viestilippu                                                                       |
+| 91   | Viitta (_mitätön_)                                                                |
+| 92   | Viltti                                                                            |
+| 93   | Viuhka                                                                            |
+| 94   | Viulu                                                                             |
+| 95   | Voitelu                                                                           |
+| 96   | Väkipyörä                                                                         |
+| 97   | Välähdysjauhe                                                                     |
+| 98   | Ämpäri                                                                            |
+| 99   | Öljykangaslaukku                                                                  |
+| 100  | Öljykannu (6 käyttöä)                                                             |
 
 > Voit heittää uudestaan minkä tahansa saman varusteen.
