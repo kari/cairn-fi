@@ -43,7 +43,7 @@ Alla oleva taulu antaa pätevät ohjeet **ML**:n muuntamisesta **tahdonvoimaksi*
 ### Kyvyt ja taikuus
 
 - Joskus alkuperäisen roolipelijärjestelmän mekaniikat eivät yksinkertaisesti _vain käänny lainkaan_. Tämä on OK; yritä hyödyntää mikä olennossa on siisteintä ja tee "versio" sen kyvystä joka on sopivampi Cairnin kanssa.
-- Jos hirviöllä on hyökkäys joka vaatii pelaajahahmoja yrittämään väistämistä tai pelastusheittoa jotain kykyä vastaan, harkitse kyvyn tekemisestä taistelun ulkopuoliseksi "ansaksi", jonka pelaajahahmot voivat laukaisat. Muussa tapauksessa _anna sen onnistua automaattisesti_ taistelun aikana. Vartija voi aina vihjata etukäteen vaarasta ennen taistelua, jotta pelaajahahmot voivat paremmin varautua vaaran varalta.
+- Jos hirviöllä on hyökkäys joka vaatii pelaajahahmoja yrittämään väistämistä tai pelastusheittoa jotain kykyä vastaan, harkitse kyvyn tekemisestä taistelun ulkopuoliseksi "ansaksi", jonka pelaajahahmot voivat laukaista. Muussa tapauksessa _anna sen onnistua automaattisesti_ taistelun aikana. Vartija voi aina vihjata etukäteen vaarasta ennen taistelua, jotta pelaajahahmot voivat paremmin varautua vaaran varalta.
 - Kyvyt voi joskus muuntaa aseiksi, ja antaa niille vahinkonoppa, jolloin Kriittinen Vahinko paljastaa vahingon määrän. Useimmiten sinun kannattaa vain antaa kyvyn tai hyökkäyksen _tapahtua_. Taistelu on vaarallista ja Vartijan tehtävä on viestittää vaarasta kunnolla ennen kuin taistelu alkaa.
 
 ### Taikuus
