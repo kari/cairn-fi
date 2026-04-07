@@ -321,7 +321,7 @@ Laajenna esimerkki
 - Kahden päivän opiskelu entisen kuninkaallisen jousimiehen johdolla on opettanut sinut ampumaan nuolia tehokkaammin. Hyökkäykset pitkäjousella ovat vahvistettuja.
 - Kahden viikon päivittäisen harjoittelun Gwoedin Terän kanssa jälkeen tunnet olosi tarpeeksi luottavaiseksi käyttääksesi tätä tappavaa asetta taistelussa. Kriittinen vahinko: Kohde menettää raajan tai suolistetaan (valintasi mukaan).
 - Kolmen päivän opiskelu taitavan soturin johdolla on opettanut sinut miten et koskaan tule yllätetyksi. Sinun ei enää tarvitse tehdä DEX-pelastusheittoa ennen taistelua (ellei Vartija toisin määrää).
-- Viisu intensiivistä yötä opiskellen _Kirousten Kirjan_ parissa on antanut sinulle etulyöntiaseman taistelussa. Jos herjaat vastustajaa ennen taistelua, kaikki hänen hyökkäyksensä sinua ja ystäviäsi vastaan ovat heikentyneet.
+- Viisi intensiivistä yötä opiskellen _Kirousten Kirjan_ parissa on antanut sinulle etulyöntiaseman taistelussa. Jos herjaat vastustajaa ennen taistelua, kaikki hänen hyökkäyksensä sinua ja ystäviäsi vastaan ovat heikentyneet.
 - Harjoiteltuasi _Es'tan Surumunkkien_ kanssa voit nyt puhua kuolleiden kanssa. Kärsit puutostilasta jälkeenpäin.
 
 <details markdown="block"><summary>
