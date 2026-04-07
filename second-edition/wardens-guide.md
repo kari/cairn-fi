@@ -32,7 +32,7 @@ Vartijan opas sisältää työkaluja, taulukoita ja neuvoja Cairn-pelin vetämis
 - [Nimeämiskäytännöt](naming-procedures)
 - [Pyhäinjäännökset](reliquary)
 
-### Part 3: Neuvoja & Esimerkkejä
+### Osa 3: Neuvoja & Esimerkkejä
 
 - [Taustojen luominen](creating-backgrounds)
 - [Pisteseikkailut](pointcrawls)
