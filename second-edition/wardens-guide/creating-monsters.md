@@ -76,26 +76,26 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 |         |                      |                 |
 | ------- | -------------------- | --------------- |
 | **d20** | **Vartalontyyppi**   | **Ominaisuus**  |
-| **1**   | Albiino              | Tuntosarvet     |
-| **2**   | Musta                | Nokka           |
-| **3**   | Kiteinen             | Selkäkilpi      |
-| **4**   | Kuihtunut            | Kynnet          |
-| **5**   | Silmätön             | Torahampaat     |
-| **6**   | Höyhenpeite          | Höyhenet        |
-| **7**   | Hyytelömäinen        | Turkki          |
-| **8**   | Hehkuva              | Kidukset        |
-| **9**   | Kovetettu            | Sarvet          |
-| **10**  | Päätön               | Merkkejä ihossa |
-| **11**  | Sarvipäinen          | Suomut          |
-| **12**  | Kyyryisä             | Kuori           |
-| **13**  | Sateenkaaren kirjava | Kuono           |
-| **14**  | Monisilmäinen        | Häntä           |
-| **15**  | Suomut               | Tarttumakynnet  |
-| **16**  | Lohkoinen            | Lonkerot        |
-| **17**  | Luurankomainen       | Runko           |
-| **18**  | Limainen             | Syöksyhampaat   |
-| **19**  | Läpikuultava         | Ääni            |
-| **20**  | Vääristynyt          | Siivet          |
+| **1**   | Albiino              | Häntä           |
+| **2**   | Hehkuva              | Höyhenet        |
+| **3**   | Hyytelömäinen        | Kidukset        |
+| **4**   | Höyhenpeite          | Kuono           |
+| **5**   | Kiteinen             | Kuori           |
+| **6**   | Kovetettu            | Kynnet          |
+| **7**   | Kuihtunut            | Lonkerot        |
+| **8**   | Kyyryisä             | Merkkejä ihossa |
+| **9**   | Limainen             | Nokka           |
+| **10**  | Lohkoinen            | Runko           |
+| **11**  | Luurankomainen       | Sarvet          |
+| **12**  | Läpikuultava         | Selkäkilpi      |
+| **13**  | Monisilmäinen        | Siivet          |
+| **14**  | Musta                | Suomut          |
+| **15**  | Päätön               | Syöksyhampaat   |
+| **16**  | Sarvipäinen          | Tarttumakynnet  |
+| **17**  | Sateenkaaren kirjava | Torahampaat     |
+| **18**  | Silmätön             | Tuntosarvet     |
+| **19**  | Suomut               | Turkki          |
+| **20**  | Vääristynyt          | Ääni            |
 
 ## Hirviön piirteet
 
@@ -104,26 +104,26 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 |         |                                  |                        |
 | ------- | -------------------------------- | ---------------------- |
 | **d20** | **Oikut**                        | **Heikkous**           |
-| **1**   | Muuttaa kokoaan mielensä mukaan  | Alkoholi               |
-| **2**   | Vaihtaa väriä mielensä mukaan    | Kylmä                  |
-| **3**   | Kerää harvinaisia kukkia         | Keskustelu             |
-| **4**   | Kerää metsästysmuistoja          | Imartelu               |
-| **5**   | Ei kuole vanhuuteen              | Pelit                  |
-| **6**   | Piirtää symboleja                | Lahjat                 |
-| **7**   | Tulen kiehtoma                   | Rauta                  |
-| **8**   | Rohmuaa kirjoja                  | Kovat äänet            |
-| **9**   | Rakastaa tiettyä väriä           | Peilit                 |
-| **10**  | Uudestisyntyy joka päivä         | Kirkkaat värit         |
-| **11**  | Rakastaa kiiltäviä esineitä      | Kuunvalo               |
-| **12**  | Matkii ääniä                     | Musiikki               |
-| **13**  | Liikkuu suorassa linjassa        | Valmistetut ateriat    |
-| **14**  | Selittää kaiken                  | Arvoitukset            |
-| **15**  | Puhdistaa pakkomielteisesti      | Uskonnolliset symbolit |
-| **16**  | Kasvit kasvavat sen vanavedessä  | Suola                  |
-| **17**  | Nukkuu ylösalaisin               | Hopea                  |
-| **18**  | Puhuu riimitellen                | Auringonvalo           |
-| **19**  | Hikoilee harvinaisia mineraaleja | Tosinimi               |
-| **20**  | Lisääntyy suvuttomasti           | Heikko kohta           |
+| **1**   | Ei kuole vanhuuteen              | Alkoholi               |
+| **2**   | Hikoilee harvinaisia mineraaleja | Arvoitukset            |
+| **3**   | Kasvit kasvavat sen vanavedessä  | Auringonvalo           |
+| **4**   | Kerää harvinaisia kukkia         | Heikko kohta           |
+| **5**   | Kerää metsästysmuistoja          | Hopea                  |
+| **6**   | Liikkuu suorassa linjassa        | Imartelu               |
+| **7**   | Lisääntyy suvuttomasti           | Keskustelu             |
+| **8**   | Matkii ääniä                     | Kirkkaat värit         |
+| **9**   | Muuttaa kokoaan mielensä mukaan  | Kovat äänet            |
+| **10**  | Nukkuu ylösalaisin               | Kuunvalo               |
+| **11**  | Piirtää symboleja                | Kylmä                  |
+| **12**  | Puhdistaa pakkomielteisesti      | Lahjat                 |
+| **13**  | Puhuu riimitellen                | Musiikki               |
+| **14**  | Rakastaa kiiltäviä esineitä      | Peilit                 |
+| **15**  | Rakastaa tiettyä väriä           | Pelit                  |
+| **16**  | Rohmuaa kirjoja                  | Rauta                  |
+| **17**  | Selittää kaiken                  | Suola                  |
+| **18**  | Tulen kiehtoma                   | Tosinimi               |
+| **19**  | Uudestisyntyy joka päivä         | Uskonnolliset symbolit |
+| **20**  | Vaihtaa väriä mielensä mukaan    | Valmistetut ateriat    |
 
 ## Hirviön hyökkäykset
 
@@ -132,26 +132,26 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 |         |            |                            |
 | ------- | ---------- | -------------------------- |
 | **d20** | **Tyyppi** | **Kriittinen vahinko**     |
-| **1**   | Puree      | Tukehduttaa                |
-| **2**   | Tylsyttää  | Vuodattaa verta            |
-| **3**   | Polttaa    | Sokaisee                   |
-| **4**   | Jäädyttää  | Rikkoo                     |
-| **5**   | Kaasuttaa  | Murskaa                    |
-| **6**   | Potkaisee  | Rappeuttaa                 |
-| **7**   | Lyö        | Liuottaa                   |
-| **8**   | Ampuu      | Pyydystää                  |
-| **9**   | Läimäisee  | Räjäyttää                  |
-| **10**  | Silpoo     | Tarttuu                    |
-| **11**  | Viiltää    | Tekee toimintakyvyttömäksi |
-| **12**  | Iskee      | Repii                      |
-| **13**  | Suihkaisee | Muuttaa nesteeksi          |
-| **14**  | Puristaa   | Lamauttaa                  |
-| **15**  | Puukottaa  | Jähmettää                  |
-| **16**  | Pistää     | Myrkyttää                  |
-| **17**  | Heittää    | Puhkoo                     |
-| **18**  | Koskee     | Katkoo                     |
-| **19**  | Piiskaa    | Talloo                     |
-| **20**  | Sädeisku   | Heikentää                  |
+| **1**   | Ampuu      | Heikentää                  |
+| **2**   | Heittää    | Jähmettää                  |
+| **3**   | Iskee      | Katkoo                     |
+| **4**   | Jäädyttää  | Lamauttaa                  |
+| **5**   | Kaasuttaa  | Liuottaa                   |
+| **6**   | Koskee     | Murskaa                    |
+| **7**   | Lyö        | Muuttaa nesteeksi          |
+| **8**   | Läimäisee  | Myrkyttää                  |
+| **9**   | Piiskaa    | Puhkoo                     |
+| **10**  | Pistää     | Pyydystää                  |
+| **11**  | Polttaa    | Rappeuttaa                 |
+| **12**  | Potkaisee  | Repii                      |
+| **13**  | Puree      | Rikkoo                     |
+| **14**  | Puristaa   | Räjäyttää                  |
+| **15**  | Puukottaa  | Sokaisee                   |
+| **16**  | Silpoo     | Talloo                     |
+| **17**  | Suihkaisee | Tarttuu                    |
+| **18**  | Sädeisku   | Tekee toimintakyvyttömäksi |
+| **19**  | Tylsyttää  | Tukehduttaa                |
+| **20**  | Viiltää    | Vuodattaa verta            |
 
 ## Hirviön kyvyt
 
@@ -160,26 +160,26 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 |         |                |           |
 | ------- | -------------- | --------- |
 | **d20** | **Kyky**       | **Kohde** |
-| **1**   | Imee itseensä  | Vartalo   |
-| **2**   | Vahvistaa      | Unet      |
-| **3**   | Houkuttelee    | Aine      |
-| **4**   | Sitoo          | Tunteet   |
-| **5**   | Naamioituu     | Energia   |
-| **6**   | Loihtii        | Terveys   |
-| **7**   | Hallitsee      | Kuulo     |
-| **8**   | Estää          | Harhat    |
-| **9**   | Kopioi         | Valo      |
-| **10**  | Kasvaa         | Muisti    |
-| **11**  | Manipuloi      | Metalli   |
-| **12**  | Heijastaa      | Kasvit    |
-| **13**  | Luo uudelleen  | Henki     |
-| **14**  | Vastustaa      | Kivi      |
-| **15**  | Kumoaa         | Ympäristö |
-| **16**  | Muovaa         | Aika      |
-| **17**  | Kutistuu       | Näkö      |
-| **18**  | Muuntuu        | Vesi      |
-| **19**  | Ansat          | Sää       |
-| **20**  | Iskee säteellä | Heikentää |
+| **1**   | Ansat          | Aika      |
+| **2**   | Estää          | Aine      |
+| **3**   | Hallitsee      | Energia   |
+| **4**   | Heijastaa      | Harhat    |
+| **5**   | Houkuttelee    | Heikentää |
+| **6**   | Imee itseensä  | Henki     |
+| **7**   | Iskee säteellä | Kasvit    |
+| **8**   | Kasvaa         | Kivi      |
+| **9**   | Kopioi         | Kuulo     |
+| **10**  | Kumoaa         | Metalli   |
+| **11**  | Kutistuu       | Muisti    |
+| **12**  | Loihtii        | Näkö      |
+| **13**  | Luo uudelleen  | Sää       |
+| **14**  | Manipuloi      | Terveys   |
+| **15**  | Muovaa         | Tunteet   |
+| **16**  | Muuntuu        | Unet      |
+| **17**  | Naamioituu     | Valo      |
+| **18**  | Sitoo          | Vartalo   |
+| **19**  | Vahvistaa      | Vesi      |
+| **20**  | Vastustaa      | Ympäristö |
 
 ## Esimerkki hirviöstä
 

@@ -59,26 +59,26 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 |         |                                           |                                  |
 | ------- | ----------------------------------------- | -------------------------------- |
 | **d20** | **Alkuperäinen käyttö**                   | **Rakentaja**                    |
-| **1**   | Ikiaikaiset riitit                        | Kaatunut sankari                 |
-| **2**   | Salaperäinen kirjasto                     | Fanaattinen kultti               |
-| **3**   | Astraalinen kauppapaikka                  | Unohdettu valtakunta             |
-| **4**   | Petomaiset luomukset                      | Kauan sitten kuollut runoilija   |
-| **5**   | Lisääntymispaikka                         | Sotaisa veljeskunta              |
-| **6**   | Hautapaikka                               | Tunnettu alkemisti               |
-| **7**   | Tähtitaivaan havainnointi                 | Kuninkaallinen dynastia          |
-| **8**   | Salaiset kokeet                           | Salaseura                        |
-| **9**   | Kielletyt suhteet                         | Julma hallitsija                 |
-| **10**  | Paja suurta asetta varten                 | Soturiheimo                      |
-| **11**  | Piilopaikka                               | Rikas erakko                     |
-| **12**  | Läpäisemätön holvi                        | Epätoivoiset kapinalliset        |
-| **13**  | Uniin tunkeutuminen                       | Harhaoppiset alkemistit          |
-| **14**  | Yksinäinen turvapaikka                    | Harhaoppiset munkit              |
-| **15**  | Armeijan etuvartioasema                   | Moraalittomat velhot             |
-| **16**  | Observatorio                              | Käänteiset astrologit            |
-| **17**  | Pyhiinvaelluskohde                        | Rikollisperheet                  |
-| **18**  | Harvinaisten muinaisesineiden suojapaikka | Äveriäät kauppiaat               |
-| **19**  | Salainen tapaamispaikka                   | Kuolleen jumalan pyhiinvaeltajat |
-| **20**  | Aarrekätkö                                | Kapinalliset oppineet            |
+| **1**   | Aarrekätkö                                | Epätoivoiset kapinalliset        |
+| **2**   | Armeijan etuvartioasema                   | Fanaattinen kultti               |
+| **3**   | Astraalinen kauppapaikka                  | Harhaoppiset alkemistit          |
+| **4**   | Harvinaisten muinaisesineiden suojapaikka | Harhaoppiset munkit              |
+| **5**   | Hautapaikka                               | Julma hallitsija                 |
+| **6**   | Ikiaikaiset riitit                        | Kaatunut sankari                 |
+| **7**   | Kielletyt suhteet                         | Kapinalliset oppineet            |
+| **8**   | Lisääntymispaikka                         | Kauan sitten kuollut runoilija   |
+| **9**   | Läpäisemätön holvi                        | Kuninkaallinen dynastia          |
+| **10**  | Observatorio                              | Kuolleen jumalan pyhiinvaeltajat |
+| **11**  | Paja suurta asetta varten                 | Käänteiset astrologit            |
+| **12**  | Petomaiset luomukset                      | Moraalittomat velhot             |
+| **13**  | Piilopaikka                               | Rikas erakko                     |
+| **14**  | Pyhiinvaelluskohde                        | Rikollisperheet                  |
+| **15**  | Salainen tapaamispaikka                   | Salaseura                        |
+| **16**  | Salaiset kokeet                           | Sotaisa veljeskunta              |
+| **17**  | Salaperäinen kirjasto                     | Soturiheimo                      |
+| **18**  | Tähtitaivaan havainnointi                 | Tunnettu alkemisti               |
+| **19**  | Uniin tunkeutuminen                       | Unohdettu valtakunta             |
+| **20**  | Yksinäinen turvapaikka                    | Äveriäät kauppiaat               |
 
 #### Rakenne
 
@@ -87,26 +87,26 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 |         |                            |                  |
 | ------- | -------------------------- | ---------------- |
 | **d20** | **Sisäänkäynti**           | **Koostumus**    |
-| **1**   | Olennon piilopaikka        | Luu              |
-| **2**   | Uni                        | Koralli          |
-| **3**   | Massiivinen puu            | Kristalli        |
-| **4**   | Kaivo                      | Maa              |
-| **5**   | Valtava hauta              | Eteerinen kangas |
-| **6**   | Vesiputouksen takana       | Liha             |
-| **7**   | Menhir-pystykivien välistä | Leijuvat tasot   |
-| **8**   | Luola                      | Sienet           |
-| **9**   | Sokkelon keskus            | Lasi             |
-| **10**  | Ovi kallioseinämässä       | Jää              |
-| **11**  | Ontto patsas               | Elävät kasvit    |
-| **12**  | Harha muurista             | Marmori          |
-| **13**  | Kaivoskuilu                | Metalli          |
-| **14**  | Uppoava hiekka             | Obsidiaani       |
-| **15**  | Valonsäde kohti taivasta   | Kivettynyt puu   |
-| **16**  | Tähtivalon polku           | Hiekka           |
-| **17**  | Maalauksen läpi            | Varjomateriaali  |
-| **18**  | Sillan alla                | Kivi             |
-| **19**  | Vedenalainen tunneli       | Verkko           |
-| **20**  | Sumuhuntu                  | Puu              |
+| **1**   | Harha muurista             | Elävät kasvit    |
+| **2**   | Kaivo                      | Eteerinen kangas |
+| **3**   | Kaivoskuilu                | Hiekka           |
+| **4**   | Luola                      | Jää              |
+| **5**   | Maalauksen läpi            | Kivettynyt puu   |
+| **6**   | Massiivinen puu            | Kivi             |
+| **7**   | Menhir-pystykivien välistä | Koralli          |
+| **8**   | Olennon piilopaikka        | Kristalli        |
+| **9**   | Ontto patsas               | Lasi             |
+| **10**  | Ovi kallioseinämässä       | Leijuvat tasot   |
+| **11**  | Sillan alla                | Liha             |
+| **12**  | Sokkelon keskus            | Luu              |
+| **13**  | Sumuhuntu                  | Maa              |
+| **14**  | Tähtivalon polku           | Marmori          |
+| **15**  | Uni                        | Metalli          |
+| **16**  | Uppoava hiekka             | Obsidiaani       |
+| **17**  | Valonsäde kohti taivasta   | Puu              |
+| **18**  | Valtava hauta              | Sienet           |
+| **19**  | Vedenalainen tunneli       | Varjomateriaali  |
+| **20**  | Vesiputouksen takana       | Verkko           |
 
 #### Tuho
 
@@ -115,26 +115,26 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 |         |                 |                                |
 | ------- | --------------- | ------------------------------ |
 | **d20** | **Kunto**       | **Syy**                        |
-| **1**   | Ruumis          | Alkemistinen onnettomuus       |
-| **2**   | Rappeutunut     | Muinainen kirous               |
-| **3**   | Kirottu         | Mullistava tulva               |
-| **4**   | Häpäisty        | Sisällissota                   |
-| **5**   | Ahmittu         | Kilpailevat palvontariitit     |
-| **6**   | Pois paikaltaan | Pedon ahmima                   |
-| **7**   | Haljennut       | Tauti                          |
-| **8**   | Jäätynyt        | Hedonismi                      |
-| **9**   | Kummitteleva    | Hyökkäys                       |
-| **10**  | Saastunut       | Hylätty pitkäksi aikaa         |
-| **11**  | Umpeenkasvanut  | Pieleen mennyt taika           |
-| **12**  | Ylikansoitettu  | Taikasinetti                   |
-| **13**  | Kivettynyt      | Luonnonkatastrofi              |
-| **14**  | Ryöstetty       | Luonnollinen kuluma            |
-| **15**  | Myrkytetty      | Hämärtyminen                   |
-| **16**  | Poltettu        | Hirviöiden valtaama            |
-| **17**  | Sumun peittämä  | Äkillinen ilmastonmuutos       |
-| **18**  | Uponnut         | Kaukosiirtyi toiseen maailmaan |
-| **19**  | Loppumaton      | Muuttui kiveksi                |
-| **20**  | Vääristynyt     | Rauhattomat henget             |
+| **1**   | Ahmittu         | Alkemistinen onnettomuus       |
+| **2**   | Haljennut       | Hedonismi                      |
+| **3**   | Häpäisty        | Hirviöiden valtaama            |
+| **4**   | Jäätynyt        | Hylätty pitkäksi aikaa         |
+| **5**   | Kirottu         | Hyökkäys                       |
+| **6**   | Kivettynyt      | Hämärtyminen                   |
+| **7**   | Kummitteleva    | Kaukosiirtyi toiseen maailmaan |
+| **8**   | Loppumaton      | Kilpailevat palvontariitit     |
+| **9**   | Myrkytetty      | Luonnollinen kuluma            |
+| **10**  | Pois paikaltaan | Luonnonkatastrofi              |
+| **11**  | Poltettu        | Muinainen kirous               |
+| **12**  | Rappeutunut     | Mullistava tulva               |
+| **13**  | Ruumis          | Muuttui kiveksi                |
+| **14**  | Ryöstetty       | Pedon ahmima                   |
+| **15**  | Saastunut       | Pieleen mennyt taika           |
+| **16**  | Sumun peittämä  | Rauhattomat henget             |
+| **17**  | Umpeenkasvanut  | Sisällissota                   |
+| **18**  | Uponnut         | Taikasinetti                   |
+| **19**  | Vääristynyt     | Tauti                          |
+| **20**  | Ylikansoitettu  | Äkillinen ilmastonmuutos       |
 
 ### Luolaston asukkaat
 
@@ -152,26 +152,26 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 |         |                   |                   |
 | ------- | ----------------- | ----------------- |
 | **d20** | **Hyveet**        | **Paheet**        |
-| **1**   | Myötätuntoinen    | Hajamielinen      |
-| **2**   | Rohkea            | Etäinen           |
-| **3**   | Luova             | Kriittinen        |
-| **4**   | Päättelevä        | Kyyninen          |
-| **5**   | Rehellinen        | Ahne              |
-| **6**   | Terävä            | Äkkipikainen      |
-| **7**   | Turmeltumaton     | Joustamaton       |
-| **8**   | Yksilöllinen      | Naiivi            |
-| **9**   | Uskollinen        | Itsepäinen        |
-| **10**  | Järjestelmällinen | Passiivinen       |
-| **11**  | Kohtelias         | Säntillinen       |
-| **12**  | Käytännöllinen    | Perfektionisti    |
-| **13**  | Lannistumaton     | Sarkastinen       |
-| **14**  | Tieteellinen      | Itsekäs           |
-| **15**  | Itsenäinen        | Epäilevä          |
-| **16**  | Yhtenäinen        | Itsepäinen        |
-| **17**  | Ahkera            | Pinnallinen       |
-| **18**  | Sulava            | Poukkoileva       |
-| **19**  | Vankkumaton       | Mielikuvitukseton |
-| **20**  | Nokkela           | Turhamainen       |
+| **1**   | Ahkera            | Ahne              |
+| **2**   | Itsenäinen        | Epäilevä          |
+| **3**   | Järjestelmällinen | Etäinen           |
+| **4**   | Kohtelias         | Hajamielinen      |
+| **5**   | Käytännöllinen    | Itsekäs           |
+| **6**   | Lannistumaton     | Itsepäinen        |
+| **7**   | Luova             | Itsepäinen        |
+| **8**   | Myötätuntoinen    | Joustamaton       |
+| **9**   | Nokkela           | Kriittinen        |
+| **10**  | Päättelevä        | Kyyninen          |
+| **11**  | Rehellinen        | Mielikuvitukseton |
+| **12**  | Rohkea            | Naiivi            |
+| **13**  | Sulava            | Passiivinen       |
+| **14**  | Terävä            | Perfektionisti    |
+| **15**  | Tieteellinen      | Pinnallinen       |
+| **16**  | Turmeltumaton     | Poukkoileva       |
+| **17**  | Uskollinen        | Sarkastinen       |
+| **18**  | Vankkumaton       | Säntillinen       |
+| **19**  | Yhtenäinen        | Turhamainen       |
+| **20**  | Yksilöllinen      | Äkkipikainen      |
 
 ### Luolaston ryhmittymät
 
@@ -184,26 +184,26 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 |         |               |                              |
 | ------- | ------------- | ---------------------------- |
 | **d20** | **Tavoite**   | **Este**                     |
-| **1**   | Ylennys       | Selkkaus                     |
-| **2**   | Luominen      | Korruptio                    |
-| **3**   | Tuho          | Hinta                        |
-| **4**   | Herruus       | Vaara                        |
-| **5**   | Valaistuminen | Rappeutuminen                |
-| **6**   | Tutkiskelu    | Eripura                      |
-| **7**   | Kasvu         | Hajaannus                    |
-| **8**   | Uudistus      | Uskonkappale                 |
-| **9**   | Oikeus        | Altistuminen luonnonvoimille |
-| **10**  | Tietämys      | Ryhmäytyminen                |
-| **11**  | Vapautus      | Pelko                        |
-| **12**  | Rauha         | Tietämättömyys               |
-| **13**  | Valta         | Osaamattomuus                |
-| **14**  | Säilyttäminen | Epäoikeudenmukaisuus         |
-| **15**  | Suoja         | Eristys                      |
-| **16**  | Pelastus      | Vastustus                    |
-| **17**  | Kosto         | Uhraus                       |
-| **18**  | Selviytyminen | Pysähtyneisyys               |
-| **19**  | Muutos        | Perinteet                    |
-| **20**  | Rikkaudet     | Heikkous                     |
+| **1**   | Herruus       | Altistuminen luonnonvoimille |
+| **2**   | Kasvu         | Epäoikeudenmukaisuus         |
+| **3**   | Kosto         | Eripura                      |
+| **4**   | Luominen      | Eristys                      |
+| **5**   | Muutos        | Hajaannus                    |
+| **6**   | Oikeus        | Heikkous                     |
+| **7**   | Pelastus      | Hinta                        |
+| **8**   | Rauha         | Korruptio                    |
+| **9**   | Rikkaudet     | Osaamattomuus                |
+| **10**  | Selviytyminen | Pelko                        |
+| **11**  | Suoja         | Perinteet                    |
+| **12**  | Säilyttäminen | Pysähtyneisyys               |
+| **13**  | Tietämys      | Rappeutuminen                |
+| **14**  | Tuho          | Ryhmäytyminen                |
+| **15**  | Tutkiskelu    | Selkkaus                     |
+| **16**  | Uudistus      | Tietämättömyys               |
+| **17**  | Valaistuminen | Uhraus                       |
+| **18**  | Valta         | Uskonkappale                 |
+| **19**  | Vapautus      | Vaara                        |
+| **20**  | Ylennys       | Vastustus                    |
 
 ## Rakenna luolasto
 
@@ -259,26 +259,26 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 |         |                 |                 |
 | ------- | --------------- | --------------- |
 | **d20** | **Ryhmä**       | **Toiminta**    |
-| **1**   | Lintu           | Rakentaa        |
-| **2**   | Peto            | Ahmii           |
-| **3**   | Suureläimet     | Kuolemaisillaan |
-| **4**   | Rakento         | Taistelee       |
-| **5**   | Demoni          | Kasvaa          |
-| **6**   | Sfäärinulkoinen | Riivaa          |
-| **7**   | Keiju           | Piileskelee     |
-| **8**   | Jätti           | Tappaa          |
-| **9**   | Hiisiolento     | Parittelee      |
-| **10**  | Ihmisolennot    | Suree           |
-| **11**  | Hybridi         | Partioi         |
-| **12**  | Ruumiiton       | Rukoilee        |
-| **13**  | Hyönteinen      | Suojelee        |
-| **14**  | Lisko           | Toipuu          |
-| **15**  | Taika           | Suunnittelee    |
-| **16**  | Myyttinen       | Nukkuu          |
-| **17**  | Kasvi           | Vaanii          |
-| **18**  | Muodonmuuttaja  | Kiduttaa        |
-| **19**  | Epäkuollut      | Koulutus        |
-| **20**  | Epätavallinen   | Loukussa        |
+| **1**   | Demoni          | Ahmii           |
+| **2**   | Epäkuollut      | Kasvaa          |
+| **3**   | Epätavallinen   | Kiduttaa        |
+| **4**   | Hiisiolento     | Koulutus        |
+| **5**   | Hybridi         | Kuolemaisillaan |
+| **6**   | Hyönteinen      | Loukussa        |
+| **7**   | Ihmisolennot    | Nukkuu          |
+| **8**   | Jätti           | Parittelee      |
+| **9**   | Kasvi           | Partioi         |
+| **10**  | Keiju           | Piileskelee     |
+| **11**  | Lintu           | Rakentaa        |
+| **12**  | Lisko           | Riivaa          |
+| **13**  | Muodonmuuttaja  | Rukoilee        |
+| **14**  | Myyttinen       | Suojelee        |
+| **15**  | Peto            | Suree           |
+| **16**  | Rakento         | Suunnittelee    |
+| **17**  | Ruumiiton       | Taistelee       |
+| **18**  | Sfäärinulkoinen | Tappaa          |
+| **19**  | Suureläimet     | Toipuu          |
+| **20**  | Taika           | Vaanii          |
 
 #### Tarina
 
@@ -289,26 +289,26 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 |         |                 |               |
 | ------- | --------------- | ------------- |
 | **d20** | **Huonetyyppi** | **Vihje**     |
-| **1**   | Asevarasto      | Rappeutuminen |
-| **2**   | Kasarmi         | Sisustus      |
-| **3**   | Kylpy           | Ilmavirta     |
-| **4**   | Vesisäiliö      | Kaiut         |
-| **5**   | Kenttä          | Jalanjäljet   |
-| **6**   | Krypta          | Tähteet       |
-| **7**   | Luola           | Valo          |
-| **8**   | Ruokasali       | Merkinnät     |
-| **9**   | Vartiopaikka    | Kosteus       |
-| **10**  | Sairastupa      | Meteli        |
-| **11**  | Keittiö         | Tarvikkeet    |
-| **12**  | Käymälä         | Jäämät        |
-| **13**  | Kirjasto        | Kipitys       |
-| **14**  | Pyhäkkö         | Merkit        |
-| **15**  | Paja            | Haju          |
-| **16**  | Talli           | Tahrat        |
-| **17**  | Varasto         | Koputus       |
-| **18**  | Työhuone        | Lämpötila     |
-| **19**  | Holvi           | Värinä        |
-| **20**  | Työpaja         | Kirjoitus     |
+| **1**   | Asevarasto      | Haju          |
+| **2**   | Holvi           | Ilmavirta     |
+| **3**   | Kasarmi         | Jalanjäljet   |
+| **4**   | Keittiö         | Jäämät        |
+| **5**   | Kenttä          | Kaiut         |
+| **6**   | Kirjasto        | Kipitys       |
+| **7**   | Krypta          | Kirjoitus     |
+| **8**   | Kylpy           | Koputus       |
+| **9**   | Käymälä         | Kosteus       |
+| **10**  | Luola           | Lämpötila     |
+| **11**  | Paja            | Merkinnät     |
+| **12**  | Pyhäkkö         | Merkit        |
+| **13**  | Ruokasali       | Meteli        |
+| **14**  | Sairastupa      | Rappeutuminen |
+| **15**  | Talli           | Sisustus      |
+| **16**  | Työhuone        | Tahrat        |
+| **17**  | Työpaja         | Tarvikkeet    |
+| **18**  | Varasto         | Tähteet       |
+| **19**  | Vartiopaikka    | Valo          |
+| **20**  | Vesisäiliö      | Värinä        |
 
 #### Erikois
 
@@ -319,26 +319,26 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 |         |                |                |
 | ------- | -------------- | -------------- |
 | **d20** | **Erikoisuus** | **Ominaisuus** |
-| **1**   | Kirjat         | Vanhentaa      |
-| **2**   | Silta          | Hälyttää       |
-| **3**   | Vempele        | Elävöittää     |
-| **4**   | Olento         | Houkuttelee    |
-| **5**   | Ovi            | Ryntää         |
-| **6**   | Liekit         | Sulkee         |
-| **7**   | Huonekalut     | Putoaa         |
-| **8**   | Reikä          | Hehkuu         |
-| **9**   | Neste          | Kasvaa         |
-| **10**  | Peili          | Harha          |
-| **11**  | Seinämaalaus   | Leijuu         |
-| **12**  | Allas          | Lukitsee       |
-| **13**  | Varjot         | Avaa           |
-| **14**  | Savu           | Heijastaa      |
-| **15**  | Patsas         | Hylkii         |
-| **16**  | Pinta          | Paljastaa      |
-| **17**  | Aarteet        | Siirtää        |
-| **18**  | Äänet          | Hiljentää      |
-| **19**  | Pyörä          | Teleportti     |
-| **20**  | Kirjoitus      | Muuntaa        |
+| **1**   | Aarteet        | Avaa           |
+| **2**   | Allas          | Elävöittää     |
+| **3**   | Huonekalut     | Harha          |
+| **4**   | Kirjat         | Hehkuu         |
+| **5**   | Kirjoitus      | Heijastaa      |
+| **6**   | Liekit         | Hiljentää      |
+| **7**   | Neste          | Houkuttelee    |
+| **8**   | Olento         | Hylkii         |
+| **9**   | Ovi            | Hälyttää       |
+| **10**  | Patsas         | Kasvaa         |
+| **11**  | Peili          | Leijuu         |
+| **12**  | Pinta          | Lukitsee       |
+| **13**  | Pyörä          | Muuntaa        |
+| **14**  | Reikä          | Paljastaa      |
+| **15**  | Savu           | Putoaa         |
+| **16**  | Seinämaalaus   | Ryntää         |
+| **17**  | Silta          | Siirtää        |
+| **18**  | Varjot         | Sulkee         |
+| **19**  | Vempele        | Teleportti     |
+| **20**  | Äänet          | Vanhentaa      |
 
 #### Ansa
 
@@ -349,26 +349,26 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 |         |            |                 |
 | ------- | ---------- | --------------- |
 | **d20** | **Ansa**   | **Laukaisu**    |
-| **1**   | Vanhentaa  | Käynnistäminen  |
-| **2**   | Polttaa    | Rikkominen      |
-| **3**   | Kaappaa    | Ylittäminen     |
-| **4**   | Kantaa     | Häiritseminen   |
-| **5**   | Hämmentää  | Sisäänkäyminen  |
-| **6**   | Murskaa    | Sammuttaminen   |
-| **7**   | Kiroaa     | Keskittyminen   |
-| **8**   | Leikkaa    | Käyttäminen     |
-| **9**   | Kuurouttaa | Valaiseminen    |
-| **10**  | Tiputtaa   | Siirtäminen     |
-| **11**  | Hukuttaa   | Avaaminen       |
-| **12**  | Jäädyttää  | Vetäminen       |
-| **13**  | Liimaa     | Työntäminen     |
-| **14**  | Hypnotisoi | Lukeminen       |
-| **15**  | Seivästää  | Puhuminen       |
-| **16**  | Tartuttaa  | Astuminen       |
-| **17**  | Nostaa     | Ottaminen       |
-| **18**  | Myrkyttää  | Keskusteleminen |
-| **19**  | Iskee      | Koskettaminen   |
-| **20**  | Ampuu      | Kompastuminen   |
+| **1**   | Ampuu      | Astuminen       |
+| **2**   | Hukuttaa   | Avaaminen       |
+| **3**   | Hypnotisoi | Häiritseminen   |
+| **4**   | Hämmentää  | Keskittyminen   |
+| **5**   | Iskee      | Keskusteleminen |
+| **6**   | Jäädyttää  | Kompastuminen   |
+| **7**   | Kaappaa    | Koskettaminen   |
+| **8**   | Kantaa     | Käynnistäminen  |
+| **9**   | Kiroaa     | Käyttäminen     |
+| **10**  | Kuurouttaa | Lukeminen       |
+| **11**  | Leikkaa    | Ottaminen       |
+| **12**  | Liimaa     | Puhuminen       |
+| **13**  | Murskaa    | Rikkominen      |
+| **14**  | Myrkyttää  | Sammuttaminen   |
+| **15**  | Nostaa     | Siirtäminen     |
+| **16**  | Polttaa    | Sisäänkäyminen  |
+| **17**  | Seivästää  | Työntäminen     |
+| **18**  | Tartuttaa  | Valaiseminen    |
+| **19**  | Tiputtaa   | Vetäminen       |
+| **20**  | Vanhentaa  | Ylittäminen     |
 
 ## Luolaston esimerkki
 

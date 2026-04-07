@@ -51,26 +51,26 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 |         |                 |                      |
 | ------- | --------------- | -------------------- |
 | **d20** | **Kuvaus**      | **Kuvaus**           |
-| **1**   | Karu            | Muinainen            |
-| **2**   | Kristallimainen | Heräävä              |
-| **3**   | Sairas          | Suhiseva             |
-| **4**   | Kuoleva         | Rappeutuva           |
-| **5**   | Kukkiva         | Tulvinut             |
-| **6**   | Hehkuva         | Sumuinen             |
-| **7**   | Pyhä            | Jäätävä              |
-| **8**   | Sammaleinen     | Jäätynyt             |
-| **9**   | Hämärä          | Täynnä sieniä        |
-| **10**  | Vaarallinen     | Piilotettu           |
-| **11**  | Kivettynyt      | Tuholaisten valtaama |
-| **12**  | Saastunut       | Sumuinen             |
-| **13**  | Muinainen       | Sammaleinen          |
-| **14**  | Poltettu        | Umpeenkasvanut       |
-| **15**  | Syrjäinen       | Pyhä                 |
-| **16**  | Tukahduttava    | Syrjäinen            |
-| **17**  | Ajaton          | Hiljainen            |
-| **18**  | Kartoittamaton  | Kytevä               |
-| **19**  | Tahraton        | Aurinkoinen          |
-| **20**  | Kiemurteleva    | Villi                |
+| **1**   | Ajaton          | Aurinkoinen          |
+| **2**   | Hehkuva         | Heräävä              |
+| **3**   | Hämärä          | Hiljainen            |
+| **4**   | Kartoittamaton  | Jäätynyt             |
+| **5**   | Karu            | Jäätävä              |
+| **6**   | Kiemurteleva    | Kytevä               |
+| **7**   | Kivettynyt      | Muinainen            |
+| **8**   | Kristallimainen | Piilotettu           |
+| **9**   | Kukkiva         | Pyhä                 |
+| **10**  | Kuoleva         | Rappeutuva           |
+| **11**  | Muinainen       | Sammaleinen          |
+| **12**  | Poltettu        | Suhiseva             |
+| **13**  | Pyhä            | Sumuinen             |
+| **14**  | Saastunut       | Sumuinen             |
+| **15**  | Sairas          | Syrjäinen            |
+| **16**  | Sammaleinen     | Tuholaisten valtaama |
+| **17**  | Syrjäinen       | Tulvinut             |
+| **18**  | Tahraton        | Täynnä sieniä        |
+| **19**  | Tukahduttava    | Umpeenkasvanut       |
+| **20**  | Vaarallinen     | Villi                |
 
 ## Metsän henki
 
@@ -83,26 +83,26 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 |         |                |                  |
 | ------- | -------------- | ---------------- |
 | **d20** | **Hyveet**     | **Paheet**       |
-| **1**   | Mukautuva      | Aggressiivinen   |
-| **2**   | Tasapainoinen  | Etäinen          |
-| **3**   | Rohkea         | Ahne             |
-| **4**   | Nokkela        | Etäinen          |
-| **5**   | Kasvattava     | Hallitseva       |
-| **6**   | Empaattinen    | Epäilevä         |
-| **7**   | Kestävä        | Tunkeileva       |
-| **8**   | Viehkeä        | Tuomitseva       |
-| **9**   | Kestävä        | Naiivi           |
-| **10**  | Harmoninen     | Hämärtävä        |
-| **11**  | Itsenäinen     | Yli-innokas      |
-| **12**  | Oppinut        | Loismainen       |
-| **13**  | Hoivaava       | Passiivinen      |
-| **14**  | Tarkkaavainen  | Saastuttava      |
-| **15**  | Puhdistava     | Saalistava       |
-| **16**  | Määrätietoinen | Ylpeä            |
-| **17**  | Järkevä        | Jäykkä           |
-| **18**  | Terävät        | Hajamielinen     |
-| **19**  | Vakaa          | Itsekäs          |
-| **20**  | Luottavainen   | Reviiritietoinen |
+| **1**   | Empaattinen    | Aggressiivinen   |
+| **2**   | Harmoninen     | Ahne             |
+| **3**   | Hoivaava       | Epäilevä         |
+| **4**   | Itsenäinen     | Etäinen          |
+| **5**   | Järkevä        | Etäinen          |
+| **6**   | Kasvattava     | Hajamielinen     |
+| **7**   | Kestävä        | Hallitseva       |
+| **8**   | Kestävä        | Hämärtävä        |
+| **9**   | Luottavainen   | Itsekäs          |
+| **10**  | Mukautuva      | Jäykkä           |
+| **11**  | Määrätietoinen | Loismainen       |
+| **12**  | Nokkela        | Naiivi           |
+| **13**  | Oppinut        | Passiivinen      |
+| **14**  | Puhdistava     | Reviiritietoinen |
+| **15**  | Rohkea         | Saalistava       |
+| **16**  | Tarkkaavainen  | Saastuttava      |
+| **17**  | Tasapainoinen  | Tunkeileva       |
+| **18**  | Terävät        | Tuomitseva       |
+| **19**  | Vakaa          | Yli-innokas      |
+| **20**  | Viehkeä        | Ylpeä            |
 
 #### Metsän tavoitteet
 
@@ -111,26 +111,26 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 |         |                   |                |
 | ------- | ----------------- | -------------- |
 | **d20** | **Tavoite**       | **Este**       |
-| **1**   | Runsaus           | Sopimukset     |
-| **2**   | Herääminen        | Uskomukset     |
-| **3**   | Tasapaino         | Saastuminen    |
-| **4**   | Puhdistautuminen  | Tauti          |
-| **5**   | Suojelu           | Hyväksikäyttö  |
-| **6**   | Puolustus         | Hajanaisuus    |
-| **7**   | Löytö             | Hauraus        |
-| **8**   | Vapauttaminen     | Ahneus         |
-| **9**   | Rikastuminen      | Tietämättömyys |
-| **10**  | Kehitys           | Tuholaiset     |
-| **11**  | Laajentuminen     | Hyökkäys       |
-| **12**  | Sopusointu        | Eristys        |
-| **13**  | Parantuminen      | Johtajuus      |
-| **14**  | Yhdistyminen      | Sorto          |
-| **15**  | Oikeus            | Saasteet       |
-| **16**  | Muodonmuutos      | Niukkuus       |
-| **17**  | Puhdistuminen     | Salpaus        |
-| **18**  | Uudestisyntyminen | Sekamelska     |
-| **19**  | Rauhallisuus      | Haavoittuvuus  |
-| **20**  | Yhtenäisyys       | Haavoittuvuus  |
+| **1**   | Herääminen        | Ahneus         |
+| **2**   | Kehitys           | Eristys        |
+| **3**   | Laajentuminen     | Haavoittuvuus  |
+| **4**   | Löytö             | Haavoittuvuus  |
+| **5**   | Muodonmuutos      | Hajanaisuus    |
+| **6**   | Oikeus            | Hauraus        |
+| **7**   | Parantuminen      | Hyväksikäyttö  |
+| **8**   | Puhdistautuminen  | Hyökkäys       |
+| **9**   | Puhdistuminen     | Johtajuus      |
+| **10**  | Puolustus         | Niukkuus       |
+| **11**  | Rauhallisuus      | Saasteet       |
+| **12**  | Rikastuminen      | Saastuminen    |
+| **13**  | Runsaus           | Salpaus        |
+| **14**  | Sopusointu        | Sekamelska     |
+| **15**  | Suojelu           | Sopimukset     |
+| **16**  | Tasapaino         | Sorto          |
+| **17**  | Uudestisyntyminen | Tauti          |
+| **18**  | Vapauttaminen     | Tietämättömyys |
+| **19**  | Yhdistyminen      | Tuholaiset     |
+| **20**  | Yhtenäisyys       | Uskomukset     |
 
 ## Luo kartta
 
@@ -180,26 +180,26 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 |         |                        |                               |
 | ------- | ---------------------- | ----------------------------- |
 | **d20** | **Tyyppi**             | **Merkit**                    |
-| **1**   | Eläinten polku         | Karhunhankaumat               |
-| **2**   | Rosvojen pakoreitti    | Taipuneet puut                |
-| **3**   | Kivinen tie            | Raapimisjälkiä                |
-| **4**   | Suojainen lehto        | Vaurioitunut kasvisto         |
-| **5**   | Peurojen ylityskohta   | Peuran jäljet                 |
-| **6**   | Kuiva joenuoma         | Kaukaista laulua              |
-| **7**   | Keijukansan kulkuväylä | Vaimeaa naurua                |
-| **8**   | Maatilan hiekkatie     | Ketun tassunjäljet            |
-| **9**   | Keräilypolku           | Tuoreet hämähäkinseitit       |
-| **10**  | Metsästäjän reitti     | Jättimäiset höyhenet          |
-| **11**  | Kuninkaantie           | Hehkuvat rupikonnat           |
-| **12**  | Kauppiaiden tie        | Mykistetty kellot             |
-| **13**  | Vanha metsänkorjuutie  | Liikettä näkökentän reunoilla |
-| **14**  | Hedelmätarhan polku    | Jäniksen jätökset             |
-| **15**  | Pyhiinvaeltajan polku  | Käärmeen jäljet               |
-| **16**  | Itiöiden täyttämä      | Savu                          |
-| **17**  | Tahmean mahlan polku   | Hiljaisuus                    |
-| **18**  | Polkupuu               | Kivikasat                     |
-| **19**  | Puurajan korkeudella   | Heiluvat kasvit               |
-| **20**  | Sotapolku              | Puukaiverrukset               |
+| **1**   | Eläinten polku         | Hehkuvat rupikonnat           |
+| **2**   | Hedelmätarhan polku    | Heiluvat kasvit               |
+| **3**   | Itiöiden täyttämä      | Hiljaisuus                    |
+| **4**   | Kauppiaiden tie        | Jäniksen jätökset             |
+| **5**   | Keijukansan kulkuväylä | Jättimäiset höyhenet          |
+| **6**   | Keräilypolku           | Karhunhankaumat               |
+| **7**   | Kivinen tie            | Kaukaista laulua              |
+| **8**   | Kuiva joenuoma         | Ketun tassunjäljet            |
+| **9**   | Kuninkaantie           | Kivikasat                     |
+| **10**  | Maatilan hiekkatie     | Käärmeen jäljet               |
+| **11**  | Metsästäjän reitti     | Liikettä näkökentän reunoilla |
+| **12**  | Peurojen ylityskohta   | Mykistetty kellot             |
+| **13**  | Polkupuu               | Peuran jäljet                 |
+| **14**  | Puurajan korkeudella   | Puukaiverrukset               |
+| **15**  | Pyhiinvaeltajan polku  | Raapimisjälkiä                |
+| **16**  | Rosvojen pakoreitti    | Savu                          |
+| **17**  | Sotapolku              | Taipuneet puut                |
+| **18**  | Suojainen lehto        | Tuoreet hämähäkinseitit       |
+| **19**  | Tahmean mahlan polku   | Vaimeaa naurua                |
+| **20**  | Vanha metsänkorjuutie  | Vaurioitunut kasvisto         |
 
 > Jos jotkin tuloksista eivät vaikuta sopivilta, se ei haittaa! Muuta nämä ristiriidat kysymyksiksi kuten "Miksi _on olemassa_ vanha metsänkorjuutie, joka johtaa rosvojen piilopaikkaan?" Älä kuitenkaan pelkää valita sopivampaa tulosta, jos sinulla on vaikeuksia saada alkuperäistä tulosta sopimaan!
 
@@ -209,29 +209,29 @@ Hirviöt ovat mitä tahansa vaarallisia olentoja, joita voi kohdata metsässä. 
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |                                                     |                 |
-| ------- | --------------------------------------------------- | --------------- |
-| **d20** | **Hirviö**                                          | **Toiminta**    |
-| **1**   | Maantierosvo                                        | Kaivautuu       |
-| **2**   | Väikekoira                                          | Hautaa          |
-| **3**   | Hurmehirvi                                          | Tuhoaa          |
-| **4**   | Kentauri                                            | Ahmii           |
-| **5**   | Dryadi                                              | Kuolemaisillaan |
-| **6**   | Jatuli                                              | Taistelee       |
-| **7**   | Gargoili                                            | Kerää ruokaa    |
-| **8**   | Vihreä lohikäärme                                   | Vartioi         |
-| **9**   | Harmaakarhu                                         | Piileskelee     |
-| **10**  | Tappajamehiläiset                                   | Metsästää       |
-| **11**  | Naga                                                | Tappaa          |
-| **12**  | Yökissa                                             | Parittelee      |
-| **13**  | Pöllökontio                                         | Suree           |
-| **14**  | Keiju                                               | Partioi         |
-| **15**  | Luuranko                                            | Hiiviskelee     |
-| **16**  | Puupaimen                                           | Toipuu          |
-| **17**  | Yksisarvinen                                        | Tiedustelee     |
-| **18**  | Aarnivalkea                                         | Vaanii          |
-| **19**  | Susi                                                | Kiduttaa        |
-| **20**  | Metsänpeikko                                        | Loukussa        |
+|         |                    |                 |
+| ------- | ------------------ | --------------- |
+| **d20** | **Hirviö**         | **Toiminta**    |
+| **1**   | Aarnivalkea        | Ahmii           |
+| **2**   | Dryadi             | Hautaa          |
+| **3**   | Gargoili           | Hiiviskelee     |
+| **4**   | Harmaakarhu        | Kaivautuu       |
+| **5**   | Hurmehirvi         | Kerää ruokaa    |
+| **6**   | Jatuli             | Kiduttaa        |
+| **7**   | Keiju              | Kuolemaisillaan |
+| **8**   | Kentauri           | Loukussa        |
+| **9**   | Luuranko           | Metsästää       |
+| **10**  | Maantierosvo       | Parittelee      |
+| **11**  | Metsänpeikko       | Partioi         |
+| **12**  | Naga               | Piileskelee     |
+| **13**  | Puupaimen          | Suree           |
+| **14**  | Pöllökontio        | Taistelee       |
+| **15**  | Susi               | Tappaa          |
+| **16**  | Tappajamehiläiset  | Tiedustelee     |
+| **17**  | Vihreä lohikäärme  | Toipuu          |
+| **18**  | Väikekoira         | Tuhoaa          |
+| **19**  | Yksisarvinen       | Vaanii          |
+| **20**  | Yökissa            | Vartioi         |
 
 #### Rauniot
 
@@ -242,26 +242,26 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 |         |                                    |                                         |
 | ------- | ---------------------------------- | --------------------------------------- |
 | **d20** | **Raunio**                         | **Ominaisuus**                          |
-| **1**   | Hylätty kartano                    | Metsänhenki, valmis kuolemaan           |
-| **2**   | Rikkinäinen aurinkokello           | Aineksia keräilevä akka                 |
-| **3**   | Lohjennut kellotorni               | Itsensä peili                           |
-| **4**   | Romahtanut megaliitti              | Itsekeskeinen keijukainen               |
-| **5**   | Sortunut vartiotorni               | Hiljainen, aavemainen konsertti         |
-| **6**   | Lahonneet kanootit                 | Erittäin pikkuruinen raunioitunut kylä  |
-| **7**   | Köynnöksiin kietoutunut paviljonki | Murtamattoman kirouksen alla            |
-| **8**   | Paljas työpaja                     | Sidottu olento                          |
-| **9**   | Tulvan alle jäänyt luostari        | Rikkinäinen portaali                    |
-| **10**  | Homehtunut maalaistalo             | Tuoreita ruumiita                       |
-| **11**  | Laiminlyöty pyhäkkö                | Piilotettu kätkö                        |
-| **12**  | Luonnon valtaama kartano           | Viittamiehet suorittamassa rituaalia    |
-| **13**  | Kivettynyt leiripaikka             | Äänetöntä kuiskausta kaikista suunnista |
-| **14**  | Rapistunut mylly                   | Merkkejä muinaisista taisteluista       |
-| **15**  | Raunioitunut luostari              | Epätavallisten kasvien valtaama         |
-| **16**  | Ruostunut markkinapaikka           | Oikeilta näyttäviä lelusotilaita        |
-| **17**  | Särkynyt silta                     | Epäonnistuneen rituaalin jäänteitä      |
-| **18**  | Sirpaloitunut obeliski             | Verho maailmojen välillä on ohut        |
-| **19**  | Uponnut huvimaja                   | Näkyjä menneisyydestä                   |
-| **20**  | Kaatunut patsas                    | Suojeltu maa                            |
+| **1**   | Homehtunut maalaistalo             | Aineksia keräilevä akka                 |
+| **2**   | Hylätty kartano                    | Epäonnistuneen rituaalin jäänteitä      |
+| **3**   | Kaatunut patsas                    | Epätavallisten kasvien valtaama         |
+| **4**   | Kivettynyt leiripaikka             | Erittäin pikkuruinen raunioitunut kylä  |
+| **5**   | Köynnöksiin kietoutunut paviljonki | Hiljainen, aavemainen konsertti         |
+| **6**   | Lahonneet kanootit                 | Itsekeskeinen keijukainen               |
+| **7**   | Laiminlyöty pyhäkkö                | Itsensä peili                           |
+| **8**   | Lohjennut kellotorni               | Merkkejä muinaisista taisteluista       |
+| **9**   | Luonnon valtaama kartano           | Metsänhenki, valmis kuolemaan           |
+| **10**  | Paljas työpaja                     | Murtamattoman kirouksen alla            |
+| **11**  | Rapistunut mylly                   | Näkyjä menneisyydestä                   |
+| **12**  | Raunioitunut luostari              | Oikeilta näyttäviä lelusotilaita        |
+| **13**  | Rikkinäinen aurinkokello           | Piilotettu kätkö                        |
+| **14**  | Romahtanut megaliitti              | Rikkinäinen portaali                    |
+| **15**  | Ruostunut markkinapaikka           | Sidottu olento                          |
+| **16**  | Sirpaloitunut obeliski             | Suojeltu maa                            |
+| **17**  | Sortunut vartiotorni               | Tuoreita ruumiita                       |
+| **18**  | Särkynyt silta                     | Verho maailmojen välillä on ohut        |
+| **19**  | Tulvan alle jäänyt luostari        | Viittamiehet suorittamassa rituaalia    |
+| **20**  | Uponnut huvimaja                   | Äänetöntä kuiskausta kaikista suunnista |
 
 #### Suoja
 
@@ -272,26 +272,26 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 |         |                             |                                         |
 | ------- | --------------------------- | --------------------------------------- |
 | **d20** | **Suoja**                   | **Ominaisuus**                          |
-| **1**   | Rosvojen piilopaikka        | Hylätty, toistaiseksi                   |
-| **2**   | Haukanmetsästäjän torni     | Houkuttelee villipetoja                 |
-| **3**   | Kalastusmaja                | Rakennettu tapojen vastaisesti          |
-| **4**   | Unohdetut rauniot           | Rakennettu jättimäisen puun sisään      |
-| **5**   | Erakon mökki                | Metsäritari tarjoaa haasteen            |
-| **6**   | Piilotettu kylä             | Koulutettujen eläinten vartioima        |
-| **7**   | Luola mäenrinteessä         | Hyödyttömien kummitusten riivaama       |
-| **8**   | Ontto puu                   | Piilottelee voimakasta muinaisesinettä  |
-| **9**   | Metsästysmaja               | Metsästys on kielletty                  |
-| **10**  | Jaloilla seisova mökki      | Yliluonnollisen olennon asuttama        |
-| **11**  | Muratin peittämä torni      | Sotilaskarkureiden asuttama             |
-| **12**  | Laavu                       | Kultistien valtaama                     |
-| **13**  | Hakkuualue                  | Kalpean kansan illallispaikka           |
-| **14**  | Luostariretriitti           | Loiskasvustoa                           |
-| **15**  | Sammaloitunut lampi         | Sikakansan metsästysmaita               |
-| **16**  | Yömarkkinat                 | Salakuljettajien suosima                |
-| **17**  | Kalpean kansan talli        | Tarjoaa valmiin aterian                 |
-| **18**  | Metsänvartijan vartiopaikka | Leikkisän hengen suojeluksessa          |
-| **19**  | Savuinen mökki              | Muinainen murhapaikka                   |
-| **20**  | Riekaleinen tuulimylly      | Varkaiden leiri                         |
+| **1**   | Erakon mökki                | Houkuttelee villipetoja                 |
+| **2**   | Hakkuualue                  | Hylätty, toistaiseksi                   |
+| **3**   | Haukanmetsästäjän torni     | Hyödyttömien kummitusten riivaama       |
+| **4**   | Jaloilla seisova mökki      | Kalpean kansan illallispaikka           |
+| **5**   | Kalastusmaja                | Koulutettujen eläinten vartioima        |
+| **6**   | Kalpean kansan talli        | Kultistien valtaama                     |
+| **7**   | Laavu                       | Leikkisän hengen suojeluksessa          |
+| **8**   | Luola mäenrinteessä         | Loiskasvustoa                           |
+| **9**   | Luostariretriitti           | Metsäritari tarjoaa haasteen            |
+| **10**  | Metsänvartijan vartiopaikka | Metsästys on kielletty                  |
+| **11**  | Metsästysmaja               | Muinainen murhapaikka                   |
+| **12**  | Muratin peittämä torni      | Piilottelee voimakasta muinaisesinettä  |
+| **13**  | Ontto puu                   | Rakennettu jättimäisen puun sisään      |
+| **14**  | Piilotettu kylä             | Rakennettu tapojen vastaisesti          |
+| **15**  | Riekaleinen tuulimylly      | Salakuljettajien suosima                |
+| **16**  | Rosvojen piilopaikka        | Sikakansan metsästysmaita               |
+| **17**  | Sammaloitunut lampi         | Sotilaskarkureiden asuttama             |
+| **18**  | Savuinen mökki              | Tarjoaa valmiin aterian                 |
+| **19**  | Unohdetut rauniot           | Varkaiden leiri                         |
+| **20**  | Yömarkkinat                 | Yliluonnollisen olennon asuttama        |
 
 #### Vaara
 
@@ -302,26 +302,26 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 |         |                         |                                     |
 | ------- | ----------------------- | ----------------------------------- |
 | **D20** | **Vaara**               | **Ominaisuus**                      |
-| **1**   | Eläinloukku             | Lemmikkibasiliski                   |
-| **2**   | Suon varjot             | Vikaan mennyt loitsu                |
-| **3**   | Luutarha                | Elävöitetty panssari                |
-| **4**   | Piikkipensastunneli     | Lintuvakoojat                       |
-| **5**   | Jäätynyt peikko         | Vuotavat puut                       |
-| **6**   | Jättiläishämähäkin pesä | Kristalliin vangitut haamut         |
-| **7**   | Hyönteisparvi           | Jättiläisjyrsijöiden ruokintapaikka |
-| **8**   | Liikkuvat tiheiköt      | Erittäin paikallinen sää            |
-| **9**   | Myrkyllisiä kasveja     | Ulvovat kivet                       |
-| **10**  | Paranormaali sumu       | Loukkaantunut olento                |
-| **11**  | Mahla-ansa              | Näkymättömät verkot                 |
-| **12**  | Nukkuva jättiläinen     | Elävät variksenpelättimet           |
-| **13**  | Liukasta sammalta       | Muistin varastajat                  |
-| **14**  | Hidas juoksuhiekka      | Valeköynnökset                      |
-| **15**  | Piikkikuoppa            | Satunnaisesti muuttuvat polut       |
-| **16**  | Pistäviä nokkosia       | Odottavat haaskaeläimet             |
-| **17**  | Piikikkäät tiheiköt     | Valvovat kuolleet                   |
-| **18**  | Myrkylliset itiöt       | Sumun pyyhkäisemät jäljet           |
-| **19**  | Peikon luola            | Puita, jotka kasvavat luista        |
-| **20**  | Epävakaa maaperä        | Aarnivalkeiden kokoontuminen        |
+| **1**   | Eläimenloukku           | Aarnivalkeiden kokoontuminen        |
+| **2**   | Epävakaa maaperä        | Elävät variksenpelättimet           |
+| **3**   | Hidas juoksuhiekka      | Elävöitetty panssari                |
+| **4**   | Hyönteisparvi           | Erittäin paikallinen sää            |
+| **5**   | Jättiläishämähäkin pesä | Jättiläisjyrsijöiden ruokintapaikka |
+| **6**   | Jäätynyt peikko         | Kristalliin vangitut haamut         |
+| **7**   | Liikkuvat tiheiköt      | Lemmikkibasiliski                   |
+| **8**   | Liukasta sammalta       | Lintuvakoojat                       |
+| **9**   | Luutarha                | Loukkaantunut olento                |
+| **10**  | Mahla-ansa              | Muistin varastajat                  |
+| **11**  | Myrkylliset itiöt       | Näkymättömät verkot                 |
+| **12**  | Myrkyllisiä kasveja     | Odottavat haaskaeläimet             |
+| **13**  | Nukkuva jättiläinen     | Puita, jotka kasvavat luista        |
+| **14**  | Paranormaali sumu       | Satunnaisesti muuttuvat polut       |
+| **15**  | Peikon luola            | Sumun pyyhkäisemät jäljet           |
+| **16**  | Piikikkäät tiheiköt     | Ulvovat kivet                       |
+| **17**  | Piikkikuoppa            | Valeköynnökset                      |
+| **18**  | Piikkipensastunneli     | Valvovat kuolleet                   |
+| **19**  | Pistäviä nokkosia       | Vikaan mennyt loitsu                |
+| **20**  | Suon varjot             | Vuotavat puut                       |
 
 ## Esimerkki metsästä
 

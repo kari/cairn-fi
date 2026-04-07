@@ -39,142 +39,142 @@ grand_parent: Toinen laitos
 |          |                |          |                |
 | -------- | -------------- | -------- | -------------- |
 | **d100** | **Adjektiivi** | **d100** | **Adjektiivi** |
-| **1**    | Ikääntyvä      | **51**   | Raivokas       |
-| **2**    | Kullanruskea   | **52**   | Ammottava      |
-| **3**    | Muinainen      | **53**   | Kimalteleva    |
-| **4**    | Vihainen       | **54**   | Hehkuva        |
-| **5**    | Tuhkainen      | **55**   | Graniittinen   |
-| **6**    | Paljas         | **56**   | Synkkä         |
-| **7**    | Runneltu       | **57**   | Harmaantunut   |
-| **8**    | Katkera        | **58**   | Usvainen       |
-| **9**    | Mustunut       | **59**   | Lämmitetty     |
-| **10**   | Liekehtivä     | **60**   | Kirottu        |
-| **11**   | Lohduton       | **61**   | Inhottava      |
-| **12**   | Turmeltu       | **62**   | Rosoinen       |
-| **13**   | Rakkulainen    | **63**   | Yksittäinen    |
-| **14**   | Polttava       | **64**   | Yksinäinen     |
-| **15**   | Tuulinen       | **65**   | Valoisa        |
-| **16**   | Viimainen      | **66**   | Horjuva        |
-| **17**   | Kirkas         | **67**   | Kiiltävä       |
-| **18**   | Laaja          | **68**   | Kurja          |
-| **19**   | Tyyni          | **69**   | Utuinen        |
-| **20**   | Taivaallinen   | **70**   | Murheellinen   |
-| **21**   | Tukahduttava   | **71**   | Mutainen       |
-| **22**   | Kylmä          | **72**   | Kapea          |
-| **23**   | Värikäs        | **73**   | Pahaenteinen   |
-| **24**   | Kuparinen      | **74**   | Umpeenkasvanut |
-| **25**   | Haljennut      | **75**   | Paikattu       |
-| **26**   | Verenpunainen  | **76**   | Hilseilevä     |
-| **27**   | Rappeutunut    | **77**   | Syöksyvä       |
-| **28**   | Käyrä          | **78**   | Repaleinen     |
-| **29**   | Kierivä        | **79**   | Mätänevä       |
-| **30**   | Käyrä          | **80**   | Suolainen      |
-| **31**   | Mutkainen      | **81**   | Villi          |
-| **32**   | Vaimennettu    | **82**   | Liikkuva       |
-| **33**   | Tumma          | **83**   | Välkehtivä     |
-| **34**   | Häikäisevä     | **84**   | Loistava       |
-| **35**   | Kuollut        | **85**   | Värisevä       |
-| **36**   | Kalmainen      | **86**   | Verhottu       |
-| **37**   | Timantti       | **87**   | Korventunut    |
-| **38**   | Synkkä         | **88**   | Uppoava        |
-| **39**   | Ikävä          | **89**   | Verinen        |
-| **40**   | Tyhjä          | **90**   | Savuinen       |
-| **41**   | Loputon        | **91**   | Vetinen        |
-| **42**   | Raivoisa       | **92**   | Hapan          |
-| **43**   | Liekehtivä     | **93**   | Sätkivä        |
-| **44**   | Välkkyvä       | **94**   | Tahrainen      |
-| **45**   | Sumuinen       | **95**   | Nääntynyt      |
-| **46**   | Kielletty      | **96**   | Haiseva        |
-| **47**   | Unohdettu      | **97**   | Täytetty       |
-| **48**   | Hauras         | **98**   | Painunut       |
-| **49**   | Rähjäinen      | **99**   | Ohut           |
-| **50**   | Jäätynyt       | **100**  | Kuihtunut      |
+| **1**    | Ammottava      | **51**   | Paikattu       |
+| **2**    | Graniittinen   | **52**   | Painunut       |
+| **3**    | Haiseva        | **53**   | Paljas         |
+| **4**    | Haljennut      | **54**   | Polttava       |
+| **5**    | Hapan          | **55**   | Raivoisa       |
+| **6**    | Harmaantunut   | **56**   | Raivokas       |
+| **7**    | Hauras         | **57**   | Rakkulainen    |
+| **8**    | Hehkuva        | **58**   | Rappeutunut    |
+| **9**    | Hilseilevä     | **59**   | Repaleinen     |
+| **10**   | Horjuva        | **60**   | Rosoinen       |
+| **11**   | Häikäisevä     | **61**   | Runneltu       |
+| **12**   | Ikävä          | **62**   | Rähjäinen      |
+| **13**   | Ikääntyvä      | **63**   | Savuinen       |
+| **14**   | Inhottava      | **64**   | Sumuinen       |
+| **15**   | Jäätynyt       | **65**   | Suolainen      |
+| **16**   | Kalmainen      | **66**   | Synkkä         |
+| **17**   | Kapea          | **67**   | Synkkä         |
+| **18**   | Katkera        | **68**   | Syöksyvä       |
+| **19**   | Kielletty      | **69**   | Sätkivä        |
+| **20**   | Kierivä        | **70**   | Tahrainen      |
+| **21**   | Kiiltävä       | **71**   | Taivaallinen   |
+| **22**   | Kimalteleva    | **72**   | Timantti       |
+| **23**   | Kirkas         | **73**   | Tuhkainen      |
+| **24**   | Kirottu        | **74**   | Tukahduttava   |
+| **25**   | Korventunut    | **75**   | Tumma          |
+| **26**   | Kuihtunut      | **76**   | Turmeltu       |
+| **27**   | Kullanruskea   | **77**   | Tuulinen       |
+| **28**   | Kuollut        | **78**   | Tyhjä          |
+| **29**   | Kuparinen      | **79**   | Tyyni          |
+| **30**   | Kurja          | **80**   | Täytetty       |
+| **31**   | Kylmä          | **81**   | Umpeenkasvanut |
+| **32**   | Käyrä          | **82**   | Unohdettu      |
+| **33**   | Käyrä          | **83**   | Uppoava        |
+| **34**   | Laaja          | **84**   | Usvainen       |
+| **35**   | Liekehtivä     | **85**   | Utuinen        |
+| **36**   | Liekehtivä     | **86**   | Vaimennettu    |
+| **37**   | Liikkuva       | **87**   | Valoisa        |
+| **38**   | Lohduton       | **88**   | Verenpunainen  |
+| **39**   | Loistava       | **89**   | Verhottu       |
+| **40**   | Loputon        | **90**   | Verinen        |
+| **41**   | Lämmitetty     | **91**   | Vetinen        |
+| **42**   | Muinainen      | **92**   | Vihainen       |
+| **43**   | Murheellinen   | **93**   | Viimainen      |
+| **44**   | Mustunut       | **94**   | Villi          |
+| **45**   | Mutainen       | **95**   | Välkehtivä     |
+| **46**   | Mutkainen      | **96**   | Välkkyvä       |
+| **47**   | Mätänevä       | **97**   | Värikäs        |
+| **48**   | Nääntynyt      | **98**   | Värisevä       |
+| **49**   | Ohut           | **99**   | Yksinäinen     |
+| **50**   | Pahaenteinen   | **100**  | Yksittäinen    |
 
 ## Substantiivit
 
 |          |                  |          |                  |
 | -------- | ---------------- | -------- | ---------------- |
 | **d100** | **Substantiivi** | **d100** | **Substantiivi** |
-| **1**    | Kuilu            | **51**   | Turva            |
-| **2**    | Liitto           | **52**   | Kauhu            |
-| **3**    | Meripihka        | **53**   | Rauta            |
-| **4**    | Kunnianhimo      | **54**   | Saari            |
-| **5**    | Omena            | **55**   | Jade             |
-| **6**    | Aamurusko        | **56**   | Kuningas         |
-| **7**    | Bastioni         | **57**   | Laventeli        |
-| **8**    | Musta            | **58**   | Elämä            |
-| **9**    | Turmio           | **59**   | Valo             |
-| **10**   | Sininen          | **60**   | Marmori          |
-| **11**   | Luu              | **61**   | Usva             |
-| **12**   | Hohto            | **62**   | Home             |
-| **13**   | Rotko            | **63**   | Kuu              |
-| **14**   | Sirpale          | **64**   | Muta             |
-| **15**   | Vaski            | **65**   | Painajainen      |
-| **16**   | Seutu            | **66**   | Tilkku           |
-| **17**   | Halkeama         | **67**   | Vaara            |
-| **18**   | Purppura         | **68**   | Violetti         |
-| **19**   | Kihara           | **69**   | Säteily          |
-| **20**   | Pimeys           | **70**   | Ryysy            |
-| **21**   | Sarastus         | **71**   | Sade             |
-| **22**   | Kalma            | **72**   | Sateenkaari      |
-| **23**   | Kuolema          | **73**   | Puna             |
-| **24**   | Laho             | **74**   | Suoja            |
-| **25**   | Lommo            | **75**   | Katumus          |
-| **26**   | Hävitys          | **76**   | Mätä             |
-| **27**   | Epätoivo         | **77**   | Raunio           |
-| **28**   | Paholainen       | **78**   | Varjo            |
-| **29**   | Multa            | **79**   | Hopea            |
-| **30**   | Tuomio           | **80**   | Kallo            |
-| **31**   | Portti           | **81**   | Taivas           |
-| **32**   | Kaiku            | **82**   | Savu             |
-| **33**   | Hiillos          | **83**   | Käärme           |
-| **34**   | Kohtalo          | **84**   | Suru             |
-| **35**   | Pelko            | **85**   | Kipinä           |
-| **36**   | Tuli             | **86**   | Kivi             |
-| **37**   | Liekki           | **87**   | Myrsky           |
-| **38**   | Oikku            | **88**   | Aurinko          |
-| **39**   | Kahakka          | **89**   | Myrsky           |
-| **40**   | Huurre           | **90**   | Kauhu            |
-| **41**   | Raivo            | **91**   | Piikki           |
-| **42**   | Aave             | **92**   | Ukkonen          |
-| **43**   | Jätti            | **93**   | Myrkky           |
-| **44**   | Kimallus         | **94**   | Rauha            |
-| **45**   | Jumala           | **95**   | Peikko           |
-| **46**   | Kulta            | **96**   | Urheus           |
-| **47**   | Vihreä           | **97**   | Orvokki          |
-| **48**   | Sopusointu       | **98**   | Sota             |
-| **49**   | Sato             | **99**   | Kuiskaus         |
-| **50**   | Piilo            | **100**  | Tuulahdus        |
+| **1**    | Aamurusko        | **51**   | Mätä             |
+| **2**    | Aave             | **52**   | Oikku            |
+| **3**    | Aurinko          | **53**   | Omena            |
+| **4**    | Bastioni         | **54**   | Orvokki          |
+| **5**    | Elämä            | **55**   | Paholainen       |
+| **6**    | Epätoivo         | **56**   | Painajainen      |
+| **7**    | Halkeama         | **57**   | Peikko           |
+| **8**    | Hiillos          | **58**   | Pelko            |
+| **9**    | Hohto            | **59**   | Piikki           |
+| **10**   | Home             | **60**   | Piilo            |
+| **11**   | Hopea            | **61**   | Pimeys           |
+| **12**   | Huurre           | **62**   | Portti           |
+| **13**   | Hävitys          | **63**   | Puna             |
+| **14**   | Jade             | **64**   | Purppura         |
+| **15**   | Jumala           | **65**   | Raivo            |
+| **16**   | Jätti            | **66**   | Rauha            |
+| **17**   | Kahakka          | **67**   | Raunio           |
+| **18**   | Kaiku            | **68**   | Rauta            |
+| **19**   | Kallo            | **69**   | Rotko            |
+| **20**   | Kalma            | **70**   | Ryysy            |
+| **21**   | Katumus          | **71**   | Saari            |
+| **22**   | Kauhu            | **72**   | Sade             |
+| **23**   | Kauhu            | **73**   | Sarastus         |
+| **24**   | Kihara           | **74**   | Sateenkaari      |
+| **25**   | Kimallus         | **75**   | Sato             |
+| **26**   | Kipinä           | **76**   | Savu             |
+| **27**   | Kivi             | **77**   | Seutu            |
+| **28**   | Kohtalo          | **78**   | Sininen          |
+| **29**   | Kuilu            | **79**   | Sirpale          |
+| **30**   | Kuiskaus         | **80**   | Sopusointu       |
+| **31**   | Kulta            | **81**   | Sota             |
+| **32**   | Kuningas         | **82**   | Suoja            |
+| **33**   | Kunnianhimo      | **83**   | Suru             |
+| **34**   | Kuolema          | **84**   | Säteily          |
+| **35**   | Kuu              | **85**   | Taivas           |
+| **36**   | Käärme           | **86**   | Tilkku           |
+| **37**   | Laho             | **87**   | Tuli             |
+| **38**   | Laventeli        | **88**   | Tuomio           |
+| **39**   | Liekki           | **89**   | Turmio           |
+| **40**   | Liitto           | **90**   | Turva            |
+| **41**   | Lommo            | **91**   | Tuulahdus        |
+| **42**   | Luu              | **92**   | Ukkonen          |
+| **43**   | Marmori          | **93**   | Urheus           |
+| **44**   | Meripihka        | **94**   | Usva             |
+| **45**   | Multa            | **95**   | Vaara            |
+| **46**   | Musta            | **96**   | Valo             |
+| **47**   | Muta             | **97**   | Varjo            |
+| **48**   | Myrkky           | **98**   | Vaski            |
+| **49**   | Myrsky           | **99**   | Vihreä           |
+| **50**   | Myräkkä          | **100**  | Violetti         |
 
 ## Maaston synonyymit
 
 |                   |                                                             |
 | ----------------- | ----------------------------------------------------------- |
 | **Maasto**        | **Synonyymi**                                               |
-| **Rannat**        | merenranta, ranta, rannikko, rannikko, hietikko, venesatama |
-| **Suot**          | räme, neva, luhta, letto, rimpi, hete                       |
-| **Kanjonit**      | rotko, kuilu, kuru, syvänne, railo                          |
-| **Luolastot**     | onkalo, tunneli, kaivanto, luola, kolo                      |
-| **Jyrkänteet**    | seinämä, kallio, pahta, jyrkkä, reuna, harju                |
 | **Aavikot**       | dyynit, erämaat, hiekkasärkkä, hiekka, joutomaa, autiomaa   |
-| **Viljelysmaat**  | vainio, pelto, tilukset, palsta, avomaa, sarka              |
-| **Metsät**        | pensaikko, metsikkö, lehto, lehvästö, ryteikkö, siimes      |
-| **Ruohotasangot** | niitty, keto, nurmi, savanni, laidunmaa, aho                |
-| **Kukkulat**      | kumpu, mäki, vaara, harju, nyppylä, kunnas, töyry           |
-| **Notkot**        | reikä, kuoppa, kraatteri, kolo, monttu, painanne, suppa     |
-| **Viidakot**      | _Katso metsät_                                              |
-| **Järvet**        | lampi, lammikko, allas, laguuni, poukama, lahti             |
-| **Vuoret**        | huippu, vuoristo, tunturi, jylhä, harjanne, kukkula         |
-| **Keitaat**       | lähde, kaivo, suihkulähde, juomapaikka, turvapaikka, suoja  |
-| **Tasangot**      | nummi, alanko, aro, aava, lakeus, aukea, keto               |
-| **Ylängöt**       | ylämaa, pöytävuori, laakio, laki, tasanne                   |
 | **Joet**          | vesiväylä, puro, kanava, luoma, koski, virta                |
-| **Meri**          | _Katso rannat_                                              |
+| **Jyrkänteet**    | seinämä, kallio, pahta, jyrkkä, reuna, harju                |
+| **Järvet**        | lampi, lammikko, allas, laguuni, poukama, lahti             |
+| **Jättömaat**     | _Katso aavikot_                                             |
+| **Kanjonit**      | rotko, kuilu, kuru, syvänne, railo                          |
+| **Keitaat**       | lähde, kaivo, suihkulähde, juomapaikka, turvapaikka, suoja  |
+| **Kukkulat**      | kumpu, mäki, vaara, harju, nyppylä, kunnas, töyry           |
+| **Laaksot**       | vajoama, uoma, sola, alho, alanne, kurunrotko               |
+| **Luolastot**     | onkalo, tunneli, kaivanto, luola, kolo                      |
+| **Meri**          | merenranta, ranta, rannikko, hietikko, venesatama, penger   |
+| **Metsät**        | pensaikko, metsikkö, lehto, lehvästö, ryteikkö, siimes      |
+| **Notkot**        | reikä, kuoppa, kraatteri, kolo, monttu, painanne, suppa     |
+| **Rannat**        | _Katso meri_                                                |
+| **Ruohotasangot** | niitty, keto, nurmi, savanni, laidunmaa, aho                |
 | **Suomaat**       | kosteikko, korpi                                            |
+| **Suot**          | räme, neva, luhta, letto, rimpi, hete                       |
+| **Tasangot**      | nummi, alanko, aro, aava, lakeus, aukea, keto               |
 | **Tiheiköt**      | vesakko, näreikkö, pensasto, pusikko, pöheikkö              |
 | **Tundra**        | paljakka, vainio, ikirouta                                  |
-| **Laaksot**       | vajoama, uoma, sola, alho, alanne, kurunrotko               |
-| **Jättömaat**     | _Katso aavikot_                                             |
+| **Viidakot**      | _Katso metsät_                                              |
+| **Viljelysmaat**  | vainio, pelto, tilukset, palsta, avomaa, sarka              |
+| **Vuoret**        | huippu, vuoristo, tunturi, jylhä, harjanne, kukkula         |
+| **Ylängöt**       | ylämaa, pöytävuori, laakio, laki, tasanne                   |
 
 ### Ryhmittymien nimet
 
@@ -186,26 +186,26 @@ grand_parent: Toinen laitos
 |         |             |
 | ------- | ----------- |
 | **d20** | **Ryhmä**   |
-| **1**   | Neuvosto    |
-| **2**   | Veljeskunta |
-| **3**   | Piiri       |
-| **4**   | Klaani      |
-| **5**   | Rintama     |
-| **6**   | Yhteisö     |
-| **7**   | Liitto      |
-| **8**   | Enklaavi    |
-| **9**   | Veljeskerho |
-| **10**  | Kilta       |
-| **11**  | Lauma       |
-| **12**  | Seura       |
-| **13**  | Legioona    |
-| **14**  | Kauppahuone |
-| **15**  | Ministeriö  |
-| **16**  | Liike       |
-| **17**  | Verkosto    |
-| **18**  | Ritarikunta |
-| **19**  | Kartelli    |
-| **20**  | Syndikaatti |
+| **1**   | Enklaavi    |
+| **2**   | Kartelli    |
+| **3**   | Kauppahuone |
+| **4**   | Kilta       |
+| **5**   | Klaani      |
+| **6**   | Lauma       |
+| **7**   | Legioona    |
+| **8**   | Liike       |
+| **9**   | Liitto      |
+| **10**  | Ministeriö  |
+| **11**  | Neuvosto    |
+| **12**  | Piiri       |
+| **13**  | Rintama     |
+| **14**  | Ritarikunta |
+| **15**  | Seura       |
+| **16**  | Syndikaatti |
+| **17**  | Veljeskerho |
+| **18**  | Veljeskunta |
+| **19**  | Verkosto    |
+| **20**  | Yhteisö     |
 
 #### Nimikaavat ryhmittymille
 
@@ -233,26 +233,26 @@ grand_parent: Toinen laitos
 |         |                        |
 | ------- | ---------------------- |
 | **d20** | **Hallitsija**         |
-| **1**   | **Liitto**             |
-| **2**   | **Paronikunta**        |
-| **3**   | **Yhteisö**            |
-| **4**   | **Valtioliitto**       |
-| **5**   | **Hallintoalue**       |
-| **6**   | **Kirkkovalta**        |
-| **7**   | **Keisarikunta**       |
-| **8**   | **Liittovaltio**       |
-| **9**   | **Lääni**              |
-| **10**  | **Suuriruhtinaskunta** |
-| **11**  | **Ylivalta**           |
-| **12**  | **Kuningaskunta**      |
-| **13**  | **Monarkia**           |
-| **14**  | **Herttuakunta**       |
-| **15**  | **Protektoraatti**     |
+| **1**   | **Hallintoalue**       |
+| **2**   | **Herttuakunta**       |
+| **3**   | **Keisarikunta**       |
+| **4**   | **Kirkkovalta**        |
+| **5**   | **Kuningaskunta**      |
+| **6**   | **Liitto**             |
+| **7**   | **Liittovaltio**       |
+| **8**   | **Lääni**              |
+| **9**   | **Monarkia**           |
+| **10**  | **Paronikunta**        |
+| **11**  | **Protektoraatti**     |
+| **12**  | **Sijaishallinto**     |
+| **13**  | **Suuriruhtinaskunta** |
+| **14**  | **Tasavalta**          |
+| **15**  | **Unioni**             |
 | **16**  | **Valtakunta**         |
-| **17**  | **Sijaishallinto**     |
-| **18**  | **Tasavalta**          |
-| **19**  | **Valtio**             |
-| **20**  | **Unioni**             |
+| **17**  | **Valtio**             |
+| **18**  | **Valtioliitto**       |
+| **19**  | **Yhteisö**            |
+| **20**  | **Ylivalta**           |
 
 |        |                                                                   |
 | ------ | ----------------------------------------------------------------- |
@@ -274,103 +274,103 @@ grand_parent: Toinen laitos
 |          |                  |                   |
 | -------- | ---------------- | ----------------- |
 | **d100** | **Adjektiivit**  | **Substantiivit** |
-| **1**    | Hyljeksitty      | Puutarha          |
-| **2**    | Muinainen        | Kaari             |
-| **3**    | Kutsuva          | Kukinnat          |
-| **4**    | Kukoistava       | Suonsilmä         |
-| **5**    | Runsas           | Lehvät            |
-| **6**    | Taivaallinen     | Tiheikkö          |
-| **7**    | Lumottu          | Okaat             |
-| **8**    | Kristallinen     | Oksat             |
-| **9**    | Kirjava          | Ryteikkö          |
-| **10**   | Tiheä            | Silta             |
-| **11**   | Kolkko           | Puro              |
-| **12**   | Etäinen          | Vesakko           |
-| **13**   | Kaikuva          | Leiri             |
-| **14**   | Hyytävä          | Lehvästö          |
-| **15**   | Smaragdi-        | Putous            |
-| **16**   | Noiduttu         | Luola             |
-| **17**   | Arvoituksellinen | Onkalo            |
-| **18**   | Katoavainen      | Riistamaa         |
-| **19**   | Ikuinen          | Aukio             |
-| **20**   | Eteerinen        | Mätäs             |
-| **21**   | Eksoottinen      | Risukko           |
-| **22**   | Tarunomainen     | Metsikkö          |
-| **23**   | Rehevöitynyt     | Pahta             |
-| **24**   | Unohdettu        | Oja               |
-| **25**   | Hylätty          | Laakso            |
-| **26**   | Tuoksuva         | Kuru              |
-| **27**   | Huurteinen       | Kaste             |
-| **28**   | Lempeä           | Tunturi           |
-| **29**   | Kimaltava        | Neva              |
-| **30**   | Synkeä           | Saniaiset         |
-| **31**   | Pahkainen        | Lehvistö          |
-| **32**   | Kultainen        | Metsä             |
-| **33**   | Ruohoinen        | Sienistö          |
-| **34**   | Harmoninen       | Suvanto           |
-| **35**   | Riivattu         | Aho               |
-| **36**   | Kätketty         | Alho              |
-| **37**   | Vaiettu          | Kuru              |
-| **38**   | Valaistu         | Graniitti         |
-| **39**   | Rosoinen         | Nurmi             |
-| **40**   | Ylellinen        | Grotto            |
-| **41**   | Lehtevä          | Lehto             |
-| **42**   | Yksinäinen       | Kasvu             |
-| **43**   | Uhkaava          | Kanerva           |
-| **44**   | Kadonnut         | Uhrikivet         |
-| **45**   | Hohtava          | Kuoppa            |
-| **46**   | Valoisa          | Horisontti        |
-| **47**   | Rehevä           | Käkkärä           |
-| **48**   | Jylhä            | Kumpu             |
-| **49**   | Apea             | Lehdet            |
-| **50**   | Pelottava        | Valo              |
-| **51**   | Sumuinen         | Savimaa           |
-| **52**   | Kuunvalaisema    | Tanner            |
-| **53**   | Sammaleinen      | Räme              |
-| **54**   | Humiseva         | Niitty            |
-| **55**   | Salaperäinen     | Muta              |
-| **56**   | Mystinen         | Hetteikkö         |
-| **57**   | Yltäkylläinen    | Tammi             |
-| **58**   | Umpeenkasvanut   | Keidas            |
-| **59**   | Vaarallinen      | Hedelmätarha      |
-| **60**   | Muinainen        | Sola              |
-| **61**   | Turmelematon     | Käytävä           |
-| **62**   | Viehättävä       | Polku             |
-| **63**   | Säteilevä        | Väylä             |
-| **64**   | Karjuva          | Mänty             |
-| **65**   | Jykevä           | Juurakko          |
-| **66**   | Kahiseva         | Pyhäkkö           |
-| **67**   | Pyhä             | Katve             |
-| **68**   | Syrjäinen        | Varjot            |
-| **69**   | Seesteinen       | Suoja             |
-| **70**   | Kiemurteleva     | Puska             |
-| **71**   | Varjoisa         | Rinne             |
-| **72**   | Välkehtivä       | Lähde             |
-| **73**   | Verhottu         | Suhina            |
-| **74**   | Hiljainen        | Kivet             |
-| **75**   | Savuinen         | Virta             |
-| **76**   | Synkkä           | Kanto             |
-| **77**   | Aavemainen       | Notko             |
-| **78**   | Loistava         | Kangas            |
-| **79**   | Karu             | Havina            |
-| **80**   | Vankka           | Vyyhti            |
-| **81**   | Valaistu         | Tiheikkö          |
-| **82**   | Aurinkoinen      | Ohdakkeet         |
-| **83**   | Pyörteinen       | Puusto            |
-| **84**   | Kiertynyt        | Hirsimetsä        |
-| **85**   | Ajaton           | Torni             |
-| **86**   | Kookas           | Polut             |
-| **87**   | Rauhallinen      | Puut              |
-| **88**   | Soliseva         | Kannot            |
-| **89**   | Hämärä           | Alusmetsä         |
-| **90**   | Vääristynyt      | Aluskasvillisuus  |
-| **91**   | Näkemätön        | Katve             |
-| **92**   | Lannistumaton    | Köynnökset        |
-| **93**   | Verhottu         | Vesiväylä         |
-| **94**   | Vehreä           | Salo              |
-| **95**   | Eloisa           | Korpi             |
-| **96**   | Kulunut          | Metsämaa          |
-| **97**   | Itkevä           | Metsäpalsta       |
-| **98**   | Kuiskiva         | Metsikkö          |
-| **99**   | Villi            | Kaukaisuus        |
-| **100**  | Kiemurteleva     | Tuulahdus         |
+| **1**    | Aavemainen       | Aho               |
+| **2**    | Ajaton           | Alho              |
+| **3**    | Apea             | Aluskasvillisuus  |
+| **4**    | Arvoituksellinen | Alusmetsä         |
+| **5**    | Aurinkoinen      | Aukio             |
+| **6**    | Eksoottinen      | Graniitti         |
+| **7**    | Eloisa           | Grotto            |
+| **8**    | Eteerinen        | Havina            |
+| **9**    | Etäinen          | Hedelmätarha      |
+| **10**   | Harmoninen       | Hetteikkö         |
+| **11**   | Hehkuva          | Hirsimetsä        |
+| **12**   | Hiljainen        | Horisontti        |
+| **13**   | Hohtava          | Juurakko          |
+| **14**   | Humiseva         | Kaari             |
+| **15**   | Huurteinen       | Kanerva           |
+| **16**   | Hyljeksitty      | Kangas            |
+| **17**   | Hylätty          | Kannot            |
+| **18**   | Hyytävä          | Kanto             |
+| **19**   | Hämärä           | Kaste             |
+| **20**   | Ikivanha         | Kasvu             |
+| **21**   | Ikuinen          | Katve             |
+| **22**   | Itkevä           | Kaukaisuus        |
+| **23**   | Jykevä           | Keidas            |
+| **24**   | Jylhä            | Kivet             |
+| **25**   | Kadonnut         | Korpi             |
+| **26**   | Kahiseva         | Kouru             |
+| **27**   | Kaikuva          | Kukinnat          |
+| **28**   | Karjuva          | Kumpu             |
+| **29**   | Karu             | Kuoppa            |
+| **30**   | Katoavainen      | Kuru              |
+| **31**   | Kiemurteleva     | Käkkärä           |
+| **32**   | Kiertynyt        | Käytävä           |
+| **33**   | Kimaltava        | Köynnökset        |
+| **34**   | Kirjava          | Laakso            |
+| **35**   | Kolkko           | Lehdet            |
+| **36**   | Kookas           | Lehto             |
+| **37**   | Kristallinen     | Lehvistö          |
+| **38**   | Kuiskiva         | Lehvästö          |
+| **39**   | Kukoistava       | Lehvät            |
+| **40**   | Kultainen        | Leiri             |
+| **41**   | Kulunut          | Luola             |
+| **42**   | Kutsuva          | Lähde             |
+| **43**   | Kuunvalaisema    | Metsikkö          |
+| **44**   | Kätketty         | Metsä             |
+| **45**   | Lannistumaton    | Metsämaa          |
+| **46**   | Lehtevä          | Metsäpalsta       |
+| **47**   | Lempeä           | Muta              |
+| **48**   | Loistava         | Mänty             |
+| **49**   | Lumottu          | Mätäs             |
+| **50**   | Muinainen        | Neva              |
+| **51**   | Mutkitteleva     | Niitty            |
+| **52**   | Mystinen         | Notko             |
+| **53**   | Noiduttu         | Nurmi             |
+| **54**   | Näkemätön        | Ohdakkeet         |
+| **55**   | Pahkainen        | Oja               |
+| **56**   | Pelottava        | Okaat             |
+| **57**   | Pyhä             | Oksat             |
+| **58**   | Pyörteinen       | Onkalo            |
+| **59**   | Rauhallinen      | Pahta             |
+| **60**   | Rehevä           | Polku             |
+| **61**   | Rehevöitynyt     | Polut             |
+| **62**   | Riivattu         | Puistikko         |
+| **63**   | Rosoinen         | Puro              |
+| **64**   | Runsas           | Puska             |
+| **65**   | Ruohoinen        | Putous            |
+| **66**   | Salaperäinen     | Puusto            |
+| **67**   | Sammaleinen      | Puut              |
+| **68**   | Savuinen         | Puutarha          |
+| **69**   | Seesteinen       | Pyhäkkö           |
+| **70**   | Smaragdi-        | Pöheikkö          |
+| **71**   | Soliseva         | Riistamaa         |
+| **72**   | Sumuinen         | Rinne             |
+| **73**   | Synkeä           | Risukko           |
+| **74**   | Synkkä           | Ryteikkö          |
+| **75**   | Syrjäinen        | Räme              |
+| **76**   | Säteilevä        | Salo              |
+| **77**   | Taivaallinen     | Saniaiset         |
+| **78**   | Tarunomainen     | Savimaa           |
+| **79**   | Tiheä            | Sienistö          |
+| **80**   | Tuoksuva         | Siimes            |
+| **81**   | Turmelematon     | Silta             |
+| **82**   | Uhkaava          | Sola              |
+| **83**   | Umpeenkasvanut   | Suhina            |
+| **84**   | Unohdettu        | Suoja             |
+| **85**   | Vaarallinen      | Suonsilmä         |
+| **86**   | Vaiettu          | Suvanto           |
+| **87**   | Valaistu         | Tammi             |
+| **88**   | Valoisa          | Tanner            |
+| **89**   | Vankka           | Tiheikkö          |
+| **90**   | Varjoisa         | Torni             |
+| **91**   | Vehreä           | Tunturi           |
+| **92**   | Verhottu         | Tuulahdus         |
+| **93**   | Verhottu         | Uhrikivet         |
+| **94**   | Viehättävä       | Valo              |
+| **95**   | Villi            | Varjot            |
+| **96**   | Välkehtivä       | Vesakko           |
+| **97**   | Vääristynyt      | Vesiväylä         |
+| **98**   | Yksinäinen       | Virta             |
+| **99**   | Ylellinen        | Vyyhti            |
+| **100**  | Yltäkylläinen    | Väylä             |

@@ -84,26 +84,26 @@ grand_parent: Toinen laitos
 |         |                             |
 | ------- | --------------------------- |
 | **d20** | **Oikku 1**                 |
-| **1**   | Tarkkaavainen               |
-| **2**   | Kalju                       |
-| **3**   | Kirkkaat silmät             |
-| **4**   | Leveät kasvot               |
-| **5**   | Vinot hampaat               |
-| **6**   | Riutunut                    |
-| **7**   | Hyväryhtinen                |
+| **1**   | Huomiota herättävät hiukset |
+| **2**   | Hyväryhtinen                |
+| **3**   | Kalju                       |
+| **4**   | Karheaääninen               |
+| **5**   | Kirkkaat silmät             |
+| **6**   | Leveät kasvot               |
+| **7**   | Lihaksikas                  |
 | **8**   | Likainen                    |
-| **9**   | Karheaääninen               |
-| **10**  | Paksut kulmakarvat          |
+| **9**   | Miellyttävä ääni            |
+| **10**  | Nuori                       |
 | **11**  | Ontuva                      |
-| **12**  | Puuttuva korva              |
-| **13**  | Lihaksikas                  |
-| **14**  | Huomiota herättävät hiukset |
-| **15**  | Miellyttävä ääni            |
+| **12**  | Paksut kulmakarvat          |
+| **13**  | Paksut kulmakarvat          |
+| **14**  | Puuttuva korva              |
+| **15**  | Riutunut                    |
 | **16**  | Siristää silmiään           |
-| **17**  | Vahva                       |
-| **18**  | Paksut kulmakarvat          |
-| **19**  | Väsynyt                     |
-| **20**  | Nuori                       |
+| **17**  | Tarkkaavainen               |
+| **18**  | Vahva                       |
+| **19**  | Vinot hampaat               |
+| **20**  | Väsynyt                     |
 
 ## Tausta
 
@@ -111,98 +111,98 @@ grand_parent: Toinen laitos
 | ------- | ------------- |
 | **d20** | **Tausta**    |
 | **1**   | Akateemikko   |
-| **2**   | Salamurhaaja  |
-| **3**   | Seppä         |
-| **4**   | Maanviljelijä |
-| **5**   | Kenraali      |
-| **6**   | Haudankaivaja |
-| **7**   | Vartija       |
-| **8**   | Parantaja     |
-| **9**   | Vanginvartija |
-| **10**  | Työläinen     |
-| **11**  | Lordi         |
-| **12**  | Kauppias      |
-| **13**  | Munkki        |
-| **14**  | Mystikko      |
-| **15**  | Muukalainen   |
-| **16**  | Kulkukauppias |
-| **17**  | Poliitikko    |
-| **18**  | Vakooja       |
+| **2**   | Haudankaivaja |
+| **3**   | Kauppias      |
+| **4**   | Kenraali      |
+| **5**   | Kovanaama     |
+| **6**   | Kulkukauppias |
+| **7**   | Lordi         |
+| **8**   | Maanviljelijä |
+| **9**   | Munkki        |
+| **10**  | Muukalainen   |
+| **11**  | Mystikko      |
+| **12**  | Parantaja     |
+| **13**  | Poliitikko    |
+| **14**  | Salamurhaaja  |
+| **15**  | Seppä         |
+| **16**  | Työläinen     |
+| **17**  | Vakooja       |
+| **18**  | Vanginvartija |
 | **19**  | Varas         |
-| **20**  | Kovanaama     |
+| **20**  | Vartija       |
 
 ## Tavoitteet
 
 |         |                  |
 | ------- | ---------------- |
 | **d20** | **Tavoite**      |
-| **1**   | Ylennys          |
-| **2**   | Puhdistautuminen |
-| **3**   | Suojelu          |
-| **4**   | Puolustus        |
-| **5**   | Herruus          |
-| **6**   | Rikastuminen     |
-| **7**   | Laajentaminen    |
-| **8**   | Vapaus           |
-| **9**   | Parantuminen     |
-| **10**  | Yhdistyminen     |
-| **11**  | Oikeus           |
-| **12**  | Rauha            |
-| **13**  | Valta            |
-| **14**  | Säilyttäminen    |
-| **15**  | Puhdistuminen    |
-| **16**  | Pelastus         |
-| **17**  | Kosto            |
-| **18**  | Selviytyminen    |
+| **1**   | Herruus          |
+| **2**   | Kosto            |
+| **3**   | Laajentaminen    |
+| **4**   | Oikeus           |
+| **5**   | Parantuminen     |
+| **6**   | Pelastus         |
+| **7**   | Puhdistautuminen |
+| **8**   | Puhdistuminen    |
+| **9**   | Puolustus        |
+| **10**  | Rauha            |
+| **11**  | Rikastuminen     |
+| **12**  | Rikkaukset       |
+| **13**  | Selviytyminen    |
+| **14**  | Suojelu          |
+| **15**  | Säilyttäminen    |
+| **16**  | Valta            |
+| **17**  | Vapaus           |
+| **18**  | Yhdistyminen     |
 | **19**  | Yhtenäisyys      |
-| **20**  | Rikkaukset       |
+| **20**  | Ylennys          |
 
 ## Piirteet
 
 |         |                   |
 | ------- | ----------------- |
 | **d20** | **Hyveet**        |
-| **1**   | Varovainen        |
-| **2**   | Myötätuntoinen    |
-| **3**   | Verkostoitunut    |
-| **4**   | Rohkea            |
-| **5**   | Kurinalainen      |
-| **6**   | Hienovarainen     |
-| **7**   | Rehellinen        |
-| **8**   | Älykäs            |
-| **9**   | Harkitseva        |
-| **10**  | Uskollinen        |
-| **11**  | Järjestelmällinen |
-| **12**  | Huolellinen       |
-| **13**  | Kohtelias         |
-| **14**  | Suosittu          |
-| **15**  | Käytännönläheinen |
-| **16**  | Kekseliäs         |
-| **17**  | Sulava            |
-| **18**  | Ovela             |
-| **19**  | Sitkeä            |
-| **20**  | Nokkela           |
+| **1**   | Harkitseva        |
+| **2**   | Hienovarainen     |
+| **3**   | Huolellinen       |
+| **4**   | Järjestelmällinen |
+| **5**   | Kekseliäs         |
+| **6**   | Kohtelias         |
+| **7**   | Kurinalainen      |
+| **8**   | Käytännönläheinen |
+| **9**   | Myötätuntoinen    |
+| **10**  | Nokkela           |
+| **11**  | Ovela             |
+| **12**  | Rehellinen        |
+| **13**  | Rohkea            |
+| **14**  | Sitkeä            |
+| **15**  | Sulava            |
+| **16**  | Suosittu          |
+| **17**  | Uskollinen        |
+| **18**  | Varovainen        |
+| **19**  | Verkostoitunut    |
+| **20**  | Älykäs            |
 
 |         |                       |
 | ------- | --------------------- |
 | **d20** | **Paheet**            |
-| **1**   | Etäinen               |
-| **2**   | Korruptoitunut        |
-| **3**   | Pelkurimainen         |
-| **4**   | Julma                 |
-| **5**   | Kyyninen              |
-| **6**   | Vilpillinen           |
-| **7**   | Ahne                  |
-| **8**   | Impulsiivinen         |
-| **9**   | Epäpätevä             |
-| **10**  | Joustamaton           |
-| **11**  | Manipuloiva           |
-| **12**  | Oikukas               |
-| **13**  | Naiivi                |
-| **14**  | Säntillinen           |
-| **15**  | Häikäilemätön         |
-| **16**  | Sarkastinen           |
-| **17**  | Itsekäs               |
-| **18**  | Itsepäinen            |
+| **1**   | Ahne                  |
+| **2**   | Epäpätevä             |
+| **3**   | Etäinen               |
+| **4**   | Häikäilemätön         |
+| **5**   | Impulsiivinen         |
+| **6**   | Itsekäs               |
+| **7**   | Itsepäinen            |
+| **8**   | Joustamaton           |
+| **9**   | Julma                 |
+| **10**  | Korruptoitunut        |
+| **11**  | Kyyninen              |
+| **12**  | Manipuloiva           |
+| **13**  | Muukalaisvihamielinen |
+| **14**  | Naiivi                |
+| **15**  | Oikukas               |
+| **16**  | Pelkurimainen         |
+| **17**  | Sarkastinen           |
+| **18**  | Säntillinen           |
 | **19**  | Turhamainen           |
-| **20**  | Muukalaisvihamielinen |
+| **20**  | Vilpillinen           |

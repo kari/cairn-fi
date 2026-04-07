@@ -40,26 +40,26 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 |         |                       |                           |
 | ------- | --------------------- | ------------------------- |
 | **d20** | **Luonne**            | **Tavoite**               |
-| **1**   | Epäitsekäs            | Palkkio                   |
-| **2**   | Taiteellinen          | Valloitus                 |
-| **3**   | Utelias               | Hallinta                  |
-| **4**   | Vilpillinen           | Kääntyminen               |
-| **5**   | Valaistunut           | Hajaannus                 |
-| **6**   | Sitkeä                | Määräysvalta              |
-| **7**   | Harmoninen            | Tutkiskelu                |
-| **8**   | Kekseliäs             | Uskollisuus               |
-| **9**   | Kaupallinen           | Itsenäisyys               |
-| **10**  | Paimentolainen        | Tietämys                  |
-| **11**  | Eristäytynyt          | Sopusointu luonnon kanssa |
-| **12**  | Uskonnollinen         | Rauha                     |
-| **13**  | Lannistumaton         | Valta                     |
-| **14**  | Tieteellinen          | Puhtaus                   |
-| **15**  | Tyyni                 | Tunnustus                 |
-| **16**  | Rasittunut            | Paluu                     |
-| **17**  | Perinteikäs           | Turvallisuus              |
-| **18**  | Sotaisa               | Vakaus                    |
-| **19**  | Varakas               | Yhdentyminen              |
-| **20**  | Muukalaisvihamielinen | Rikkaudet                 |
+| **1**   | Epäitsekäs            | Hajaannus                 |
+| **2**   | Eristäytynyt          | Hallinta                  |
+| **3**   | Harmoninen            | Itsenäisyys               |
+| **4**   | Kaupallinen           | Kääntyminen               |
+| **5**   | Kekseliäs             | Määräysvalta              |
+| **6**   | Lannistumaton         | Palkkio                   |
+| **7**   | Muukalaisvihamielinen | Paluu                     |
+| **8**   | Paimentolainen        | Puhtaus                   |
+| **9**   | Perinteikäs           | Rauha                     |
+| **10**  | Rasittunut            | Rikkaudet                 |
+| **11**  | Sitkeä                | Sopusointu luonnon kanssa |
+| **12**  | Sotaisa               | Tietämys                  |
+| **13**  | Taiteellinen          | Tunnustus                 |
+| **14**  | Tieteellinen          | Turvallisuus              |
+| **15**  | Tyyni                 | Tutkiskelu                |
+| **16**  | Uskonnollinen         | Uskollisuus               |
+| **17**  | Utelias               | Vakaus                    |
+| **18**  | Valaistunut           | Valloitus                 |
+| **19**  | Varakas               | Valta                     |
+| **20**  | Vilpillinen           | Yhdentyminen              |
 
 #### Voimavarat
 
@@ -68,26 +68,26 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 |         |                 |                 |
 | ------- | --------------- | --------------- |
 | **d20** | **Runsaus**     | **Niukkuus**    |
-| **1**   | Ruoka           | Ruoka           |
-| **2**   | Polttoaine      | Polttoaine      |
-| **3**   | Jalokivet       | Jalokivet       |
-| **4**   | Yrtit           | Yrtit           |
-| **5**   | Hevoset         | Hevoset         |
-| **6**   | Tietoa          | Tietoa          |
-| **7**   | Maa             | Maa             |
-| **8**   | Karja           | Karja           |
-| **9**   | Lääke           | Lääke           |
+| **1**   | Alukset         | Alukset         |
+| **2**   | Aseet           | Aseet           |
+| **3**   | Hevoset         | Hevoset         |
+| **4**   | Jalokivet       | Jalokivet       |
+| **5**   | Karja           | Karja           |
+| **6**   | Kauppatavarat   | Kauppatavarat   |
+| **7**   | Kivi            | Kivi            |
+| **8**   | Lääke           | Lääke           |
+| **9**   | Maa             | Maa             |
 | **10**  | Malmi           | Malmi           |
-| **11**  | Osaava työvoima | Osaava työvoima |
-| **12**  | Mausteet        | Mausteet        |
-| **13**  | Kivi            | Kivi            |
-| **14**  | Tekstiilit      | Tekstiilit      |
-| **15**  | Työkalut        | Työkalut        |
-| **16**  | Kauppatavarat   | Kauppatavarat   |
-| **17**  | Alukset         | Alukset         |
-| **18**  | Vesi            | Vesi            |
-| **19**  | Aseet           | Aseet           |
-| **20**  | Puu             | Puu             |
+| **11**  | Mausteet        | Mausteet        |
+| **12**  | Osaava työvoima | Osaava työvoima |
+| **13**  | Polttoaine      | Polttoaine      |
+| **14**  | Puu             | Puu             |
+| **15**  | Ruoka           | Ruoka           |
+| **16**  | Tekstiilit      | Tekstiilit      |
+| **17**  | Tietoa          | Tietoa          |
+| **18**  | Työkalut        | Työkalut        |
+| **19**  | Vesi            | Vesi            |
+| **20**  | Yrtit           | Yrtit           |
 
 ### Ryhmittymät
 
@@ -120,26 +120,26 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 |         |                      |               |
 | ------- | -------------------- | ------------- |
 | **d20** | **Tyyppi**           | **Edustaja**  |
-| **1**   | Käsityöläiset        | Akateemikko   |
-| **2**   | Maallikot            | Salamurhaaja  |
-| **3**   | Rikolliset           | Seppä         |
-| **4**   | Kultistit            | Maanviljelijä |
-| **5**   | Karkotetut           | Kenraali      |
-| **6**   | Tutkimusmatkailijat  | Haudankaivaja |
-| **7**   | Tehtailijat          | Vartija       |
-| **8**   | Kauppiaat            | Parantaja     |
-| **9**   | Sotilaat             | Vanginvartija |
-| **10**  | Aateliset            | Työläinen     |
-| **11**  | Paimentolaiset       | Lordi         |
-| **12**  | Pyhiinvaeltajat      | Kauppias      |
-| **13**  | Suojelijat           | Munkki        |
-| **14**  | Uskonnolliset        | Mystikko      |
-| **15**  | Vallankumoukselliset | Muukalainen   |
-| **16**  | Hallitsijat          | Kulkukauppias |
-| **17**  | Tutkijat             | Poliitikko    |
-| **18**  | Uudisraivaajat       | Vakooja       |
+| **1**   | Aateliset            | Akateemikko   |
+| **2**   | Hallitsijat          | Haudankaivaja |
+| **3**   | Heimo                | Kauppias      |
+| **4**   | Karkotetut           | Kenraali      |
+| **5**   | Kauppiaat            | Kovanaama     |
+| **6**   | Kultistit            | Kulkukauppias |
+| **7**   | Käsityöläiset        | Lordi         |
+| **8**   | Maallikot            | Maanviljelijä |
+| **9**   | Paimentolaiset       | Munkki        |
+| **10**  | Pyhiinvaeltajat      | Muukalainen   |
+| **11**  | Rikolliset           | Mystikko      |
+| **12**  | Sotilaat             | Parantaja     |
+| **13**  | Suojelijat           | Poliitikko    |
+| **14**  | Tehtailijat          | Salamurhaaja  |
+| **15**  | Tutkijat             | Seppä         |
+| **16**  | Tutkimusmatkailijat  | Työläinen     |
+| **17**  | Uskonnolliset        | Vakooja       |
+| **18**  | Uudisraivaajat       | Vanginvartija |
 | **19**  | Vakoojat             | Varas         |
-| **20**  | Heimo                | Kovanaama     |
+| **20**  | Vallankumoukselliset | Vartija       |
 
 #### Ryhmittymien piirteet
 
@@ -148,26 +148,26 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 |         |                   |                       |
 | ------- | ----------------- | --------------------- |
 | **d20** | **Piirre 1**      | **Piirre 2**          |
-| **1**   | Varovainen        | Mukautuva             |
-| **2**   | Verkostoitunut    | Vararikossa           |
-| **3**   | Turmeltunut       | Armoton               |
-| **4**   | Kurinalainen      | Yhteistyökykyinen     |
-| **5**   | Hienovarainen     | Korruptoitunut        |
-| **6**   | Ahdasmielinen     | Pelkurimainen         |
-| **7**   | Arvoituksellinen  | Julma                 |
-| **8**   | Raivoisa          | Ovela                 |
-| **9**   | Turmeltumaton     | Kyyninen              |
-| **10**  | Älymystöä         | Vilpillinen           |
-| **11**  | Harkitseva        | Avokätinen            |
-| **12**  | Innokas           | Epäpätevä             |
-| **13**  | Uskollinen        | Manipuloiva           |
-| **14**  | Huolellinen       | Oikukas               |
-| **15**  | Suosittu          | Tukahdutettu          |
-| **16**  | Käytännönläheinen | Häikäilemätön         |
-| **17**  | Kekseliäs         | Itsekäs               |
-| **18**  | Salaileva         | Salamyhkäinen         |
-| **19**  | Taitava           | Uhattu                |
-| **20**  | Sitkeä            | Muukalaisvihamielinen |
+| **1**   | Ahdasmielinen     | Armoton               |
+| **2**   | Arvoituksellinen  | Avokätinen            |
+| **3**   | Harkitseva        | Epäpätevä             |
+| **4**   | Hienovarainen     | Häikäilemätön         |
+| **5**   | Huolellinen       | Itsekäs               |
+| **6**   | Innokas           | Julma                 |
+| **7**   | Kekseliäs         | Korruptoitunut        |
+| **8**   | Kurinalainen      | Kyyninen              |
+| **9**   | Käytännönläheinen | Manipuloiva           |
+| **10**  | Raivoisa          | Mukautuva             |
+| **11**  | Salaileva         | Muukalaisvihamielinen |
+| **12**  | Sitkeä            | Oikukas               |
+| **13**  | Suosittu          | Ovela                 |
+| **14**  | Taitava           | Pelkurimainen         |
+| **15**  | Turmeltumaton     | Salamyhkäinen         |
+| **16**  | Turmeltunut       | Tukahdutettu          |
+| **17**  | Uskollinen        | Uhattu                |
+| **18**  | Varovainen        | Vararikossa           |
+| **19**  | Verkostoitunut    | Vilpillinen           |
+| **20**  | Älymystöä         | Yhteistyökykyinen     |
 
 #### Ryhmittymien edut
 
@@ -176,26 +176,26 @@ Heitä 1d20 määrittääksesi, kuinka monta etua ryhmittymällä on, ja heitä 
 |         |              |                   |
 | ------- | ------------ | ----------------- |
 | **d20** | Etujen määrä | **Etu**           |
-| **1**   | 1            | Liittoumat        |
-| **2**   | 1            | Nimettömyys       |
-| **3**   | 1            | Laite             |
-| **4**   | 1            | Uskomukset        |
-| **5**   | 1            | Karisma           |
-| **6**   | 1            | Vakaumus          |
-| **7**   | 1            | Uskollisuus       |
-| **8**   | 2            | Voima             |
-| **9**   | 2            | Tiedonanto        |
-| **10**  | 2            | Sukuperä          |
-| **11**  | 2            | Taikuus           |
-| **12**  | 2            | Jäsenet           |
+| **1**   | 1            | Asema             |
+| **2**   | 1            | Erikoistuminen    |
+| **3**   | 1            | Häikäilemättömyys |
+| **4**   | 1            | Hämäys            |
+| **5**   | 1            | Jäsenet           |
+| **6**   | 1            | Karisma           |
+| **7**   | 1            | Laite             |
+| **8**   | 2            | Liittoumat        |
+| **9**   | 2            | Maine             |
+| **10**  | 2            | Nimettömyys       |
+| **11**  | 2            | Rikkaudet         |
+| **12**  | 2            | Sukuperä          |
 | **13**  | 3            | Suosio            |
-| **14**  | 3            | Asema             |
-| **15**  | 3            | Maine             |
-| **16**  | 3            | Voimavarat        |
-| **17**  | 3            | Häikäilemättömyys |
-| **18**  | 4            | Erikoistuminen    |
-| **19**  | 4            | Hämäys            |
-| **20**  | 4            | Rikkaudet         |
+| **14**  | 3            | Taikuus           |
+| **15**  | 3            | Tiedonanto        |
+| **16**  | 3            | Uskollisuus       |
+| **17**  | 3            | Uskomukset        |
+| **18**  | 4            | Vakaumus          |
+| **19**  | 4            | Voima             |
+| **20**  | 4            | Voimavarat        |
 
 #### Ryhmittymien tavoitteet
 
@@ -204,26 +204,26 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 |         |                                      |                                                              |
 | ------- | ------------------------------------ | ------------------------------------------------------------ |
 | **d20** | **Tavoite**                          | **Este**                                                     |
-| **1**   | Toiseen sfääriin nouseminen          | Maantieteellinen este tai kulkukelvoton maasto.              |
-| **2**   | Muinaisesineiden kerääminen          | Merkittävä tiedonjyvä on ensin löydettävä.                   |
-| **3**   | Harvinaisen resurssin kasvattaminen  | Tarvitaan tietty esine tai Muinaisesine.                     |
-| **4**   | Jonkin puolustaminen                 | Voimakas vallanpitäjä tai vihollinen on eliminoitava.        |
-| **5**   | Jonkin tuhoaminen                    | Harvinainen mutta tarpeellinen resurssi on ensin hankittava. |
-| **6**   | Muiden hallitseminen                 | Painava velka pakottaa seurueen tekemään vaikeita valintoja. |
-| **7**   | Rikkauksien kerääminen itselleen     | Tunnettu ennustus povaa välitöntä epäonnistumista.           |
-| **8**   | Siirtokunnan perustaminen            | Liitto vihollisen kanssa on solmittava ensin.                |
-| **9**   | Uuden järjestyksen luominen          | Sisäinen riita uhkaa repiä ryhmittymän hajalle.              |
-| **10**  | Kartoittamattomien maiden tutkiminen | Toisella ryhmittymällä on sama tavoite.                      |
-| **11**  | Liittouman solmiminen                | Toinen ryhmittymä vastustaa sitä.                            |
-| **12**  | Toiseen ryhmittymään soluttautuminen | Työläiset ovat asettuneet avoimesti vastaan.                 |
-| **13**  | Nykytilanteen ylläpitäminen          | Tarvitaan huomattavaa pääomaa.                               |
-| **14**  | Salaisuuden varjeleminen             | Rikkoo vakiintunutta säännöstöä, jolla on ankara rangaistus. |
-| **15**  | Puhdistusten tekeminen               | Kulttuuriset tabut estävät.                                  |
-| **16**  | Salaisuuden paljastaminen            | Monien on kuoltava, joko välttämättömyytenä tai seurauksena. |
-| **17**  | Kosto                                | Teko on tehtävä poikkeuksellisena tai täsmällisenä hetkenä.  |
-| **18**  | Entisen vallan elvyttäminen          | Teko on suoritettava ehdottoman salassa.                     |
-| **19**  | Uusien johtajien etsiminen           | Vaatii harvinaislaatuisen asiantuntijan.                     |
-| **20**  | Uskomuksen levittäminen              | Lopputulos johtaisi väistämättömään sotaan.                  |
+| **1**   | Entisen vallan elvyttäminen          | Harvinainen mutta tarpeellinen resurssi on ensin hankittava. |
+| **2**   | Harvinaisen resurssin kasvattaminen  | Kulttuuriset tabut estävät.                                  |
+| **3**   | Jonkin puolustaminen                 | Liitto vihollisen kanssa on solmittava ensin.                |
+| **4**   | Jonkin tuhoaminen                    | Lopputulos johtaisi väistämättömään sotaan.                  |
+| **5**   | Kartoittamattomien maiden tutkiminen | Maantieteellinen este tai kulkukelvoton maasto.              |
+| **6**   | Kosto                                | Merkittävä tiedonjyvä on ensin löydettävä.                   |
+| **7**   | Liittouman solmiminen                | Monien on kuoltava, joko välttämättömyytenä tai seurauksena. |
+| **8**   | Muiden hallitseminen                 | Painava velka pakottaa seurueen tekemään vaikeita valintoja. |
+| **9**   | Muinaisesineiden kerääminen          | Rikkoo vakiintunutta säännöstöä, jolla on ankara rangaistus. |
+| **10**  | Nykytilanteen ylläpitäminen          | Sisäinen riita uhkaa repiä ryhmittymän hajalle.              |
+| **11**  | Puhdistusten tekeminen               | Tarvitaan huomattavaa pääomaa.                               |
+| **12**  | Rikkauksien kerääminen itselleen     | Tarvitaan tietty esine tai Muinaisesine.                     |
+| **13**  | Salaisuuden paljastaminen            | Teko on suoritettava ehdottoman salassa.                     |
+| **14**  | Salaisuuden varjeleminen             | Teko on tehtävä poikkeuksellisena tai täsmällisenä hetkenä.  |
+| **15**  | Siirtokunnan perustaminen            | Toinen ryhmittymä vastustaa sitä.                            |
+| **16**  | Toiseen ryhmittymään soluttautuminen | Toisella ryhmittymällä on sama tavoite.                      |
+| **17**  | Toiseen sfääriin nouseminen          | Tunnettu ennustus povaa välitöntä epäonnistumista.           |
+| **18**  | Uskomuksen levittäminen              | Työläiset ovat asettuneet avoimesti vastaan.                 |
+| **19**  | Uuden järjestyksen luominen          | Vaatii harvinaislaatuisen asiantuntijan.                     |
+| **20**  | Uusien johtajien etsiminen           | Voimakas vallanpitäjä tai vihollinen on eliminoitava.        |
 
 #### Esimerkkiryhmittymä
 
@@ -307,26 +307,26 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 |         |                   |                           |
 | ------- | ----------------- | ------------------------- |
 | **d20** | **Maasto**        | **Maamerkki**             |
-| **1**   | Rantatörmä        | Särkynyt aurinkokello     |
-| **2**   | Notkot            | Menhir-kivien kehä        |
-| **3**   | Viljelysmaat      | Ympyränmuotoinen sokkelo  |
-| **4**   | Tunturit          | Pilviportaat              |
-| **5**   | Vaarat            | Kuollut akvedukti         |
-| **6**   | Lehdot            | Valtava jalanjälki        |
-| **7**   | Ruohotasangot     | Kaatunut pylväs           |
-| **8**   | Kuivunut joenuoma | Kangastus keitaasta       |
-| **9**   | Kedot             | Jättiläisen valtaistuin   |
-| **10**  | Alangot           | Kimaltava vesiputous      |
-| **11**  | Niityt            | Kultainen silta           |
-| **12**  | Nummet            | Mahtavat kasvot kalliossa |
-| **13**  | Ahot              | Suuri vesipyörä           |
-| **14**  | Laitumet          | Sydänpuu                  |
-| **15**  | Tasangot          | Läpinäkymätön järvi       |
-| **16**  | Ylängöt           | Kivettynyt metsä          |
-| **17**  | Preeriat          | Kylmän tulen kuoppa       |
-| **18**  | Savannit          | Hopearinne                |
-| **19**  | Arot              | Sortumakuoppa             |
-| **20**  | Laaksot           | Jättimäinen Portti        |
+| **1**   | Ahot              | Hopearinne                |
+| **2**   | Alangot           | Jättiläisen valtaistuin   |
+| **3**   | Arot              | Jättimäinen Portti        |
+| **4**   | Kedot             | Kaatunut pylväs           |
+| **5**   | Kuivunut joenuoma | Kangastus keitaasta       |
+| **6**   | Laaksot           | Kimaltava vesiputous      |
+| **7**   | Laitumet          | Kivettynyt metsä          |
+| **8**   | Lehdot            | Kultainen silta           |
+| **9**   | Niityt            | Kuollut akvedukti         |
+| **10**  | Notkot            | Kylmän tulen kuoppa       |
+| **11**  | Nummet            | Läpinäkymätön järvi       |
+| **12**  | Preeriat          | Mahtavat kasvot kalliossa |
+| **13**  | Rantatörmä        | Menhir-kivien kehä        |
+| **14**  | Ruohotasangot     | Pilviportaat              |
+| **15**  | Savannit          | Sortumakuoppa             |
+| **16**  | Tasangot          | Suuri vesipyörä           |
+| **17**  | Tunturit          | Sydänpuu                  |
+| **18**  | Vaarat            | Särkynyt aurinkokello     |
+| **19**  | Viljelysmaat      | Valtava jalanjälki        |
+| **20**  | Ylängöt           | Ympyränmuotoinen sokkelo  |
 
 ### Vaikea
 
@@ -335,26 +335,26 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 |         |                |                         |
 | ------- | -------------- | ----------------------- |
 | **d20** | **Maasto**     | **Maamerkki**           |
-| **1**   | Joutomaa       | Leväputous              |
-| **2**   | Rotkolaaksot   | Basalttipylväät         |
-| **3**   | Pensastot      | Suureläinten hautausmaa |
-| **4**   | Koralliriutat  | Kanjonisilta            |
-| **5**   | Aavikot        | Tuhkakartiot            |
-| **6**   | Dyynit         | Liekkikuopat            |
-| **7**   | Suistot        | Nuolten metsä           |
-| **8**   | Nevat          | Jäätynyt vesiputous     |
-| **9**   | Metsät         | Sienimetsä              |
-| **10**  | Nummimaat      | Puoliksi haudattu arkki |
-| **11**  | Kukkulat       | Riippuva laakso         |
-| **12**  | Rantaryteikkö  | Nurinkurinen majakka    |
-| **13**  | Suomaat        | Merihirviön luut        |
-| **14**  | Aapasuot       | Valtava kraatteri       |
-| **15**  | Sademetsät     | Valtava lantapallo      |
-| **16**  | Pensastiheikkö | Suolatasangon peilit    |
-| **17**  | Taiga          | Verhottu porraspyramidi |
-| **18**  | Tiheiköt       | Tippukivimetsä          |
-| **19**  | Tundra         | Uponnut kolossi         |
-| **20**  | Metsämaat      | Titaanin pöytä          |
+| **1**   | Aapasuot       | Basalttipylväät         |
+| **2**   | Aavikot        | Jäätynyt vesiputous     |
+| **3**   | Dyynit         | Kanjonisilta            |
+| **4**   | Joutomaa       | Leväputous              |
+| **5**   | Koralliriutat  | Liekkikuopat            |
+| **6**   | Kukkulat       | Merihirviön luut        |
+| **7**   | Metsämaat      | Nuolten metsä           |
+| **8**   | Metsät         | Nurinkurinen majakka    |
+| **9**   | Nevat          | Puoliksi haudattu arkki |
+| **10**  | Nummimaat      | Riippuva laakso         |
+| **11**  | Pensastiheikkö | Sienimetsä              |
+| **12**  | Pensastot      | Suolatasangon peilit    |
+| **13**  | Rantaryteikkö  | Suureläinten hautausmaa |
+| **14**  | Rotkolaaksot   | Tippukivimetsä          |
+| **15**  | Sademetsät     | Titaanin pöytä          |
+| **16**  | Suistot        | Tuhkakartiot            |
+| **17**  | Suomaat        | Uponnut kolossi         |
+| **18**  | Taiga          | Valtava kraatteri       |
+| **19**  | Tiheiköt       | Valtava lantapallo      |
+| **20**  | Tundra         | Verhottu porraspyramidi |
 
 ### Vaarallinen
 
@@ -364,25 +364,25 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 | ------- | -------------- | ------------------------- |
 | **d20** | **Maasto**     | **Maamerkki**             |
 | **1**   | Alppiniityt    | Aktiivinen tulivuori      |
-| **2**   | Räme           | Ammoniakkiluolat          |
-| **3**   | Louhikot       | Luuvuori                  |
-| **4**   | Luolastot      | Kristallimetsä            |
-| **5**   | Jyrkänteet     | Pimeyden kupu             |
-| **6**   | Kraatterit     | Valtava pesä              |
-| **7**   | Railot         | Leijuva esine             |
-| **8**   | Kuumat lähteet | Sammunut koneolento       |
-| **9**   | Jäätiköt       | Arpeutunut maa            |
-| **10**  | Kurunrotkot    | Höyryävät aukot           |
-| **11**  | Kuopat         | Magmaveistokset           |
-| **12**  | Jääkentät      | Vuorenukko                |
-| **13**  | Viidakot       | Meteoriittipuutarha       |
-| **14**  | Laavakentät    | Obsidiaanineula           |
-| **15**  | Vuoret         | Takaperin virtaava putous |
-| **16**  | Turvesuot      | Rikkijoki                 |
-| **17**  | Upottavat suot | Seireenikivet             |
-| **18**  | Rotko          | Taivasjuuri               |
-| **19**  | Rämeet         | Titaanin rintakehä        |
-| **20**  | Jättömaat      | Itkevä kupla              |
+| **2**   | Jyrkänteet     | Ammoniakkiluolat          |
+| **3**   | Jättömaat      | Arpeutunut maa            |
+| **4**   | Jääkentät      | Höyryävät aukot           |
+| **5**   | Jäätiköt       | Itkevä kupla              |
+| **6**   | Kraatterit     | Kristallimetsä            |
+| **7**   | Kuopat         | Leijuva esine             |
+| **8**   | Kurunrotkot    | Luuvuori                  |
+| **9**   | Kuumat lähteet | Magmaveistokset           |
+| **10**  | Laavakentät    | Meteoriittipuutarha       |
+| **11**  | Louhikot       | Obsidiaanineula           |
+| **12**  | Luolastot      | Pimeyden kupu             |
+| **13**  | Railot         | Rikkijoki                 |
+| **14**  | Rotko          | Sammunut koneolento       |
+| **15**  | Räme           | Seireenikivet             |
+| **16**  | Rämeet         | Taivasjuuri               |
+| **17**  | Turvesuot      | Takaperin virtaava putous |
+| **18**  | Upottavat suot | Titaanin rintakehä        |
+| **19**  | Viidakot       | Valtava pesä              |
+| **20**  | Vuoret         | Vuorenukko                |
 
 #### Joet, meret ja järvet
 
@@ -412,26 +412,26 @@ Säällä voi olla suuri vaikutus alueen ihmisiin, kulttuuriin ja maastoon. Se v
 |         |                                                                                                                           |
 | ------- | ------------------------------------------------------------------------------------------------------------------------- |
 | **d20** | **Sää**                                                                                                                   |
-| **1**   | Vuosittainen satunnaisesti ilmestyvä sumu, joka muuttaa metallipinnat kullaksi kosketuksesta.                             |
-| **2**   | Revontulet, jotka näkyvät jopa päivänvalossa.                                                                             |
-| **3**   | Linnut lentävät takaperin, mutta liikkuvat silti jotenkin eteenpäin.                                                      |
-| **4**   | Päivät ovat arvaamattomia. Aurinko kulkee jonkin aikaa taaksepäin loikaten sitten eteenpäin yön laskeutuessa äkillisesti. |
-| **5**   | Ukkosen sijaan kuuluu kaukaisia kelloja. Lännestä puhaltaa savuinen, makea tuuli.                                         |
-| **6**   | Valtavat, lihaiset silmät kurkistavat taivaalta, ja niiden pupillit valaisevat yötaivasta.                                |
-| **7**   | Välähdyksiä liikkeistä näkökentän rajoilla, mutta siellä ei ole koskaan mitään.                                           |
-| **8**   | Sumua, joka täyttää vatsan (ei tarvita muona-annoksia). Huomenna, oksentelua.                                             |
-| **9**   | Järvet ja purot haihtuvat muutamassa minuutissa täyttäen myrskypilvet, jotka hukuttavat maan.                             |
+| **1**   | Ilma on tavallista sakeampaa, ja hengittäminen on vaikeaa.                                                                |
+| **2**   | Järvet ja purot haihtuvat muutamassa minuutissa täyttäen myrskypilvet, jotka hukuttavat maan.                             |
+| **3**   | Kun sataa lunta, hiutaleet ovat lämpimiä ja kuivia.                                                                       |
+| **4**   | Kuu näyttää valtavalta ja humisee pehmeästi öisin.                                                                        |
+| **5**   | Linnut lentävät takaperin, mutta liikkuvat silti jotenkin eteenpäin.                                                      |
+| **6**   | Pilvet ovat kasvojen muotoisia. Ne näyttävät nauravan.                                                                    |
+| **7**   | Päivät ovat arvaamattomia. Aurinko kulkee jonkin aikaa taaksepäin loikaten sitten eteenpäin yön laskeutuessa äkillisesti. |
+| **8**   | Revontulet, jotka näkyvät jopa päivänvalossa.                                                                             |
+| **9**   | Sade hohtaa vaimeasti yöllä. Sitä voi kerätä, mutta valo lopulta hiipuu.                                                  |
 | **10**  | Sataa pieniä vesieläimiä (nuijapäitä, sammakoita, pikkukaloja). Kukaan ei tiedä, mistä ne tulevat.                        |
 | **11**  | Sateenkaaret ovat lähes värittömiä ja välkkyvät toisinaan. Sadepisarat putoavat eri väreissä.                             |
-| **12**  | Vyöryviä pölypilviä, jotka tuoksuvat kanelilta. Yskä jatkuu pitkään niiden mentyä.                                        |
-| **13**  | Varjot katoavat satunnaisesti. Eläimet muuttuvat vastahakoisemmiksi.                                                      |
-| **14**  | Ilma on tavallista sakeampaa, ja hengittäminen on vaikeaa.                                                                |
-| **15**  | Pilvet ovat kasvojen muotoisia. Ne näyttävät nauravan.                                                                    |
-| **16**  | Kuu näyttää valtavalta ja humisee pehmeästi öisin.                                                                        |
-| **17**  | Sade hohtaa vaimeasti yöllä. Sitä voi kerätä, mutta valo lopulta hiipuu.                                                  |
-| **18**  | Tähdet järjestäytyvät monimutkaisiksi kuvioiksi, mikä vaikeuttaa suunnistamista.                                          |
-| **19**  | Tuulet kantavat kuiskauksia. Jotkut sanovat niiden kertovan enteitä tulevasta.                                            |
-| **20**  | Kun sataa lunta, hiutaleet ovat lämpimiä ja kuivia.                                                                       |
+| **12**  | Sumua, joka täyttää vatsan (ei tarvita muona-annoksia). Huomenna, oksentelua.                                             |
+| **13**  | Tuulet kantavat kuiskauksia. Jotkut sanovat niiden kertovan enteitä tulevasta.                                            |
+| **14**  | Tähdet järjestäytyvät monimutkaisiksi kuvioiksi, mikä vaikeuttaa suunnistamista.                                          |
+| **15**  | Ukkosen sijaan kuuluu kaukaisia kelloja. Lännestä puhaltaa savuinen, makea tuuli.                                         |
+| **16**  | Valtavat, lihaiset silmät kurkistavat taivaalta, ja niiden pupillit valaisevat yötaivasta.                                |
+| **17**  | Varjot katoavat satunnaisesti. Eläimet muuttuvat vastahakoisemmiksi.                                                      |
+| **18**  | Vuosittainen satunnaisesti ilmestyvä sumu, joka muuttaa metallipinnat kullaksi kosketuksesta.                             |
+| **19**  | Vyöryviä pölypilviä, jotka tuoksuvat kanelilta. Yskä jatkuu pitkään niiden mentyä.                                        |
+| **20**  | Välähdyksiä liikkeistä näkökentän rajoilla, mutta siellä ei ole koskaan mitään.                                           |
 
 ## Kohdepisteet
 
@@ -472,26 +472,26 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 |         |                |                                   |
 | ------- | -------------- | --------------------------------- |
 | **d20** | **Asutus**     | **Piirre**                        |
-| **1**   | Akatemia       | Rakennettu raunioiden päälle      |
-| **2**   | Karavaani      | Rakennettu jättiläisten luille    |
-| **3**   | Linnake        | Oppimisen keskus                  |
-| **4**   | Kaupunki       | Tiivis yhteisö                    |
-| **5**   | Kommuuni       | Jakaantunut                       |
-| **6**   | Leiri          | Pitää salaperäistä huminaa        |
-| **7**   | Nunnaluostari  | Kuuluisa käsityöläisistään        |
-| **8**   | Maatila        | Kuuluisa festivaaleistaan         |
-| **9**   | Linnoitus      | Koulutettujen petojen vartioima   |
-| **10**  | Varuskunta     | Kätkee vaarallisen portaalin      |
-| **11**  | Pikkukylä      | Hyvin tiheään asuttu              |
-| **12**  | Tornilinnoitus | Valloittamaton                    |
-| **13**  | Luostari       | Sulautunut luontoon               |
-| **14**  | Etävartioasema | Tunnettu vieraanvaraisuudesta     |
-| **15**  | Plantaasi      | Legendaarisen takomon sijainti    |
-| **16**  | Vankila        | Liikkuu tai pyörii ympäri         |
-| **17**  | Linnoitus      | Suuren soturin suojelema          |
-| **18**  | Kirkonkylä     | Voimakkaan ryhmittymän hallitsema |
-| **19**  | Huvila         | Perinteisiin nojaava              |
-| **20**  | Kylä           | Kaupankäynnin keskus              |
+| **1**   | Akatemia       | Hyvin tiheään asuttu              |
+| **2**   | Etuvartioasema | Jakaantunut                       |
+| **3**   | Huvila         | Kaupankäynnin keskus              |
+| **4**   | Karavaani      | Koulutettujen petojen vartioima   |
+| **5**   | Kaupunki       | Kuuluisa festivaaleistaan         |
+| **6**   | Kirkonkylä     | Kuuluisa käsityöläisistään        |
+| **7**   | Kommuuni       | Kätkee vaarallisen portaalin      |
+| **8**   | Kylä           | Legendaarisen takomon sijainti    |
+| **9**   | Leiri          | Liikkuu tai pyörii ympäri         |
+| **10**  | Linnake        | Oppimisen keskus                  |
+| **11**  | Linnoitus      | Perinteisiin nojaava              |
+| **12**  | Luostari       | Pitää salaperäistä huminaa        |
+| **13**  | Maatila        | Rakennettu jättiläisten luille    |
+| **14**  | Nunnaluostari  | Rakennettu raunioiden päälle      |
+| **15**  | Pikkukylä      | Sulautunut luontoon               |
+| **16**  | Plantaasi      | Suuren soturin suojelema          |
+| **17**  | Tornilinnoitus | Tiivis yhteisö                    |
+| **18**  | Tukikohta      | Tunnettu vieraanvaraisuudesta     |
+| **19**  | Vankila        | Valloittamaton                    |
+| **20**  | Varuskunta     | Voimakkaan ryhmittymän hallitsema |
 
 ### Virstanpylväät
 
@@ -500,26 +500,26 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 |         |                    |                                           |
 | ------- | ------------------ | ----------------------------------------- |
 | **d20** | **Virstanpylväät** | **Piirre**                                |
-| **1**   | Arkisto            | Hylkiöiden turvapaikka                    |
-| **2**   | Mielisairaala      | Rakennettu pyhälle maalle                 |
-| **3**   | Basaari            | Sisältää voimakkaan muinaisesineen        |
-| **4**   | Majakkatorni       | Edellisten asukkaiden kiroama             |
-| **5**   | Bunkkeri           | Ränsistyneet rakennukset                  |
-| **6**   | Mökki              | Epäluuloiset asukkaat                     |
-| **7**   | Leiripaikka        | Ei näy millään kartalla                   |
-| **8**   | Kiltatalo          | Laittomien tekojen peite                  |
-| **9**   | Sairaala           | Maineikkaan käsityöläisen koti            |
-| **10**  | Metsästysmaja      | Tunnettu monimutkaisista puolustuksistaan |
-| **11**  | Majatalo           | Asukkaat ovat pilkuntarkkoja laista       |
-| **12**  | Observatorio       | Asukkaat ovat ylimuodollisia              |
-| **13**  | Vesivarasto        | Ulkopuolisilta suljettu                   |
-| **14**  | Parantola          | Ulkopuoliset eivät saa kantaa aseita      |
-| **15**  | Turvapaikka        | Osa laitonta kauppareittiä                |
-| **16**  | Pyhäkkö            | Suosittu pyhiinvaelluskohde               |
-| **17**  | Temppeli           | Suojelee voimakasta esinettä              |
-| **18**  | Kauppapaikka       | Erakkomaiset asukkaat                     |
-| **19**  | Vahtitorni         | Sijaitsee luonnonrikkauksien päällä       |
-| **20**  | Työleiri           | Teknisesti edistynyt                      |
+| **1**   | Arkisto            | Asukkaat ovat pilkuntarkkoja laista       |
+| **2**   | Basaari            | Asukkaat ovat ylimuodollisia              |
+| **3**   | Bunkkeri           | Edellisten asukkaiden kiroama             |
+| **4**   | Kauppapaikka       | Ei näy millään kartalla                   |
+| **5**   | Kiltatalo          | Epäluuloiset asukkaat                     |
+| **6**   | Leiripaikka        | Erakkomaiset asukkaat                     |
+| **7**   | Majakkatorni       | Hylkiöiden turvapaikka                    |
+| **8**   | Majatalo           | Laittomien tekojen peite                  |
+| **9**   | Metsästysmaja      | Maineikkaan käsityöläisen koti            |
+| **10**  | Mielisairaala      | Osa laitonta kauppareittiä                |
+| **11**  | Mökki              | Rakennettu pyhälle maalle                 |
+| **12**  | Observatorio       | Ränsistyneet rakennukset                  |
+| **13**  | Parantola          | Sijaitsee luonnonrikkauksien päällä       |
+| **14**  | Pyhäkkö            | Sisältää voimakkaan muinaisesineen        |
+| **15**  | Sairaala           | Suojelee voimakasta esinettä              |
+| **16**  | Temppeli           | Suosittu pyhiinvaelluskohde               |
+| **17**  | Turvapaikka        | Teknisesti edistynyt                      |
+| **18**  | Työleiri           | Tunnettu monimutkaisista puolustuksistaan |
+| **19**  | Vahtitorni         | Ulkopuoliset eivät saa kantaa aseita      |
+| **20**  | Vesivarasto        | Ulkopuolisilta suljettu                   |
 
 ### Erikoisuudet
 
@@ -528,26 +528,26 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 |         |                            |                            |
 | ------- | -------------------------- | -------------------------- |
 | **d20** | **Erikoisuudet**           | **Piirre**                 |
-| **1**   | Muinainen Puu              | Hylätty alus               |
-| **2**   | Murtunut torni             | Muinainen tunkio           |
-| **3**   | Haudattu megaliitti        | Haudattu ley-linja         |
-| **4**   | Sortunut mylly             | Haudattu kirjasto          |
-| **5**   | Haljennut kello            | Lihansyöjäkasveja          |
-| **6**   | Kristallinen torninhuippu  | Taivaallinen peili         |
-| **7**   | Valuva holvikaari          | Kultin riittipaikka        |
-| **8**   | Kaikuvat kentät            | Syötävä sieni              |
-| **9**   | Jättimäinen nyrkki         | Leijuvaa romua             |
-| **10**  | Valtava jalanjälki         | Piilotetut markkinat       |
-| **11**  | Leijuva saari              | Harhamainen                |
-| **12**  | Jäätynyt hautausmaa        | Mahdotonta musiikkia       |
-| **13**  | Riippuvat sillat           | Syöpäläisten täyttämä      |
-| **14**  | Lukukelvoton tienviitta    | Epävakaa painovoima        |
-| **15**  | Leviatanin luuranko        | Erillissäätila             |
-| **16**  | Oudon muotoinen järvi      | Ilmestyy vain öisin        |
-| **17**  | Kivettynyt metsä           | Ikuinen usva               |
-| **18**  | Purppuranpunaiset geysirit | Ikuiset varjot             |
-| **19**  | Laulavat kivet             | Muinaisen taistelun paikka |
-| **20**  | Uponnut kaupunki           | Epävakaa maaperä           |
+| **1**   | Haljennut kello            | Epävakaa maaperä           |
+| **2**   | Haudattu megaliitti        | Epävakaa painovoima        |
+| **3**   | Jättimäinen nyrkki         | Erillissäätila             |
+| **4**   | Jäätynyt hautausmaa        | Harhamainen                |
+| **5**   | Kaikuvat kentät            | Haudattu kirjasto          |
+| **6**   | Kivettynyt metsä           | Haudattu ley-linja         |
+| **7**   | Kristallinen torninhuippu  | Hylätty alus               |
+| **8**   | Laulavat kivet             | Ikuinen usva               |
+| **9**   | Leijuva saari              | Ikuiset varjot             |
+| **10**  | Leviatanin luuranko        | Ilmestyy vain öisin        |
+| **11**  | Lukukelvoton tienviitta    | Kultin riittipaikka        |
+| **12**  | Muinainen Puu              | Leijuvaa romua             |
+| **13**  | Murtunut torni             | Lihansyöjäkasveja          |
+| **14**  | Oudon muotoinen järvi      | Mahdotonta musiikkia       |
+| **15**  | Purppuranpunaiset geysirit | Muinainen tunkio           |
+| **16**  | Riippuvat sillat           | Muinaisen taistelun paikka |
+| **17**  | Sortunut mylly             | Piilotetut markkinat       |
+| **18**  | Uponnut kaupunki           | Syöpäläisten täyttämä      |
+| **19**  | Valtava jalanjälki         | Syötävä sieni              |
+| **20**  | Valuva holvikaari          | Taivaallinen peili         |
 
 ### Pesäpaikat
 
@@ -556,26 +556,26 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 |         |                             |                               |
 | ------- | --------------------------- | ----------------------------- |
 | **d20** | **Pesäpaikka**              | **Piirre**                    |
-| **1**   | Hylätty torni               | Tyhjilleen jätetty            |
-| **2**   | Muinainen vankila           | Tienristeyksessä              |
-| **3**   | Sortunut kaivos             | Syöttejä sisäänkäynnillä      |
-| **4**   | Valtava pesä                | Valoa hohtava                 |
-| **5**   | Haaksirikkoutunut laiva     | Jatkuva huuto                 |
-| **6**   | Mureneva linnoitus          | Pääsy kielletty               |
-| **7**   | Kuivunut akvedukti          | Ryhmittymän piilopaikka       |
-| **8**   | Valtava kanto               | Salainen uloskäynti           |
-| **9**   | Unohdettu hautausmaa        | Outoja koneita                |
-| **10**  | Kätketty kolo               | Luukasoja                     |
-| **11**  | Ontto obeliski              | Aiemmin asutettu              |
-| **12**  | Villiintynyt puutarha       | Uskonnollisia seinäpiirroksia |
-| **13**  | Muinaiset menhir-pystykivet | Ansoja hajallaan              |
-| **14**  | Alkukantainen silta         | Haaskansyöjiä liikkeellä      |
-| **15**  | Rapistunut mylly            | Varoituskylttejä              |
-| **16**  | Raunioitunut kaupunki       | Jotain nukkuu                 |
-| **17**  | Ruostunut rakennelma        | Symbioottinen olento          |
-| **18**  | Piikikäs luola              | Harjoitusleiri                |
-| **19**  | Uponnut luola               | Vedenalainen                  |
-| **20**  | Villi metsikkö              | Jätekuoppa                    |
+| **1**   | Alkukantainen silta         | Aiemmin asutettu              |
+| **2**   | Haaksirikkoutunut laiva     | Ansoja hajallaan              |
+| **3**   | Hylätty torni               | Haaskansyöjiä liikkeellä      |
+| **4**   | Kuivunut akvedukti          | Harjoitusleiri                |
+| **5**   | Kätketty kolo               | Jatkuva huuto                 |
+| **6**   | Muinainen vankila           | Jotain nukkuu                 |
+| **7**   | Muinaiset menhir-pystykivet | Jätekuoppa                    |
+| **8**   | Mureneva linnoitus          | Luukasoja                     |
+| **9**   | Ontto obeliski              | Outoja koneita                |
+| **10**  | Piikikäs luola              | Pääsy kielletty               |
+| **11**  | Rapistunut mylly            | Ryhmittymän piilopaikka       |
+| **12**  | Raunioitunut kaupunki       | Salainen uloskäynti           |
+| **13**  | Ruostunut rakennelma        | Symbioottinen olento          |
+| **14**  | Sortunut kaivos             | Syöttejä sisäänkäynnillä      |
+| **15**  | Unohdettu hautausmaa        | Tienristeyksessä              |
+| **16**  | Uponnut luola               | Tyhjilleen jätetty            |
+| **17**  | Valtava kanto               | Uskonnollisia seinäpiirroksia |
+| **18**  | Valtava pesä                | Valoa hohtava                 |
+| **19**  | Villi metsikkö              | Varoituskylttejä              |
+| **20**  | Villiintynyt puutarha       | Vedenalainen                  |
 
 ### Luolastot
 
@@ -584,26 +584,26 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 |         |                |                         |
 | ------- | -------------- | ----------------------- |
 | **d20** | **Tyyppi**     | **Piirre**              |
-| **1**   | Hautausmaa     | Hylätty                 |
-| **2**   | Luola          | Haudattu                |
-| **3**   | Kellari        | Poltettu                |
-| **4**   | Krypta         | Kellokoneistomainen     |
-| **5**   | Onkalo         | Sortunut                |
-| **6**   | Tila           | Rappeutunut             |
-| **7**   | Linnake        | Kristallimainen         |
-| **8**   | Suuri sali     | Leijuva                 |
-| **9**   | Laboratorio    | Tulvinut                |
-| **10**  | Kartano        | Sienikasvuston peitossa |
-| **11**  | Kaivos         | Nurinkurinen            |
-| **12**  | Etävartioasema | Eristäytynyt            |
-| **13**  | Palatsi        | Peilikuva               |
-| **14**  | Vankila        | Tuonpuoleinen           |
-| **15**  | Rauniokaupunki | Umpeenkasvanut          |
-| **16**  | Linnoitus      | Kivettynyt              |
-| **17**  | Temppeli       | Syrjäinen               |
-| **18**  | Hauta          | Sinetöity               |
-| **19**  | Torni          | Myrkyllinen             |
-| **20**  | Työpaja        | Vääristynyt             |
+| **1**   | Etuvartioasema | Eristäytynyt            |
+| **2**   | Hauta          | Haudattu                |
+| **3**   | Hautausmaa     | Hylätty                 |
+| **4**   | Kaivos         | Kellokoneistomainen     |
+| **5**   | Kartano        | Kivettynyt              |
+| **6**   | Kellari        | Kristallimainen         |
+| **7**   | Krypta         | Leijuva                 |
+| **8**   | Laboratorio    | Myrkyllinen             |
+| **9**   | Linnake        | Nurinkurinen            |
+| **10**  | Linnoitus      | Peilikuva               |
+| **11**  | Luola          | Poltettu                |
+| **12**  | Onkalo         | Rappeutunut             |
+| **13**  | Palatsi        | Sienikasvuston peitossa |
+| **14**  | Rauniokaupunki | Sinetöity               |
+| **15**  | Suuri sali     | Sortunut                |
+| **16**  | Temppeli       | Syrjäinen               |
+| **17**  | Tila           | Tulvinut                |
+| **18**  | Torni          | Tuonpuoleinen           |
+| **19**  | Työpaja        | Umpeenkasvanut          |
+| **20**  | Vankila        | Vääristynyt             |
 
 > Katso [Luolaston lähtökohdat](/wip/dungeon-seeds) -luvusta, miten voit täydentää kutakin Luolaston kohdepistettä peliympäristöäsi varten.
 
@@ -639,26 +639,26 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 |         |                          |                                 |
 | ------- | ------------------------ | ------------------------------- |
 | **d20** | **Piirre**               | **Olosuhteet**                  |
-| **1**   | Hylätyt pellot           | Rosvojen väijytyksiä            |
-| **2**   | Verenpunainen            | Jättiläislohkareen tukkima      |
-| **3**   | Haudatut loitsut         | Sortunut silta                  |
-| **4**   | Karjan jälkiä            | Hämmentävä reitti               |
-| **5**   | Jatkuvaa partiointia     | Tiheää piikkipensaikkoa         |
-| **6**   | Kuollutta kasvillisuutta | Poliittisen kiistan jakama      |
-| **7**   | Katoileva                | Arvaamaton sää                  |
-| **8**   | Sairaita eläimiä         | Toistuvia äkkitulvia            |
-| **9**   | Seuraa tähtiä            | Tulee äärimmäisen kylmä         |
-| **10**  | Tiheästi pyhiinvaeltajia | Korkea tietulli vaaditaan       |
-| **11**  | Valtavat urat            | Labyrinttimaiset kanjonit       |
-| **12**  | Virstanpylväät           | Yösaalistajia                   |
-| **13**  | Mineraalihitusia         | Satunnaisia eläinten ryntäyksiä |
-| **14**  | Hiljattain tehty         | Hyvin ruuhkainen                |
-| **15**  | Umpeenkasvanut           | Kulkee koskien yli              |
-| **16**  | Ruosteisia työkaluja     | Myrkyllisiä marjoja/hedelmiä    |
-| **17**  | Näivettynyt              | Savun täyttämä                  |
-| **18**  | Repaleinen               | Jyrkkä nousu                    |
-| **19**  | Poukkoileva              | Paksu iltasumu                  |
-| **20**  | Jalanjälkiä kaikkialla   | Epätasainen, vetinen maaperä    |
+| **1**   | Haudatut loitsut         | Arvaamaton sää                  |
+| **2**   | Hiljattain tehty         | Epätasainen, vetinen maaperä    |
+| **3**   | Hylätyt pellot           | Hyvin ruuhkainen                |
+| **4**   | Jalanjälkiä kaikkialla   | Hämmentävä reitti               |
+| **5**   | Jatkuvaa partiointia     | Jyrkkä nousu                    |
+| **6**   | Karjan jälkiä            | Jättiläislohkareen tukkima      |
+| **7**   | Katoileva                | Korkea tietulli vaaditaan       |
+| **8**   | Kuollutta kasvillisuutta | Kulkee koskien yli              |
+| **9**   | Mineraalihitusia         | Labyrinttimaiset kanjonit       |
+| **10**  | Näivettynyt              | Myrkyllisiä marjoja/hedelmiä    |
+| **11**  | Poukkoileva              | Paksu iltasumu                  |
+| **12**  | Repaleinen               | Poliittisen kiistan jakama      |
+| **13**  | Ruosteisia työkaluja     | Rosvojen väijytyksiä            |
+| **14**  | Sairaita eläimiä         | Satunnaisia eläinten ryntäyksiä |
+| **15**  | Seuraa tähtiä            | Savun täyttämä                  |
+| **16**  | Tiheästi pyhiinvaeltajia | Sortunut silta                  |
+| **17**  | Umpeenkasvanut           | Tiheää piikkipensaikkoa         |
+| **18**  | Valtavat urat            | Toistuvia äkkitulvia            |
+| **19**  | Verenpunainen            | Tulee äärimmäisen kylmä         |
+| **20**  | Virstanpylväät           | Yösaalistajia                   |
 
 ### Laitetaan kaikki yhteen
 
