@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
-Cairn on seikkailupeli, jossa tutkitaan pimeää ja salaperäistä Metsää, joka on täynnä outoa väkeä, kätkettyjä aarteita ja sanoin kuvaamattomia hirvityksiä. Hahmojen luominen on nopeaa ja sattumanvaraista, seikkailut ovat kiperiä ja palkitsevat varovaisesta tutkimisesta, ja taistelu on vauhdikasta ja tappavaa.  Pelin on kirjoittanut [Yochai Gal](https://newschoolrevolution.com). Pelin suomenkielisen käännöksen on tehnyt [Kari Silvennoinen](https://kalifi.org).
+Cairn on seikkailupeli, jossa tutkitaan pimeää ja salaperäistä Korpea, joka on täynnä outoa väkeä, kätkettyjä aarteita ja sanoin kuvaamattomia hirvityksiä. Hahmojen luominen on nopeaa ja sattumanvaraista, seikkailut ovat kiperiä ja palkitsevat varovaisesta tutkimisesta, ja taistelu on vauhdikasta ja tappavaa. Pelin on kirjoittanut [Yochai Gal](https://newschoolrevolution.com). Pelin suomenkielisen käännöksen on tehnyt [Kari Silvennoinen](https://kalifi.org).
 
 Pelistä on useampi laitos (katso sivupalkki), joiden säännöt ovat keskenään yhteensopivia.
 

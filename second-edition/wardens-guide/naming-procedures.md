@@ -266,10 +266,10 @@ grand_parent: Toinen laitos
 
 ### Metsien nimet
 
-- Yhdistä sanoja seuraavasta taulukosta heittämällä **d10**-noppaa kahdesti, ensin **kymmenille** ja sitten vielä kerran **ykkösille**. Toista prosessi substantiivin kohdalla.
+- Yhdistä sanoja seuraavasta taulukosta heittämällä ensin adjektiiville **d10**-noppaa kahdesti, ensin **kymmenille** ja sitten vielä kerran **ykkösille**. Toista sitten prosessi substantiivin kohdalla.
 - Muuta sitä! Nimi _Kutsuva Lehto_ voisi olla ympäristöösi sopivampi kuin _Eteerinen Metsikkö_.
 - Käytä vastakkaisia sanoja (esim. _Kiemurteleva Lehvästö_) tuodaksesi esiin kiintoisan seikan paikasta.
-- Alkusoinnut ja miellyttävät yhdistelmät voivat luoda aistikkaita ääniä. _Kuiskiva Korpi_ on miellyttävämpi korvaan kuin _Rehevä Metsä._
+- Saa se kuulostamaan kivalta. Alkusoinnut ja miellyttävät yhdistelmät voivat luoda aistikkaita ääniä. _Kuiskiva Korpi_ on miellyttävämpi korvaan kuin _Rehevä Metsä._
 
 |          |                  |                   |
 | -------- | ---------------- | ----------------- |

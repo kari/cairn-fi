@@ -10,36 +10,39 @@ nav_order: 6
 ### Taistelija
 
 - 3d6 kultarahaa
-- Muona-annokset (3 käyttöä)
+- Kuivalihaa (3 käyttöä, _mitätön_)
 - Soihtuja (3 käyttöä)
-- Miekka (d8)
-- Heittotikari (d6)
+- Sidetarpeet (3 käyttöä)
+- Köysi
 - Kilpi (+1 Panssari)
 - Gambeson (+1 Panssari)
-- Sidetarpeet (3 käyttöä)
-- Merkki kaatuneelta toverilta (_mitätön_)
+- Miekka (d8)
+- Heittotikari (d6)
+- Tuntolevyt (_mitätön_)
 
 ### Varas
 
 - 3d6 kultarahaa
 - Muona-annokset (3 käyttöä)
-- Soihtuja (3 käyttöä)
-- Tiirikoija
-- Heittokoukku
-- Jalkapiikit
 - Kahdet taittotikarit (d6+d6)
+- Häränsilmälyhty
+- Öljykannu (6 käyttöä)
+- Jalkapiikit
 - Pieni peili
+- Tiirikat
+- Heittokoukku
 - Musta huppu (_mitätön_)
+- Liitua (_mitätön_)
 
 ### Loitsija
 
 - 3d6 kultarahaa
 - Muona-annokset (3 käyttöä)
-- Soihtuja (3 käyttöä)
-- Loitsukirja: _Taikuuden paljastus_
-- Loitsukirja: _Nukutus_
 - Sauva (d6)
-- Liitu (_mitätön_)
+- Puukko (d6)
+- Loitsukirja: _Valaistus_
+- Loitsukirja: _Nukutus_
+- Käärö: _Taikuuden paljastus_
 - Kaapu (_mitätön_)
 
 ### Pappi
@@ -47,8 +50,8 @@ nav_order: 6
 - 3d6 kultarahaa
 - Muona-annokset (3 käyttöä)
 - Soihtuja (3 käyttöä)
-- Loitsukirja: _Haavojen parannus_
 - Sotavasara (d10, _kookas_)
 - Kypärä (+1 Panssari)
+- Loitsukirja: _Haavojen parannus_
 - Sidetarpeet (3 käyttöä)
-- Pyhä merkki (_mitätön_, loihtii _Vartiokuvion_ kerran päivässä)
+- Luuonnenkalu (_mitätön_, loihtii _Vartiokuvion_ kerran päivässä)

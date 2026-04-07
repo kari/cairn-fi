@@ -9,7 +9,7 @@ nav_order: 5
 
 ## Yleiskatsaus
 
-1. Heitä hahmosi [etu- ja sukunimi](#nimiä) sekä **ikä** (2d20+10).
+1. Heitä hahmosi [etu- ja sukunimi](#nimet-d100) sekä **ikä** (2d20+10).
 2. Heitä hahmosi [Kyvyt](#kyvyt) ja [Osumasuojaus](#osumasuojaus).
 3. Heitä hahmosi [Piirteet](#piirteet-d10).
 4. Heitä hahmosi [Tausta](#tausta) ja siihen liittyvät esineet.
@@ -17,7 +17,7 @@ nav_order: 5
 6. Heitä [Lisävarusteita](#lisävarusteet) täydentämään hahmosi aloitusvarustusta.
 7. Osta hahmollesi [markkinapaikalta](/barebones/barebones-marketplace.md) mahdollisesti lisää varusteita, jos sinulla on niihin varaa.
 
-### Nimiä
+### Nimet (d100)
 
 | d100 | Etunimi  | Sukunimi    |
 | ---- | -------- | ----------- |
@@ -331,7 +331,7 @@ Kaikki pelaajahahmot aloittavat seuraavilla varusteilla:
 
 Lisäksi heitä seuraavia taulukoita käyttäen hahmollesi panssari, aseet ja lisävarusteet:
 
-#### Panssari (d8)
+#### Panssari (d6)
 
 |   d6  | Panssari                                       |
 | :---: | :--------------------------------------------- |
@@ -342,7 +342,7 @@ Lisäksi heitä seuraavia taulukoita käyttäen hahmollesi panssari, aseet ja li
 | **5** | Rengaspanssari (2 Panssaria, _kookas_)         |
 | **6** | Ritarihaarniska (3 Panssaria, _kookas_)        |
 
-#### Aseet (d8)
+#### Aseet (d6)
 
 |   d6  | Aseet                                                          |
 | :---: | :------------------------------------------------------------- |

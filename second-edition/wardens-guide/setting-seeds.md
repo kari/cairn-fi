@@ -605,7 +605,7 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 | **19**  | Työpaja        | Umpeenkasvanut          |
 | **20**  | Vankila        | Vääristynyt             |
 
-> Katso [Luolaston lähtökohdat](/wip/dungeon-seeds) -luvusta, miten voit täydentää kutakin Luolaston kohdepistettä peliympäristöäsi varten.
+> Katso [Luolaston lähtökohdat](/second-edition/wardens-guide//dungeon-seeds) -luvusta, miten voit täydentää kutakin Luolaston kohdepistettä peliympäristöäsi varten.
 
 ## Reitit
 

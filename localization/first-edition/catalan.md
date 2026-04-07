@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Toki pona
+title: Katalaani
 parent: Ensimmäinen laitos
 grand_parent: Käännökset
-redirect_to: https://raphaka.github.io/cairn1e_toki_pona/
+redirect_to: https://tirant-lo-dau.itch.io/cairn
 ---
