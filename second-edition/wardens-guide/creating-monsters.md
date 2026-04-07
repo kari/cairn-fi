@@ -196,7 +196,7 @@ Tämä olento on fyysisesti vahva, joten sillä on keskimääräistä korkeampi 
 
 6 HP, 2 Panssari, 14 STR, 6 DEX, 4 WIL, vierii & iskee (d8+d8, _räjähdys_)
 
-- Paksukilpisiä petoja, jotka hyökkäävät vierimällä vastustajiensa yli suorassa linjassa. Niiden pyörivien kilpien melu on korviahuumava.
+- Paksukilpisiä petoja, jotka hyökkäävät vierimällä vastustajiensa yli suorassa linjassa. Niiden pyörivien kilpien melu on korviahuumaava.
 - **Kriittinen vahinko**: Kohde vedetään mukaan sen vierivään vauhtiin ja menettää 1 STR:n lisää kierrosta kohden, kunnes vapautuu (STR-pelastusheitto paetakseen).
 
 ## Hirviöiden muuntaminen
@@ -207,7 +207,7 @@ Täydellistä menetelmää hirviöiden muuntamiseen muista roolipelijärjestelmi
 - **Panssari**: Etsi alkuperäisistä tietolaatikoista lauseita kuten “kuin nahka” tai “kuin levypanssari”. Kun muunnat B/X-tyylisistä peleistä, kuten Old School Essentialsista, jätä THAC0 huomiotta ja käytä laskevaa panssariluokkaa (AC) aina kun mahdollista (7 = nahka, 5 = rengaspanssari, 3 = ritarihaarniska). Jos vain nouseva PL on annettu, voit käyttää (12 = nahka, 14 = rengaspanssari, 16 = ritarihaarniska). Riippumatta siitä mistä järjestelmästä muunnat, Panssariarvot vaihtelevat vain välillä 1-3.
 - **Voimakkuus**: Katso olennon **HD** ja **HP**. Jos olentoa on vaikea tappaa, mutta _ei_ siksi, että se on ketterä tai taitava, anna sille enemmän **STR:ää** (mutta _älä_ enemmän **HP**:tä). Aloita **STR**-arvosta 10 (keskiarvo) ja siirry siitä ylös tai alas.
 - **Ketteryys**: Aloita lähtöarvolla **10** ja, jos olento on erityisen vikkelä (usein käytetään termiä "nopea" (_speed_) tai SP), ketterä tai näppäräsorminen, lisää sitä. Jos se reagoi hitaasti, on kookas tai kömpelö, pienennä arvoa. Katso alta lisää kohdasta [Pelastusheitot](#pelastusheitot)!
-- **Tahdonvoima**: **Taistelutahto** (Morale / **ML**) voi olla hyvä ohjenuora, ja se vaihtelee yleensä välillä 2-12. Mitä suurempi olennon persoonallisuus, henki tai olemus on, sitä korkeampi sen WILin tulisi olla. Seuraava taulukko on kelpo opas **ML**:n muuntamisesta **WIL**:ksi.
+- **Tahdonvoima**: **Taistelutahto** (Morale / **ML**) voi olla hyvä ohjenuora, ja se vaihtelee yleensä välillä 2-12. Mitä suurempi olennon persoonallisuus, henki tai olemus on, sitä korkeampi sen WIL:in tulisi olla. Seuraava taulukko on kelpo opas **ML**:n muuntamisesta **WIL**:ksi.
 
 |         |   |    |    |    |
 | ------- | - | -- | -- | -- |
@@ -232,18 +232,18 @@ Täydellistä menetelmää hirviöiden muuntamiseen muista roolipelijärjestelmi
 
 - **Vahinkonoppa**: Voidaan tyypillisesti ottaa sellaisenaan useimmista OSR-järjestelmistä, mutta on hyvä tarkistaa ensin Markkinapaikkaan listatuista aseista.
 - **Useat hyökkäykset**: Muunna _räjähdykseksi_ tai useammaksi nopaksi (esim. d6+d6).
-- **Tuhoisat hyökkäykset**: Harkitse vahingon tekemistä _vahvistetuksi_, lisää _räjähdys_-tunniste tai anna hyökkäykselle useita noppia.
+- **Tuhoisat hyökkäykset**: Harkitse vahingon tekemistä _vahvistetuksi_, lisää _Räjähdys_-tunniste tai anna hyökkäykselle useita noppia.
 
 ### Kyvyt
 
-- Joskus alkuperäisen roolipelijärjestelmän mekaniikat eivät yksinkertaisesti _vain käänny lainkaan_. Se on OK! Yritä hyödyntää mikä olennossa on mielenkiintoisinta ja tee “versio” sen kyvystä joka on sopivampi Cairnin kanssa.
+- Joskus alkuperäisen roolipelijärjestelmän mekaniikat eivät yksinkertaisesti _vain käänny lainkaan_. Se on OK! Yritä hyödyntää mikä olennossa on mielenkiintoisinta ja tee “versio” sen kyvystä, joka on sopivampi Cairnin kanssa.
 - Kyvyt voi joskus muuntaa hyökkäyksiksi (vahinkonopalla), jolloin Kriittinen vahinko paljastaa todellisen vaikutuksen.
 - Jos hirviöllä on hyökkäys, joka vaatii pelaajahahmoja yrittämään väistämistä tai pelastusheittoa jotain kykyä vastaan, harkitse kyvyn tekemisestä taistelun ulkopuoliseksi “ansaksi”, jonka pelaajahahmot voivat laukaista. Muuten anna sen onnistua automaattisesti. Taistelu on vaarallista ja Vartijan tehtävä on viestittää vaarasta kunnolla ennen kuin taistelu alkaa.
 
 ### Taikuus
 
 - Maagiset olennot voivat “tietää” läjän loitsuja ilman että niiden tarvitsee kantaa loitsukirjoja. Tässä tapauksessa, tee niiden ruumiista maagisia (ja vaarallisia)!
-- Loitsut ovat hankalia; voit antaa taiankäyttäjille Loitsukirjoja, mutta muista että ne saattavat _tiputtaa_ nämä kun ne on kukistettu.
+- Loitsut ovat hankalia; voit antaa taiankäyttäjille Loitsukirjoja, mutta muista että ne saattavat _tiputtaa_ nämä, kun ne on kukistettu.
 - Harkitse, että jotkin loitsukirjojen räjähtävät tippuessaan (käytä Kohtalon Noppaa määrittääksesi mitkä).
 
 ### Käytä kerrontaa
@@ -260,29 +260,29 @@ _HD 5, Nopeus 120', Panssari 14, Taistelutahto 11, Hyökkäys: +4 d8hp (kynnet, 
 - Puolustus: Metalli ei voi vahingoittaa
 - Erikoisuus: Voi halutessaan muuttua ketuksi tai neidoksi, jonka yksi ketunjalka on piilossa (samat ominaisuudet)
 
-_**Ylläolevaa esimerkkiä käyttäen, voin nähdä että:**_
+_**Yllä olevaa esimerkkiä käyttäen, voin nähdä että:**_
 
 - Hän näyttää kaksi metriä pitkältä ihmisnaiselta, jolla on ketun pää.
 - Hänellä ole kovin korkea HP ja hän on aika nopea.
-- Hänen ML on aika korkea ja hän on selvästi aika omapäinen.
+- Hänen ML:nsä on aika korkea ja hän on selvästi aika omapäinen.
 - Hän on ketterä ja notkea.
-- Hän jyökkää hampaillaan ja kynsillään (tukehduttaen saaliinsa jos mahdollista).
+- Hän hyökkää hampaillaan ja kynsillään (tukehduttaen saaliinsa, jos mahdollista).
 - Hän voi halutessaan muuttua ketuksi.
 - Hän on immuuni metalliaseille.
 
 _**Mitä voimme oppia tästä?**_
 
 - Hän on nopea ja todennäköisesti taitava taistelemaan. Aloittaen **3 HP:stä** ja lisäten yhden **HP:n** per **HD** saadaan hänelle **8 HP:tä**.
-- En usko että ketuilla on suojaavaa nahkaa ja hän on päätään lukuunottamatta muuten ihmismäinen. **Ei Panssaria**.
+- En usko, että ketuilla on suojaavaa nahkaa ja hän on päätään lukuun ottamatta muuten ihmismäinen. **Ei Panssaria**.
 - Hän on kohtuullisen vahva. Normaalilla ihmisellä on 10 **STR** ja hän on vähän isompi. **12 STR**.
 - Voin kuvitella hänet metsästämässä saalistaan lumisella tundralla. Hän on nopea. **14 DEX**.
-- Hänen ML on korkea ja ketut ovat tunnetusti ovelia. **15 WIL**.
+- Hänen ML:nsä on korkea ja ketut ovat tunnetusti ovelia. **15 WIL**.
 - Hyökkäyksiä varten valitsisin kynnet (d6+d6) ja puraisun (d8).
 
 _**Tämän tiedon perusteella meillä on seuraavat tiedot:**_
 8 HP, 12 STR, 14 DEX, 15 WIL, kynnet (d6+d6), puraisu (d8).
 
-Nyt hänen kykyihinsä: Tämä on aika suoraviivaista. Me yksinkertaiseti luemme tarinatietolaatikon, jonka loimme aikaisemmin!
+Nyt hänen kykyihinsä: Tämä on aika suoraviivaista. Me yksinkertaisesti luemme tarinatietolaatikon, jonka loimme aikaisemmin!
 
 - Hän näyttää kaksi metriä pitkältä ihmisnaiselta, jolla on ketun pää.
 - Hän voi halutessaan muuttua ketuksi.

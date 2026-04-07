@@ -24,12 +24,12 @@ grand_parent: Toinen laitos
 
 ### Nimikaavat
 
-|        |                                                                                                                                                                                                                               |
-| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **d6** | **Kaava**                                                                                                                                                                                                                     |
-| **1**  | **[Substantiivi]** **[Kohdepiste]**                                                                                   |
-| **2**  | **[Adjektiivi]** **[Kohdepiste]**                                                                                     |
-| **3**  | **[Substantiivi genetiivissä]** **[Kohdepiste]**                                                                      |
+|        |                                                                   |
+| ------ | ----------------------------------------------------------------- |
+| **d6** | **Kaava**                                                         |
+| **1**  | **[Substantiivi]** **[Kohdepiste]**                               |
+| **2**  | **[Adjektiivi]** **[Kohdepiste]**                                 |
+| **3**  | **[Substantiivi genetiivissä]** **[Kohdepiste]**                  |
 | **4**  | **[Substantiivi genetiivissä]** **[Adjektiivi]** **[Kohdepiste]** |
 | **5**  | **[Substantiivi]** **[Adjektiivi]** **[Kohdepiste]**              |
 | **6**  | **[Adjektiivi]** **[Substantiivi genetiivissä]** **[Kohdepiste]** |
@@ -161,7 +161,7 @@ grand_parent: Toinen laitos
 | **Metsät**        | pensaikko, metsikkö, lehto, lehvästö, ryteikkö, siimes      |
 | **Ruohotasangot** | niitty, keto, nurmi, savanni, laidunmaa, aho                |
 | **Kukkulat**      | kumpu, mäki, vaara, harju, nyppylä, kunnas, töyry           |
-| **Notkot**        | reikä, kuoppa, kraateri, kolo, monttu, painanne, suppa      |
+| **Notkot**        | reikä, kuoppa, kraatteri, kolo, monttu, painanne, suppa     |
 | **Viidakot**      | _Katso metsät_                                              |
 | **Järvet**        | lampi, lammikko, allas, laguuni, poukama, lahti             |
 | **Vuoret**        | huippu, vuoristo, tunturi, jylhä, harjanne, kukkula         |
@@ -171,15 +171,15 @@ grand_parent: Toinen laitos
 | **Joet**          | vesiväylä, puro, kanava, luoma, koski, virta                |
 | **Meri**          | _Katso rannat_                                              |
 | **Suomaat**       | kosteikko, korpi                                            |
-| **Tiheiköt**      | vesakko, näreikkö, pensasto, psukko, pöheikkö               |
-| **Tundra**        | paljakko, vainio, ikirouta                                  |
+| **Tiheiköt**      | vesakko, näreikkö, pensasto, pusikko, pöheikkö              |
+| **Tundra**        | paljakka, vainio, ikirouta                                  |
 | **Laaksot**       | vajoama, uoma, sola, alho, alanne, kurunrotko               |
 | **Jättömaat**     | _Katso aavikot_                                             |
 
 ### Ryhmittymien nimet
 
 1. Heitä noppaa alla olevalla [Nimikaavat ryhmittymille](#nimikaavat-ryhmittymille) -taulukolla.
-2. Heitä tarvittaessa [Adjektiivit](#adjektiivit), [Substantiivit](#substantiivit) ja [Ryhmätyypit](#ryhmatyypit) -taulukkoja.
+2. Heitä tarvittaessa [Adjektiivit](#adjektiivit), [Substantiivit](#substantiivit) ja [Ryhmätyypit](#ryhmätyypit) -taulukkoja.
 
 #### Ryhmätyypit
 
@@ -209,12 +209,12 @@ grand_parent: Toinen laitos
 
 #### Nimikaavat ryhmittymille
 
-|        |                                                                                                                                                                                                                          |
-| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **d6** | **Kaava**                                                                                                                                                                                                                |
-| **1**  | **[Substantiivi]** **[Ryhmä]**                                                                                   |
-| **2**  | **[Adjektiivi]** **[Ryhmä]**                                                                                     |
-| **3**  | **[Substantiivi genetiivissä]** **[Ryhmä]**                                                                      |
+|        |                                                              |
+| ------ | ------------------------------------------------------------ |
+| **d6** | **Kaava**                                                    |
+| **1**  | **[Substantiivi]** **[Ryhmä]**                               |
+| **2**  | **[Adjektiivi]** **[Ryhmä]**                                 |
+| **3**  | **[Substantiivi genetiivissä]** **[Ryhmä]**                  |
 | **4**  | **[Substantiivi genetiivissä]** **[Adjektiivi]** **[Ryhmä]** |
 | **5**  | **[Substantiivi]** **[Adjektiivi]** **[Ryhmä]**              |
 | **6**  | **[Adjektiivi]** **[Substantiivi genetiivissä]** **[Ryhmä]** |
@@ -222,9 +222,9 @@ grand_parent: Toinen laitos
 ## Valtakunnan nimet
 
 1. Heitä noppaa alla olevalla [Nimikaavat hallitsijoille](#nimikaavat-hallitsijoille) -taulukolla.
-2. Heitä [Adjektiivit](#adjektiivit), [Substantiivit](#substantiivit), [Maasto](#maasto) ja [Hallitsijatyypit](#hallitsijatyypit) -taulukoilla ja lisää tarvittaessa omistusmuotoja
+2. Heitä [Adjektiivit](#adjektiivit), [Substantiivit](#substantiivit) ja [Hallitsijatyypit](#hallitsijatyypit) -taulukoilla ja lisää tarvittaessa omistusmuotoja
 
-\| Vaihtoehtoisesti voit korvata minkä tahansa tuloksen hallitsevan maaston synonyymillä, esim. "_Sumuiset jyrkänteet_".
+> Vaihtoehtoisesti voit korvata minkä tahansa tuloksen hallitsevan maaston synonyymillä, esim. "_Sumuiset jyrkänteet_".
 
 ### Nimikaavat hallitsijoille
 
@@ -254,12 +254,12 @@ grand_parent: Toinen laitos
 | **19**  | **Valtio**             |
 | **20**  | **Unioni**             |
 
-|        |                                                                                                                                                                                                                               |
-| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **d6** | **Kaava**                                                                                                                                                                                                                     |
-| **1**  | **[Substantiivi]** **[Hallitsija]**                                                                                   |
-| **2**  | **[Adjektiivi]** **[Hallitsija]**                                                                                     |
-| **3**  | **[Substantiivi genetiivissä]** **[Hallitsija]**                                                                      |
+|        |                                                                   |
+| ------ | ----------------------------------------------------------------- |
+| **d6** | **Kaava**                                                         |
+| **1**  | **[Substantiivi]** **[Hallitsija]**                               |
+| **2**  | **[Adjektiivi]** **[Hallitsija]**                                 |
+| **3**  | **[Substantiivi genetiivissä]** **[Hallitsija]**                  |
 | **4**  | **[Substantiivi genetiivissä]** **[Adjektiivi]** **[Hallitsija]** |
 | **5**  | **[Substantiivi]** **[Adjektiivi]** **[Hallitsija]**              |
 | **6**  | **[Adjektiivi]** **[Substantiivi genetiivissä]** **[Hallitsija]** |
@@ -269,7 +269,7 @@ grand_parent: Toinen laitos
 - Yhdistä sanoja seuraavasta taulukosta heittämällä **d10**-noppaa kahdesti, ensin **kymmenille** ja sitten vielä kerran **ykkösille**. Toista prosessi substantiivin kohdalla.
 - Muuta sitä! Nimi _Kutsuva Lehto_ voisi olla ympäristöösi sopivampi kuin _Eteerinen Metsikkö_.
 - Käytä vastakkaisia sanoja (esim. _Kiemurteleva Lehvästö_) tuodaksesi esiin kiintoisan seikan paikasta.
-- Alliterointi ja miellyttävät yhdistelmät voivat luoda aistikkaita ääniä. _Kuiskiva Korpi_ on miellyttävämpi korvaan kuin _Rehevä Metsä._
+- Alkusoinnut ja miellyttävät yhdistelmät voivat luoda aistikkaita ääniä. _Kuiskiva Korpi_ on miellyttävämpi korvaan kuin _Rehevä Metsä._
 
 |          |                  |                   |
 | -------- | ---------------- | ----------------- |

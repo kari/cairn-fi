@@ -523,7 +523,7 @@ Koristeellinen, valaan luusta ja hopeafoliosta valmistettu ulosvedettävä kää
 
 ### Vartijan ruyi
 
-- 3 latausta. Persikkapuusta valmistettu ruyi-valtikka, joka on koristeltu puunymfeillä ja talismaanisella kirjoituksella. Kun tämän ruyi'n kantaja napauttaa puuta ja osoittaa 6 metrin säteellä olevaan kohtaan, puu nousee juurineen ylös, kävelee ja juurtuu osoitettuun kohtaan. Puunymfit lataavat ruyin voiman sen jälkeen, kun sen kantaja on tehnyt heille jonkin (oletettavasti) pienen palveluksen.
+- 3 latausta. Persikkapuusta valmistettu ruyi-valtikka, joka on koristeltu puunymfeillä ja talismaanisella kirjoituksella. Kun tämän ruyi'n kantaja napauttaa puuta ja osoittaa 6 metrin säteellä olevaan kohtaan, puu nousee juurineen ylös, kävelee ja juurtuu osoitettuun kohtaan. Puunymfit lataavat ruyin voiman sen jälkeen kun sen kantaja on tehnyt heille jonkin (oletettavasti) pienen palveluksen.
 
 ### Kuiskausten mustekivi
 

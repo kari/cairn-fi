@@ -11,16 +11,16 @@ grand_parent: Toinen laitos
 
 Taistelu Cairnissa on nopeaa, kiihkeää ja usein tappavaa. Näiden lisäksi taistelusäännöt poikkeavat tavallisista muutamalla keskeisellä tavalla:
 
-- **Puolen aloitejärjestys**: Ensimmäistä kierrosta lukuunottamatta (jolloin pelaajahahmojen on ensin onnistuttava DEX-pelastusheitossa varmistaakseen vuoronsa) sekä pelaajahahmot että heidän vastustajansa toimivat vuorollaan yhdessä. Kummankin osapuolen toimien tulos tapahtuu samanaikaisesti.
+- **Puolen aloitejärjestys**: Ensimmäistä kierrosta lukuun ottamatta (jolloin pelaajahahmojen on ensin onnistuttava DEX-pelastusheitossa varmistaakseen vuoronsa) sekä pelaajahahmot että heidän vastustajansa toimivat vuorollaan yhdessä. Kummankin osapuolen toimien tulos tapahtuu samanaikaisesti.
 - **Hyökkäykset osuvat automaattisesti**: Taistelijat aiheuttavat yleensä vahinkoa kohteilleen automaattisesti, tekemättä erillistä heittoa sen selvittämiseksi "osuuko" hyökkäys vai ei. Kun useampi hyökkääjä kohdistaa hyökkäyksensä samaan viholliseen, vain korkeinta noppatulosta käytetään hyökkäyksessä.
-- **Osumasuojaus ja Arvet**: Osamasuojaus toimii taidon, kestävyyden, sitkeyden ja onnen mittarina. Se myös palaa takaisin täyteen automaattisesti, kun pelaajahahmo on turvassa ja rauhassa. Jos vahinko vähentää pelaajahahmon HP:n tasan nollaan, hän saa _Arven_, jolla voi olla sekä positiivisia että negatiivisia seurauksia.
-- **Kriittinen Vahinko**: Vahinko, joka vähentää kohteen HP:n alle nollan, vähennetään kohteen STR:stä jäljellä olevan vahingon määrällä. Kohteen on tämän jälkeen välittömästi tehtävä STR-pelastusheitto välttääkseen **kriittisen vahingon**, käyttäen uutta STR-arvoaan. Epäonnistuessaan kohde on kukistettu.
+- **Osumasuojaus ja Arvet**: Osumasuojaus toimii taidon, kestävyyden, sitkeyden ja onnen mittarina. Se myös palaa takaisin täyteen automaattisesti, kun pelaajahahmo on turvassa ja rauhassa. Jos vahinko vähentää pelaajahahmon HP:n tasan nollaan, hän saa _Arven_, jolla voi olla sekä positiivisia että negatiivisia seurauksia.
+- **Kriittinen Vahinko**: Vahinko, joka vähentää kohteen HP:n alle nollan, vähennetään kohteen STR-arvosta jäljellä olevan vahingon määrällä. Kohteen on tämän jälkeen välittömästi tehtävä STR-pelastusheitto välttääkseen **kriittisen vahingon**, käyttäen uutta STR-arvoaan. Epäonnistuessaan kohde on kukistettu.
 
 ## Esimerkki
 
-> Käveltyään päiviä loputtoman lian ja synkkyyden läpi, seurue on vihdoin löytänyt hautakummun, joka kuului Hukarikuninkaalle, menneen ajan pahaimaineiselle roistolle.
+> Käveltyään päiviä loputtoman lian ja synkkyyden läpi, seurue on vihdoin löytänyt hautakummun, joka kuului Hukarikuninkaalle, menneen ajan pahamaineiselle roistolle.
 
-**Vartija**: _"Lopultakin saavutte karttaanne merkitylle pisteelle ja varhaisen aamun valo saa hautakammion sisäänkäynnin näkymään paksun sumun läpi. Mutta kun vyöryvä sumu alkaa hälveät, näette välähdyksen värikästä liikehdintää haudan sisäänkäynnin lähettyvillä."_
+**Vartija**: _"Lopultakin saavutte karttaanne merkitylle pisteelle ja varhaisen aamun valo saa hautakammion sisäänkäynnin näkymään paksun sumun läpi. Mutta kun vyöryvä sumu alkaa hälvetä, näette välähdyksen värikästä liikehdintää haudan sisäänkäynnin lähettyvillä."_
 
 **Freya**: _"Mikään ei ole koskaan helppoa, eihän? Tuon täytyy olla rakkaat ystävämme Kontiokonklaavista ja he yrittävät varastaa show'n!"_
 
@@ -28,13 +28,13 @@ Taistelu Cairnissa on nopeaa, kiihkeää ja usein tappavaa. Näiden lisäksi tai
 
 **Wolfram**: _"Sillä ei ole väliä; meidän on oltava valmiita mitä ikinä seuraavaksi tapahtuu. Pitäkää aseenne alhaalla, niin minä huudan. Ehkä voimme vielä välttää verenvuodatuksen."_
 
-**Vartija**: _"Huudahdat perinteisen varoituksen kammion suuntaan. Et saa välitöntä vastausta, sitten vain tirskahduksia. Ne näyttävät nauravan teille! Hetkeä myöhemmin kolme hahmoa astuu sumusta suoraan näkökenttäänne, kukin ase kädessä. Suurin kolmesta virnistää kantaessaan kaksikätistä sotakirvestä ja kaksi muuta (mies ja nainen, jotka ovat selvästi sisaruksia) pitävät käsissään samanlaisia miekkoja. Kaikki heittävät DEX-pelastusheiton, jotta voidaan selvittää toimitteko ennen heitä."_
+**Vartija**: _"Huudahdat perinteisen varoituksen kammion suuntaan. Et saa välitöntä vastausta, sitten vain tirskahduksia. Ne näyttävät nauravan teille! Hetkeä myöhemmin kolme hahmoa astuu sumusta suoraan näkökenttäänne, kukin ase kädessä. Suurin kolmesta virnistää kantaessaan kaksikätistä sotakirvestä ja kaksi muuta (mies ja nainen, jotka ovat selvästi sisaruksia) pitävät käsissään samanlaisia miekkoja. Kaikki heittävät DEX-pelastusheiton, jotta selvitetään toimitteko ennen heitä."_
 
 > Wolfram, Lucius ja Freya heittävät kukin DEX-pelastusheiton selvittääkseen, onko heillä vuoro ensimmäisellä kierroksella. Wolfram ja Freya onnistuvat, mutta Lucius ei.
 
 **Lucius**: _"No, hemmetti. Taisin sählätä keppimiekkani kanssa kaiken jännityksen keskellä?"_
 
-**Vartija**:_ "Juuri näin. No niin, Wolfram ja Freya, kumpikin teistä voi liikkua ja tehdä yhden toiminnon tällä vuorolla. Olettaen, että he selviävät hengissä, kolmella vastustajallanne on sitten mahdollisuus kostaa. Sitten on pelaajahahmojen vuoro toimia, mukaanlukien Luciuksen."_
+**Vartija**: _"Juuri näin. No niin, Wolfram ja Freya, kumpikin teistä voi liikkua ja tehdä yhden toiminnon tällä vuorolla. Olettaen, että he selviävät hengissä, kolmella vastustajallanne on sitten mahdollisuus kostaa. Sitten on pelaajahahmojen vuoro toimia, mukaan lukien Luciuksen."_
 
 **Wolfram**: _"Varsijouseni ei ole valmiina, joten lähden isoimman tyypin perään hopeaveitselläni. Jos saamme hänet hengiltä, muut saattavat paeta."_
 
@@ -56,7 +56,7 @@ Taistelu Cairnissa on nopeaa, kiihkeää ja usein tappavaa. Näiden lisäksi tai
 
 **Lucius**: _"Kuulostat hieman liian innostuneelta tästä. OK, siinä sanotaan, että minun täytyy heittää 1d6... Sain arvon 3, joka tarkoittaa DEX:ää. Nyt minun täytyy heittää 3d6 ja jos summa on suurempi kuin nykyinen Ketteryys-arvoni, saan pitää sen, eikö niin? No niin... hei, 14! Se on hieman korkeampi kuin mitä minulla on jo! Kenties pään lyöminen ei olekaan niin paha juttu?"_
 
-**Vartija**:_ "Kenties. Yksi piste vähemmän ja olisit sairastunut, ja yksi piste enemmän ja olsiit menettänyt kuulosi joksikin aikaa. Kirjaa ylös uusi DEX-arvosi. Olet todella onnekas, tiedäthän sen? Joka tapauksessa, nyt on pelaajahahmojen vuoro toimia jälleen."_
+**Vartija**: _"Kenties. Yksi piste vähemmän ja olisit sairastunut, ja yksi piste enemmän ja olisit menettänyt kuulosi joksikin aikaa. Kirjaa ylös uusi DEX-arvosi. Olet todella onnekas, tiedäthän sen? Joka tapauksessa, nyt on pelaajahahmojen vuoro toimia jälleen."_
 
 **Wolfram**: _"Minä teen iskun lyhyempää miestä vastaan!"_
 
@@ -70,12 +70,12 @@ Taistelu Cairnissa on nopeaa, kiihkeää ja usein tappavaa. Näiden lisäksi tai
 
 > Tämä on taistelun ensimmäinen tappio, joten naisen liittolaisten on tehtävä WIL-pelastusheitto jatkaakseen tai paettava. Vartija heittää käyttäen johtajan WIL-arvoa ja hän epäonnistuu!
 
-**Vartija**: _"Lyhyempi mies näkee sisarensa kaatuvan ja päästää tuskanhuudon. Hän pudottaa miekkansa ja käskee isompaa miestä pudottamaan kirveensä. "Olkaa kilttejä", hän rukoilee. 'En välitä siitä, mitä tuossa kammiossa on. Rukoilen teitä: olkaa armollisia. Pelastakaa sisareni, jos vain kykenette.'"_
+**Vartija**: _"Lyhyempi mies näkee sisarensa kaatuvan ja päästää tuskanhuudon. Hän pudottaa miekkansa ja käskee isompaa miestä pudottamaan kirveensä. 'Olkaa kilttejä', hän rukoilee. 'En välitä siitä, mitä tuossa kammiossa on. Rukoilen teitä: olkaa armollisia. Pelastakaa sisareni, jos vain kykenette.'"_
 
 **Wolfram**: _"Veljeskuntani armahtaa kaikkia heitä, jotka ovat valmiita kulkemaan uutta polkua elämässään. Jos pelastamme sisaresi taitojemme ja voimavarojemme avulla, vannotko pyhittää elämäsi hurskaudelle, köyhyydelle ja myötätunnolle?"_
 
-**Vartija**: _"Lyhyempi mies nyökkää ja ryntää sitten sisarensa luo. Isompi mies vain hymyilee ja sanoo sitten: "Minä en vanno mitään". Mutta teen mitä hän sanoo, kunhan hän maksaa. Antakaa minun vain pitää kirveeni.""_
+**Vartija**: _"Lyhyempi mies nyökkää ja ryntää sitten sisarensa luo. Isompi mies vain hymyilee ja sanoo sitten: 'Minä en vanno mitään. Mutta teen mitä hän sanoo, kunhan hän maksaa. Antakaa minun vain pitää kirveeni.'"_
 
-> Seurue käyttää sidostarpeita naiseen, saaden hänen tilansa vakaaksi. Jos he eivät olisi tehneet niin, hän olisi vuotanut kuiviin tunnissa. Nyt vaaran ulkopuolella, pelaajahahmot ottavat nopean kulauksen vettä ja saavat menetetyt HP:nsä takaisin. Lucius yrittää tehdä vaikutuksen Freyaan esittelemällä uutta taisteluarpeaam kulmakarvoissaan, mutta se ei onnistu.
+> Seurue käyttää sidostarpeita naiseen, saaden hänen tilansa vakaaksi. Jos he eivät olisi tehneet niin, hän olisi vuotanut kuiviin tunnissa. Nyt vaaran ulkopuolella, pelaajahahmot ottavat nopean kulauksen vettä ja saavat menetetyt HP:nsä takaisin. Lucius yrittää tehdä vaikutuksen Freyaan esittelemällä uutta taisteluarpeaan kulmakarvoissaan, mutta se ei onnistu.
 
 **Wolfram**: _"No niin, se on sitten hoidettu. Te kaikki palaatte nyt takaisin kaupunkiin, ja me tapaamme teidät myöhemmin. Juuri nyt, meillä on asioita selvitettävänä tämän Hukarikuninkaan, josta olen lukenut niin paljon, kanssa."_

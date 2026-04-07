@@ -31,7 +31,7 @@ Ennen kuin aloitat, tutustu tähän esimerkkiin (klikkaa sitä):
 
 ### Ihmiset
 
-Alueen tärkein osa on sen _ihmiset_: heidän luonteensa, tavoitteensa ja voimvavaransa, jotka sitovat heidät tähän maahan. Tee heitot [Kulttuuri](#culture) ja [Voimavarat](#resources) -taulukoille ja kirjoita tulokset muistikirjaasi.
+Alueen tärkein osa on sen _ihmiset_: heidän luonteensa, tavoitteensa ja voimavaransa, jotka sitovat heidät tähän maahan. Tee heitot [Kulttuuri](#kulttuuri) ja [Voimavarat](#voimavarat) -taulukoille ja kirjoita tulokset muistikirjaasi.
 
 #### Kulttuuri
 
@@ -97,11 +97,11 @@ Agentit ovat usein vastuussa yhden tai useamman ryhmittymän tavoitteiden toteut
 
 #### Edut
 
-Ryhmittymillä on etuja, jotka auttavat niitä saavuttamaan tavoitteitaan. Edut kuvastavat ryhmittymän vaikutusvaltaa, materiaaleja, vaurautta ja muita yksilöllisiä ominaisuuksia. Ryhmittymät hyödyntävät etujaan niin paljon kuin mahdollista yrittäessään saavuttaa tavoitteensa ja samalla pyrkivät jatkuvasti hankkimaan _lisää_ etuja.
+Ryhmittymillä on etuja, jotka auttavat niitä saavuttamaan tavoitteitaan. Edut kuvastavat ryhmittymän vaikutusvaltaa, materiaaleja, vaurautta ja muita yksilöllisiä ominaisuuksia. Ryhmittymät hyödyntävät etujaan niin paljon kuin mahdollista yrittäessään saavuttaa tavoitteensa, ja samalla pyrkivät jatkuvasti hankkimaan _lisää_ etuja.
 
 #### Tavoitteet
 
-Ryhmittymät pyrkivät toteuttamaan tavoitteitaan itsenäisesti ja kutsuvat pelaajahahmoja apuun vain silloin, kun se vahvistaisi heidän päämääriään. Taavoitteet koostuvat sarjasta 3-5 alitavoittetta, jotka rakentuvat kohti selkeää päämäärää. Alitavoitteet ovat _porrasteisia ja perustuvat aikaisempien alitavoitteiden onnistumisiin (tai epäonnistumisiin).
+Ryhmittymät pyrkivät toteuttamaan tavoitteitaan itsenäisesti ja kutsuvat pelaajahahmoja apuun vain silloin, kun se vahvistaisi heidän päämääriään. Tavoitteet koostuvat sarjasta 3-5 alitavoitetta, jotka rakentuvat kohti selkeää päämäärää. Alitavoitteet ovat _porrasteisiä_ ja perustuvat aikaisempien alitavoitteiden onnistumisiin (tai epäonnistumisiin).
 
 Alitavoitteissa olisi keskityttävä selvän edun hankkimiseen, jotta voidaan edetä seuraavaan alitavoitteeseen. Ainakin yhden alitavoitteen tulisi liittyä ryhmittymän pääasialliseen esteeseen. Tämä voi olla ensimmäinen tai viimeinen alitavoite. Kaikilla tavoitteilla on ainakin yksi este, joka estää niitä tulemasta valmiiksi. Lisäesteitä voi syntyä ryhmittymien toimista (ks. alla) tai tarinankerronnan käänteistä.
 
@@ -111,7 +111,7 @@ Ryhmittymän tavoitteiden loppuunsaattamisen tulisi olla merkittävä tapahtuma,
 
 #### Ryhmittymien luominen
 
-Heitä yksi tai useampi heitto [Ryhmittymien tyypit](#faction-types), [Ryhmittymien piirteet](#faction-traits), [Ryhmittymien edut](#faction-advantages) ja [Ryhmittymien tavoitteet](#faction-agendas) -taulukoilla.
+Heitä yksi tai useampi heitto [Ryhmittymien tyypit](#ryhmittymien-tyypit), [Ryhmittymien piirteet](#ryhmittymien-piirteet), [Ryhmittymien edut](#ryhmittymien-edut) ja [Ryhmittymien tavoitteet](#ryhmittymien-tavoitteet) -taulukoilla.
 
 #### Ryhmittymien tyypit
 
@@ -169,7 +169,7 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 | **19**  | Taitava           | Uhattu                |
 | **20**  | Sitkeä            | Muukalaisvihamielinen |
 
-#### Rymittymien edut
+#### Ryhmittymien edut
 
 Heitä 1d20 määrittääksesi, kuinka monta etua ryhmittymällä on, ja heitä sitten 1d20 uudelleen jokaista etua varten. Jos esimerkiksi sarakkeesta "Etujen määrä" saataisiin tulos "2", heittäisit saraketta "Etu" kahdesti ja merkitsisit jokaisen tuloksen muistiin. Heitä sama tulos uudestaan.
 
@@ -201,9 +201,9 @@ Heitä 1d20 määrittääksesi, kuinka monta etua ryhmittymällä on, ja heitä 
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |                                      |                                                                              |
-| ------- | ------------------------------------ | ---------------------------------------------------------------------------- |
-| **d20** | **Tavoite**                          | **Este**                                                                     |
+|         |                                      |                                                              |
+| ------- | ------------------------------------ | ------------------------------------------------------------ |
+| **d20** | **Tavoite**                          | **Este**                                                     |
 | **1**   | Toiseen sfääriin nouseminen          | Maantieteellinen este tai kulkukelvoton maasto.              |
 | **2**   | Muinaisesineiden kerääminen          | Merkittävä tiedonjyvä on ensin löydettävä.                   |
 | **3**   | Harvinaisen resurssin kasvattaminen  | Tarvitaan tietty esine tai Muinaisesine.                     |
@@ -243,7 +243,7 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 #### Tavoitteet
 
 - Palkata ammattitaitoinen seurue saattamaan Horatia karttaan merkittyyn paikkaan.
-- Matkustaa kuolleiden maiden halkien etsien _Järjestön_ alkuperäistä perustajaa.
+- Matkustaa kuolleiden maiden halki etsien _Järjestön_ alkuperäistä perustajaa.
 - Tuoda perustaja takaisin Kaupunkeihin. Syöstä Valtakunnan hallitsija vallasta.
 
 #### Este
@@ -255,14 +255,14 @@ _Kiltaa_ on varoitettu siitä, että heidän riveissään liikkuu korkeassa asem
 - Oletusarvoisesti ryhmittymät toimivat pelaajahahmon toimista riippumatta. Jos pelaajahahmot eivät tee mitään, ryhmittymän pitäisi silti toimia tavoitteidensa saavuttamiseksi.
 - **Vartijan** tulisi luottaa tarinankerrontaan määrittääkseen, onko jokin ryhmittymä asemissa edistämään agendaansa.
 - Jotkin tavoitteet voivat olla aikasidonnaisia tai riippua nimenomaisista olosuhteista. Toisinaan voi olla tarkoituksenmukaisempaa ottaa uusi tavoite käyttöön jonkin merkittävän tapahtuman, liittoutuman tai yhden tai useamman ryhmittymän välisen kitkan tms. jälkeen.
-- Aina kun ryhmittymä on asemoitunut edistämään agendassaan olevaa tavoitetta, hetä **d6** [Ryhmittymien toimet](#ryhmittymien-toimet) -taulukkoa käyttäen.
+- Aina kun ryhmittymä on asemoitunut edistämään agendassaan olevaa tavoitetta, heitä **d6** [Ryhmittymien toimet](#ryhmittymien-toimet) -taulukkoa käyttäen.
 - Jos kaksi ryhmittymää on _vastakkain_, se ryhmittymä, joka on _vaarallisimmassa asemassa_, tekee WIL-pelastusheiton käyttäen korkeimman edustajansa pistemäärää. Epäonnistuessaan ryhmittymä ei tällä kertaa tee heittoa Ryhmittymien toimet -taulukolla.
 
 #### Ryhmittymien toimet
 
-|        |                             |                                                                             |
-| ------ | --------------------------- | --------------------------------------------------------------------------- |
-| **d6** | **Seuraus**                 | **Vaikutus**                                                                |
+|        |                             |                                                             |
+| ------ | --------------------------- | ----------------------------------------------------------- |
+| **d6** | **Seuraus**                 | **Vaikutus**                                                |
 | **1**  | **Epäonnistuminen**         | Uusi **Este** otetaan käyttöön ja yksi **Etu** menetetään.  |
 | **2**  | **Takaisku**                | **Etu** on menetetty.                                       |
 | **3**  | **Vallitseva tila**         | Mitään ei saavuteta, mutta mitään ei myöskään menetetä.     |
@@ -278,18 +278,18 @@ Alueen maasto ja luonnonpiirteet ovat olennainen osa mitä tahansa karttaa, sill
 
 #### Maamerkit
 
-**Maamerkit** ovat yksilölllisiä, näkyviä kohdepisteitä, joita voidaan käyttää myös maantieteellisinä viitepisteinä: tornit, vuoret, korkeat rakennukset ja niin edelleen. Ne auttavat kulkijoita suunnistamaan kartalla ja ne ovat _erityisen hyvin_ näkyvissä näköalapaikoilta tai muilta korkealla sijaitsevilta paikoilta. Maamerkit _esitetään kartalla kolmioina_.
+**Maamerkit** ovat yksilöllisiä, näkyviä kohdepisteitä, joita voidaan käyttää myös maantieteellisinä viitepisteinä: tornit, vuoret, korkeat rakennukset ja niin edelleen. Ne auttavat kulkijoita suunnistamaan kartalla ja ne ovat _erityisen hyvin_ näkyvissä näköalapaikoilta tai muilta korkealla sijaitsevilta paikoilta. Maamerkit _esitetään kartalla kolmioina_.
 
 #### Piirrä maasto
 
 1. Heitä **1d6** ja sitten heitä sitten tätä lukua vastaava määrä noppia kartan päälle. Kerää kaikki sivulta vierineet nopat ja aseta ne sivuun.
 2. Huomioi jokaisen nopan osoittama silmäluku ja käytä [Maaston nopanputoamistaulukkoa](#maaston-nopanputoamistaulukko) merkitsemään maaston tyyppi kartalle. Esimerkiksi noppaluku 4 tarkoittaa Vaikeaa maastoa.
 3. Piirrä pitkiä, kaarevia viivoja sivun yli paloitellen karttaa jokaisen nopan ympäriltä.
-4. Tee kunkin tuloksen kohdalla heitto sitä vastaavaa taulukkoa käyttäen ja kirjoita maasto- ja maamerkkitulokset kartalle.
+4. Tee kunkin tuloksen kohdalla heitto vastaavaa taulukkoa käyttäen ja kirjoita maasto- ja maamerkkitulokset kartalle.
 
 - Korvaa noppa kolmiolla ja kirjoita saatu maamerkki kartalle.
 - Heitä kaikki karttasivulta pudonneet nopat uudelleen ja toista viimeinen vaihe, kunnes niitä ei ole enää jäljellä.
-- Jos maastoa tarvitsevia tyhjiä paikkoja jää, heitä noppa minne haluat ja käyttä nopan tulosta kuten aikaisemminkin.
+- Jos maastoa tarvitsevia tyhjiä paikkoja jää, heitä noppa minne haluat ja käytä nopan tulosta kuten aikaisemminkin.
 
 ### Maaston nopanputoamistaulukko
 
@@ -350,7 +350,7 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 | **13**  | Suomaat        | Merihirviön luut        |
 | **14**  | Aapasuot       | Valtava kraatteri       |
 | **15**  | Sademetsät     | Valtava lantapallo      |
-| **16**  | Pensastiheikkö | Suoltasangon peilit     |
+| **16**  | Pensastiheikkö | Suolatasangon peilit    |
 | **17**  | Taiga          | Verhottu porraspyramidi |
 | **18**  | Tiheiköt       | Tippukivimetsä          |
 | **19**  | Tundra         | Uponnut kolossi         |
@@ -368,11 +368,11 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 | **3**   | Louhikot       | Luuvuori                  |
 | **4**   | Luolastot      | Kristallimetsä            |
 | **5**   | Jyrkänteet     | Pimeyden kupu             |
-| **6**   | Kraaterit      | Valtava pesä              |
+| **6**   | Kraatterit     | Valtava pesä              |
 | **7**   | Railot         | Leijuva esine             |
 | **8**   | Kuumat lähteet | Sammunut koneolento       |
 | **9**   | Jäätiköt       | Arpeutunut maa            |
-| **10**  | Kurunrotkot    | Höyryvät aukot            |
+| **10**  | Kurunrotkot    | Höyryävät aukot           |
 | **11**  | Kuopat         | Magmaveistokset           |
 | **12**  | Jääkentät      | Vuorenukko                |
 | **13**  | Viidakot       | Meteoriittipuutarha       |
@@ -401,7 +401,7 @@ Säällä voi olla suuri vaikutus alueen ihmisiin, kulttuuriin ja maastoon. Se v
 | ------ | ----------------------- | -------------------- | ------------------- | --------------------- |
 | **d6** | **Kevät**               | **Kesä**             | **Syksy**           | **Talvi**             |
 | **1**  | Leuto ja aurinkoinen    | Kuuma ja aurinkoinen | Mukava ja tuulinen  | Leuto ja selkeä       |
-| **2**  | Mukava ja tihkusateinen | Mukava ja pilvinen   | Leuto ja tuulinen   | Viielä ja tuulinen    |
+| **2**  | Mukava ja tihkusateinen | Mukava ja pilvinen   | Leuto ja tuulinen   | Viileä ja tuulinen    |
 | **3**  | Viileä ja tuulinen      | Leuto ja sateinen    | Viileä ja sumuinen  | Kylmä ja sateinen     |
 | **4**  | Leuto ja pilvinen       | Viileä ja myrskyinen | Kylmä ja pilvinen   | Kalsea ja myrskyinen  |
 | **5**  | Kylmä ja tuulinen       | Kuuma ja kostea      | Viileä ja sateinen  | Pakkasta ja lunta     |
@@ -409,29 +409,29 @@ Säällä voi olla suuri vaikutus alueen ihmisiin, kulttuuriin ja maastoon. Se v
 
 #### Epätavallinen sää
 
-|         |                                                                                                                                                           |
-| ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **d20** | **Sää**                                                                                                                                                   |
-| **1**   | Vuosittainen satunnaisesti ilmestyvä sumu, joka muuttaa metallipinnat kullaksi kosketuksesta.                                             |
-| **2**   | Revontulet, jotka näkyvät jopa päivänvalossa.                                                                                             |
-| **3**   | Linnut lentävät takaperin, mutta liikkuvat silti jotenkin eteenpäin.                                                                      |
+|         |                                                                                                                           |
+| ------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **d20** | **Sää**                                                                                                                   |
+| **1**   | Vuosittainen satunnaisesti ilmestyvä sumu, joka muuttaa metallipinnat kullaksi kosketuksesta.                             |
+| **2**   | Revontulet, jotka näkyvät jopa päivänvalossa.                                                                             |
+| **3**   | Linnut lentävät takaperin, mutta liikkuvat silti jotenkin eteenpäin.                                                      |
 | **4**   | Päivät ovat arvaamattomia. Aurinko kulkee jonkin aikaa taaksepäin loikaten sitten eteenpäin yön laskeutuessa äkillisesti. |
 | **5**   | Ukkosen sijaan kuuluu kaukaisia kelloja. Lännestä puhaltaa savuinen, makea tuuli.                                         |
-| **6**   | Valtavat, lihaiset silmät kurkistavat taivaalta, ja niiden pupillit valaisevat yötaivasta.                                                |
-| **7**   | Välähdyksiä liikkeistä näkökentän rajoilla, mutta siellä ei ole koskaan mitään.                                                           |
-| **8**   | Sumua, joka täyttää vatsan (ei tarvita muona-annoksia). Huomenna, oksentelua.                          |
-| **9**   | Järvet ja purot haihtuvat muutamassa minuutissa täyttäen myrskypilvet, jotka hukuttavat maan.                                             |
-| **10**  | Sataa pieniä vesieläimiä (nuijapäitä, sammakoita, pikkukaloja). Kukaan ei tiedä, mistä ne tulevat.     |
+| **6**   | Valtavat, lihaiset silmät kurkistavat taivaalta, ja niiden pupillit valaisevat yötaivasta.                                |
+| **7**   | Välähdyksiä liikkeistä näkökentän rajoilla, mutta siellä ei ole koskaan mitään.                                           |
+| **8**   | Sumua, joka täyttää vatsan (ei tarvita muona-annoksia). Huomenna, oksentelua.                                             |
+| **9**   | Järvet ja purot haihtuvat muutamassa minuutissa täyttäen myrskypilvet, jotka hukuttavat maan.                             |
+| **10**  | Sataa pieniä vesieläimiä (nuijapäitä, sammakoita, pikkukaloja). Kukaan ei tiedä, mistä ne tulevat.                        |
 | **11**  | Sateenkaaret ovat lähes värittömiä ja välkkyvät toisinaan. Sadepisarat putoavat eri väreissä.                             |
-| **12**  | Vyöryäviä pölypilviä, jotka tuoksuvat kanelilta. Yskä jatkuu pitkään niiden mentyä.                                       |
+| **12**  | Vyöryviä pölypilviä, jotka tuoksuvat kanelilta. Yskä jatkuu pitkään niiden mentyä.                                        |
 | **13**  | Varjot katoavat satunnaisesti. Eläimet muuttuvat vastahakoisemmiksi.                                                      |
-| **14**  | Ilma on tavallista sakeampaa, ja hengittäminen on vaikeaa.                                                                                |
+| **14**  | Ilma on tavallista sakeampaa, ja hengittäminen on vaikeaa.                                                                |
 | **15**  | Pilvet ovat kasvojen muotoisia. Ne näyttävät nauravan.                                                                    |
-| **16**  | Kuu näyttää valtavalta ja humisee pehmeästi öisin.                                                                                        |
+| **16**  | Kuu näyttää valtavalta ja humisee pehmeästi öisin.                                                                        |
 | **17**  | Sade hohtaa vaimeasti yöllä. Sitä voi kerätä, mutta valo lopulta hiipuu.                                                  |
-| **18**  | Tähdet järjestäytyvät monimutkaisiksi kuvioiksi, mikä vaikeuttaa suunnistamista.                                                          |
+| **18**  | Tähdet järjestäytyvät monimutkaisiksi kuvioiksi, mikä vaikeuttaa suunnistamista.                                          |
 | **19**  | Tuulet kantavat kuiskauksia. Jotkut sanovat niiden kertovan enteitä tulevasta.                                            |
-| **20**  | Kun sataa lunta, hiutaleet ovat lämpimiä ja kuivia.                                                                                       |
+| **20**  | Kun sataa lunta, hiutaleet ovat lämpimiä ja kuivia.                                                                       |
 
 ## Kohdepisteet
 
@@ -442,13 +442,13 @@ Kartalla olevat kiinnostavat kohdepisteet (POI, _"point of interest"_) jaetaan y
 - **Virstanpylväs**: Turvallinen paikka, jossa voi täydentää varusteita, nukkua yön yli tai saada ohjeita.
 - **Erikoisuudet**: Huomionarvoinen paikka erämaassa, jossain merkittävässä tai oudossa paikassa. Se voi tosiaan olla vaarallinen, mutta vain jos pelaajahahmot ovat tekemisissä sen kanssa.
 - **Pesäpaikat**: Vihollisen leiri, pesä tai hirviöiden keskittymä.
-- **Luolastot**: Selkästi vaarallinen paikka, raunio tai seikkailupaikka.
+- **Luolastot**: Selkeästi vaarallinen paikka, raunio tai seikkailupaikka.
 
 ### Piirrä kohdepisteet
 
 - Piirrä kirjain **S** kartalle veden lähteen lähelle.
 - Heitä 3-8 d6-noppaa kartalle, kerää kaikki sivulta pois vierineet nopat ja aseta ne syrjään.
-- Huomioi jokaisen nopan osoittama silmäluku ja käytä [Kohdepisteiden nopanputoamistaulukkoa](#kohdepisteiden-nopanputoamistaulukko) merkitsemään kohdepisteen tyyppi kartalle. Esimerkiksi, jos nopan arvo on 4, se tarkoittaa Pesäpaikkaa, joka on merkitään paperille kirjaimella "P".
+- Huomioi jokaisen nopan osoittama silmäluku ja käytä [Kohdepisteiden nopanputoamistaulukkoa](#kohdepisteiden-nopanputoamistaulukko) merkitsemään kohdepisteen tyyppi kartalle. Esimerkiksi, jos nopan arvo on 4, se tarkoittaa Pesäpaikkaa, joka merkitään paperille kirjaimella "P".
 - Heitä kaikki karttasivulta pudonneet nopat uudelleen ja toista viimeinen vaihe, kunnes niitä ei ole enää jäljellä.
 - Aloittaen Sydänasutuksesta, numeroi jokainen kohdepiste kartalla.
 - Heitä jokaista kohdepistettä kohti noppaa käyttäen sille kuuluvaa taulukkoa, mukaan lukien Sydänasutus (yleensä Virstanpylväs tai Asutus). Merkitse jokainen tulos muistivihkoosi.
@@ -517,7 +517,7 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 | **15**  | Turvapaikka        | Osa laitonta kauppareittiä                |
 | **16**  | Pyhäkkö            | Suosittu pyhiinvaelluskohde               |
 | **17**  | Temppeli           | Suojelee voimakasta esinettä              |
-| **18**  | Kauppapaikka       | Erokkamaiset asukkaat                     |
+| **18**  | Kauppapaikka       | Erakkomaiset asukkaat                     |
 | **19**  | Vahtitorni         | Sijaitsee luonnonrikkauksien päällä       |
 | **20**  | Työleiri           | Teknisesti edistynyt                      |
 
@@ -615,7 +615,7 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
 - **Tavalliset reitit** ovat ilmeisiä tai hyväksi havaittuja reittejä kahden kohdepisteen välillä. _Esitetään paksulla viivalla._
 - **Piilotetut** reitit eivät näy missään tunnetuissa kartoissa. Niiden löytäminen vaatii aina jonkin kustannuksen. _Esitetään katkoviivalla._
-- **Ehdollisilla** reiteillä voi olla este tai niiden käyttäminen voi vaatia erikoistyökaluja (veneet, kiipeilyvarusteet jne.) . Toisia voi olla jopa mahdotonta edetä ilman karttaa tai opasta. _Esitetään yliruksatulla viivalla._
+- **Ehdollisilla** reiteillä voi olla este tai niiden käyttäminen voi vaatia erikoistyökaluja (veneet, kiipeilyvarusteet jne.). Toisia voi olla jopa mahdotonta edetä ilman karttaa tai opasta. _Esitetään yliruksatulla viivalla._
 
 ### Piirrä reitit
 
@@ -628,7 +628,7 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 - Päätä, edustako reitti tietä, polkua vai erämaareittiä, ja kirjoita päätös vihkoosi.
 - Heitä [Reittien piirteet](#reittien-piirteet) -taulukkoa kullekin reitille ja kirjaa tulokset muistikirjaasi.
 - Määritä Kohdepisteiden välisten reittien pituudet ja merkitse kesto kartalle:
-  - Vahtivuoron pituus on 8 tuntia. Merkitse Kohdepisteiden väliset päivät aina jos mahdollista (tyypillisesti kaksi vahtivuoroa ja yksi lepo yhtä matkapäivää kohti).
+  - Vahtivuoron pituus on 8 tuntia. Merkitse Kohdepisteiden väliset päivät aina, jos mahdollista (tyypillisesti kaksi vahtivuoroa ja yksi lepo yhtä matkapäivää kohti).
   - Lyhyen matkan kulkemiseen kohdepisteiden välillä tarvitaan yksi vahtivuoro, keskipitkän matkan kulkemiseen kaksi vahtivuoroa ja pitkän matkan kulkemiseen kolme vahtivuoroa.
   - Lisää Poluille 1 lisävahtivuoro ja Erämaareiteille 2 lisävahtivuoroa.
 

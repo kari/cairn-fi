@@ -7,7 +7,7 @@ grand_parent: Toinen laitos
 
 # Pisteseikkailut
 
-Pisteseikkailut (_pointcrawl_) ovat tapa esittää mahdolliset kiinnostavat kohteet kartalla, mukaanlukien niiden sisäänkäynnit, uloskäynnit ja niitä yhdistävät polut. Toisin kuin ruudukkoseikkailut (_hexcrawl_), jotka tarjoavat oletusarvoisesti polkuja kaikkiin suuntiin, pisteseikkailut tarjoavat tietyn määrän täsmällisiä reittejä paikkojen välillä. Tämä lähestymistapa pelkistää joitakin erämaan tutkimisen perusasioita säilyttäen samalla kiinnostavimmat yksityiskohdat.
+Pisteseikkailut (_pointcrawl_) ovat tapa esittää mahdolliset kiinnostavat kohteet kartalla, mukaan lukien niiden sisäänkäynnit, uloskäynnit ja niitä yhdistävät polut. Toisin kuin ruudukkoseikkailut (_hexcrawl_), jotka tarjoavat oletusarvoisesti polkuja kaikkiin suuntiin, pisteseikkailut tarjoavat tietyn määrän täsmällisiä reittejä paikkojen välillä. Tämä lähestymistapa pelkistää joitakin erämaan tutkimisen perusasioita säilyttäen samalla kiinnostavimmat yksityiskohdat.
 
 Vaikka tämän kirjan vakiomenettelyt tapahtumapaikkojen luomiselle olettavat pisteseikkailutyypin, useimmat vanhan koulukunnan seikkailut eivät. Jotkut ovat pituudeltaan vaihtelevia ruudukkokarttoja, kun taas toisissa etäisyydet ilmoitetaan yksinkertaisesti mailien (tai muiden etäisyysyksiköiden) avulla. Onneksi on melko helppoa muuntaa lähes mikä tahansa kartta pisteseikkailuksi.
 
@@ -17,7 +17,7 @@ Seuraava menetelmä nojautuu pitkälti Cairnin toisen laitoksen (2e) Pelaajan op
 
 - Numeroi kaikki mahdollisesti kiinnostavat kohteet kartalla.
 - Tutki mahdolliset reitit kunkin pisteen välillä ja huomioi selvät tiet, polut ja vesiväylät. Merkitse kaikki kohteet, joista puuttuu reitit toisiin pisteisiin.
-- Merkitse matka-aika karkeasti (Vahtivuoroina tai matkapäivinä) kaikkien pisteiden välillä ottaen huomioon seurueen vauhti, maasto, sää ja muut peliin liittyvät tekijät jotka saattavat vaikuttaa matkustamiseen.
+- Merkitse matka-aika karkeasti (Vahtivuoroina tai matkapäivinä) kaikkien pisteiden välillä ottaen huomioon seurueen vauhti, maasto, sää ja muut peliin liittyvät tekijät, jotka saattavat vaikuttaa matkustamiseen.
 
 ### Esimerkki
 
@@ -48,4 +48,4 @@ Matka-ajat pisteiden välillä määriteltiin seuraavasti (olettaen että seurue
   - Lisää kaksi Vahtivuoroa _erämaassa_ kulkemisen vuoksi.
   - Lisää yksi Vahtivuoro _vaikean_ metsämaaston vuoksi.
 
-[![Click Me!](/img/2e/pointcrawl-example-map.png "Click to embiggen"){:height="60%" width="60%"}](/img/2e/pointcrawl-example-map.png)
+[![Klikkaa minua!](/img/2e/pointcrawl-example-map.webp "Klikkaa suurentaaksesi"){:height="60%" width="60%"}](/img/2e/pointcrawl-example-map.webp)

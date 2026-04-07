@@ -30,23 +30,23 @@ Laaja **avoin** sisäpiha. **Maa** on hiekkainen ja epätasainen. **Raunioita** 
 - **Rauniot**: Ihmisiä muistuttavista patsaista peräisin olevat kivilohkareet.
   - Punainen jalokivi kimmeltää tiukasti kiinni olevassa kivinyrkissä.
 - **Patsas**: Toinen silmäkuoppa on tyhjä, toisessa on punainen jalokivi.
-  - Kultin Kuolemanjumalatar, ajan tahraamana. Jos jäljelläoleva silmä poistetaan, patsas herää henkiin ja viiltää keihästä kaaressa aiheuttaen d6 STR-vahinkoa. Kosketus kaksiteräiseen keihääseen muuttaa uhrin kiveksi.
+  - Kultin Kuolemanjumalatar, ajan tahraamana. Jos jäljellä oleva silmä poistetaan, patsas herää henkiin ja viiltää keihästä kaaressa aiheuttaen d6 STR-vahinkoa. Kosketus kaksiteräiseen keihääseen muuttaa uhrin kiveksi.
   - Jos läheisestä raunioista löytyvä jalokivi asetetaan patsaaseen, mitään ei tapahdu. Jos se poistetaan uudelleen, patsas vastaa sen mukaisesti.
 - **Oviaukko**: Varastohuoneen ovi on melkein lahonnut, jättäen halkeamia puuhun. Rautaketju on selvästi ruostunut.
 
-**Vartija**: Astutte laajalle sisäpihalle, jota valaisee romahtaneen katon läpi pilkistävä kuunvalo. Maa on hiekkainen ja kimaltelee liidunvalkoisena kuunvalossa. Lähellä keskustaa on rauniokasojen keskellä on naispatsas, jolla on kädessään kaksikärkinen keihäs. Idässä puinen ovi on suljettu ja lukittu ketjulla, kun taas lännessä avoin holvikäytävä johtaa kohti pimeää tunnelia. Mitä teette?"_
+**Vartija**: _Astutte laajalle sisäpihalle, jota valaisee romahtaneen katon läpi pilkistävä kuunvalo. Maa on hiekkainen ja kimaltelee liidunvalkoisena kuunvalossa. Lähellä keskustaa rauniokasojen keskellä on naispatsas, jolla on kädessään kaksikärkinen keihäs. Idässä puinen ovi on suljettu ja lukittu ketjulla, kun taas lännessä avoin holvikäytävä johtaa kohti pimeää tunnelia. Mitä teette?"_
 
 > **Hahmot ilmoittavat sitten aikomansa toiminnot.**
 
-**Wolfram**: _"Etsin vihjeitä huoneen tarkoituksesta, aloittaen tuosta kimaltelevasta lattiasta."_  
-**Lucius**: _"Tarkistan puisen **oven** saadakseni selville, mitä sen toisella puolella on."_  
-**Freya**: "_Minä aion katsoa tuota **patsasta** tarkemmin. Mitä voin oppia menemättä liian lähelle sitä?"_
+**Wolfram**: _"Etsin vihjeitä huoneen tarkoituksesta, aloittaen tuosta kimaltelevasta lattiasta."_
+**Lucius**: _"Tarkistan puisen **oven** saadakseni selville, mitä sen toisella puolella on."_
+**Freya**: _"Minä aion katsoa tuota **patsasta** tarkemmin. Mitä voin oppia menemättä liian lähelle sitä?"_
 
-**Vartija**: _"Selvä, aloitetaan **Wolframista**. Hiekka on valkoista, rakeista, eikä selvästikään ole miltään näiden seutujen rannoilta. Alat tarkastella pientä möykkyä maassa ja tunnistat sen puoliksi mädäntyneeksi ihmiskalloksi, mikä tarkoittaa että tämä "hiekka" on itse asiassa luuta! Mitä teet nyt?"_
+**Vartija**: _"Selvä, aloitetaan **Wolframista**. Hiekka on valkoista, rakeista, eikä selvästikään ole miltään näiden seutujen rannoilta. Alat tarkastella pientä möykkyä maassa ja tunnistat sen puoliksi mädäntyneeksi ihmiskalloksi, mikä tarkoittaa, että tämä 'hiekka' on itse asiassa luuta! Mitä teet nyt?"_
 
 **Wolfram**: _"Ällöä. Tökin sitä hieman miekalla. Onko pölyn seassa jotain piilossa? Jotain arvokasta, kenties?"_
 
-**Vartija**:_ "Ei. Mutta olet ainakin vakuuttunut siitä, että maa on turvallinen. Ja se on sinun vuorosi loppu!"_
+**Vartija**: _"Ei. Mutta olet ainakin vakuuttunut siitä, että maa on turvallinen. Ja se on sinun vuorosi loppu!"_
 
 > **Vartija siirtyy sitten kuvaamaan toisen hahmon toimia, sillä ne tapahtuvat samanaikaisesti.**
 
@@ -68,7 +68,7 @@ Laaja **avoin** sisäpiha. **Maa** on hiekkainen ja epätasainen. **Raunioita** 
 
 **Lucius**: _"Ääk! Kerron muille siitä."_
 
-**Vartija**:_ "Selvä. Katsotaanpa nyt, mitä **Freya** voi saada selville tuosta patsaasta."_
+**Vartija**: _"Selvä. Katsotaanpa nyt, mitä **Freya** voi saada selville tuosta patsaasta."_
 
 **Freya**: _"Selvä, muista, että haluaisin vilkaista sitä, mutten halua mennä liian lähelle."_
 
@@ -88,7 +88,7 @@ Laaja **avoin** sisäpiha. **Maa** on hiekkainen ja epätasainen. **Raunioita** 
 
 **Freya**: _"Pahus. Hyvä on, teen sen niin nopeasti kuin mahdollista, käyttäen tikarini terää ja rauniolohkaretta pamautan sen ulos. Metelistä ei niin väliä!_"
 
-**Vartija**: _"No niin, katsotaanpa kuinka paljon meteliä aiheutat..."_
+**Vartija**: _"No niin, katsotaanpa, kuinka paljon meteliä aiheutat..."_
 
 > **Vartija heittää tämän jälkeen Luolaston tapahtumat -taulukkoa: Ympäristö.**
 
@@ -96,7 +96,7 @@ Laaja **avoin** sisäpiha. **Maa** on hiekkainen ja epätasainen. **Raunioita** 
 
 **Vartija**: _"Ja tähän päättyy tämä tutkimuskierros. Mitä te teette seuraavaksi?"_
 
-**Lucius**: Hmm, jotain tai jokin on tulossa. Voisimmeko lähteä, NYT HETI?"_
+**Lucius**: _"Hmm, jotain tai jokin on tulossa. Voisimmeko lähteä, NYT HETI?"_
 
 **Freya**: _"Laitan jalokiven nopeasti reppuuni."_
 
@@ -104,11 +104,10 @@ Laaja **avoin** sisäpiha. **Maa** on hiekkainen ja epätasainen. **Raunioita** 
 
 **Freya**: _"Hetkinen, entä tämä löytämäni jalokivi? Se näyttää siltä, että se voisi sopia tuon patsaan silmään..."_
 
-**Lucius**: _"Oletko järjiltäsi? On aivan mahdollista että tuo patsas heräisi siitä henkiin ja hyökkäisi!"_
+**Lucius**: _"Oletko järjiltäsi? On aivan mahdollista, että tuo patsas heräisi siitä henkiin ja hyökkäisi!"_
 
 **Freya**: _"Tai ehkä se avaa salaisen oven?"_
 
 **Wolfram**: _"Riittää, jatketaan nyt vain eteenpäin. Tuon oven toisella puolella on jotakin, ja minä EN halua ottaa selvää mikä se on!"_
 
 > **Seurue siirtyy viereiseen käytävään ja seikkailu jatkuu.**
-

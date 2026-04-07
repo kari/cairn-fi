@@ -9,17 +9,17 @@ grand_parent: Toinen laitos
 
 ## Luolaston periaatteet
 
-- **Tarkoitus**: Mieti, mikä oli luolaston alkuperäinen tarkoitus ja myös mihin sitä käytetään nykyään. Esittele luolaston historiaa sisällyttämällä jälkiä sen alkuperäisistä asukkaista ja niiden tavoitteista. Joskus luolastolla on useita tarkoituksia, ja ne voivat olla ristiriidassa kekenään luoden jännitteitä sen asukkaiden välille.
-- **Tasot**: Vaikka niiden pitäisi olla luontevia osina luolaston rakennetta ja tarkoitusta, tasojen pitäisi myös edustaa kasvavaa vaaraa. Yritä kullakin tasolla saada pelaajat punnitsemaan tukimisen jatkamisen riskiä suhteessa mahdolliseen palkintoon.
+- **Tarkoitus**: Mieti, mikä oli luolaston alkuperäinen tarkoitus ja myös mihin sitä käytetään nykyään. Esittele luolaston historiaa sisällyttämällä jälkiä sen alkuperäisistä asukkaista ja niiden tavoitteista. Joskus luolastolla on useita tarkoituksia, ja ne voivat olla ristiriidassa keskenään luoden jännitteitä sen asukkaiden välille.
+- **Tasot**: Vaikka niiden pitäisi olla luontevia osina luolaston rakennetta ja tarkoitusta, tasojen pitäisi myös edustaa kasvavaa vaaraa. Yritä kullakin tasolla saada pelaajat punnitsemaan tutkimisen jatkamisen riskiä suhteessa mahdolliseen palkintoon.
 - **Pohjapiirros**: Lisää useita sisään- ja uloskäyntejä, tarjoa useita eri reittejä, suunnittele pullonkauloja ja anna piilopaikkoja. Lisää merkityksellisiä ja ilmeisiä tietoja huoneiden sisään- ja uloskäynteihin.
 - **Korkeuserot**: Lisää korkeita huoneita, kiipeiltäviä rakenteita sekä polkuja, jotka mahdollistavat liikkumisen esteiden yli ja ympäri.
 - **Salaiset alueet**: Lisää piilotettuja alueita, mukaan lukien ainakin yksi, joka todennäköisesti jää löytämättä, mutta on silti löytämisen arvoinen. Yritä välttää keskeisen tiedon piilottamista salaisiin huoneisiin.
 - **Huoneet**: Vaihtele huoneiden muotoja, kokoja ja käyttötarkoituksia. Käytä arkkitehtonisia teemoja yhdistämään huoneita ja antamaan vihjeitä tulevasta. Huonekuvausten tulisi olla helposti kartoitettavissa ja muistettavissa.
 - **Aarteet**: Sisällytä erilaisia aarteita pelkän kullan lisäksi, kuten vaikka tietoa, liittolaisia, kauppatavaroita ja esineitä. Lisää aarteeseen kerronnallisia piirteitä sen ei-rahallisen arvon lisäämiseksi.
-- **Haasteet**: Anna hahmojen ohjata tarinaa kirjoittamalla haasteita, joilla ei ole ennaltamäärättyjä lopputuloksia. Luo vaaran tunnetta, mutta vältä tekemästä esteitä, jotka näyttävät mahdottomilta ylittää. Liian vaarallisten alueiden ja olentojen pitäisi olla ilmeisiä. Luo kohtaamisia, jotka voidaan välttää kriittisellä ajattelulla ja ongelmanratkaisulla, ei pelkästään väkivallalla. Muista, että hirviöt ja muut esteet ovat erilainen tapa kertoa luolaston tarinaa.
+- **Haasteet**: Anna hahmojen ohjata tarinaa kirjoittamalla haasteita, joilla ei ole ennalta määrättyjä lopputuloksia. Luo vaaran tunnetta, mutta vältä tekemästä esteitä, jotka näyttävät mahdottomilta ylittää. Liian vaarallisten alueiden ja olentojen pitäisi olla ilmeisiä. Luo kohtaamisia, jotka voidaan välttää kriittisellä ajattelulla ja ongelmanratkaisulla, ei pelkästään väkivallalla. Muista, että hirviöt ja muut esteet ovat erilainen tapa kertoa luolaston tarinaa.
 - **Sivuhahmot**: Sisällytä mukaan mukaansatempaavia sivuhahmoja, joilla on omat tavoitteensa ja aikomuksensa. Nämä hahmot saattavat _haluta_ pysyä luolastossa; he saattavat jopa rakastaa sitä! Sivuhahmojen ja hirviöiden tulisi kommunikoida pelaajahahmojen kanssa, myös taistelun aikana. Laita heidät tekemään uhkauksia, ehdottamaan kompromissiratkaisuja tai yrittämään suostutella pelaajahahmoja aina kun mahdollista. Jokainen hahmo haluaa jotakin, ja hänellä on rajansa sille, mitä hän on valmis tekemään saadakseen sen.
 - **Ryhmittymät**: Ryhmittymine tulisi olla tekemisissä sekä hahmojen että toistensa kanssa, ja toimia itsenäisesti riippumatta hahmojen toimista. Anna niille arvojärjestykset ja erimielisyyksiä, joita voi hyödyntää.
-- **Arvoitukset**: Luo pulmia, joilla on selkeät, toteuttamiskelpoiset tavoitteet. Arvoitusten tulisi vahvistaa luolaston teemoja ja rakentua sen historian varaan. Tee pulman haasteesta ilmeinen, mutta älä ratkaisusta. Salli useita ratkaisuja ja se, että pelaajat voivat ratkaista ne käyttämällä älyä ja kriittistä ajattelua, eikä vain erikoiskyvyillä tai työkaluilla. Levio sisään vihjeitä, jotka viittaavat arvoituksen alkuperään ja sen vaikutuksiin.
+- **Arvoitukset**: Luo pulmia, joilla on selkeät, toteuttamiskelpoiset tavoitteet. Arvoitusten tulisi vahvistaa luolaston teemoja ja rakentua sen historian varaan. Tee pulman haasteesta ilmeinen, mutta älä ratkaisusta. Salli useita ratkaisuja ja se, että pelaajat voivat ratkaista ne käyttämällä älyä ja kriittistä ajattelua, eikä vain erikoiskyvyillä tai työkaluilla. Leivo sisään vihjeitä, jotka viittaavat arvoituksen alkuperään ja sen vaikutuksiin.
 - **Luolastokartta**: Laita tylsät tai toistuvat asiat (uloskäynnit, huoneen muodot jne.) kartalle eikä huoneen kuvaukseen. Ilmeiset uloskäynnit tulisi kuvata selkeällä ja erottuvalla kielellä. Numeroi huoneet, jotta vältetään sekaannukset karttaan viitatessa.
 - **Huoneiden merkitseminen**: Korosta huoneen tärkeimpiä seikkoja (tyypillisesti ilmeisiä uhkia tai sivuhahmoja). Kuvaile piirteitä, jotka auttavat seuruetta perehtymään ympäristöönsä. Ole täsmällinen, mutta vältä kuvaamasta miltä hahmojen pitäisi _tuntua_. Kuvaile vain mitä tapahtuu _nyt_. Jos täällä on historiaa, hahmot löytävät sen pelaamalla. Nimeä jokainen huone!
 - **Kohtaamistaulukot**: Luo satunnaisia tapahtumia, jotka saavat luolaston tuntumaan elävältä tehden tutkimisesta jännittävää ja arvaamatonta, kun seurue voi kohdata vaeltavia hirviöitä, ryhmittymiä, sivuhahmoja tai merkkejä lähestyvästä uhasta. Yritä tarjota haasteita, hengähdystaukoja tai mahdollisuuksia roolipelaamiseen.
@@ -49,9 +49,8 @@ Seuraa tätä menettelyä kaikille peliympäristössäsi oleville luolastokohtei
 
 Kuka rakensi tämän luolaston? Mihin sitä alun perin käytettiin? Ehkä se oli kerran suuri takomo, joka kykeni rakentamaan maailman voimakkaimman aseen. Tai kenties se oli aikoinaan muinaisten kuninkaiden hautapaikka, sitoen heidän sielunsa maihin, joita he kerran hallitsivat. Heitä noppaa alla olevia taulukoita käyttäen ja merkitse tulokset muistikirjaan, pitäen mielessäsi seuraavat kysymykset:
 
-_"Millainen luolasto tämä on ja mikä tekee siitä epätavallisen?"_
-
-_"Miksi tämä luolasto rakennettiin, miten se rakennettiin ja mikä aiheutti sen tuhon?"_
+- _"Millainen luolasto tämä on ja mikä tekee siitä epätavallisen?"_
+- _"Miksi tämä luolasto rakennettiin, miten se rakennettiin ja mikä aiheutti sen tuhon?"_
 
 #### Tarkoitus
 
@@ -96,7 +95,7 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 | **6**   | Vesiputouksen takana       | Liha             |
 | **7**   | Menhir-pystykivien välistä | Leijuvat tasot   |
 | **8**   | Luola                      | Sienet           |
-| **9**   | Sokkelon keskus            | Glass            |
+| **9**   | Sokkelon keskus            | Lasi             |
 | **10**  | Ovi kallioseinämässä       | Jää              |
 | **11**  | Ontto patsas               | Elävät kasvit    |
 | **12**  | Harha muurista             | Marmori          |
@@ -143,9 +142,8 @@ Useimmissa luolastoissa on olentoja, jotka _asuvat_ siellä ja ovat tehneet siit
 
 Samaan aikaan, jokaisessa luolastossa tulisi olla ainakin yksi sivuhahmo, joka erottuu kaikista muista. Nämä hahmot _pitävät_ elämästään luolastossa enemmän kuin muualla, mutta toimivat silti eri tavoin kuin toverinsa. Näiden tulisi olla sellaisia sivuhahmoja, joiden kanssa seurue voi toimia ja käydä kauppaa, sekä joita seurue voi palkata, auttaa ja niin edelleen. Nämä oudot olennot voivat olla syvästi sitoutuneita luolaston muihin asukkaisiin ja ryhmittymiin tai olla täysin välinpitämättömiä niitä kohtaan. Heitä noppaa uudelleen piirretaulukolle ja merkitse tulokset muistikirjaan, pitäen mielessäsi seuraavat kysymykset:
 
-_"Mitä tiedämme luolastoa asuttavista olennoista ja ryhmittymistä?"_
-
-_"Mitä kukin ryhmittymä yrittää saavuttaa ja mikä estää heitä?"_
+- _"Mitä tiedämme luolastoa asuttavista olennoista ja ryhmittymistä?"_
+- _"Mitä kukin ryhmittymä yrittää saavuttaa ja mikä estää heitä?"_
 
 #### Piirteet
 
@@ -212,7 +210,7 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 ### Luo kartta
 
 - Heitä **6-20 d6**-noppaa luolastokartalle ja jätä huomiotta kaikki sivun ulkopuolelle lentävät nopat. Kartalla olevat nopat muodostavat luolaston _huoneet_.
-- Kirjaa noppien näyttämät silmäluvut sivulle käyttäen [Luolaston nopanputoamistaulukkoa](#dungeon-die-drop-table). Esimerkiksi silmäluku **4** tarkoittaisi **erikoishuonetta**, jonka voit merkitä sivulle kirjaimella "S".
+- Kirjaa noppien näyttämät silmäluvut sivulle käyttäen [Luolaston nopanputoamistaulukkoa](#luolaston-nopanputoamistaulukko). Esimerkiksi silmäluku **4** tarkoittaisi **erikoishuonetta**, jonka voit merkitä sivulle kirjaimella "S".
   - Jos jokin huone tuntuu "liian kaukaiselta" muista, heitä toinen noppa ja lisää uusi huone edellisen menettelyn mukaisesti.
 - Valitse huone, joka on lähimpänä sivun reunaa. Tämä on luolaston _sisäänkäynti_.
 - Aloittaen sisäänkäynnistä, numeroi jokainen huone kartalla.
@@ -222,9 +220,9 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 |         |           |
 | ------- | --------- |
 | **d6**  | **Huone** |
-| **1**   | Hirviö    |
+| **1**   | Hirviö-   |
 | **2-3** | Tarina-   |
-| **4**   | Erikois   |
+| **4**   | Erikois-  |
 | **5-6** | Ansa-     |
 
 ## Piirrä polut
@@ -235,7 +233,7 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
 - **Piilotetut** polut eivät näy missään tunnetuissa kartoissa. Niiden löytäminen vaatii aina jonkin kustannuksen. _Esitetään katkoviivalla._
 
-- **Ehdollisilla** poluilla voi olla este tai niiden käyttäminen voi vaatia erikoistyökaluja (piilotetut vivut, kiipeilyvarusteet jne.) . Toisia voi olla jopa mahdotonta edetä ilman karttaa tai opasta. _Esitetään yliruksatulla viivalla._
+- **Ehdollisilla** poluilla voi olla este tai niiden käyttäminen voi vaatia erikoistyökaluja (piilotetut vivut, kiipeilyvarusteet jne.). Toisia voi olla jopa mahdotonta edetä ilman karttaa tai opasta. _Esitetään yliruksatulla viivalla._
 
 - Aloittaen sisäänkäynnistä, luo 1-4 polkua jokaisen huoneen välille.
 
@@ -284,7 +282,7 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
 #### Tarina
 
-Tarinahuoneiden tulisi rakentua luolaston teemaan, antaa arvokkaita opetuksia tai yhdistää hahmot jonkin sivuhahmon tai ryhmittymän kanssa. Ne voivat luoda pulman, joka vahvistaa seurueen yhteenkuuluvuutta tai asettaa heidät ristiriitaan tehtävänsä kanssa. Näiden huoneiden tulisi toimia vähintäänkin kuriositeetteina, lisäten jotain mieleenpainuvaa pelikokemukseen vaaran ja ongelmanratkaisun lisäksi. Hahmojen ei tietenkään pitäisi tietää, että nämä huoneet eivät sisällä vaaroja eikä haasteita. Tämä auttaa lisäämään luolaston jännityst tarjoten samalla mahdollisuuden hengähdystaukoon ja tilaisuuksia tarinankerronnan syventämiseen.
+Tarinahuoneiden tulisi rakentua luolaston teemaan, antaa arvokkaita opetuksia tai yhdistää hahmot jonkin sivuhahmon tai ryhmittymän kanssa. Ne voivat luoda pulman, joka vahvistaa seurueen yhteenkuuluvuutta tai asettaa heidät ristiriitaan tehtävänsä kanssa. Näiden huoneiden tulisi toimia vähintäänkin kuriositeetteina, lisäten jotain mieleenpainuvaa pelikokemukseen vaaran ja ongelmanratkaisun lisäksi. Hahmojen ei tietenkään pitäisi tietää, että nämä huoneet eivät sisällä vaaroja eikä haasteita. Tämä auttaa lisäämään luolaston jännitystä tarjoten samalla mahdollisuuden hengähdystaukoon ja tilaisuuksia tarinankerronnan syventämiseen.
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
@@ -314,7 +312,7 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
 #### Erikois
 
-Erikoishuoneet ovat harvinaisia alueita, joissa on piilotettu tai toiminnallinen osa. Tämä osa voi olla haaste, este, pulma tai kaikkea edellä mainittua. Näiden huoneiden pitäisi tarjota vaikeita valintoja, joilla on pitkäikiäisiä vaikutuksia. Ne saattavat helpottaa luolaston tutkimista, mutta suurella kustannuksella.
+Erikoishuoneet ovat harvinaisia alueita, joissa on piilotettu tai toiminnallinen osa. Tämä osa voi olla haaste, este, pulma tai kaikkea edellä mainittua. Näiden huoneiden pitäisi tarjota vaikeita valintoja, joilla on pitkäikäisiä vaikutuksia. Ne saattavat helpottaa luolaston tutkimista, mutta suurella kustannuksella.
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
@@ -374,7 +372,7 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
 ## Luolaston esimerkki
 
-Tässä esimerkissä oletetaan, että tarkastelemme kohdepistettä joka on luotu Peliympäristön lähtökohdat -kappaleessa esitetyillä menetelmillä. Merkitykselliset tulokset olivat:
+Tässä esimerkissä oletetaan, että tarkastelemme kohdepistettä, joka on luotu Peliympäristön lähtökohdat -kappaleessa esitetyillä menetelmillä. Merkitykselliset tulokset olivat:
 
 - **Maasto**: _Metsä_
 - **Tyyppi**: _Temppeli_
@@ -392,7 +390,7 @@ Tämän jälkeen teemme heitot **Tarkoitus**-, **Rakenne**- ja **Tuho** -tauluko
 
 ### Miksi tämä luolasto rakennettiin ja mikä aiheutti sen tuhon?
 
-_Metsädruidien uskonnollinen ääriliike suunnitteli sen todellisuutta muuttavan Muinaisesineen säilyttämiseksi. Sen sisäänkäynti on vale-menhir-kivikehän alla syvällä metsässä. Luolaston seinät ja katto on rakennettu kivettyneestä puusta, sillä muinaisesine vaikuttaa eläviin kasveihin ja vääristää niitä tahtonsa mukaan. Kultin sisäinen hajaannus johti kamppailuun muinaisesineen hallinnasta, mutta kultin ryymittymät joutuivat ylimielisyytensä uhreiksi ja melkein tuhosivat toisensa. Kun kaksi vastakkaista rituaalia ottivat yhteen, temppeli jakautui kahtia pitkin ryhmittymien etulinjojen mukaan. Kaikessa kuhinassa ite Muinaisesine katosi._
+_Metsädruidien uskonnollinen ääriliike suunnitteli sen todellisuutta muuttavan Muinaisesineen säilyttämiseksi. Sen sisäänkäynti on vale-menhir-kivikehän alla syvällä metsässä. Luolaston seinät ja katto on rakennettu kivettyneestä puusta, sillä muinaisesine vaikuttaa eläviin kasveihin ja vääristää niitä tahtonsa mukaan. Kultin sisäinen hajaannus johti kamppailuun muinaisesineen hallinnasta, mutta kultin ryhmittymät joutuivat ylimielisyytensä uhreiksi ja melkein tuhosivat toisensa. Kun kaksi vastakkaista rituaalia ottivat yhteen, temppeli jakautui kahtia pitkin ryhmittymien etulinjojen mukaan. Kaikessa kuhinassa itse Muinaisesine katosi._
 
 Jatkamalla luolastomme nykyisten asukkaiden kohdalle, saamme seuraavat tulokset (heittämällä _kahdelle_ ryhmittymälle):
 
@@ -406,7 +404,7 @@ _Tämän luolaston nykyiset asukkaat ovat alkuperäisten ryhmittymien jälkeläi
 
 ### Mitä kukin ryhmittymä yrittää saavuttaa ja mikä estää heitä?
 
-**Verenpunainen Polku** haluaisi tuhota entiset toverinsa, **Taivaansinen Legioonan**, mutta vastustajansa taistelutaito pelottaa heitä. Taivaansinen Legioona tuntee suurta häpeää esivanhempiensa tekojen vuoksi ja uskoo, että he voivat saavuttaa pelastuksen vain löytämällä ja tuhoamalla temppelin kätkemän muinaiesineen. Valitettavasti muinainen tapa määrää, ettei kukaan, jolla on päällään Taivaansinen kangasta, saa etsiä kadonnutta Muinaisesinettä.
+**Verenpunainen Polku** haluaisi tuhota entiset toverinsa, **Taivaansinen Legioonan**, mutta vastustajansa taistelutaito pelottaa heitä. Taivaansinen Legioona tuntee suurta häpeää esivanhempiensa tekojen vuoksi ja uskoo, että he voivat saavuttaa pelastuksen vain löytämällä ja tuhoamalla temppelin kätkemän muinaisesineen. Valitettavasti muinainen tapa määrää, ettei kukaan, jolla on päällään Taivaansinen kangasta, saa etsiä kadonnutta Muinaisesinettä.
 
 ### Luolaston teema
 
@@ -424,7 +422,7 @@ _Syvällä luolaston kätköissä on Muinaisesine nimeltä **Puunsorvaaja**. Se 
 
 #### Koukut
 
-- Verenpunainen Polku on julkisesti ilmoittanut tarjoavansa 300gp jokaiselle, jotka saavat syvällä temppelissä olevan "muinaisen reliikin" turvallisesti talteen. Hahmojen pitää itse hoitaamahdollinen "vastustus".
+- Verenpunainen Polku on julkisesti ilmoittanut tarjoavansa 300gp jokaiselle, jotka saavat syvällä temppelissä olevan "muinaisen reliikin" turvallisesti talteen. Hahmojen pitää itse hoitaa mahdollinen "vastustus".
 - Seurueeseen ottaa yhteyttä Taivaansinen Legioonan salassa toimiva asiamies. Seurueen tehtävänä on löytää ja tuhota **Puunsorvaaja**, temppeliin hukkunut voimakas esine. Tehtävän on tarkoitus pysyä salassa ja minkä tahansa Ryhmittymän jäsenet todennäköisesti ovat heitä vastaan. Hahmoille maksetaan 1000gp (yhteensä).
 
 ### Kartta
@@ -437,7 +435,7 @@ _Syvällä luolaston kätköissä on Muinaisesine nimeltä **Puunsorvaaja**. Se 
 
 - **Valaistus**: Lampetteja on asennettu jokaisen huoneen seinille. Mitään niistä ei ole sytytetty.
 - **Tuoksut**: Kosteus, lika ja ripaus rikin hajua.
-- **Äänet**: Kaukaisia huutojaa sekä satunnaista jyrinää ja narinaa sieltä täältä.
+- **Äänet**: Kaukaisia huutoja sekä satunnaista jyrinää ja narinaa sieltä täältä.
 - **Rakenne**: Seinät ja lattia ovat valkoista, kivettynyttä puuta.
 
 ### Sisäänkäynti: Menhir-kivien kehä
@@ -480,7 +478,7 @@ Basiliski on nukkumassa huoneen itäpuolella olevan **seinämän** ylle rakentam
   - Se lämmittää muniaan makaamalla niiden päällä eikä jätä niitä kovin pitkäksi aikaa.
   - Munat ovat kukin arvoltaan 1000gp. Ne ovat _kookkaita_ ja erittäin hauraita.
 - **Seinä**: Itäinen käytävä on edelleen käytettävissä, vaikka se on romahtanut. Basiliski on liian suuri kulkemaan näiden raunioiden läpi.
-- **Häkki**: Toimii tarkkailukuiluna huoneesta **2**, josta uudet alttaripalvelijat laskettiin kammioon tarkkailemaan Basiliskiä.
+- **Häkki**: Toimii tarkkailukuiluna huoneesta **2**, josta uudet alttaripalvelijat laskettiin kammioon tarkkailemaan Basiliskia.
 - **Ketju**: Käytettiin aikoinaan vangitsemaan Basiliski tänne.
 
 ### Basiliski
@@ -500,8 +498,8 @@ Kuihtunut miehen **ruumis** on asetettu makaamaan suuren lihatukin päälle. Lä
 - **Ruumis**: Puettu Verenpunaisen Polun punaisiin kaapuihin. Näyttää ainakin kaksi viikkoa sitten kuolleelta.
   - Selkeitä haavoja tai merkkejä ei ole, lukuun ottamatta vihertävää kertymää miehen huulilla.
   - Hänellä on kivettyneestä puusta valmistettu valkoinen tikari (d8).
-- **Lampetti**: Liekkien alta kulkeminen vapauttaa huoneeseen myrkkykaasusuihkun, joka aiheuttaa d4 STR-vahinkoa kaikille lähistöllä oleville (tee pleastusheitto välttyäksesi tajunnan menettämiseltä).
-- **Kaapistot**: Tyhjiä. Kaappien sijoittelu ja tukki viittaaisivat siihen, että tämä huone on ollut aikoinaan yhteiskeittiö.
+- **Lampetti**: Liekkien alta kulkeminen vapauttaa huoneeseen myrkkykaasusuihkun, joka aiheuttaa d4 STR-vahinkoa kaikille lähistöllä oleville (tee pelastusheitto välttyäksesi tajunnan menettämiseltä).
+- **Kaapistot**: Tyhjiä. Kaappien sijoittelu ja tukki viittaisivat siihen, että tämä huone on ollut aikoinaan yhteiskeittiö.
   - Yhdessä kaapissa on valepohja, jota voi painaa ja tällöin myrkkykaasuansa kytkeytyy pois päältä minuutiksi.
 
 ### 5 - Työhuone
@@ -539,7 +537,7 @@ Kiertelevä **savu** täyttää ilman lakkaamattomana tuhkan ja hiilloksen pyör
 
 **Ansa**: _Murskaa_. _Käyttäminen_.
 
-Neljä **pilaria** muodostavat **neliön** ilmassa leijuvan valkoisen **sauvan** ympärille.
+Neljä **pilaria** muodostaa **neliön** ilmassa leijuvan valkoisen **sauvan** ympärille.
 
 - **Pilarit**: Rakennettu lattiasta kattoon ja tehty kivettyneestä puusta.
   - Pilarien välistä tilaa suojaa maaginen, läpäisemätön este. Vähintään kaksi pylvästä on tuhottava, jotta este katoaa.
@@ -557,7 +555,7 @@ Lattia on hyvin rikkonainen, ja sitä lohkovat koholla olevat kivettyneet lattia
   - Jos seurue jättää katon huomiotta, se hyökkää ensimmäisen reiän ali kävelevän pelaajahahmon kimppuun (älä huomioi HP:tä).
   - Länsipuolella oleva reikä on itse asiassa 9 metriä pitkä tunneli, joka johtaa huoneeseen **9**. Pienet uurteet tunnelin reunoilla helpottavat kiipeämistä, olettaen että niihin ylettää.
 
-#### Kaivautuva Kauheus (Burrowing Horror)
+#### Kaivautuva Kauheus
 
 6 HP, 1 Panssari, 16 STR, 11 DEX, 4 WIL, puraisu (d10), happoruiskaus (d8, _räjähdys_)
 

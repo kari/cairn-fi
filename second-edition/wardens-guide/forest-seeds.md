@@ -9,14 +9,14 @@ grand_parent: Toinen laitos
 
 ## Metsäseikkailut
 
-Metsäseikkailu on yksinkertainen tapa tutkia suurta metsäaluetta, ja se koostuu tyypillisesti haarautuvista poluista, jotka vievät hajallaan sijaitseville kiinnostaville kohteille. Vaikka metsäseikkailu jakaa samoja ominaisuuksia perinteisen luolaston tutkimisen kanssa, siinä suoraviivaiset kiviseinät ja -katot vaihtuvat puokkoilevaan tiheään metsäalueeseen. Huoneiden sijasta kohdepisteinä ovat metsän aukeat tai merkittävät muutokset maisemassa. Toisin kuin luolastoa tutkittaessa, hahmot voivat kuitenkin oikaista, mennä "sivupoluille" tai kiivetä puihin saadakseen paremman näköalan ympäristöönsä (tietysti kustannusta vastaan).
+Metsäseikkailu on yksinkertainen tapa tutkia suurta metsäaluetta, ja se koostuu tyypillisesti haarautuvista poluista, jotka vievät hajallaan sijaitseville kiinnostaville kohteille. Vaikka metsäseikkailu jakaa samoja ominaisuuksia perinteisen luolaston tutkimisen kanssa, siinä suoraviivaiset kiviseinät ja -katot vaihtuvat poukkoilevaan tiheään metsäalueeseen. Huoneiden sijasta kohdepisteinä ovat metsän aukeat tai merkittävät muutokset maisemassa. Toisin kuin luolastoa tutkittaessa, hahmot voivat kuitenkin oikaista, mennä "sivupoluille" tai kiivetä puihin saadakseen paremman näköalan ympäristöönsä (tietysti kustannusta vastaan).
 
 ### Korven tutkiminen
 
-- Noudata Pelaajan oppaasta löytyviä _Luolaston_ tutkimisen -menettelyitä, mutta sen sijaan, että heittäisit Luolaston tapahtumia, käytä Erämään tapahtumat -taulukkoa.
+- Noudata Pelaajan oppaasta löytyviä _Luolaston_ tutkimisen -menettelyitä, mutta sen sijaan, että heittäisit Luolaston tapahtumia, käytä Erämaan tapahtumat -taulukkoa.
 - Jos seurue yrittää poiketa polulta ja oikaista metsän läpi, Vartijan tulisi tehdä selväksi kaikki siihen liittyvät kustannukset: ylimääräinen matka-aika, vaiva, mahdollisesti tarvittavat erikoistyökalut ja mahdolliset selvät vaarat. Polulta poikkeaminen aiheuttaa myös automaattisesti heiton Erämaan tapahtumat -taulukolla.
 - Metsäseikkailun pisteet ovat lähellä toisiaan. Kun kuljetaan selkeästi merkityillä poluilla, pieni metsä (10-15 kohdepistettä) voidaan tutkia yhden Vahtivuoron aikana.
-- Nojaa tarinankerrontaan ja maalaisjärkeen määrittääksesi kuinka paljon päivänvaloa on jäljellä, löytyykö sopivaa lepopaikkaa ja mitä kustannuksia tai vaaaroja metsässä voi olla pimeän aikaan.
+- Nojaa tarinankerrontaan ja maalaisjärkeen määrittääksesi kuinka paljon päivänvaloa on jäljellä, löytyykö sopivaa lepopaikkaa ja mitä kustannuksia tai vaaroja metsässä voi olla pimeän aikaan.
 
 ## Metsän luominen
 
@@ -159,7 +159,7 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
 - **Tavalliset polut** ovat ilmeisiä tai hyväksi havaittuja reittejä kahden pisteen välillä. _Esitetään paksulla viivalla._
 - **Piilotetut** polut eivät näy missään tunnetuissa kartoissa. Niiden löytäminen vaatii aina jonkin kustannuksen. _Esitetään katkoviivalla._
-- **Ehdollisilla** poluilla voi olla este tai niiden käyttäminen voi vaatia erikoistyökaluja (veneet, kiipeilyvarusteet jne.) . Toisia voi olla jopa mahdotonta edetä ilman karttaa tai opasta. _Esitetään yliruksatulla viivalla._
+- **Ehdollisilla** poluilla voi olla este tai niiden käyttäminen voi vaatia erikoistyökaluja (veneet, kiipeilyvarusteet jne.). Toisia voi olla jopa mahdotonta edetä ilman karttaa tai opasta. _Esitetään yliruksatulla viivalla._
 
 ### Piirrä polut
 
@@ -212,26 +212,26 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 |         |                                                     |                 |
 | ------- | --------------------------------------------------- | --------------- |
 | **d20** | **Hirviö**                                          | **Toiminta**    |
-| **1**   | Maantierosvo (Bandit)            | Kaivautuu       |
-| **2**   | Väikekoira (Blink Dog)           | Hautaa          |
-| **3**   | Hurmehirvi (Blood Elk)           | Tuhoaa          |
-| **4**   | Kentauri (Centaur)               | Ahmii           |
-| **5**   | Dryadi (Dryad)                   | Kuolemaisillaan |
-| **6**   | Jatuli (Ettin)                   | Taistelee       |
-| **7**   | Gargoili (Gargoyle)              | Kerää ruokaa    |
-| **8**   | Vihreä lohikäärme (Green Dragon) | Vartioi         |
-| **9**   | Harmaakarhu (Grizzly Bear)       | Piileskelee     |
-| **10**  | Tappajamehiläiset (Killer Bees)  | Metsästää       |
+| **1**   | Maantierosvo                                        | Kaivautuu       |
+| **2**   | Väikekoira                                          | Hautaa          |
+| **3**   | Hurmehirvi                                          | Tuhoaa          |
+| **4**   | Kentauri                                            | Ahmii           |
+| **5**   | Dryadi                                              | Kuolemaisillaan |
+| **6**   | Jatuli                                              | Taistelee       |
+| **7**   | Gargoili                                            | Kerää ruokaa    |
+| **8**   | Vihreä lohikäärme                                   | Vartioi         |
+| **9**   | Harmaakarhu                                         | Piileskelee     |
+| **10**  | Tappajamehiläiset                                   | Metsästää       |
 | **11**  | Naga                                                | Tappaa          |
-| **12**  | Yökissa (Night Cat)              | Parittelee      |
-| **13**  | Pöllökontio (Owlbear)            | Suree           |
-| **14**  | Keiju (Pixie)                    | Partioi         |
+| **12**  | Yökissa                                             | Parittelee      |
+| **13**  | Pöllökontio                                         | Suree           |
+| **14**  | Keiju                                               | Partioi         |
 | **15**  | Luuranko                                            | Hiiviskelee     |
-| **16**  | Puupaimen (Treant)               | Toipuu          |
-| **17**  | Yksisarvinen (Unicorn)           | Tiedustelee     |
-| **18**  | Aarnivalkea (Will-o-Wisp)        | Vaanii          |
-| **19**  | Susi (Wolf)                      | Kiduttaa        |
-| **20**  | Metsänpeikko (Wood Troll)        | Loukussa        |
+| **16**  | Puupaimen                                           | Toipuu          |
+| **17**  | Yksisarvinen                                        | Tiedustelee     |
+| **18**  | Aarnivalkea                                         | Vaanii          |
+| **19**  | Susi                                                | Kiduttaa        |
+| **20**  | Metsänpeikko                                        | Loukussa        |
 
 #### Rauniot
 
@@ -279,7 +279,7 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 | **5**   | Erakon mökki                | Metsäritari tarjoaa haasteen            |
 | **6**   | Piilotettu kylä             | Koulutettujen eläinten vartioima        |
 | **7**   | Luola mäenrinteessä         | Hyödyttömien kummitusten riivaama       |
-| **8**   | Ontto puu                   | Piilottelee voimakkasta muinaisesinettä |
+| **8**   | Ontto puu                   | Piilottelee voimakasta muinaisesinettä  |
 | **9**   | Metsästysmaja               | Metsästys on kielletty                  |
 | **10**  | Jaloilla seisova mökki      | Yliluonnollisen olennon asuttama        |
 | **11**  | Muratin peittämä torni      | Sotilaskarkureiden asuttama             |
@@ -343,7 +343,7 @@ Toivovat paluuta tuntemaansa entiseen vakauteen, mutta heitä uhkaavat muinaiset
 
 **Metsän tavoitteet**: Puhdistuminen, Tuholaiset
 
-Metsän henki ei halua muuta kuin puhdistautua sitä vallanneesta taudista. Joukko jättiläishämähäkkejä (**9**) on kehrännyt verkkoja kaikkialle, tappanut aivan liian monta olentoa ja heikentänyt mestän ekosysteemiä.
+Metsän henki ei halua muuta kuin puhdistautua sitä vallanneesta taudista. Joukko jättiläishämähäkkejä (**9**) on kehrännyt verkkoja kaikkialle, tappanut aivan liian monta olentoa ja heikentänyt metsän ekosysteemiä.
 
 ### Metsän teema
 
@@ -455,7 +455,7 @@ Lieriömäinen savupiipullinen **maja**, jota peittää paksu kerros lehtiä, se
   - Jos ovea avataan väkisin tai majaa uhataan, sen alta kasvaa kaksi jalkaa ja maja vetäytyy vikkelästi metsään syvyyksiin.
 - **Lehtikerros**: Sekä katto että ikkunat ovat paksujen lehtiköynnösten peitossa.
   - Yksikään köynnöksistä ei kosketa maata, sillä ne repeytyisivät, jos maja nousisi seisomaan.
-- **Kyltti**: Peittynyt köynnöksiin. Punaisin kirjaimin siinä lukee: "Täällä ei metsästetä. Kovat rangaistukset."
+- **Kyltti**: Peittynyt köynnöksiin. Siinä lukee punaisin kirjaimin: "Täällä ei metsästetä. Kovat rangaistukset."
   - Noita loihti tämän paikan ylle suojaloitsun. Jos joku puhekykyinen tappaa eläimen täällä, tappaja muuttuu välittömästi kiveksi (ei pelastusheittoa).
   - Mikään vaarallinen ei seuraa seuruetta tähän metsän osaan.
 - **Verkko**: Ympäröi pientä, kuihtunutta puutarhaa. Keskellä seisoo viiniköynnösten peittämä nuoren metsästäjän kivipatsas.
@@ -470,7 +470,7 @@ Runsaasti koristeltu. Pohjoisessa takan lähelle on sijoitettu korkea puinen **t
 - **Liesi**: Lämmin, ja tarpeeksi suuri pankolla nukkumiseen. Punainen huivi on sidottu yhden rautakahvan ympärille.
   - Sweeneyn Anglwystille antama huivi, joka on muuten tavanomainen. Sweeney haluaisi mielellään saada sen takaisin.
 - **Naru**: Harvinaisia ja sukupuuttoon kuolleita kasveja. Oikealle ostajalle 500gp:n arvoiset.
-  - Alruunan juurta roikkuu narulla. Jos sitä kastellaan päivittäin, se ilmoittaa valheesta jos se kuulee sellaisen. Huutaa äänekkäästi, jos se leikataan.
+  - Alruunan juurta roikkuu narulla. Jos sitä kastellaan päivittäin, se ilmoittaa valheesta, jos se kuulee sellaisen. Huutaa äänekkäästi, jos se leikataan.
 
 ### 5 - Puu risteyksessä
 
@@ -484,7 +484,7 @@ Pitkä **puu** makaa pienen aukean yllä kahden **polun** risteyksessä. Eteläs
 - **Jyrkänne**: Jyrkänteeseen on upotettu metallirenkaita.
   - Ne asennettiin, kun metsää vielä hakattiin, mutta ovat silti hyvin kiinni. Täydellisiä köysiä varten.
 
-#### Harmaakarhu (Grizzly Bear)
+#### Harmaakarhu
 
 6 HP, 15 STR, 13 DEX, 5 WIL, kynnet (d8+d8)
 
@@ -512,12 +512,12 @@ Harmaa **metsäpyhäkkö** seisoo neljän polun risteyksessä. Sen keskellä on 
 - Kerran päivässä haltija voi toistaa uudelleen 5 minuuttia elämästään kolmannen persoonan kuvakulmasta. Pitkäaikainen käyttö voi aiheuttaa riippuvuutta. Kärsi _puutoksesta_, jos sitä ei käytetä säännöllisesti.
 - **Lataus**: Näe toisen heijastus peililasissa ilman että hän huomaa.
 
-#### Metsänpeikko (Wood Troll)
+#### Metsänpeikko
 
 10 HP, 15 STR, 12 DEX, 7 WIL, puraisu (d8), nuija (d10)
 
-- Kookkaita ja ihmisimäisiä ja joilla on pitkulaiset puunkuoresta ja puunjuurista tehdyt kädet. Ne elävät metsissä, ja niillä on syvä yhteys niitä ympäröivään kasvillisuuteen.
-- Jos ne tapetaan, ne uusiutuvat hitaasti ellei niiden ruumista viedä pois metsästä tai polteta tulessa.
+- Kookkaita ja ihmismäisiä ja joilla on pitkulaiset puunkuoresta ja puunjuurista tehdyt kädet. Ne elävät metsissä, ja niillä on syvä yhteys niitä ympäröivään kasvillisuuteen.
+- Jos ne tapetaan, ne uusiutuvat hitaasti, ellei niiden ruumista viedä pois metsästä tai polteta tulessa.
 - **Kriittinen vahinko**: Kohteen haavoista alkaa kasvaa sammalta ja oksia.
 
 ### 7 - Veden valtaama luostari
@@ -527,10 +527,10 @@ Harmaa **metsäpyhäkkö** seisoo neljän polun risteyksessä. Sen keskellä on 
 Kolme veden valtaamaa **rakennusta** makaa pienen lammen keskellä, niiden kartiomaiset **katot** kohoavat vedestä. Pohjoispuolella kuivunut joenuoma laskee suoraan lampeen. Itäistä polkua reunustavat kymmenet **kivikasat**.
 
 - **Rakennukset**: Vanhanaikaisia, kuvitettu hienovaraisen kauniilla uskonnollisilla kuva-aiheilla. Ilmiselvästi luostari.
-  - Tulvi sen jälkeen, kun pato kohdassa **8** tuhoutui.
+  - Tulvi sen jälkeen kun pato kohdassa **8** tuhoutui.
 - **Katot**: Kolmesta rakennuksesta korkeimmassa on lasi-ikkuna korkealla veden yläpuolella.
   - Ikkuna on ruostunut kiinni, mutta sen voi vääntää tai murtaa auki, jotta pääsee luostarin asuntolaan.
-- **Kivet**: Kasattu itäisen polun eteläpuolelle. Useimpiin on kaiverettu nimi.
+- **Kivet**: Kasattu itäisen polun eteläpuolelle. Useimpiin on kaiverrettu nimi.
   - Munkit ovat jättäneet polun varrelle kivikasoja, yhden jokaista kaatunutta jäsentään kohti.
 
 #### Asuntola
@@ -553,17 +553,17 @@ Kolme veden valtaamaa **rakennusta** makaa pienen lammen keskellä, niiden karti
 
 Musta **karju** ontuu äänekkäästi lähellä suurta **röykkiötä** mustaa lankaa ja puita. Kuivuneet **ruhot** roikkuvat puiden latvoista kehrättyyn silkkiin sidottuina. Etelässä oleva kuiva **joenuoma** on puukasojen täyttämä.
 
-- **Boar**: Puoliksi paksuun mustaan silkkiin käärittynä se kiljuu valittaen.
-  - Hämähäkin purema on myrkyttänyt sen takajalat. Jos serueu tulee sen avuksi, Korpi muistaa tämän.
+- **Karju**: Puoliksi paksuun mustaan silkkiin käärittynä se kiljuu valittaen.
+  - Hämähäkin purema on myrkyttänyt sen takajalat. Jos seurue tulee sen avuksi, Korpi muistaa tämän.
 - **Röykkiö**: Paksusta mustasta silkistä tehdyt langat pitävät koossa 3 metrin mittaista puuläjää.
   - Pesässä asuu 3 **Mustaa silkkihämähäkkiä**. Ne hyökkäävät kaikkien kimppuun, jotka koskevat niiden ruokaan tai tulevat liian lähelle niiden pesää.
   - Pesästä voi kerätä varovasti 200gp:n edestä mustaa silkkiä. Siitä voi saada aikaan ohuen köyden (noin 18 metriä), joka on myös uskomattoman vahva ja joka on haluttua tavaraa sen vettähylkivyyden vuoksi.
 - **Ruhot**: Enimmäkseen eläinten ruumiita. Ihmisen hahmo näkyy mustan verkon läpi.
   - Ihminen oli metsästäjä, joka jätti Sweeneyn varoitukset huomiotta ja metsästi _Metsästäjän reitin_ pohjoispuolella. Ruumiilta löytyy ruoka-annoksia (2 käyttökertaa jäljellä), 33gp ja puukko (d6).
-- **Joenuoma**: Suuria puukasoja levineennä ympäriinsä. Pidempien kappaleiden ympärille on sidottu mustaa silkkiä.
+- **Joenuoma**: Suuria puukasoja levinneenä ympäriinsä. Pidempien kappaleiden ympärille on sidottu mustaa silkkiä.
   - Entinen majavapato, joka piti veden juoksun norona. Hämähäkit kaatoivat padon rakentaakseen pesänsä. Sitä seurannut tulva tuhosi luostarin kohdassa **7**, mutta joki ehtyi vasta kuivuuden jälkeen aiemmin tänä vuonna.
 
-#### Karju (Boar)
+#### Karju
 
 4 HP, 12 STR, 5 DEX, 6 WIL, syöksyhampaat (d6)
 
@@ -589,9 +589,9 @@ Pohjoisessa pienen **järven** viereen rakennettu ränsistynyt **maja**. **Savua
 
 ### Kohtaamiset
 
-|         |                                                                                                                                       |
-| ------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **d20** | **Kohtaaminen**                                                                                                                       |
+|         |                                                                                                       |
+| ------- | ----------------------------------------------------------------------------------------------------- |
+| **d20** | **Kohtaaminen**                                                                                       |
 | **1**   | Pieni parrakas mies riitelee rääkyvän korpin kanssa. Se pitää nokassaan jotain kiiltävää.             |
 | **2**   | Dryadi istuu kivellä, violetti sieni peittää hänen käsivarsiaan. Hänen silmistään paistaa väkivalta.  |
 | **3**   | Kaistale juoksuhiekka on naamioitu pehmeäksi maaksi. Lähistöllä lojuu katkennut köysirulla.           |

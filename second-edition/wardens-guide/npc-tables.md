@@ -81,29 +81,29 @@ grand_parent: Toinen laitos
 
 ## Oikut
 
-|         |                            |
-| ------- | -------------------------- |
-| **d20** | **Oikku 1**                |
-| **1**   | Tarkkaavainen              |
-| **2**   | Kalju                      |
-| **3**   | Kirkkaat silmät            |
-| **4**   | Leveät kasvot              |
-| **5**   | Vinot hampaat              |
-| **6**   | Riutunut                   |
-| **7**   | Hyväryhtinen               |
-| **8**   | Likainen                   |
-| **9**   | Karheaääninen              |
-| **10**  | Paksut kulmakarvat         |
-| **11**  | Ontuva                     |
-| **12**  | Puuttuva korva             |
-| **13**  | Lihaksikas                 |
-| **14**  | Huomiotaherättävät hiukset |
-| **15**  | Miellyttävä ääni           |
-| **16**  | Siristää silmiään          |
-| **17**  | Vahva                      |
-| **18**  | Paksut kulmakarvat         |
-| **19**  | Väsynyt                    |
-| **20**  | Nuori                      |
+|         |                             |
+| ------- | --------------------------- |
+| **d20** | **Oikku 1**                 |
+| **1**   | Tarkkaavainen               |
+| **2**   | Kalju                       |
+| **3**   | Kirkkaat silmät             |
+| **4**   | Leveät kasvot               |
+| **5**   | Vinot hampaat               |
+| **6**   | Riutunut                    |
+| **7**   | Hyväryhtinen                |
+| **8**   | Likainen                    |
+| **9**   | Karheaääninen               |
+| **10**  | Paksut kulmakarvat          |
+| **11**  | Ontuva                      |
+| **12**  | Puuttuva korva              |
+| **13**  | Lihaksikas                  |
+| **14**  | Huomiota herättävät hiukset |
+| **15**  | Miellyttävä ääni            |
+| **16**  | Siristää silmiään           |
+| **17**  | Vahva                       |
+| **18**  | Paksut kulmakarvat          |
+| **19**  | Väsynyt                     |
+| **20**  | Nuori                       |
 
 ## Tausta
 
@@ -206,4 +206,3 @@ grand_parent: Toinen laitos
 | **18**  | Itsepäinen            |
 | **19**  | Turhamainen           |
 | **20**  | Muukalaisvihamielinen |
-

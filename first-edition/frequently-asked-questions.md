@@ -180,7 +180,7 @@ Laajenna esimerkki
 
 **Pertti**: _"Hyvä on. Jos se tulee lähelleni, haluaisin seistä lähellä jyrkänteen reunaa, valmiina hyppäämään pois sen tieltä."_
 
-**Vartija**: _"Ymmärretty. Nyt on **Hurmehirven** vuoro ja selvästikin se on edelleen hyvin vihainen sinulle, **Pertti**. Pirulliset kavionsa kohottaen peto ryntää jälleen kerran sinua kohti. Hyppäät viime hetkellä alas jyrkänteeltä, pitäen köydestä kiinni kaikin voimin. **Hurmehirvi** yrittää pysäyttää hyökkäyksensä heti, kun se näkee kohteensa putoavan. Se tekee **DEX-pelastusheiton** nähdäkseen, voiko se pysähtyä onnistuneesti. Öh, se heitti 20 ja syöksyy jyrkänteeltä alas kohti alla olevaan valtavaan pimeyteen."_
+**Vartija**: _"Ymmärretty. Nyt on **Hurmehirven** vuoro ja selvästikin se on edelleen hyvin vihainen sinulle, **Pertti**. Pirulliset kavionsa kohottaen peto ryntää jälleen kerran sinua kohti. Hyppäät viime hetkellä alas jyrkänteeltä, pitäen köydestä kiinni kaikin voimin. **Hurmehirvi** yrittää pysäyttää hyökkäyksensä heti kun se näkee kohteensa putoavan. Se tekee **DEX-pelastusheiton** nähdäkseen, voiko se pysähtyä onnistuneesti. Öh, se heitti 20 ja syöksyy jyrkänteeltä alas kohti alla olevaan valtavaan pimeyteen."_
 
 **Miksei Hurmehirvi tehnyt hyökkäysheittoa, kuten taistelusäännöt edellyttävät?**
 Hyökkäystä pidettiin mahdollisena, mutta myös hyvin vaarallisena. Jos olento olisi käyttänyt kantamahyökkäystä tai ollut koulutettu lähitaisteluhyökkääjä, olisi **Pertin** kimppuun hyökkääminen ollut huomattavasti vähemmän riskialtista. Valitettavasti se oli peto ja kykenevä vain ajamaan ihmisiä maahan terävillä kavioillaan.

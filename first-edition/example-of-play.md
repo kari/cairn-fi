@@ -92,7 +92,7 @@ Jos haluat nähdä roolipeli-podcastin ("actual play") Cairnista (Vartijan komme
 
 **Pertti**: _"Hyvä on. Jos se tulee lähelleni, haluaisin seistä lähellä jyrkänteen reunaa, valmiina hyppäämään pois sen tieltä."_
 
-**Vartija**: _"Ymmärretty. Nyt on **Hurmehirven** vuoro ja selvästikin se on edelleen hyvin vihainen sinulle, **Pertti**. Pirulliset kavionsa kohottaen peto ryntää jälleen kerran sinua kohti. Hyppäät viime hetkellä alas jyrkänteeltä, pitäen köydestä kiinni kaikin voimin. **Hurmehirvi** yrittää pysäyttää hyökkäyksensä heti, kun se näkee kohteensa putoavan. Se tekee **DEX-pelastusheiton** nähdäkseen, voiko se pysähtyä onnistuneesti. Öh, se heitti 20 ja syöksyy jyrkänteeltä alas kohti alla olevaan valtavaan pimeyteen."_
+**Vartija**: _"Ymmärretty. Nyt on **Hurmehirven** vuoro ja selvästikin se on edelleen hyvin vihainen sinulle, **Pertti**. Pirulliset kavionsa kohottaen peto ryntää jälleen kerran sinua kohti. Hyppäät viime hetkellä alas jyrkänteeltä, pitäen köydestä kiinni kaikin voimin. **Hurmehirvi** yrittää pysäyttää hyökkäyksensä heti kun se näkee kohteensa putoavan. Se tekee **DEX-pelastusheiton** nähdäkseen, voiko se pysähtyä onnistuneesti. Öh, se heitti 20 ja syöksyy jyrkänteeltä alas kohti alla olevaan valtavaan pimeyteen."_
 
 **Vartija**: _"**Hurmehirven** kanssa kohtaamisenne jälkeen palaatte leiriinne ja yritätte nukkua niin paljon kuin mahdollista. Aamun sarastaessa olette molemmat hereillä ja valmiita jatkamaan matkaanne."_
 

@@ -13,7 +13,7 @@ Cairn eroaa monista nykyaikaisista roolipeleistä siinä, että siinä ole mekan
 
 ## Tietämys
 
-Hahmojen tietämystä rajoittaa ainoastaan se, mitä voidaan selittää tarinankerronnan kautta. Jos tiedetään, että pelaajahahmo on lähtöisin köyhistä oloista ja oppinut selviytymään keinolla millä hyvänäsä, niin tätä pelaava voi argumentoida, että hänen hahmonsa kykenee paremmin jäljittämään slummeissa piileskelevää tärkeää sivuhahmoa. Hän saattaa tietää kenelle puhua ja millaisia kauppoja tarvitaan, jotta hän saa tarvitsemansa tiedot kohteensa olinpaikasta.
+Hahmojen tietämystä rajoittaa ainoastaan se, mitä voidaan selittää tarinankerronnan kautta. Jos tiedetään, että pelaajahahmo on lähtöisin köyhistä oloista ja oppinut selviytymään keinolla millä hyvänsä, niin tätä pelaava voi argumentoida, että hänen hahmonsa kykenee paremmin jäljittämään slummeissa piileskelevää tärkeää sivuhahmoa. Hän saattaa tietää kenelle puhua ja millaisia kauppoja tarvitaan, jotta hän saa tarvitsemansa tiedot kohteensa olinpaikasta.
 
 Jos hahmolla ei ole perusteltua tietämystä jostakin aiheesta, hän ei yksinkertaisesti tiedä siitä mitään! Vartija voi kuitenkin päättää heittää **Kohtalon noppaa** selvittääkseen, onko hahmolla mahdollisuutta tietää _jotain_. Mitä korkeampi tulos on, sitä enemmän hän voisi (kohtuuden rajoissa) tietää.
 
@@ -43,6 +43,6 @@ Otetaan esimerkiksi seuraava merkitty sijainti:
 
 Tässä esimerkissä on kolme mahdollista vaaraa: mehiläiset, mies ja veriköynnöskasvi. Mehiläisten aiheuttama vaara on ilmeisempi, koska pelaajahahmot näkevät vaaran selvästi ja tuntevat mehiläiset jo ennestään. Mies on tuntematon tapaus ja voi olla ystävällinen tai vihollinen, kun taas veriköynnös on piilossa ja toimii eräänlaisena ansana. Vartijan tulisi siis kertoa tarkalleen, mitä pelaajahahmot voivat nähdä, kuulla ja haistaa.
 
-Pelaajahahmot yrittävät todennäköisesti ensin olla vuorovaikutuksessa miehen kanssa tai kenties esittää kysymyksiä miekasta, sillä nämä molemmat ovat melko passiivisia tapoja osallistua pelin kohtaukseen. Kun pelaajahahmot huomaavat ettei mies vastaa, he saattavat yrittää katsoa häntä tarkemmin tai ehkä heittää kiven hänen suuntaansa (välttäen pesää) ja niin edelleen. Jos pelaajahahmot kyselevät miekasta tai yrittävät toimia sen kanssa, Vartijan pitäisi kertoa heille heti kengänjäljistä ruohikossa.
+Pelaajahahmot yrittävät todennäköisesti ensin olla vuorovaikutuksessa miehen kanssa tai kenties esittää kysymyksiä miekasta, sillä nämä molemmat ovat melko passiivisia tapoja osallistua pelin kohtaukseen. Kun pelaajahahmot huomaavat, ettei mies vastaa, he saattavat yrittää katsoa häntä tarkemmin tai ehkä heittää kiven hänen suuntaansa (välttäen pesää) ja niin edelleen. Jos pelaajahahmot kyselevät miekasta tai yrittävät toimia sen kanssa, Vartijan pitäisi kertoa heille heti kengänjäljistä ruohikossa.
 
 Jos pelaajahahmot päättävät puuttua mehiläispesään, Vartijan tulisi "varoittaa" heitä jonkinlaisella vihjeellä: mehiläiset alkavat lentää aggressiivisemmin, niiden aiheuttama melu kovenee tai niin edelleen. Pelaajista riippuu, jättävätkö he edessään olevat vihjeet huomiotta ja jatkavat eteenpäin vai pysähtyvätkö he ja kysyvät kysymyksiä.

@@ -36,9 +36,9 @@ On olemassa kolme yleistä tilannetta, joissa pelaajahahmon tulisi tehdä pelast
 
 **Wolfram**: _"Muistakaa, he ovat viattomia! Heidän ei tarvitse kuolla!"_
 
-**Freya**: _"Anteeksi, en kuule sinua haukunnan ja murinan läpi!" _
+**Freya**: _"Anteeksi, en kuule sinua haukunnan ja murinan läpi!"_
 
-**Vartija**: _"Yhtäkkiä vartija pysähtyy ja viheltää kutsuen lemmikkinsä takaisin. Sitten hän vetää takanaan olevasta vivusta, ja käytävän idän puolelta alkaa kuulua kovaa raastavaa meteliä. Sitten näette, mitä hän on tehnyt: katosta laskeutuu alas paksu rautaportti. Jos se sulkeutuu, jäätte lukkojen taakse tähän vankilan osaan! Wolfram, luultavasti pääsisit läpi ilman mitään riskiä. Luciuksen ja Freyan on kummankin tehtävä DEX-pelastusheitot selvitäkseen siitä." _
+**Vartija**: _"Yhtäkkiä vartija pysähtyy ja viheltää kutsuen lemmikkinsä takaisin. Sitten hän vetää takanaan olevasta vivusta, ja käytävän idän puolelta alkaa kuulua kovaa raastavaa meteliä. Sitten näette, mitä hän on tehnyt: katosta laskeutuu alas paksu rautaportti. Jos se sulkeutuu, jäätte lukkojen taakse tähän vankilan osaan! Wolfram, luultavasti pääsisit läpi ilman mitään riskiä. Luciuksen ja Freyan on kummankin tehtävä DEX-pelastusheitot selvitäkseen siitä."_
 
 **Wolfram**: _"Pysähdyn ja yritän pidätellä porttia niin kauan kuin vain voin. Minkä riskin minä otan?"_
 
@@ -48,9 +48,9 @@ On olemassa kolme yleistä tilannetta, joissa pelaajahahmon tulisi tehdä pelast
 
 > Lucius ja Freya ovat samaa mieltä, ja Wolfram heittää 13: onnistuminen!
 
-**Vartija**: _"Ähiset, kun rautatangot painautuvat käsiäsi ja hartioitasi vasten. Juuri kun sinusta alkaa tuntua siltä että portti murskaa sinut kahtia, Lucius ja Freya juoksevat ohi turvaan. Astahdat poispäin ja portti romahtaa kivilattialle sellaisella voimalla, että sen mekanismi rikkoutuu. Nyt ei ole enää paluuta! Iso vartija ei kuitenkaan pääse läpi myöskään."_
+**Vartija**: _"Ähiset, kun rautatangot painautuvat käsiäsi ja hartioitasi vasten. Juuri kun sinusta alkaa tuntua siltä, että portti murskaa sinut kahtia, Lucius ja Freya juoksevat ohi turvaan. Astahdat poispäin ja portti romahtaa kivilattialle sellaisella voimalla, että sen mekanismi rikkoutuu. Nyt ei ole enää paluuta! Iso vartija ei kuitenkaan pääse läpi myöskään."_
 
-**Wolfram**: _"Juuri niin kuin olen aina sanonut: 'Voimasta löytyy hyve'. Vai oliko se: "Hyve on voimaa'? No, joka tapauksessa... Hei, odottakaa minua!"_
+**Wolfram**: _"Juuri niin kuin olen aina sanonut: 'Voimasta löytyy hyve'. Vai oliko se: 'Hyve on voimaa'? No, joka tapauksessa... Hei, odottakaa minua!"_
 
 ### Ketteryys
 
@@ -62,15 +62,15 @@ On olemassa kolme yleistä tilannetta, joissa pelaajahahmon tulisi tehdä pelast
 
 **Vartija**: _"Itse asiassa, yksi heistä on ottamassa esiin korttipakan, ja muut nyökkäävät hyväksyvästi. Näyttää siltä, että ne ovat täällä vielä jonkin aikaa."_
 
-**Freya**: _"Pahus. No, ei ole parempaa hetkeä kuin juuri nyt? Aion hiipiä takaisin samaa reittiä kuin tulin._"
+**Freya**: _"Pahus. No, ei ole parempaa hetkeä kuin juuri nyt? Aion hiipiä takaisin samaa reittiä kuin tulin."_
 
-**Vartija**: _"Hyvä on, mutta kun menit aiemmin tästä ohi, täällä ei ollut ketään. Tämä ei enää pidä paikkaansa! Sinun täytyy tehdä DEX-pelastusheitto, jottei sinua havaita._"
+**Vartija**: _"Hyvä on, mutta kun menit aiemmin tästä ohi, täällä ei ollut ketään. Tämä ei enää pidä paikkaansa! Sinun täytyy tehdä DEX-pelastusheitto, jottei sinua havaita."_
 
 > Freya heittää 16: epäonnistuminen!
 
-**Vartija**: _"Kun nouset viimeisen palkin päälle, se narahtaa. Kaikki kuusi miestä katsovat ylös ja näkevät sinun loikkaavan välikattolle, joka johtaa pääsalista keittiöön. Ne eivät nähneet kasvojasi, mutta tietävät että ole siellä ylhäällä! He huutelevat ja vetävät aseensa esiin."_
+**Vartija**: _"Kun nouset viimeisen palkin päälle, se narahtaa. Kaikki kuusi miestä katsovat ylös ja näkevät sinun loikkaavan välikatolle, joka johtaa pääsalista keittiöön. Ne eivät nähneet kasvojasi, mutta tietävät että ole siellä ylhäällä! He huutelevat ja vetävät aseensa esiin."_
 
-**Freya**: _"Minulla on yksi savupommi jäljellä, ja aion käyttää sitä. Aion pudottautua keittiiön ja etsiä kattilan. Jos muistan oikein, vesi saa aikaan hulluna savua..." _
+**Freya**: _"Minulla on yksi savupommi jäljellä, ja aion käyttää sitä. Aion pudottautua keittiöön ja etsiä kattilan. Jos muistan oikein, vesi saa aikaan hulluna savua..."_
 
 ### Tahdonvoima
 
@@ -78,13 +78,13 @@ On olemassa kolme yleistä tilannetta, joissa pelaajahahmon tulisi tehdä pelast
 
 **Wolfram**: _"Sääli Luciusta. Mutta meidän on toimitettava asiakkaamme holviin välittömästi. Voimme pelastaa hänet sen jälkeen."_
 
-**Freya**: _"Minä EN jätä häntä. Sinun pitäisi silti jatkaa, mutta minä aion saada hänet vapaaksi. Olen taskuvaras, joten minulla on ystäviä kaikkialla, eikö vain? Tai kenties voin käyttää jotan varkaiden murretta luodakseni yhteyksiä täällä?"_
+**Freya**: _"Minä EN jätä häntä. Sinun pitäisi silti jatkaa, mutta minä aion saada hänet vapaaksi. Olen taskuvaras, joten minulla on ystäviä kaikkialla, eikö vain? Tai kenties voin käyttää jotain varkaiden murretta luodakseni yhteyksiä täällä?"_
 
-**Vartija**:_ "Juuri näin. Voit viettää yön yrittäen luoda yhteyksiä kaltaisiesi kanssa, jos haluat."
+**Vartija**: _"Juuri näin. Voit viettää yön yrittäen luoda yhteyksiä kaltaisiesi kanssa, jos haluat."_
 
 > Seurue hajaantuu ja Freya selvittää tarvitsemansa paikalliselta varastetun tavaran välittäjältä. (Sen kustannus on yksi hänen Kaksosistaan, eikä hän ole siitä lainkaan iloinen). Lucius odottaa tuomiotaan vartiotuvan alapuolella sijaitsevassa tyrmässä.
 
-**Vartija**: _"Aamuhämärän valossa huomaat, että kadunrajan ristikon välistä on sujautettu lappu. Siinä lukee: "Lausu seuraavat sanat ja olet vapaa: "Kalpea mies kaipaa kuolemaa." Sinulla on vain yksi tilaisuus."_
+**Vartija**: _"Aamuhämärän valossa huomaat, että kadunrajan ristikon välistä on sujautettu lappu. Siinä lukee: 'Lausu seuraavat sanat ja olet vapaa: "Kalpea mies kaipaa kuolemaa." Sinulla on vain yksi tilaisuus.'"_
 
 **Lucius**: _"...Mitä? Okei. Joku antoi tämän minulle? Ja minun on sanottava se ääneen... mutta oikeaan aikaan vai oikealle henkilölle?"_
 
@@ -96,7 +96,7 @@ On olemassa kolme yleistä tilannetta, joissa pelaajahahmon tulisi tehdä pelast
 
 **Lucius**: _"Hei toveri! Voisinko puhua esimiehenne kanssa? Minulla on tärkeitä uutisia, jotka saattavat kiinnostaa häntä..."_
 
-**Vartija**: _"Vanginvartija virnistelee, kun hän avaa ja ottaa esille kahleet._"
+**Vartija**: _"Vanginvartija virnistelee, kun hän avaa ja ottaa esille kahleet."_
 
 **Lucius**: _"KALPEA MIES KAIPAA KUOLEMAA!"_
 
@@ -104,11 +104,11 @@ On olemassa kolme yleistä tilannetta, joissa pelaajahahmon tulisi tehdä pelast
 
 **Lucius**: _"No, se oli onnekasta. Mitä tämä on, jokin vanginvartijoiden tunnuslause? Mestaajien? No, mitä se sitten onkin, minä seuraan."_
 
-**Vartija**: _"Vanginvartija johdattaa sinut syvälle tyrmän pimeyteen, kauas kaikesta valosta. Kun hän saavuttaa kaukaisen seinän, hän napauttaa kolmesti kiveä korkealla päänsä yläpuolella. Hetken kuluttua seinä heilahtaa sisäänpäin, ja vartija kävelee itsevarmasti sisälle, missä tummahiuksinen nainen odottaa pöydän ääressä. Hän hymyilee sinulle ja viittoo, että istuisit häntä vastapäätä olevaan tuoliin." _
+**Vartija**: _"Vanginvartija johdattaa sinut syvälle tyrmän pimeyteen, kauas kaikesta valosta. Kun hän saavuttaa kaukaisen seinän, hän napauttaa kolmesti kiveä korkealla päänsä yläpuolella. Hetken kuluttua seinä heilahtaa sisäänpäin, ja vartija kävelee itsevarmasti sisälle, missä tummahiuksinen nainen odottaa pöydän ääressä. Hän hymyilee sinulle ja viittoo, että istuisit häntä vastapäätä olevaan tuoliin."_
 
 **Lucius**: _"Tuota. Voisinko palata selliini, kiitos? Vitsi, vitsi. Istun alas."_
 
-**Vartija**: _Vanginvartija poistuu samalla kun sinä istuudut. Huone on pieni, siellä on vain yksi ovi, naisen takana. Ulkopuolella seisoo hyvin kookas mies, jonka pää näkyy ovessa olevasta pienestä ikkunasta. Nainen hymyilee jälleen ja sanoo: "Tervetuloa, herra... No, ei sen väliä. On vain yksi syy, miksi olet täällä. Olet lausunut tunnuslauseen, jonka tietävät vain varkaat ja veijarit. Ja kumpi sinä olet, ihmettelenpä?"_
+**Vartija**: _"Vanginvartija poistuu samalla kun sinä istuudut. Huone on pieni, siellä on vain yksi ovi, naisen takana. Ulkopuolella seisoo hyvin kookas mies, jonka pää näkyy ovessa olevasta pienestä ikkunasta. Nainen hymyilee jälleen ja sanoo: 'Tervetuloa, herra... No, ei sen väliä. On vain yksi syy, miksi olet täällä. Olet lausunut tunnuslauseen, jonka tietävät vain varkaat ja veijarit. Ja kumpi sinä olet, ihmettelenpä?'"_
 
 **Lucius**: _"Mitä nyt tapahtuu? Minulla ei ole mitään millä käydä kauppaa... Paitsi kenties totuus? Mutta se tarkoittaisi, että minun on tehtävä WIL-pelastusheitto, eikö vain? Jotta vaikuttaisin 'vakuuttavalta'?"_
 
@@ -116,17 +116,17 @@ On olemassa kolme yleistä tilannetta, joissa pelaajahahmon tulisi tehdä pelast
 
 **Lucius**: _"Selvä. Rouva: Puhun suoraan. Olemme ystävieni kanssa tulleet tänne livahtaaksemme Der Thunnin holviin. Opin tuon lauseen vasta muutama minuutti sitten. Uskon, että eräs ystäväni (taskuvaras nimeltään Freya, kenties tunnet hänet) jätti minulle tuon viestin. Jos päästät minut vapaaksi, mainitsen varmasti... mikä sinun nimesi olikaan?"_
 
-**Vartija**:_ "Katja. Ja ole hyvä ja kerro minulle kaikki._"
+**Vartija**: _"Katja. Ja ole hyvä ja kerro minulle kaikki."_
 
 > Lucius kuvailee seurueen ja heidän tähänastisia ponnistelujaan. Hän tekee WIL-pelastusheiton. Hän heittää 5: onnistuminen! Katja on vakuuttunut hänen vilpittömyydestään.
 
-**Vartija** _"Kuunnellessaan kertomustasi Katja nyrpistää otsaansa ja lopulta sitten hymyilee. 'Hyvä on, hyvä on, uskon sinua. Tehdään sopimus! Esittelet minut tälle "asiakkaallesi", jonka olet niin ystävällisesti saattanut kaupunkiini, ja minä varmistan, ettei kukaan katsele, kun livahdatte pois. Mutta meidän on lähdettävä heti, ennen kuin tämä paikka räjähtää käsiin. Ja jos niin käy, edes minä en voi taata turvallisuuttanne..."_
+**Vartija** _"Kuunnellessaan kertomustasi Katja nyrpistää otsaansa ja lopulta sitten hymyilee. 'Hyvä on, hyvä on, uskon sinua. Tehdään sopimus! Esittelet minut tälle 'asiakkaallesi', jonka olet niin ystävällisesti saattanut kaupunkiini, ja minä varmistan, ettei kukaan katsele, kun livahdatte pois. Mutta meidän on lähdettävä heti, ennen kuin tämä paikka räjähtää käsiin. Ja jos niin käy, edes minä en voi taata turvallisuuttanne..."_
 
 > Tuntia myöhemmin Lucius löytää Freyan, mutta ei muita. Hän kertoo, että Wolfram ja heidän asiakkaansa ovat jo lähteneet kohti holvia. Hän suostuu viemään heidät sinne, mutta sanoo, että hänen on ensin tehtävä pikainen pysähdys. Jotain tikarinsa takaisin saamisesta...
 
 ## Vastustetut pelastusheitot
 
-> Seurue on ajanut vastustajansa (kaksi maantierosvoa ja heidän isohiisipäällikkönsä) jyrkkää kallionrinnettä vasten. Lucius ja Wolfram saavat heti vuoronsa, mutta Freya epäonnistui ensimmäisessä DEX-pelastusheitossaan ja hänen vuoronsa on vastustajiensa jälkeen. Kun hänen ystävänsä ottavat mittaa kummastakin pienemmästä vihollisesta, hän vain täpärästi välttää sen ettei isohiisi hakkaa hänen päätänsä muusiksi!
+> Seurue on ajanut vastustajansa (kaksi maantierosvoa ja heidän isohiisipäällikkönsä) jyrkkää kallionrinnettä vasten. Lucius ja Wolfram saavat heti vuoronsa, mutta Freya epäonnistui ensimmäisessä DEX-pelastusheitossaan ja hänen vuoronsa on vastustajiensa jälkeen. Kun hänen ystävänsä ottavat mittaa kummastakin pienemmästä vihollisesta, hän vain täpärästi välttää sen, ettei isohiisi hakkaa hänen päätänsä muusiksi!
 
 **Freya**: _"En usko, että selviän toisesta kamppailusta heidän johtajansa kanssa, joten yritän tönäistä hänet alas jyrkänteeltä!"_
 
@@ -134,9 +134,9 @@ On olemassa kolme yleistä tilannetta, joissa pelaajahahmon tulisi tehdä pelast
 
 **Freya**: _"Ja jos epäonnistun, putoan jyrkänteeltä, eikö niin? No niin.. Uskon, että voin tehdä tämän. Mutta kaiken varalta aion varmistaa, että minulla on Katinsormus sormessani!"_
 
-> Freya tekee STR-pelastusheittonsa yrittäessään tarttua isoonhiiteen ja heittää hänet alas jyrkänteeltä. Hän heittää 17, epäonnistuminen!
+> Freya tekee STR-pelastusheittonsa yrittäessään tarttua isohiiteen ja heittää hänet alas jyrkänteeltä. Hän heittää 17, epäonnistuminen!
 
-**Vartija**: _"Heidän johtajansa tarttuu sinuun ja heittää sinua taaksepäin, jolloin syöksyt jyrkänteeltä alas. Onneksi Katinsormus aktivoi viimeisen latauksensa, ja pystyt tarttumaan sirosti 3m alempana olevaan puun oksaan, joka ulkonee vuorenrinteestä. Sinulta kestää kaksi vuoroa kiivetä takaisin ylös, tai sinun täytyy tehdä DEX-pelastusheitto tehdäksesi se nopeasti."
+**Vartija**: _"Heidän johtajansa tarttuu sinuun ja heittää sinua taaksepäin, jolloin syöksyt jyrkänteeltä alas. Onneksi Katinsormus aktivoi viimeisen latauksensa, ja pystyt tarttumaan sirosti 3m alempana olevaan puun oksaan, joka ulkonee vuorenrinteestä. Sinulta kestää kaksi vuoroa kiivetä takaisin ylös, tai sinun täytyy tehdä DEX-pelastusheitto tehdäksesi se nopeasti."_
 
 **Freya**: _"Pahus. No, toivottavasti toverini pärjäävät tarpeeksi hyvin ilman minua, kunnes palaan..."_
 
@@ -152,7 +152,7 @@ On olemassa kolme yleistä tilannetta, joissa pelaajahahmon tulisi tehdä pelast
 
 **Wolfram**: _"Hetkinen! Antakaa minun mennä ensin. Veljeskuntani osaa paljastaa sen, mikä on piilossa, ja tunnen, että edessämme pimeydessä piilee jotakin pahaenteistä. Minä menen edeltä, astuen mahdollisimman varovasti, Tyhjyyslasin sirpaleeni valmiina."_
 
-**Vartija**: Wolfram, lähdet varovasti ylittämään siltaa, joka narskuu ja natisee joka askeleella. Se tuntuu kuitenkin kiinteältä jalkojesi alla. Kun seurue saavuttaa puolivälin, maa alkaa täristä rajusti puhjeten sitten halkeamiin. Näyttää siltä, että se alkaa romahtaa takaa!"_
+**Vartija**: _"Wolfram, lähdet varovasti ylittämään siltaa, joka narskuu ja natisee joka askeleella. Se tuntuu kuitenkin kiinteältä jalkojesi alla. Kun seurue saavuttaa puolivälin, maa alkaa täristä rajusti puhjeten sitten halkeamiin. Näyttää siltä, että se alkaa romahtaa takaa!"_
 
 **Wolfram**: _"Jos juoksemme vastakkaiselle puolelle, vaikuttaako siltä, että pääsemme turvallisesti perille?"_
 

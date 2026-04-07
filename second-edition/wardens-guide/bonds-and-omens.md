@@ -13,7 +13,7 @@ Siteet ja enteet antavat uusille pelaajahahmoille seikkailukoukkuja, aloitusvaru
 
 ## Siteet
 
-Pelaajahahmolla voi olla usein siteitä esimerkiksi toiseen pelaajahahmoon, pelympäristöön tai sen sivuhahmoihin. Pelaajahahmo voi ratkaista Siteen selvittämällä totuuden sen mysteerien takaa tai löytämällä sen perimmäisen syyn. Tällöin hahmon pitäisi kokea jonkinlaista Kasvua ja Vartija voi valinnaisesti luoda hahmolle uuden Siteen. Pelaajahahmojen ei tarvitse ratkaista Siteitään.
+Pelaajahahmolla voi olla usein siteitä esimerkiksi toiseen pelaajahahmoon, peliympäristöön tai sen sivuhahmoihin. Pelaajahahmo voi ratkaista Siteen selvittämällä totuuden sen mysteerien takaa tai löytämällä sen perimmäisen syyn. Tällöin hahmon pitäisi kokea jonkinlaista Kasvua ja Vartija voi valinnaisesti luoda hahmolle uuden Siteen. Pelaajahahmojen ei tarvitse ratkaista Siteitään.
 
 ### Siteiden tulisi...
 
@@ -24,10 +24,10 @@ Pelaajahahmolla voi olla usein siteitä esimerkiksi toiseen pelaajahahmoon, pely
 
 ## Enteet
 
-Enteet ovat lähtökohtia tuleville seikkailuille, aavistuksia tulevaisuudessa siintävästiä katastrofeista tai syy hahmojen parhaillaan kohtaamalle ongelmalle. Enne on ratkaistu, kun hahmot paljastavat totuuden sen alkuperästä tai selvittävät sen vaarat. Enteen ratkaisemisen tulisi tuottaa jonkinlaista Kasvua, joko koko seurueelle yhteisesti tai siihen sotkeutuneelle yksilölle. Jos Enne jätetään huomiotta, sen tulisi toteutua ja aiheuttaa mitä tahansa tuhoa sen tuleekin.
+Enteet ovat lähtökohtia tuleville seikkailuille, aavistuksia tulevaisuudessa siintävistä katastrofeista tai syy hahmojen parhaillaan kohtaamalle ongelmalle. Enne on ratkaistu, kun hahmot paljastavat totuuden sen alkuperästä tai selvittävät sen vaarat. Enteen ratkaisemisen tulisi tuottaa jonkinlaista Kasvua, joko koko seurueelle yhteisesti tai siihen sotkeutuneelle yksilölle. Jos Enne jätetään huomiotta, sen tulisi toteutua ja aiheuttaa mitä tahansa tuhoa sen tuleekin.
 
 ### Enteiden tulisi...
 
 - Olla riippumattomia tietystä pelaajahahmosta.
-- Kertoa aina hahmoille jotain peliympäristöstä jota he eivät jo tienneet.
-- Paljastaa kaava tai jokin muu ilmeinen merkki siitä että jotain kauheaa on tekeillä.
+- Kertoa aina hahmoille jotain peliympäristöstä, jota he eivät jo tienneet.
+- Paljastaa kaava tai jokin muu ilmeinen merkki siitä, että jotain kauheaa on tekeillä.

@@ -9,7 +9,7 @@ grand_parent: Toinen laitos
 
 ## Johdanto
 
-Cairnissa pelaajia rohkaistaan ratkaisemaan ongelmia esittämällä kysymyksiä, ajattelemalla kriittisesti ja pyrkiä pelimaailman tarinankerronan puitteissa saavuttamaan etulyöntiasema. Seuraavien periaatteiden ja esimerkkien pitäisi auttaa Vartijoita luomaan johdonmukaisia ja oikeudenmukaisia päätöksiä, jotka sekä haastavat että palkitsevat pelaajia heidän ponnisteluistaan.
+Cairnissa pelaajia rohkaistaan ratkaisemaan ongelmia esittämällä kysymyksiä, ajattelemalla kriittisesti ja pyrkiä pelimaailman tarinankerronnan puitteissa saavuttamaan etulyöntiasema. Seuraavien periaatteiden ja esimerkkien pitäisi auttaa Vartijoita luomaan johdonmukaisia ja oikeudenmukaisia päätöksiä, jotka sekä haastavat että palkitsevat pelaajia heidän ponnisteluistaan.
 
 ## Vaihtelevan vaikeustason periaatteet
 
@@ -31,13 +31,13 @@ Cairnissa pelaajia rohkaistaan ratkaisemaan ongelmia esittämällä kysymyksiä,
 
 > Freya heittää 13: onnistuminen!
 
-**Vartija**: _"Nappaat maasta kourallisen hiekkaa edestäsi ja heität sen suoraan vastustajasi kasvoihin. Hän horjahtaa taaksepäin eikä pysty puolustautumaan sillä välin kun hän ponnistelee saadakseen hiekat pois silmistään!" _
+**Vartija**: _"Nappaat maasta kourallisen hiekkaa edestäsi ja heität sen suoraan vastustajasi kasvoihin. Hän horjahtaa taaksepäin, eikä pysty puolustautumaan sillä välin kun hän ponnistelee saadakseen hiekat pois silmistään!"_
 
 > Metsäpeikko menettää vuoron yrittäessään poistaa hiekan kasvoiltaan. Hän ei voi nojautua HP:hen tässä tilanteessa; vahinko menee suoraan STR:ään!
 
-**Freya**: _"Tiedän, että minun pitäisi juosta... mutta en voi olla hyödyntämättä tätä tilannetta. Haluaisin esitellä tämän kaverin Kaksosille."_ _
+**Freya**: _"Tiedän, että minun pitäisi juosta... mutta en voi olla hyödyntämättä tätä tilannetta. Haluaisin esitellä tämän kaverin Kaksosille."_
 
-> Freya heittää tikareilleen d6+d6 (3 ja 5), aiheuttaen 5 pistettä vahinkoa suoraan Metsäpeikon STR-kykyyn. Vartija tekee sitten kriittisen vahingon pelastusheiton peikon puolesta, ssaaden 19: epäonnistuminen!
+> Freya heittää tikareilleen d6+d6 (3 ja 5), aiheuttaen 5 pistettä vahinkoa suoraan Metsäpeikon STR-kykyyn. Vartija tekee sitten kriittisen vahingon pelastusheiton peikon puolesta, saaden 19: epäonnistuminen!
 
 **Vahti**: _"Isket häntä molemmilla veitsillä, vihreä veri pursuaa avautuneista haavoista, samalla kun olento karjuu vihaisena. Katsotaan selviääkö se hyökkäyksestä! Oi, se epäonnistuu STR-pelastusheitossaan ja ottaa **kriittistä vahinkoa**! Se menettää tajuntansa!"_
 
@@ -59,9 +59,9 @@ Cairnissa pelaajia rohkaistaan ratkaisemaan ongelmia esittämällä kysymyksiä,
 
 **Freya**: _"Oletettavasti tämä tarkoittaa, että Wolfram ja minä voimme vakoilla saarta piilossa ollessamme, eikö vain? Ja että Lucius katselee yhä vastakkaiseen suuntaan ja teeskentelee puuhastelevansa juuttuneen pyöränsä kanssa?"_
 
-**Vartija**:_ "Kyllä vain. Sekä Wolfram että Freya kykenevät näkemään kärryn ritilöiden läpi, että jokin kiipesi saaren kivikasan alta ja hajotti niitä ympärilleen liikkuessaan kohti vettä. Ette tosin voi kertoa, mikä itseasiassa kiviä liikutti. Se on todella näkymätön! Katsellessanne se liukuu myrkyllisen veden syvyyksiin tehden hiljaisen loiskahduksen. Ja sen aallot suuntautuvat kohti teitä!"_
+**Vartija**: _"Kyllä vain. Sekä Wolfram että Freya kykenevät näkemään kärryn ritilöiden läpi, että jokin kiipesi saaren kivikasan alta ja hajotti niitä ympärilleen liikkuessaan kohti vettä. Ette tosin voi kertoa, mikä itseasiassa kiviä liikutti. Se on todella näkymätön! Katsellessanne se liukuu myrkyllisen veden syvyyksiin tehden hiljaisen loiskahduksen. Ja sen aallot suuntautuvat kohti teitä!"_
 
-**Wolfram**: _"No, nyt taitaa olla pars hetki ottaa esiin Tyhjyyslasin sirpaleeni! Sen avulla näen näkymättömiä olentoja, mutta sillä on silti kova lyöntivoima! En tosin pysty näkemään toisesta silmästäni tuntiin, ja sillä välin taistelutaitoni ovat... vähemmän tehokkaita. Voisinko ampua varsijousella samalla kun katson lasin läpi?" _
+**Wolfram**: _"No, nyt taitaa olla paras hetki ottaa esiin Tyhjyyslasin sirpaleeni! Sen avulla näen näkymättömiä olentoja, mutta sillä on silti kova lyöntivoima! En tosin pysty näkemään toisesta silmästäni tuntiin, ja sillä välin taistelutaitoni ovat... vähemmän tehokkaita. Voisinko ampua varsijousella samalla kun katson lasin läpi?"_
 
 **Vartija**: _"Tarvitset kaksi kättä varsijousta varten."_
 
@@ -75,7 +75,7 @@ Cairnissa pelaajia rohkaistaan ratkaisemaan ongelmia esittämällä kysymyksiä,
 
 > Wolfram heittää d8:lla, tuloksena 6! Koska olento ei tiennyt hyökkääjistään, vahinko menee suoraan STR-arvoon. Olento tekee kriittisen vahingon pelastusheiton ja tulos on 3: onnistuminen.
 
-**Vartija**: _"Vasama lävistää olennon ja sen ruumiista alkaa pursuamaan vihreää nestettä. Pinnat joille sitä laskeutuu, sihisevät kuin hapon kanssa kosketuksiin joutuneena. Se kääntyy kohti kärryjä, mutta ennen kuin se ehtii reagoida, Lucius heittää suuren säkkinsä sen ylle. Olento rimpuilee säkin sisällä, vääntyillen joka suuntaan."_
+**Vartija**: _"Vasama lävistää olennon ja sen ruumiista alkaa pursuamaan vihreää nestettä. Pinnat, joille sitä laskeutuu, sihisevät kuin hapon kanssa kosketuksiin joutuneena. Se kääntyy kohti kärryjä, mutta ennen kuin se ehtii reagoida, Lucius heittää suuren säkkinsä sen ylle. Olento rimpuilee säkin sisällä, vääntyillen joka suuntaan."_
 
 > Vartija tekee DEX-pelastusheiton olennolle selvittääkseen, pystyykö se nopeasti karkaamaan säkistä. Veden ulkopuolella sen DEX-kykyarvo on vain 8. Se heittää 12: epäonnistuminen. Koska olento ei kyennyt puolustautumaan, se sidotaan nopeasti ja laitetaan kärryihin, matkaa varten otetaan myös purkillinen myrkyllistä vettä. Yhdessä työskennellen seurue suuntaa nopeasti takaisin kohti kaupunkia.
 
@@ -87,7 +87,7 @@ Cairnissa pelaajia rohkaistaan ratkaisemaan ongelmia esittämällä kysymyksiä,
 
 **Lucius**: _"Hei, hyvät herrat! Sallitteko minun kysyä, olisiko kyläänne luvallista saapua tänä kauniina iltana? Minulla on pitkä matka takanani, mutta taskuni ovat täynnä kultaa ja haluaisin levitellä hieman hyvää onneani!"_
 
-**Vartija**: _"Miehet vilkaisevat toisiinsa. Viiksekäs vartija vastaa: "Ei sisäänpääsyä pimeän tultua. Se on sääntö.'"_
+**Vartija**: _"Miehet vilkaisevat toisiinsa. Viiksekäs vartija vastaa: 'Ei sisäänpääsyä pimeän tultua. Se on sääntö.'"_
 
 > Tässä vaiheessa Lucius laittaa kaiken viehätyksensä peliin ja käytännössä yrittää lahjoa vartijoita päästäkseen sisään. Hän on myös suurimmassa vaarassa tässä tilanteessa, sillä nämä kaksi miestä ovat hyvin varustautuneita selviytymään yksinäisestä matkustajasta ja heillä on lisäksi apuvoimia. Jos siihen tultaisiin, Luciuksen pitäisi tehdä WIL-pelastusheitto eikä vartijoiden.
 
@@ -109,7 +109,7 @@ Cairnissa pelaajia rohkaistaan ratkaisemaan ongelmia esittämällä kysymyksiä,
 
 **Freya**: _"Jos minusta alkaa tuntua siltä, että tämä henkilö saattaa kuulua samaan ryhmittymään kuin vihollisemme, haluaisin tehdä väijytyksen ja varastaa hänen vaatteensa. En halua aiheuttaa hälytystä, joten minun on toimittava rivakasti ja raivokkaasti."_
 
-**Vartija**: _"Selvä. Hänen on siis onnisuttava DEX-pelastusheitossa reagoidakseen ajoissa ja torjuakseen hyökkäyksesi. Tämä ei ehkä menisi niin siististi kuin toivot!"_
+**Vartija**: _"Selvä. Hänen on siis onnistuttava DEX-pelastusheitossa reagoidakseen ajoissa ja torjuakseen hyökkäyksesi. Tämä ei ehkä menisi niin siististi kuin toivot!"_
 
 **Freya**: _"Entä jos sen sijaan lyön hänet tajuttomaksi pudottamalla oksan hänen päälleen? Minulla on täällä jossain käsikirves."_
 
@@ -119,7 +119,7 @@ Cairnissa pelaajia rohkaistaan ratkaisemaan ongelmia esittämällä kysymyksiä,
 
 ## Taistelu on sotaa
 
-> **Wolfram**, **Lucius** ja **Freya** pakenevat kahdentoista kaupunginvartijan _joukko-osastoa_ [4 HP, 1 Panssari, 11 STR, 14 DEX, 12 WIL, lyhytmiekka (d6)], ja he suojautuvat metsän reunalla olevaan vanhaan palaneeseen etuvartioasemaan, jonne vie vain yhdet tikkaat. Sotilaat kantavat kukin lyhytmiekkaa ja jousta, lukuunottamatta heidän johtajaansa, pitkää miestä, jolla on kirkkaansiniset olkalaatat. Sotilaat tietävät, että ryhmä on hakeutunut etuvartioasemalle, ja keskustelevat keskenään turvallisen välimatkan päässä, hieman pohjoiseen siitä, missä ryhmä on kyyhöttämässä. _Joukko-osastoa_ kohdellaan yhtenä kokonaisuutena, kunnes se ottaa Kriittistä vahinkoa.
+> **Wolfram**, **Lucius** ja **Freya** pakenevat kahdentoista kaupunginvartijan _joukko-osastoa_ [4 HP, 1 Panssari, 11 STR, 14 DEX, 12 WIL, lyhytmiekka (d6)], ja he suojautuvat metsän reunalla olevaan vanhaan palaneeseen etuvartioasemaan, jonne vie vain yhdet tikkaat. Sotilaat kantavat kukin lyhytmiekkaa ja jousta, lukuun ottamatta heidän johtajaansa, pitkää miestä, jolla on kirkkaansiniset olkalaatat. Sotilaat tietävät, että ryhmä on hakeutunut etuvartioasemalle, ja keskustelevat keskenään turvallisen välimatkan päässä, hieman pohjoiseen siitä, missä ryhmä on kyyhöttämässä. _Joukko-osastoa_ kohdellaan yhtenä kokonaisuutena, kunnes se ottaa Kriittistä vahinkoa.
 
 **Vartija**: _"Etuvartioasemaa suojaa vain osittain sen jäljellä olevat seinät ja säleikköjen läpi näette sotilaiden hajaantuvan: kuusi suuntaa lounaaseen, puurajan viereen, kun taas loput (pitkä mies mukaan lukien) siirtyvät kaakkoon, missä seinä on eniten vaurioitunut. Näyttää siltä, että he suunnittelevat jonkinlaista pihtiliikettä ja saartaa teidät. Teillä on alle minuutti aikaa toimia, ennen kuin he pääsevät muuriseinän avonaiselle puolelle! Mitä teette?"_
 
@@ -127,19 +127,19 @@ Cairnissa pelaajia rohkaistaan ratkaisemaan ongelmia esittämällä kysymyksiä,
 
 **Lucius**: _"Olet aina niin suoraviivainen, Wolfie! Aion kaataa hieman kuuluisaa Ihmeöljyäni tänne johtaville tikkaille. Sen pitäisi olla sekä tehokasta että viihdyttävää!"_
 
-**Freya**: _"Ja mikä tarkalleen ottaen estää heitä vain ampumasta piilopaikkaamme eteläpuolen jättimäisten reikien läpi? Hyvällä lykyllä he vain odottavat kunnes meiltä loppuu muonat. Minulla on toinen idea: Työnnän pääni lattialuukusta ulos ja heitän savupommit rakennuksen molempia puolia kohti. Se takaisi meille etulyöntiaseman, sitten kun nämä kaksi muuta suunnitelmaa väistämättä epäonnistuvat!"_
+**Freya**: _"Ja mikä tarkalleen ottaen estää heitä vain ampumasta piilopaikkaamme eteläpuolen jättimäisten reikien läpi? Hyvällä lykyllä he vain odottavat, kunnes meiltä loppuu muonat. Minulla on toinen idea: Työnnän pääni lattialuukusta ulos ja heitän savupommit rakennuksen molempia puolia kohti. Se takaisi meille etulyöntiaseman, sitten kun nämä kaksi muuta suunnitelmaa väistämättä epäonnistuvat!"_
 
-**Lucius**: _"Öh, taidan sitten käyttää öljyäni heti sen jälkeen, kun hän on heittänyt savupommit, vai?"_
+**Lucius**: _"Öh, taidan sitten käyttää öljyäni heti sen jälkeen kun hän on heittänyt savupommit, vai?"_
 
-**Vartija**: _"Sen pitäisi olla ihan ok, kyllä. Mutta huomioi, että taistelu alkaa virallisesti heti, kun Wolfram nousee ampumaan. Ja koska olette kaikki valmistautuneita, ei tarvitse tehdä DEX-pelastusheittoa: teidän vuoronne on ensin."_
+**Vartija**: _"Sen pitäisi olla ihan ok, kyllä. Mutta huomioi, että taistelu alkaa virallisesti heti kun Wolfram nousee ampumaan. Ja koska olette kaikki valmistautuneita, ei tarvitse tehdä DEX-pelastusheittoa: teidän vuoronne on ensin."_
 
 **Vartija**: _"Sotilaat jatkavat liikettään, kunnes lopulta johtaja vetää miekkansa ilmaan ja huutaa: 'Hyökätkää!' Ja sitten sotilaat ryntäävät teitä kohti. Kaikki tapahtuu samanaikaisesti. Wolfram nousee seisomaan ja ampuu varsijousellaan johtajaa kohti. Koska johtaja on osa joukko-osastoa, Wolfram saa heittää vain d4:llä."_
 
-> Woframin hyökkäyksen tulos on 3, ja koska johtajan kypärä vie yhden pisteen vahinkoa, hän menettää vain 2 HP: tä.
+> Woframin hyökkäyksen tulos on 3, ja koska johtajan kypärä vie yhden pisteen vahinkoa, hän menettää vain 2 HP:tä.
 
 **Vartija**: _"Nuoli viuhahtaa johtajan olkapään ohi ja repäisee hänen kirkkaanväristä olkalaattaansa. Hän irvistää ja ryntää eteenpäin kohti rakennuksen itäpuolta. Freya, kurkkaat samaan aikaan lattialuukusta ulos ja heität savupommeja rakennuksen itä- ja länsipuolille - merkitse 2 käyttökertaa, kiitos. Lucius, seisot hänen takanaan, ja heti kun hän siirtyy pois, kaadat Ihmeöljyä askeltikkaille."_
 
-**Vartija**: _"Kun savu täyttää rakennuksen kummankin puolen, toveria ja vihollista on mahdotonta enää erottaa toisistaan. Osa miehistä yrittävää kiivetä tikkaita, mutta liukuvat heti alas ja tipahtavat alas kasassa. Vihollisenne ovat pääosin menettäneet vuoronsa, mutta savu alkaa hälvetä. Yskimisen ja huutojen keskeltä kuulette äänen huutavan: "Polttakaa se maan tasalle!"_
+**Vartija**: _"Kun savu täyttää rakennuksen kummankin puolen, toveria ja vihollista on mahdotonta enää erottaa toisistaan. Osa miehistä yrittävää kiivetä tikkaita, mutta liukuvat heti alas ja tipahtavat alas kasassa. Vihollisenne ovat pääosin menettäneet vuoronsa, mutta savu alkaa hälvetä. Yskimisen ja huutojen keskeltä kuulette äänen huutavan: 'Polttakaa se maan tasalle!'"_
 
 **Wolfram**: _"No, saimme sentään hieman aikaa. Hei, Lucius, kuinka syttyvää tuo sinun öljysi on?"_
 
@@ -147,7 +147,7 @@ Cairnissa pelaajia rohkaistaan ratkaisemaan ongelmia esittämällä kysymyksiä,
 
 **Freya**: _"No, onhan tämä ollut hauskaa, mutta mieluummin kuolen taistellen tuolla alhaalla kuin palan elävältä täällä ylhäällä teidän kanssanne! Ei millään pahalla."_
 
-**Wolfram**: _"Älä huoli. Yritä jos saisit eliminoitua heidän johtajansa sillä välin kun me yritämme avata pakoreitin."_
+**Wolfram**: _"Älä huoli. Yritä jos saisit eliminoitua heidän johtajansa sillä välin, kun me yritämme avata pakoreitin."_
 
 **Wolfram**: _"Aion loihtia Irrottelun itseeni ja huutaa sitten 'hän yrittää repiä käteni irti!' Pudottaudun sitten maahan ja alan juosta ympäri. Lucius, kun käsivarteni ovat irrotettu, haluan, että otat ne ja tulet perääni."_
 
@@ -157,11 +157,11 @@ Cairnissa pelaajia rohkaistaan ratkaisemaan ongelmia esittämällä kysymyksiä,
 
 **Freya**: _"Heidän johtajansa, ja minä käytän Kaksosia."_
 
-**Vartija**:_ "Selvä juttu. Freya hyppää alas kohti savuavaa maata ja pyrkii kohti johtajaa. Hän vetää kaksoistikarinsa esiin, mutta koska hän hyökkää edelleen joukko-oosaston kimppuun, hänen on edelleen heitettävä vain d4 kummankin tikarin kohdalla."_
+**Vartija**: _"Selvä juttu. Freya hyppää alas kohti savuavaa maata ja pyrkii kohti johtajaa. Hän vetää kaksoistikarinsa esiin, mutta koska hän hyökkää edelleen joukko-osaston kimppuun, hänen on edelleen heitettävä vain d4 kummankin tikarin kohdalla."_
 
-> Freya tekee kaksi d4-heittoa, 4 ja 1. Hän pitää korkeamman tuoksen, ja johtajan kypärä vie taas yhden pisteen vahinkoa. Loput 3 vahinkoa riittävät laukaisemaan Kriittisen vahingon pelastusheiton joukko-osastolle. Tulos on 15 (epäonnistuminen), ja johtajan kukistumisen myötä joukko-osasto on sekä murtunut että hajonnut.
+> Freya tekee kaksi d4-heittoa, 4 ja 1. Hän pitää korkeamman tuloksen, ja johtajan kypärä vie taas yhden pisteen vahinkoa. Loput 3 vahinkoa riittävät laukaisemaan Kriittisen vahingon pelastusheiton joukko-osastolle. Tulos on 15 (epäonnistuminen), ja johtajan kukistumisen myötä joukko-osasto on sekä murtunut että hajonnut.
 
-**Vartija**: _"Freya viiltää johtajaa kohti, mutta hänen tikarinsa menee ohi, kun tämä ottaa onnekkaan askeleen taaksepäin. Toisessa hyökkäyksessä johtaja ei kuitenkaan ole yhtä onnekas, sillä Freya iskee häntä rintaan. Hän lyyhistyy ja hänen lähellään olevat huutavat hämmästyneinä; jotkut alkavat jopa perääntyä. Juuri tällä hetkellä kuulet huudon ja näet sitten Wolframin hyppäävän maahan etuvartioasemasta ja alkavan juosta ympäriinsä, perässään Lucius pitelemässä molempia ystävänsä käsivarsia. Tämän jälkeen muut sotilaat poimivat johtajansa ja kiiruhtavat takaisin kukkulan reunalle huutaen "Noituutta!" ja "Meitä ei oltu koulutettu tähän!"_
+**Vartija**: _"Freya viiltää johtajaa kohti, mutta hänen tikarinsa menee ohi, kun tämä ottaa onnekkaan askeleen taaksepäin. Toisessa hyökkäyksessä johtaja ei kuitenkaan ole yhtä onnekas, sillä Freya iskee häntä rintaan. Hän lyyhistyy ja hänen lähellään olevat huutavat hämmästyneinä; jotkut alkavat jopa perääntyä. Juuri tällä hetkellä kuulet huudon ja näet sitten Wolframin hyppäävän maahan etuvartioasemasta ja alkavan juosta ympäriinsä, perässään Lucius pitelemässä molempia ystävänsä käsivarsia. Tämän jälkeen muut sotilaat poimivat johtajansa ja kiiruhtavat takaisin kukkulan reunalle huutaen 'Noituutta!' ja 'Meitä ei ollut koulutettu tähän!'"_
 
 **Wolfram**: _"Tiesin, että se toimisi!"_
 

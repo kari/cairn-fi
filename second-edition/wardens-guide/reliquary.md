@@ -59,7 +59,7 @@ grand_parent: Toinen laitos
 
 ## Kähmijän kaverit
 
-- Pehmeät nahkakengät, jotka mukautuvat sopimaan mihin tahansa kokoon. Jättää jälkeensä jalnjälkiä, jotka hajaantuvat ja kääntyilevät hämmentävästi, mikä tekee jäljittämisestä lähes mahdotonta.
+- Pehmeät nahkakengät, jotka mukautuvat sopimaan mihin tahansa kokoon. Jättää jälkeensä jalanjälkiä, jotka hajaantuvat ja kääntyilevät hämmentävästi, mikä tekee jäljittämisestä lähes mahdotonta.
 
 ## Porttiliitu, 1 käyttö, _mitätön_
 
@@ -71,8 +71,8 @@ grand_parent: Toinen laitos
 
 ## Juorulaatikko, 1 lataus
 
-- Kierrä kampea toistaaksesi mikä tahansa ääni, joka tehtiin viimeisen päivän aikana nykyisessä sijainnissasi. Jokainen käänös vääntää yhden tunnin taaksepäin.
-- **Lataus**: Onnistu levittämään yksi valhe laatikon läsnäollessa.
+- Kierrä kampea toistaaksesi mikä tahansa ääni, joka tehtiin viimeisen päivän aikana nykyisessä sijainnissasi. Jokainen käännös vääntää yhden tunnin taaksepäin.
+- **Lataus**: Onnistu levittämään yksi valhe laatikon läsnä ollessa.
 
 ## Airueen kello, 1 lataus
 
@@ -89,7 +89,7 @@ grand_parent: Toinen laitos
 
 ## Muurahaispurkki
 
-- Riko vapauttaaksesi tulimuurahaisyhdyskunta [6 HP, 2 STR, 10 DEX, 1 WIL, puraisu (d10), _joukko-osassto_]. Kuluttaa muona-annoksen joka toinen päivä.
+- Riko vapauttaaksesi tulimuurahaisyhdyskunta [6 HP, 2 STR, 10 DEX, 1 WIL, puraisu (d10), _joukko-osasto_]. Kuluttaa muona-annoksen joka toinen päivä.
 
 ## Viimeinen henkäys (d6), 1 lataus
 
@@ -135,7 +135,7 @@ grand_parent: Toinen laitos
 
 ## Käärmeensormus, 1 lataus, _mitätön_
 
-- Takorautainen käärmesormus. Aseta se sormeesi ja vaipu niin syvään uneen, että useimmat luulevat sinua kuolleeksi. Jos sormus poistetaan, heräät virkistyneenä. Muuten vaikutus häviää kuukauden kuluttua.
+- Takorautainen käärmesormus. Aseta se sormeesi ja vaivu niin syvään uneen, että useimmat luulevat sinua kuolleeksi. Jos sormus poistetaan, heräät virkistyneenä. Muuten vaikutus häviää kuukauden kuluttua.
 - **Lataus**: Hautaa sormus ruumiin kanssa. Kuukautta myöhemmin kaiva ruumis esiin ja ota sormus takaisin.
 
 ## Roklinnun sulka, 1 käyttö
@@ -184,11 +184,11 @@ grand_parent: Toinen laitos
 
 ## Vuorenääni, 1 käyttö
 
-- Karkea pikkukivi, joka on täynnä vuoriston hengen ydintä. Murskaa kutsuaksesi esiin maanjäristys tai vastaavaa luonnonkatastrofi. Älä odota että säästyt siltä.
+- Karkea pikkukivi, joka on täynnä vuoriston hengen ydintä. Murskaa kutsuaksesi esiin maanjäristys tai vastaavaa luonnonkatastrofi. Älä odota, että säästyt siltä.
 
 ## Suojeluskivi, 1 käyttö
 
-- Tasainen, vaatimattoman näköinen jokikivi, johon on kaiverettu haalistuneita symboleja. Murskaaminen vapauttaa hopeanhohtoista jauhetta 6 metrin säteellä, joka rauhoittaa jokaisen sitä hengittävän.
+- Tasainen, vaatimattoman näköinen jokikivi, johon on kaiverrettu haalistuneita symboleja. Murskaaminen vapauttaa hopeanhohtoista jauhetta 6 metrin säteellä, joka rauhoittaa jokaisen sitä hengittävän.
 
 ## Kuiskausmyrtti, 1 käyttö
 
