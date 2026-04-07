@@ -5,7 +5,7 @@ parent: Taustat
 grand_parent: Toinen laitos
 ---
 
-# Luunvartija
+# Luunvartija (Bonekeeper)
 
 > Sinä olet poismenneiden paimen. Kuuntelet kuolleiden viimeisiä kuiskauksia, kun he laskeutuvat kylmään, taipumattomaan maahan. Tiedät että juhliaksemme täysin elämän lahjaa, meidän on kunnioitettava myös sen loppua.
 

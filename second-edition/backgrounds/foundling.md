@@ -5,7 +5,7 @@ parent: Taustat
 grand_parent: Toinen laitos
 ---
 
-# Löytölapsi
+# Löytölapsi (Foundling)
 
 > Outo syntymämerkki, kummallinen haju: jotenkin _muun_ kosketus viipyy yhä. Missä tahansa oletkin, sinulla on vaikeuksia sopeutua joukkoon. Heitä **Enne**-taulukkoa (vaikka et olisikaan nuorin pelaaja), mutta pidä tulokset toistaiseksi omana tietonasi.
 

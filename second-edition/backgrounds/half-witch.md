@@ -5,7 +5,7 @@ parent: Taustat
 grand_parent: Toinen laitos
 ---
 
-# Noidanpuolikas
+# Noidanpuolikas (Half-witch)
 
 > Syntynyt sekä kuolevaisten että piilotetusta maailmasta, olet joillekin arvoitus ja monille pelätty. Sinun on tarina siitä kun kaksi maailmaa törmää toisiinsa.
 

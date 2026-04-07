@@ -5,7 +5,7 @@ parent: Taustat
 grand_parent: Toinen laitos
 ---
 
-# Sulkatuuli
+# Sulkatuuli (Fletchwind)
 
 > Isket kaukaa, mutta se ei tee sinusta pelkuria. Olet muusikko, jousesi jänteen laulu on vain varoitus, joka laulaa hiljaisen lupauksen nopeasta kuolemasta.
 

@@ -5,7 +5,7 @@ parent: Taustat
 grand_parent: Toinen laitos
 ---
 
-# Kattilamaakari
+# Kattilamaakari (Kettlewright)
 
 > Sinut tunnetaan sulan metallin hajusta ja tinan helinästä. Et ole pelkkä kauppias vaan tulen ja metallin käsityöläinen.
 
@@ -25,14 +25,14 @@ Fergus, Eon, Bram, Idris, Hester, Darragh, Seren, Rónán, Berek, Lorenz
 
 ## Mikä on alaasi? Heitä 1d6:
 
-|       |                                                                                                                                                                                                                                                    |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | Rakennat pieniä härveleitä paikallisille killoille (etkä kysele liikaa). Ota 40gp ylimääräistä sekä etsintäkuulutusjuliste naamallasi. Jos aikaa ja materiaaleja on riittävästi, voit avata melkein minkä tahansa oven tai holvin.                 |
+|       |                                                                                                                                                                                                                                                         |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | Rakennat pieniä härveleitä paikallisille killoille (etkä kysele liikaa). Ota 40gp ylimääräistä sekä etsintäkuulutusjuliste naamallasi. Jos aikaa ja materiaaleja on riittävästi, voit avata melkein minkä tahansa oven tai holvin.                      |
 | **2** | Kotitarvikkeet ja työkalut ovat omaa alaasi, ja kaupittelet tuotteitasi kaupunkilaisille eri puolilla maata. Ota 20gp:n arvosta esineitä [varustetaulukosta](/second-edition/players-guide/marketplace#varusteet). Puhut sujuvasti Matkaajien Murretta. |
-| **3** | Olit sotavoimissa sulattaja, ennen kuin rauha tuhosi elinkeinosi. Ota **sulatusvasara** (d10, _kookas_) ja **tinakypärä** (+1 Panssari). Jos aikaa ja materiaaleja on riittävästi, voit korjata haarniskoita.                                      |
-| **4** | Myyt harvinaisia ja laadukkaita esineitä niin luostareille kuin aatelisillekin. Ota **Kaukoputki**, **Kaulakoru** (_mitätön_, arvo 20gp), ja [Peilivaelluksen](/second-edition/wardens-guide/spellbooks) **Käärö** (_mitätön_).                    |
-| **5** | Tarjoat suojelupalvelua, vahdit hiljaa uhkien varalta kun raha vaihtaa omistajaa. Sinulla on aluksi **+d4 HP**:tä ja kannat **Pitkämiekkaa** (d10, _kookas_) ja **Gambesonia** (+1 Panssari).                                                      |
-| **6** | Keräät raakaa tinaa ja rautaa taistelukentiltä, ja vedät hampaita vielä kouristelevilta ruumiilta. Aloita nuorella **Aasilla** (+4 paikkaa, hidas), **Varsijousella** (d8 vahinkoa, _kookas_) ja **Sahalla** (d6).                                 |
+| **3** | Olit sotavoimissa sulattaja, ennen kuin rauha tuhosi elinkeinosi. Ota **sulatusvasara** (d10, _kookas_) ja **tinakypärä** (+1 Panssari). Jos aikaa ja materiaaleja on riittävästi, voit korjata haarniskoita.                                           |
+| **4** | Myyt harvinaisia ja laadukkaita esineitä niin luostareille kuin aatelisillekin. Ota **Kaukoputki**, **Kaulakoru** (_mitätön_, arvo 20gp), ja [Peilivaelluksen](/second-edition/wardens-guide/spellbooks) **Käärö** (_mitätön_).                         |
+| **5** | Tarjoat suojelupalvelua, vahdit hiljaa uhkien varalta kun raha vaihtaa omistajaa. Sinulla on aluksi **+d4 HP**:tä ja kannat **Pitkämiekkaa** (d10, _kookas_) ja **Gambesonia** (+1 Panssari).                                                           |
+| **6** | Keräät raakaa tinaa ja rautaa taistelukentiltä, ja vedät hampaita vielä kouristelevilta ruumiilta. Aloita nuorella **Aasilla** (+4 paikkaa, hidas), **Varsijousella** (d8 vahinkoa, _kookas_) ja **Sahalla** (d6).                                      |
 
 ## Mikä ei koskaan petä sinua pääsemään vaikeuksista? Heitä 1d6:
 

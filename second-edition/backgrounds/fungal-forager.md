@@ -5,7 +5,7 @@ parent: Taustat
 grand_parent: Toinen laitos
 ---
 
-# Sienestäjä
+# Sienestäjä (Fungal Forager)
 
 > Seuraat kuiskauksia syvältä maan alta, pinnan alla kasvavan sienirihmastometsän rytmikästä sykettä. Pimeys ei kauhistuta sinua. Lisäksi sinä todella rakastat sieniä.
 

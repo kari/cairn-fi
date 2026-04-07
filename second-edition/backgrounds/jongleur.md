@@ -5,7 +5,7 @@ parent: Taustat
 grand_parent: Toinen laitos
 ---
 
-# Jonglööri
+# Jonglööri (Jongleur)
 
 > Mikä inspiroi sielua enemmän kuin laulut, sanat ja näytelmät? Miksi harjoitella vuosikausia hallitsemaan salaperäisyyksiä, kun sisälläsi on jo todellista taikuutta?
 

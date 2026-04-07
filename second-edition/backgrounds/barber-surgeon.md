@@ -5,7 +5,7 @@ parent: Taustat
 grand_parent: Toinen laitos
 ---
 
-# Välskäri
+# Välskäri (Barber Surgeon)
 
 > Kuljet parantajan ja rääkkääjän välimaastossa, tunnet niin lihan haurauden kuin sen piilevät salaisuudet. Oikeilla työkaluilla elämä ja kuolema ovat vain sanoja.
 

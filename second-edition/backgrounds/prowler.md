@@ -5,7 +5,7 @@ parent: Taustat
 grand_parent: Toinen laitos
 ---
 
-# Vaanija
+# Vaanija (Prowler)
 
 > Olet öinen haamu, ohikiitävä varjo, joka livahtaa saaliinsa luo sen huomaamatta. Jokainen tappo on oveluuden ja eläimellisen päättäväisyyden koitos, elämän ja kuoleman välinen taistelu. Tiedät, että jonain päivänä häviät. Odotat sitä innolla.
 

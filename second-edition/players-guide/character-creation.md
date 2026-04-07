@@ -25,7 +25,7 @@ grand_parent: Toinen laitos
 | **5**   | [Luunvartija](/second-edition/backgrounds/bonekeeper/)     | **15**  | [Sienestäjä](/second-edition/backgrounds/fungal-forager)   |
 | **6**   | [Löytölapsi](/second-edition/backgrounds/foundling)        | **16**  | [Sulkatuuli](/second-edition/backgrounds/fletchwind)       |
 | **7**   | [Noidanpuolikas](/second-edition/backgrounds/half-witch)   | **17**  | [Taskuvaras](/second-edition/backgrounds/cutpurse)         |
-| **8**   | [Noidansurma](/second-edition/backgrounds/hexenbane)       | **18**  | [Vaanija](/second-edition/backgrounds/prowler)             |
+| **8**   | [Noidansurmaaja](/second-edition/backgrounds/hexenbane)    | **18**  | [Vaanija](/second-edition/backgrounds/prowler)             |
 | **9**   | [Pedonhoitaja](/second-edition/backgrounds/beast-handler)  | **19**  | [Vihertaituri](/second-edition/backgrounds/greenwise/)     |
 | **10**  | [Pellonvartija](/second-edition/backgrounds/fieldwarden/)  | **20**  | [Välskäri](/second-edition/backgrounds/barber-surgeon)     |
 

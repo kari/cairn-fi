@@ -5,7 +5,7 @@ parent: Taustat
 grand_parent: Toinen laitos
 ---
 
-# Vihertaituri
+# Vihertaituri (Greenwise)
 
 > Matkaa syvälle **Korpeen**, urkit sen salaisuuksia karheiden oksien ja kuiskaavien lehtien välistä. Et ole pelkkä vehreän valtakunnan tutkija vaan myös sen uskottu ystävä.
 

@@ -5,7 +5,7 @@ parent: Taustat
 grand_parent: Toinen laitos
 ---
 
-# Rajavartija
+# Rajavartija (Marchguard)
 
 > Verivala sitoo partioimaan rajoja ja suojelemaan valtakuntaa. Kerran vannottua Valaa ei voi rikkoa. Kaarti löytää aina omansa.
 

@@ -1,11 +1,11 @@
 ---
-title: Noidansurma
+title: Noidansurmaaja
 layout: default
 parent: Taustat
 grand_parent: Toinen laitos
 ---
 
-# Noidansurma
+# Noidansurmaaja (Hexenbane)
 
 > Olet pelkkä sormi oikeuden erehtymättömässä kädessä. Menet sinne minne muut eivät uskalla astua, periksiantamattomana ja rikkomattomana.
 
@@ -36,7 +36,7 @@ Percival, Felix, Isolde, Wolfram, Aldric, Eira, Oswin, Ivor, Brunhilda, Beatrix
 
 ## Mikä oli valasi? Heitä 1d6:
 
-|       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|       |                                                                                                                                                                                                                                                                                                                                                                       |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Rehellisyys**. Valitse **asetyyppi** (tylppä, miekka jne.). Tämäntyyppiset sinuun kohdistuvat hyökkäykset ovat _heikentyneitä_. Jos valasi rikkoutuu, menetät d4 WILiä.                                                                                                                                                                                             |
 | **2** | **Köyhyys**. Sinulla on mukanasi _Irrottelu_-**loitsukirja**. Vain sinä voit käyttää sitä. Jos valasi rikkoutuu, se räjähtää (d12 STR-vahinkoa). Irrottelu: Mikä vain ruumiinosasi voidaan halutessasi irrottaa ja kiinnittää uudelleen, aiheuttamatta kipua tai vahinkoa. Voit silti hallita niitä. _Kaikki repeytyneet tai turmeltuneet sivut uusiutuvat takaisin._ |

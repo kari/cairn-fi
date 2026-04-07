@@ -5,7 +5,7 @@ parent: Taustat
 grand_parent: Toinen laitos
 ---
 
-# Kirjuri
+# Kirjuri (Scrivener)
 
 > Kopioit muinaisia tekstejä ja koristelet käsikirjoituksia, tallentaen niin älykkäiden, suurten kuin mahtavien sanomaa. Todistat että kynä on todellakin miekkaa mahtavampi.
 

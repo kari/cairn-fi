@@ -17,7 +17,7 @@ Vakiintuneet polut suurempien kaupunkien välillä ovat melko yleisiä, kun taas
 
 Pienimmissäkin kylissä saattaa olla oppineita kaupungeista: Kirjureita, Salaseppiä tai Vihertaitureita, jotka ovat kiinnostuneita läheisistä haudoista, hautakammioista ja Porteista. Usein Luunvartija tai Sienestäjä palkataan asiantuntemuksensa vuoksi, kun taas nokkelat seikkailijat pitävät huolta siitä, että Välskäri ei ole koskaan kaukana, kuten ei Taskuvaraskaan, jos hieman halpamaisemmat teot ovat tarpeen. Tietysti tämäntyyppisten seurueiden lähistöltä löytyy usein myös Puoskareita ja Jonglööreitä, jotka seuraavat kintereillä siinä toivossa, että hekin hyötyisivät seuraavasta suuresta löydöstä.
 
-Korpeen astuvat palkkaavat alueen hyvin tuntevan oppaan, kuten Vaanijan tai Sulkatuulen, kun taas todella päättäväinen matkaaja kysyy viisautta Noidanpuolikkaalta tai Löytölapselta, jolla on jonkinlainen yhteys sen pimeisiin salaisuuksiin. Lähempänä rajaa Rajavartija työskentelee pitääkseen valtakunnan vapaana ulkopuoliselta vaikutukselta, kun taas Noidansurma pyrkii suojelemaan sitä sen sisäisiltä voimilta.
+Korpeen astuvat palkkaavat alueen hyvin tuntevan oppaan, kuten Vaanijan tai Sulkatuulen, kun taas todella päättäväinen matkaaja kysyy viisautta Noidanpuolikkaalta tai Löytölapselta, jolla on jonkinlainen yhteys sen pimeisiin salaisuuksiin. Lähempänä rajaa Rajavartija työskentelee pitääkseen valtakunnan vapaana ulkopuoliselta vaikutukselta, kun taas Noidansurmaaja pyrkii suojelemaan sitä sen sisäisiltä voimilta.
 
 ## Korpi
 

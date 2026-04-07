@@ -5,7 +5,7 @@ parent: Taustat
 grand_parent: Toinen laitos
 ---
 
-# Pellonvartija
+# Pellonvartija (Fieldwarden)
 
 > Sadon suojelijoita, jotka puolustavat sitä tuholaisia, varkaita ja petoja vastaan. Suuri kunniatehtävä, niin kauan kuin sitä kestää: monet vartijat eivät elä luonnollista elämäänsä loppuun asti. Heitä toisen kerran **Siteet**-taulukolla.
 
@@ -25,7 +25,7 @@ Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye
 
 ## Mikä sai sinusta yliotteen? Heitä 1d6:
 
-|       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|       |                                                                                                                                                                                                                                                                                                                                           |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | Ahnas tuholaisparvi, joka nielaisi niin sadon kuin eläimiäkin. Kun ei enää ollut mitään puolustettavaa, lähdit pois. Ota **Puhurisiemenuute** (3 käyttöä).  Sitä nauttimalla voit juosta nelinkertaisella nopeudella normaaliin vauhtiisi verrattuna. Sen jälkeen lisää kaksi **Väsymystä**.                                              |
 | **2** | Sadon henki, joka suuttui vähäisistä kymmenyksistä. Tuli söi lähes kaiken, ja jälkikäteen sait kerättyä pussillisen **Tulisiemeniä** (d8, _räjähdys_, 4 käyttöä).                                                                                                                                                                         |

@@ -5,7 +5,7 @@ parent: Taustat
 grand_parent: Toinen laitos
 ---
 
-# Puoskari
+# Puoskari (Mountebank)
 
 > Nokkeluus on terävin aseesi, kulissisi vahvin kilpesi. Mutta kun häviät, häviät pahasti.
 

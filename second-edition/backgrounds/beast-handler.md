@@ -5,7 +5,7 @@ parent: Taustat
 grand_parent: Toinen laitos
 ---
 
-# Pedonhoitaja
+# Pedonhoitaja (Beast Handler)
 
 > Vain sinä voit kulkea villien olentojen keskellä ilman pelkoa ja tilanne hallinnassa. Sinulla on eläimiin yhteys, josta muut voivat vain uneksia... kunhan sinusta ei vain tule niiden suupalaa.
 

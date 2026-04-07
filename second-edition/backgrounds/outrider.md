@@ -5,7 +5,7 @@ parent: Taustat
 grand_parent: Toinen laitos
 ---
 
-# Eräratsastaja
+# Eräratsastaja (Outrider)
 
 > Tulosi tulevat karavaanareiden saattamisesta, karkureiden jäljittämisestä tai tarjoamalla miekkaasi jotain tarkoitusta varten. Olet ollut niin pelastaja, teloittaja, sankari kuin jopa roisto. Sinun polkusi ei kuitenkaan ole yksinäinen: sinulla on aina hevosesi.
 
