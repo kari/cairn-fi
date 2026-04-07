@@ -117,7 +117,7 @@ Cairnissa pelaajia rohkaistaan ratkaisemaan ongelmia esittämällä kysymyksiä,
 
 > Freya ryntää takaisin polkua pitkin, kiipeää puuhun ja alkaa hakata kirveellään oksaa. Hän tekee STR-pelastusheiton: 7, onnistuminen! Hän iskee oksaa juuri oikealla hetkellä ja se putoaa hänen alapuolellaan olevan yksinäisen kulkijan päälle, jolloin tämä menee tajuttomaksi. Freya varastaa hänen vaatteensa ja soihtunsa ja jatkaa sitten polkua pitkin kohti leiriä.
 
-## Taistelu on sotaa
+### Taistelu on sotaa
 
 > **Wolfram**, **Lucius** ja **Freya** pakenevat kahdentoista kaupunginvartijan _joukko-osastoa_ [4 HP, 1 Panssari, 11 STR, 14 DEX, 12 WIL, lyhytmiekka (d6)], ja he suojautuvat metsän reunalla olevaan vanhaan palaneeseen etuvartioasemaan, jonne vie vain yhdet tikkaat. Sotilaat kantavat kukin lyhytmiekkaa ja jousta, lukuun ottamatta heidän johtajaansa, pitkää miestä, jolla on kirkkaansiniset olkalaatat. Sotilaat tietävät, että ryhmä on hakeutunut etuvartioasemalle, ja keskustelevat keskenään turvallisen välimatkan päässä, hieman pohjoiseen siitä, missä ryhmä on kyyhöttämässä. _Joukko-osastoa_ kohdellaan yhtenä kokonaisuutena, kunnes se ottaa Kriittistä vahinkoa.
 
