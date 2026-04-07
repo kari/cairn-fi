@@ -75,7 +75,7 @@ grand_parent: Toinen laitos
 6 HP, 13 STR, 12 DEX, 15 WIL, puraisu (d8)
 
 - Valtavia hämähäkkejä, joilla on vihertävän musta iho ja suuret aivot. Pystyvät halutessaan muuttamaan muotoaan ihmiseksi.
-- Harjoittvat maagisia tutkimuksiaan pimeissä, verkkojen täyttämissä luolastoissa. Kantavat loitsukirjoja _Lumous_ ja _Käsky_ aina mukanaan.
+- Harjoittavat maagisia tutkimuksiaan pimeissä, verkkojen täyttämissä luolastoissa. Kantavat loitsukirjoja _Lumous_ ja _Käsky_ aina mukanaan.
 - Tulivahinko Aranea vastaan on _vahvennettu_.
 
 ## Banshee
@@ -182,8 +182,8 @@ grand_parent: Toinen laitos
 
 4 HP, 12 STR, 13 DEX, 5 WIL, sarvet (d8)
 
-- Syntyvät ahneen tai itsekkän teon aiheuttaman väkivallan seurauksena.
-- Tappavavat uhrinsa ravinnokseen, mutta ei saa siitä helpotusta. Ovat alati nälkäisiä.
+- Syntyvät ahneen tai itsekkään teon aiheuttaman väkivallan seurauksena.
+- Tappavat uhrinsa ravinnokseen, mutta ei saa siitä helpotusta. Ovat alati nälkäisiä.
 - **Kriittinen vahinko**: Viiltävät uhriansa repimällä niiden sisälmykset esiin.
 
 ## Hydra
@@ -234,7 +234,7 @@ grand_parent: Toinen laitos
 
 4 HP, 8 STR, 14 DEX, 8 WIL, keihäs (d6)
 
-- Välttää taistelua ellei niillä ole etulyöntiasemaa (kuten suurempi vahvuus).
+- Välttää taistelua, ellei niillä ole etulyöntiasemaa (kuten suurempi vahvuus).
 - Varjelevat varastamiaan tavaroita kuolemaan asti.
 - Juurakkohiidet arvostavat loitsukirjoja ja ovat aina halukkaita vaihtokauppaan.
 
@@ -274,7 +274,7 @@ grand_parent: Toinen laitos
 
 - Voimakkaita taikureita, jotka maksoivat äärimmäisen hinnan kuolemattomuudestaan: oman henkensä. Nyt heidän vallanhimonsa ei tunne rajoja.
 - Ylläpitävät epäelämäänsä sitomalla itsensä maalliseen artefaktiin, jota tyypillisesti suojelee vähintään d6 muuta epäkuollutta palvelijaa.
-- Kantavat mukanaan enintään kuutta seuraavista loitsukirjoista: _Esineen elävöitys_, _Loihtosilmä_, _Kuuroutus_, _Irrottelu_, _Elementaalivalli_, _Raivo_, _Portti_, _Leijailu_, _Vihanpito_, _Omistajan tunnistus_, _Kolkutus_, _Tyynnytys_, _Kuolleista nostatus_, _Hengen herätys_, _Kilpi_, _Nukutus_, _Savumuoto_, _Kaukoliikottelu_, _Telepatia_, _Teleportti_, _Ilmestys_, _Velhonmerkki_.
+- Kantavat mukanaan enintään kuutta seuraavista loitsukirjoista: _Esineen elävöitys_, _Loihtosilmä_, _Kuuroutus_, _Irrottelu_, _Elementaalivalli_, _Raivo_, _Portti_, _Leijailu_, _Vihanpito_, _Omistajan tunnistus_, _Kolkutus_, _Tyynnytys_, _Kuolleista nostatus_, _Hengen herätys_, _Kilpi_, _Nukutus_, _Savumuoto_, _Kaukoliikuttelu_, _Telepatia_, _Teleportti_, _Ilmestys_, _Velhonmerkki_.
 
 ## Kauheuksien silmä (Eye of Terror)
 
@@ -326,7 +326,7 @@ grand_parent: Toinen laitos
 
 - Kentaurin kaltaisia olentoja, jotka saalistavat elinvoimaa viettelemällä uhrinsa korkean viehätysvoiman ja älykkyyden avulla. Niiden ylävartalo on tyypillisesti ihmismäinen ja alavartalo mikä vain monista eläinhybrideistä.
 - Luonnostaan taikavoimainen. Osaa luoda harhoja, lumota olentoja ja naamioitua näin halutessaan.
-- **Kriittinen vahinko**: Kohde ottaa d6 WIL-vahinkoa kun hänen hengenvoimaasa hitaasti imetään pois. Tämän jälkeen hän hurmaantuu lamiaan ja tottelee sen läsnäollessa sen jokaista käskyä.
+- **Kriittinen vahinko**: Kohde ottaa d6 WIL-vahinkoa, kun hänen hengenvoimaansa hitaasti imetään pois. Tämän jälkeen hän hurmaantuu lamiaan ja tottelee sen läsnä ollessa sen jokaista käskyä.
 
 ## Lisko-olento (Reptilian)
 
@@ -340,7 +340,7 @@ grand_parent: Toinen laitos
 14 HP, 1 Panssari, 14 STR, 12 DEX, 4 WIL, puraisu (d10), kynnet (d8+d8)
 
 - Jättimäisiä, syyläisiä ihmisolentoja, tehty lihasta ja kaarnasta. Asuvat maan alla tai syvissä metsissä sekä myös entisten uhriensa raunioituneissa kodeissa. Lihansyöjiä.
-- Ottaessaan **kriittistä vahinkoa** peikko jatkaa taistelua lihan ja raajojen menetyksestä huolimatta. Vasta kun heidän STR:nsä on 0, he todella kuolevat. Ellei heidän päätään kylvetetä hapossa, tulessa tai voimakkaassa taikuudessa, he uusiutuvat täysin 1d4 päivän kuluessa.
+- Ottaessaan **kriittistä vahinkoa** peikko jatkaa taistelua lihan ja raajojen menetyksestä huolimatta. Vasta kun heidän STR-arvonsa on 0, he todella kuolevat. Ellei heidän päätään kylvetetä hapossa, tulessa tai voimakkaassa taikuudessa, he uusiutuvat täysin 1d4 päivän kuluessa.
 
 ## Luolasirkka (Cave Locust)
 
@@ -369,8 +369,8 @@ grand_parent: Toinen laitos
 4 HP, 1 Panssari, 12 STR, 12 DEX, 9 WIL, lyhytmiekka (d6) tai lyhytjousi (d6)
 
 - Lainsuojattomia, jotka ryöstävät asutuksiin, hyökkäävät laivojen kimppuun tai väijyvät matkaajia. Neljän tai useamman ryhmät ovat _joukko-osasto_.
-- Osasto matkustaa aina yhden johtajan kanssa, jolla on yllään regnaspanssari tai vastaava (2 Panssaria) ja pitkämiekka (d10) tai varsijousi (d8).
-- Lojaali: Kun kokeillaan moraalia, tee pelastusheitto käyttäen johtajan WIL:iä (13). Jos johtaja kuolee, muut pakenevat.
+- Osasto matkustaa aina yhden johtajan kanssa, jolla on yllään rengaspanssari tai vastaava (2 Panssaria) ja pitkämiekka (d10) tai varsijousi (d8).
+- Lojaali: Kun kokeillaan moraalia, tee pelastusheitto käyttäen johtajan WIL-arvoa (13). Jos johtaja kuolee, muut pakenevat.
 
 ## Mantikora (Manticore)
 
@@ -378,11 +378,11 @@ grand_parent: Toinen laitos
 
 - Ilkeitä hirviöitä, joilla on ihmismäiset kasvot, leijonan vartalo, lepakon siivet ja skorpionin häntä. Asuvat vuoristoseuduilla, hylätyissä linnoissa ja unohdetuissa luolastoissa.
 - Häntäpiikit toimivat kuin tikat, jotka kasvavat uudelleen muutaman päivän kuluessa. Yksittäinen piikki on keräilijälle 150gp:n arvoinen.
-- **Kriittinen vahinko**: Kohde on _puutostilassa_ kunnes saa kunnon yöunet. Siihen asti hän käyttäytuu moukkamaisesti, itsekkäästi ja julmasti (tai tavallista enemmän, jos se oli jo hänelle luonteellista).
+- **Kriittinen vahinko**: Kohde on _puutostilassa_, kunnes saa kunnon yöunet. Siihen asti hän käyttäytyy moukkamaisesti, itsekkäästi ja julmasti (tai tavallista enemmän, jos se oli jo hänelle luonteellista).
 
 ## Marras (Wight)
 
-12 HP, 3 Armor, 16 STR, 8 DEX, 12 WIL, pitkämiekka (d10)
+12 HP, 3 Panssari, 16 STR, 8 DEX, 12 WIL, pitkämiekka (d10)
 
 - Kaatuneiden sotureiden irvikuvia, jotka on herätetty kuolemasta pahoja tarkoituksia varten. Ratsastaa usein yhtä painajaismaisten ratsujen selässä johtaen vähäisempiä epäkuolleita olentoja kohti taistelua.
 - **Kriittinen vahinko**: Jos epäonnistut, STR-menetys on pysyvä.
@@ -391,8 +391,8 @@ grand_parent: Toinen laitos
 
 10 HP, 15 STR, 12 DEX, 7 WIL, puraisu (d8), nuija (d10)
 
-- Kookkaita ja ihmisimäisiä ja joilla on pitkulaiset puunkuoresta ja puunjuurista tehdyt kädet. Ne elävät metsissä, ja niillä on syvä yhteys niitä ympäröivään kasvillisuuteen.
-- Jos ne tapetaan, ne uusiutuvat hitaasti ellei niiden ruumista viedä pois metsästä tai polteta tulessa.
+- Kookkaita ja ihmismäisiä ja joilla on pitkulaiset puunkuoresta ja puunjuurista tehdyt kädet. Ne elävät metsissä, ja niillä on syvä yhteys niitä ympäröivään kasvillisuuteen.
+- Jos ne tapetaan, ne uusiutuvat hitaasti, ellei niiden ruumista viedä pois metsästä tai polteta tulessa.
 - **Kriittinen vahinko**: Kohteen haavoista alkaa kasvaa sammalta ja oksia.
 
 ## Mielipiiskuri (Mind Lasher)
@@ -422,7 +422,7 @@ grand_parent: Toinen laitos
 6 HP, 12 STR, 8 DEX, 6 WIL, nekroottinen kosketus (d10)
 
 - Käärinliinoihin käärittyjä epäkuolleita ihmisolentoja. Löytyy pyramideista, raunioista, temppeleistä ja hautakammioista.
-- **Kriittinen vahinko**: Kohde on saanut muumiomätätartunnan, eikä kykene palauttamaan STR:ää ennen asiaan erikoistuneen parantajan hoitoa. Kohteella on myös _puutostila_.
+- **Kriittinen vahinko**: Kohde on saanut muumiomätätartunnan, eikä kykene palauttamaan STR-arvoaan ennen asiaan erikoistuneen parantajan hoitoa. Kohteella on myös _puutostila_.
 
 ## Myrskyjättiläinen (Storm Giant)
 
@@ -484,7 +484,7 @@ grand_parent: Toinen laitos
 8 HP, 13 STR, 16 DEX, 12 WIL, lonkerot (d8+d8, _räjähdys_), puraisu (d10)
 
 - Irvokkaita pantterimaisia petoeläimiä, joiden selästä kasvaa pitkiä, terähampaisia lonkeroita.
-- Vastutuskykyisiä taikahyökkäyksiä vastaan. Loitsijan on tehtävä WIL-pelastusheitto, jotta aiottu vaikutus onnistuu.
+- Vastustuskykyisiä taikahyökkäyksiä vastaan. Loitsijan on tehtävä WIL-pelastusheitto, jotta aiottu vaikutus onnistuu.
 - Voi halutessaan kaukosiirtyä lyhyen matkan päähän. Vihaavat väikekoiria.
 
 ## Punalakki (Red Cap)
@@ -492,7 +492,7 @@ grand_parent: Toinen laitos
 6 HP, 6 STR, 12 DEX, 8 WIL, tuplasirpit (d6+d6)
 
 - Syntyneet keijukaisten maahan mätänemään jätetystä verestä. Niiden lakit ovat syvänpunaiset verestä, jossa ne kylpevät.
-- Eivät välitä niistä joilla on vain vähän minkä vuoksi elää, sillä heidän muurhaamisestaan ei saa mitään iloa.
+- Eivät välitä niistä, joilla on vain vähän minkä vuoksi elää, sillä heidän murhaamisestaan ei saa mitään iloa.
 - **Kriittinen vahinko**: Kohteen sisälmykset nyljetään, ja veriroiske palauttaa Punalakin kärsimät STR-menetykset.
 
 ## Purppuramato (Purple Worm)
@@ -574,7 +574,7 @@ grand_parent: Toinen laitos
 6 HP, 6 STR, 14 DEX, 8 WIL, pisto (d6), _joukko-osasto_
 
 - Ylisuuria mehiläisiä, jotka rakentavat maanalaisia pesiä. Erittäin aggressiivisia, hyökkäävät kaiken lähelle tulevan kimppuun.
-- Tuottaavat erikoishunajaa, joka parantaa 1d6 STR. 3 käyttöä.
+- Tuottavat erikoishunajaa, joka parantaa 1d6 STR. 3 käyttöä.
 - Kun mehiläiset aiheuttavat STR-vahinkoa, niiden pistimet juuttuvat kohteeseen aiheuttaen d4 vahinkoa joka kierros, kunnes ne poistetaan.
 
 ## Titaani (Titan)
@@ -598,7 +598,7 @@ grand_parent: Toinen laitos
 
 - Pahantahtoisia muodonmuuttajia, jotka ottavat luolastoista tavallisesti löytyvien elottomien esineiden muodon.
 - Pysyvät liikkumatta naamioituneena ja yllättävät kaikki lähelle tulevat.
-- Valekapineen sylki on erittäin tahmeaa ja vaikeasti irroitettavaa. Alkemistit maksavat jopa 150gp pienimmästäkin pullosta.
+- Valekapineen sylki on erittäin tahmeaa ja vaikeasti irrotettavaa. Alkemistit maksavat jopa 150gp pienimmästäkin pullosta.
 
 ## Vampyyri (Vampire)
 
