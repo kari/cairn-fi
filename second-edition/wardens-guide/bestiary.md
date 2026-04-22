@@ -169,7 +169,7 @@ grand_parent: Toinen laitos
 
 - Lyhyitä, irvokkaita ihmisolioita, joiden iho on vihreän, ruskean ja harmaan maanläheisissä sävyissä.
 - Välttävät taistelua, hyökkäävät vain silloin kun siitä on etua ja tekevät yllätyshyökkäyksiä paeten sitten paikalta.
-- Tapaavat joskus käyttää alkususia ratsuinaan.
+- Tapaavat joskus käyttää hirviösusia ratsuinaan.
 
 ## Hornanhurtta (Hellhound)
 

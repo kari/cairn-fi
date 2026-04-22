@@ -374,7 +374,7 @@ Seuraavassa on luvalla kopioitu luettelo muinaisesineistä eri puolilta verkkoa.
 
 - Yksinkertainen posliininaamio, jossa on hillityt kasvonpiirteet.
 - Käyttämällä latauksen, kantaja voi muuttaa naamion kasvonpiirteet näyttämään jonkun toisen henkilön kasvojen tarkalta kopiolta.
-- **Lataus**:: Kaksoisolennon on käytettävä naamiota.
+- **Lataus**: Kaksoisolennon on käytettävä naamiota.
 
 ### Keijukansan sauva, 3 latausta
 

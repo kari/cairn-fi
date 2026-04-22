@@ -29,15 +29,15 @@ Valdin maailmassa on useita suuria uskontoja ja pikkukansan keskuudessa suosittu
 
 Hierarkkinen uskonnollinen lahko, joka palvoo _Rivulusta_, jokien ja järvien pikkujumalaa. Ei-jäsenetkin ovat tietoisia ryhmän vihkimisseremoniasta: rituaalisesta hukuttamisesta, joka toisinaan tappaa osallistujia. Selviytyjiä kutsutaan _Vuorovetten tuomiksi_ ja he ottavat käyttöön uuden, veteen liittyvän lisänimen (Karppi, Ruoko, Juolua jne.). Vain papiston tarvitsee osallistua rituaaliin, mutta viime vuosina niiden seurakunta on kuitenkin kasvanut maaseutuväestön keskuudessa, erityisesti vesistöjen läheisyydessä sijaitsevissa kylissä. Papiston sisällä ei ole juurikaan arvojärjestystä, lukuun ottamatta _Aqua Primarista_, jota kaikki tottelevat kyseenalaistamatta.
 
-Vuorovetten tuomat eivät ole lähimainkaan valtakunnan ainoa uskonto, mutta heidän tasainen kasvunsa ja kiihkoilunsa ovat ansainneet joidenkin muiden ryhmittymien, erityisesti _Raatihuoneen_, kunnioituksen. Jatkuva jäsenmäärän laajeneminen on puolestaan tuonut heille joitain uusia vihollisia, erityisesti muista ryhmittymistä. Vihanpito on nykyään sillä tasolla, että Vuorovetten tuomien papisto ei enää yritä yksin matkustaa suurempien metsäalueiden halki, jotteivat tulisi pahoinpidellyksi tai pahempaa.
+Vuorovetten tuomat eivät ole lähimainkaan valtakunnan ainoa uskonto, mutta heidän tasainen kasvunsa ja kiihkoilunsa ovat ansainneet joidenkin muiden ryhmittymien, erityisesti _Raatikamarin_, kunnioituksen. Jatkuva jäsenmäärän laajeneminen on puolestaan tuonut heille joitain uusia vihollisia, erityisesti muista ryhmittymistä. Vihanpito on nykyään sillä tasolla, että Vuorovetten tuomien papisto ei enää yritä yksin matkustaa suurempien metsäalueiden halki, jotteivat tulisi pahoinpidellyksi tai pahempaa.
 
 ### Valkonen korppi
 
 Korven lähellä asuvien keskuudessa suositut _Valkoisen korpin_ seuraajat (tai "Parvi", kuten he suosivat) uskovat vahvasti Korven voimaan ja sen metsien ja olentojen hyväkuntoisena pitämiseen. Ne kunnioittavat Metsäläisiä ja tottelevat kyseenalaistamatta Korven tahtoa. Heidät tunnistaa valkoista lintua kuvaavasta tatuoinnista ranteessaan, kaulassaan tai selässään. Jokaisen asutuksen Parvi on yhteisölleen yksilöllinen ja niiden kannattajat suhtautuvat yleisesti järjestäytyneeseen uskontoon epäluuloisesti.
 
-### Viisikärkinen tähti
+### Viisikannan seurakunta
 
-Vanhempi uskonto, joka juontaa juurensa valtakunnan esikansoille, jotka rakensivat kivirakennelmia tähtien ja tähtikuvioiden kartoittamiseksi. Sen palvojat noudattavat tiukasti uskonnollisia periaatteita, jotka kieltävät kaikkien muiden uskomukset, ja paikallista historiaa leimaakin sen aiheuttamat sodat ja pakkokäännytykset. Nykyään _Viisikärkinen Tähti_ ylläpitää temppeleitä jokaisessa suuremmassa asutuksessa, ja ne tarjoavat usein välttämättömiä palveluja erityisesti köyhille. Viime vuosina sen merkitys on vähentynyt muiden uskontojen noustessa, mikä on saanut osan sen jäsenistä liittymään taantumukselliseen järjestöön, joka tunnetaan nimellä _Vertavuotava tähti_.
+Vanhempi uskonto, joka juontaa juurensa valtakunnan esikansoille, jotka rakensivat kivirakennelmia tähtien ja tähtikuvioiden kartoittamiseksi. Sen palvojat noudattavat tiukasti uskonnollisia periaatteita, jotka kieltävät kaikkien muiden uskomukset, ja paikallista historiaa leimaakin sen aiheuttamat sodat ja pakkokäännytykset. Nykyään _Viisikannan seurakunta_ ylläpitää temppeleitä jokaisessa suuremmassa asutuksessa, ja ne tarjoavat usein välttämättömiä palveluja erityisesti köyhille. Viime vuosina sen merkitys on vähentynyt muiden uskontojen noustessa, mikä on saanut osan sen jäsenistä liittymään taantumukselliseen järjestöön, joka tunnetaan nimellä _Vertavuotava tähti_.
 
 ## Valdin periaatteet
 
@@ -89,9 +89,9 @@ Nykyään useimmat tietävät välttää mainitsemasta mitään Portteihin, avai
 
 ## Ryhmittymät
 
-### Raatihuone
+### Raatikamari
 
-Varakkaiden, maata omistavien herrojen ja rouvien neuvosto. Ovelia, itsevarmoja ja omasta ylivoimaisuudestaan vakuuttuneita, he voivat saada aikaan suuria asioita toimiessaan yhtenä tahona. Valitettavasti heidän pyrkimyksiään heikentävät usein yksilölliset riidat, pikkumaiset kiistat ja loputon vallan- ja kunnianhimo. Vaikka raatihuoneessa vallitsee terve epäluulo _Yhdeksän piiriä_ kohtaan, _raatimies_ harvoin puhuu heistä julkisesti pahaa. Raatihuone on omalta osaltaan avoimen ystävällinen Vuorovetten tuomien kanssa, vaikka sisäisesti ollaankin hyvin huolissaan nousukkaan uskonnon viimeaikaisesta suosion kasvusta.
+Varakkaiden, maata omistavien herrojen ja rouvien neuvosto. Ovelia, itsevarmoja ja omasta ylivoimaisuudestaan vakuuttuneita, he voivat saada aikaan suuria asioita toimiessaan yhtenä tahona. Valitettavasti heidän pyrkimyksiään heikentävät usein yksilölliset riidat, pikkumaiset kiistat ja loputon vallan- ja kunnianhimo. Vaikka raatikamarissa vallitsee terve epäluulo _Yhdeksän piiriä_ kohtaan, _raatimies_ harvoin puhuu heistä julkisesti pahaa. Raatikamari on omalta osaltaan avoimen ystävällinen Vuorovetten tuomien kanssa, vaikka sisäisesti ollaankin hyvin huolissaan nousukkaan uskonnon viimeaikaisesta suosion kasvusta.
 
 ### Yhdeksän piiri
 
@@ -105,15 +105,15 @@ Piirillä on useita eri arvoja ja arvonimiä (tärkeysjärjestyksessä):
 - _Kamariherra_: Muinaisesineiden mestari, jonka tehtävänä on suojella, jakaa ja löytää niitä.
 - _Inkvisiittori_: Järjestön korkein asema, joka käyttää valtaa triumviraattina (nimeltään _Kolmikko_) ja vastaa vain _Yhdeksälle_.
 
-### Rajavartijat
+### Rajakaarti
 
-Valtakunnan reunamilla ja Korven tuolla puolen on niin villi ja vaarallinen paikka, että sinne uskaltavat astua vain äärimmäisen rohkeat tai äärimmäisen hölmöt. Näiden maiden rajat liikkuvat jatkuvasti, kasvaen ja muuttuen ajan myötä. Ja näin syntyivät Rajavartijat. Kukaan ei muista enää, milloin Vartiosto perustettiin tai kuka työskenteli sen luomiseksi, mutta kaikki tietävät sen tarkoituksen: suojella valtakuntaa kaikilta tunkeutumisyrityksiltä rajan yli ja estää niitä, jotka yrittävät ylittää rajan ilman opastusta.
+Valtakunnan reunamilla ja Korven tuolla puolen on niin villi ja vaarallinen paikka, että sinne uskaltavat astua vain äärimmäisen rohkeat tai äärimmäisen hölmöt. Näiden maiden rajat liikkuvat jatkuvasti, kasvaen ja muuttuen ajan myötä. Ja näin syntyi Rajakaarti. Kukaan ei muista enää, milloin Kaarti perustettiin tai kuka työskenteli sen luomiseksi, mutta kaikki tietävät sen tarkoituksen: suojella valtakuntaa kaikilta tunkeutumisyrityksiltä rajan yli ja estää niitä, jotka yrittävät ylittää rajan ilman opastusta.
 
-Rajavartijat eivät kumarra kuninkaita, eivät katso uskontoa eivätkä tottele muita lakeja kuin omiaan. Heillä ei ole edes keskusjohtoa, vaan sen sijaan heitä edustaa naamioitunut vapaaehtoinen ulkoisissa neuvotteluissa. Uudet jäsenet vannovat niin voimakkaan Verivalan, että sanotaan ettei sitä murra kuin vain itse kuolema. Luonnollisesti Vartiostoon liittyminen on harvoin oma valinta, sillä heidän riveissään on pitkälti entisiä roistoja, häväistyjä oppineita, laiminlyötyjä ritareita, huonosti menestyneitä samoojia ja vastaavia. Näin sen on tietenkin oltava. Sillä kuka muu uhraisi vapaaehtoisesti elämänsä vastustaakseen tällaisia tuntemattomia kauhuja?
+Rajakaarti ei kumarra kuninkaita, ei katso uskontoa eikä tottele muita lakeja kuin omaansa. Heillä ei ole edes keskusjohtoa, vaan sen sijaan heitä edustaa naamioitunut vapaaehtoinen ulkoisissa neuvotteluissa. Uudet jäsenet vannovat niin voimakkaan Verivalan, että sanotaan ettei sitä murra kuin vain itse kuolema. Luonnollisesti Kaartiin liittyminen on harvoin oma valinta, sillä heidän riveissään on pitkälti entisiä roistoja, häväistyjä oppineita, laiminlyötyjä ritareita, huonosti menestyneitä samoojia ja vastaavia. Näin sen on tietenkin oltava. Sillä kuka muu uhraisi vapaaehtoisesti elämänsä vastustaakseen tällaisia tuntemattomia kauhuja?
 
-Verikoirat ovat Vartioston jäseniä, jotka ovat saaneet erityiskiitosta tai osoittaneet aitoa uskoa aatteeseen. Nämä metsästäjät ovat omaksuneet yhden ainoan virkatehtävän: Valan valvominen. Hyödyntämällä vakoojien, ilmiantajien ja soluttautujien verkostoa he varmistavat, että kaikki, jotka karkaavat Vartiostosta, joutuvat palaamaan tai kuolemaan.
+Verikoirat ovat Kaartin jäseniä, jotka ovat saaneet erityiskiitosta tai osoittaneet aitoa uskoa aatteeseen. Nämä metsästäjät ovat omaksuneet yhden ainoan virkatehtävän: Valan valvominen. Hyödyntämällä vakoojien, ilmiantajien ja soluttautujien verkostoa he varmistavat, että kaikki, jotka karkaavat Kaartilta, joutuvat palaamaan tai kuolemaan.
 
-Vartiosto ei näe juurikaan syytä ryhtyä politiikkaan tai muihin vastaaviin lyhytnäköisiin riitoihin muiden ryhmittymien kanssa. Vuosikymmenten asuminen rajojen läheisyydessä on kuitenkin saanut heidät solmimaan hauraan liiton Korpea kodikseen kutsuvien kanssa, ja he ovat jopa puheväleissä toisinaan. Ja vaikka siitä ei koskaan puhuta ääneen, joskus harvoin Variosto tulee myös Korven asukkien apuun.
+Kaarti ei näe juurikaan syytä ryhtyä politiikkaan tai muihin vastaaviin lyhytnäköisiin riitoihin muiden ryhmittymien kanssa. Vuosikymmenten asuminen rajojen läheisyydessä on kuitenkin saanut heidät solmimaan hauraan liiton Korpea kodikseen kutsuvien kanssa, ja he ovat jopa puheväleissä toisinaan. Ja vaikka siitä ei koskaan puhuta ääneen, joskus harvoin Kaarti tulee myös Korven asukkien apuun.
 
 ## Valdin kalenteri
 
