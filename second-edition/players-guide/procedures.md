@@ -166,14 +166,14 @@ Joka päivä Vartijan tulisi heittää noppaa soveltuvan vuodenajan säätaulukk
 ### Erämaan tutkimiskierros
 
 1. **Vartija** kuvailee nykyisen **pisteen** tai **alueen** kartalla ja kuinka reitti, sää, maasto tai ryhmän tila voivat vaikuttaa **matkanopeuteen**. Seurue suunnittelee tai korjaa tietyn suunnan kohti määränpäätä.
-2. Jokainen seurueen jäsen valitsee yhden **Erämaatoiminnon**. **Vartija** kertoo tulokset ja heittää sitten [**Erämaan tapahtumat**](#toiminnot-erämaassa) -taulukkoa. Seurue reagoi tulokseen.
+2. Jokainen seurueen jäsen valitsee yhden **Erämaatoiminnon**. **Vartija** kertoo tulokset ja heittää sitten [**Erämaan tapahtumat**](#erämaan-tapahtumat) -taulukkoa. Seurue reagoi tulokseen.
 3. **Pelaajat** ja **Vartija** kirjaavat ylös kaikki resurssien menetykset ja uudet olosuhteet (esim. soihdun käyttö, _puute_ jne.), ja kierros alkaa alusta.
 
 ### Erämaan tapahtumat
 
 |       |                 |                                                                                                                                                                                                                                                                                    |
 | ----- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Kohtaaminen** | Heitä kyseisen maastotyypin tai paikan kohtaamistaulukkoa. Älä unohda tehdä sivuhahmon [reaktioheittoa](/second-edition/players-guide/core-rules.md/#reaktiot) tarvittaessa.                                                                                                       |
+| **1** | **Kohtaaminen** | Heitä kyseisen maastotyypin tai paikan kohtaamistaulukkoa. Älä unohda tehdä sivuhahmon [reaktioheittoa](/second-edition/players-guide/core-rules/#reaktiot) tarvittaessa.                                                                                                       |
 | **2** | **Merkki**      | Seurue löytää vihjeen, jäljen tai merkin läheisestä kohtaamisesta, paikasta, piilotetusta erikoisuudesta tai tietoa lähialueesta.                                                                                                                                                  |
 | **3** | **Ympäristö**   | Muutos säässä tai maastossa.                                                                                                                                                                                                                                                       |
 | **4** | **Menetys**     | Seurue joutuu tekemään valinnan, jonka kustannus on resurssi (muona-annos, työkalu jne.), aikaa tai vaivaa.                                                                                                                                                                        |

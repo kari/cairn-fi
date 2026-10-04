@@ -9,7 +9,7 @@ grand_parent: Toinen laitos
 
 ## Johdanto
 
-Cairn eroaa monista nykyaikaisista roolipeleistä siinä, että siinä ole mekaniikkoja tietämykselle tai asiantuntemukselle. Näiden sijaan oletetaan, että hahmolla on tarvittavat tiedot, kunhan ne voidaan perustella tarinankerronnan kautta. Vastaavasti ei ole olemassa mekaniikkaa, joka määrittelisi hahmon tarkkaavaisuutta tai kykyä "havaita" tärkeitä yksityiskohtia ympäristössään. Sen sijaan Vartijan tulisi antaa rajattomasti merkityksellistä tietoa jokaisesta yksityiskohdasta, jonka hahmo voi havaita perusaisteillaan.
+Cairn eroaa monista nykyaikaisista roolipeleistä siinä, että siinä ei ole mekaniikkoja tietämykselle tai asiantuntemukselle. Näiden sijaan oletetaan, että hahmolla on tarvittavat tiedot, kunhan ne voidaan perustella tarinankerronnan kautta. Vastaavasti ei ole olemassa mekaniikkaa, joka määrittelisi hahmon tarkkaavaisuutta tai kykyä "havaita" tärkeitä yksityiskohtia ympäristössään. Sen sijaan Vartijan tulisi antaa rajattomasti merkityksellistä tietoa jokaisesta yksityiskohdasta, jonka hahmo voi havaita perusaisteillaan.
 
 ## Tietämys
 

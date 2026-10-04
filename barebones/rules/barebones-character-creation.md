@@ -15,7 +15,7 @@ nav_order: 5
 4. Heitä hahmosi [Tausta](#tausta) ja siihen liittyvät esineet.
 5. Heitä hahmosi [Aseet & Panssari](#panssari--aseet).
 6. Heitä [Lisävarusteita](#lisävarusteet) täydentämään hahmosi aloitusvarustusta.
-7. Osta hahmollesi [markkinapaikalta](/barebones/barebones-marketplace.md) mahdollisesti lisää varusteita, jos sinulla on niihin varaa.
+7. Osta hahmollesi [markkinapaikalta](/barebones/rules/barebones-marketplace) mahdollisesti lisää varusteita, jos sinulla on niihin varaa.
 
 ### Nimet (d100)
 
@@ -222,7 +222,7 @@ Määritä hahmosi tausta ja aloitusvarusteet tekemällä heitto seuraavaa taulu
 | :--: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   1  | **Akrobaatti**: Seiväs (3m), Köysi (8 metriä), Savupommi                                                                                                                   |
 |   2  | **Alkemisti**: Happoa, linssi, öljykangaslaukku                                                                                                                            |
-|   3  | **Alttaripalvelija**: Suitsuke, pergamentti ja mustetta (3 käyttöä), [loitsukirja](/barebones/barebones-spellbooks)                                                        |
+|   3  | **Alttaripalvelija**: Suitsuke, pergamentti ja mustetta (3 käyttöä), [loitsukirja](/barebones/rules/barebones-spellbooks)                                                        |
 |   4  | **Apteekkari**: Vastamyrkky, sidetarpeita (3 käyttöä), suljettava pullo                                                                                                    |
 |   5  | **Baarimestari**: Alkoholia, suljettava pullo, rauhoittava aine                                                                                                            |
 |   6  | **Erakko**: Viltti, seiväs (8 metriä), tupakkayrtit (3 käyttöä)                                                                                                            |
@@ -239,17 +239,17 @@ Määritä hahmosi tausta ja aloitusvarusteet tekemällä heitto seuraavaa taulu
 |  17  | **Kalastaja**: Ilmarakko, onkivapa, verkko                                                                                                                                 |
 |  18  | **Kankuri**: Parfyymi, köysi (8m), sakset                                                                                                                                  |
 |  19  | **Kartanpiirtäjä**: Kompassi, pergamentti ja mustetta (3 käyttöä), sekstantti                                                                                              |
-|  20  | **Katusaarnaaja**: Soittokello, pergamentti ja mustetta, käärö satunnaisesta [loitsukirjasta](/barebones/barebones-spellbooks) (_mitätön_)                                 |
+|  20  | **Katusaarnaaja**: Soittokello, pergamentti ja mustetta, käärö satunnaisesta [loitsukirjasta](/barebones/rules/barebones-spellbooks) (_mitätön_)                                 |
 |  21  | **Kauppias**: Satunnainen lisävaruste, kirjoituspuikko, vankkurit (+8 paikkaa, hidas)                                                                                      |
 |  22  | **Kaupustelija**: Kärryt (+4 paikkaa, _kookkaat_), satunnainen lisävaruste, säkki                                                                                          |
 |  23  | **Kelloseppä**: Suurennuslasi, metalliviila, pihdit                                                                                                                        |
 |  24  | **Kirjansitoja**: Liimaa, pergamentti ja mustetta (3 käyttöä), ompelusetti                                                                                                 |
-|  25  | **Kirjastonhoitaja**: Kynttilä (3 käyttöä, himmeä), Pergamentti ja mustetta (3 käyttöä), Käärö satunnaisesta [loitsukirjasta](/barebones/barebones-spellbooks) (_mitätön_) |
+|  25  | **Kirjastonhoitaja**: Kynttilä (3 käyttöä, himmeä), Pergamentti ja mustetta (3 käyttöä), Käärö satunnaisesta [loitsukirjasta](/barebones/rules/barebones-spellbooks) (_mitätön_) |
 |  26  | **Kirjuri**: Kynttilä (3 käyttöä, himmeä), pergamentti ja mustetta (3 käyttöä), kirjoituspuikko                                                                            |
 |  27  | **Kokki**: Jauho, ämpäri, tupakkayrtit (3 käyttöä)                                                                                                                         |
 |  28  | **Kulkuri**: Huopa, poncho (_mitätön_), köysi (8m)                                                                                                                         |
 |  29  | **Kultaseppä**: Suurennuslasi, pihdit, hohtimet                                                                                                                            |
-|  30  | **Kultisti**: Suitsuke, naamio, käärö satunnaisesta [loitsukirjasta](/barebones/barebones-spellbooks) (_mitätön_)                                                          |
+|  30  | **Kultisti**: Suitsuke, naamio, käärö satunnaisesta [loitsukirjasta](/barebones/rules/barebones-spellbooks) (_mitätön_)                                                          |
 |  31  | **Kuriiri**: Soittokello, kompassi, pergamentti ja mustetta (3 käyttöä)                                                                                                    |
 |  32  | **Kynttilänvalaja**: Kynttilä (3 käyttöä, himmeä), hunajaa, parfyymi                                                                                                       |
 |  33  | **Kärryseppä**: Käsipora, väkipyörä, saha                                                                                                                                  |
@@ -278,8 +278,8 @@ Määritä hahmosi tausta ja aloitusvarusteet tekemällä heitto seuraavaa taulu
 |  56  | **Mylläri**: Kulho, jauhoja, köysi (8m)                                                                                                                                    |
 |  57  | **Narri**: Kortit, luuttu, parfyymi                                                                                                                                        |
 |  58  | **Navigaattori**: Kompassi, poncho (_mitätön_), kaukoputki                                                                                                                 |
-|  59  | **Noidanetsijä**: Köysi (8m), käärö satunnaisesta [loitsukirjasta](/barebones/barebones-spellbooks) (_mitätön_), kaukoputki                                                |
-|  60  | **Noita**: Kynttilä (3 käyttöä, himmeä), [loitsukirja](/barebones/barebones-spellbooks), ukonhattu                                                                         |
+|  59  | **Noidanetsijä**: Köysi (8m), käärö satunnaisesta [loitsukirjasta](/barebones/rules/barebones-spellbooks) (_mitätön_), kaukoputki                                                |
+|  60  | **Noita**: Kynttilä (3 käyttöä, himmeä), [loitsukirja](/barebones/rules/barebones-spellbooks), ukonhattu                                                                         |
 |  61  | **Nuohooja**: Palkeet, kiipeilypiikit, köysi (8m)                                                                                                                          |
 |  62  | **Paimen**: Viitta (_mitätön_), köysi (8m), pilli (_mitätön_)                                                                                                              |
 |  63  | **Palkkionmetsästäjä**: Välähdysjauhe, kahleet, köysi (8m)                                                                                                                 |
@@ -381,7 +381,7 @@ Lisäksi heitä seuraavia taulukoita käyttäen hahmollesi panssari, aseet ja li
 | 22   | Kärryt (+4 paikkaa, _kookkaat_)                                                   |
 | 23   | Käsineet (_mitätön_)                                                              |
 | 24   | Käsipora                                                                          |
-| 25   | Käärö satunnaisesta [loitsukirjasta](/barebones/barebones-spellbooks) (_mitätön_) |
+| 25   | Käärö satunnaisesta [loitsukirjasta](/barebones/rules/barebones-spellbooks) (_mitätön_) |
 | 26   | Köysi (8 metriä)                                                                  |
 | 27   | Lapio                                                                             |
 | 28   | Laulukirja                                                                        |
@@ -419,7 +419,7 @@ Lisäksi heitä seuraavia taulukoita käyttäen hahmollesi panssari, aseet ja li
 | 60   | Räjähde                                                                           |
 | 61   | Saha                                                                              |
 | 62   | Sakset                                                                            |
-| 63   | Satunnainen [loitsukirja](/barebones/barebones-spellbooks)                        |
+| 63   | Satunnainen [loitsukirja](/barebones/rules/barebones-spellbooks)                        |
 | 64   | Savupommi                                                                         |
 | 65   | Seiväs (3 metriä)                                                                 |
 | 66   | Sekstantti                                                                        |

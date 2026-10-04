@@ -89,13 +89,13 @@ grand_parent: Toinen laitos
 | **3**   | Kalju                       |
 | **4**   | Karheaääninen               |
 | **5**   | Kirkkaat silmät             |
-| **6**   | Leveät kasvot               |
-| **7**   | Lihaksikas                  |
-| **8**   | Likainen                    |
-| **9**   | Miellyttävä ääni            |
-| **10**  | Nuori                       |
-| **11**  | Ontuva                      |
-| **12**  | Paksut kulmakarvat          |
+| **6**   | Kulmat kurtussa             |
+| **7**   | Leveät kasvot               |
+| **8**   | Lihaksikas                  |
+| **9**   | Likainen                    |
+| **10**  | Miellyttävä ääni            |
+| **11**  | Nuori                       |
+| **12**  | Ontuva                      |
 | **13**  | Paksut kulmakarvat          |
 | **14**  | Puuttuva korva              |
 | **15**  | Riutunut                    |

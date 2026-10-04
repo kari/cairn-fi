@@ -165,7 +165,7 @@ Seuraavassa on luvalla kopioitu luettelo muinaisesineistä eri puolilta verkkoa.
 
 ### Viimeinen henkäys, lyhytmiekka, d8 vahinkoia, 1 lataus
 
-- **Viimeisen henkäyksen** iskeminen maahan luo [_Astraalivankilan_](/cairn-srd#100-spells) kantajan ympärille. Kantaja on haavoittumaton, mutta ei voi liikkua, ollessaan vankilan sisällä.
+- **Viimeisen henkäyksen** iskeminen maahan luo [_Astraalivankilan_](/cairn-srd#100-loitsua) kantajan ympärille. Kantaja on haavoittumaton, mutta ei voi liikkua, ollessaan vankilan sisällä.
 - **Lataus**: Syötä sille sieluja, joita se tarvitsee vankilan rakentamiseen.
 
 ### Pyhän ritarin miekka (d6), d6 latausta

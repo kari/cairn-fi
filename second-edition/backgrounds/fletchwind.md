@@ -39,7 +39,7 @@ Flint, Feather, Crier, Thunder, Falcon, Pluck, Needle, Warsong, Hawk, Cai
 |       |                                                                                                                         |
 | ----- | ----------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Marjakuusesta** (d6, _kookas_). Voidaan käyttää tylppänä lyömäaseena (d6). Äänekäs.                                   |
-| **2** | **Talvitammesta** (d6, _kookas_). Paiskautuu kohteisiin. **Kriittisellä vahingolla** jotain repeää irti.                |
+| **2** | **Talvitammesta** (d8, _kookas_). Paiskautuu kohteisiin. **Kriittisellä vahingolla** jotain repeää irti.                |
 | **3** | **Pinjasta** (d6, _kookas_). Tuottaa yhden käyttökerran **Tahmeaa mahlaa** päivässä. Mahla on erittäin räjähdysherkkää. |
 | **4** | **Valkosaarnesta** (d6, _kookas_). Voidaan käyttää lähitaistelussa kilven sijasta (+1 Panssari).                        |
 | **5** | **Raitainen bambu** (d6). Kokoontaitettava, vie vain yhden paikan (mutta vaatii silti molemmat kädet).                  |

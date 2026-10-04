@@ -429,7 +429,7 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 
 |                     |              |                   |             |
 | :-----------------: | :----------: | :---------------: | :---------: |
-|         1-5         |     6-13     |       14-17       |    18-24    |
+|         1-5         |     6-13     |       14-17       |    18-20    |
 | Työkalu tai rihkama | Retkivaruste | Haarniska tai ase | Loitsukirja |
 
 <p></p>
@@ -822,7 +822,7 @@ Kun hyökkäys vähentää pelaajahahmon HP:n tasan nollaan, se vaikuttaa hänee
 
 |    |                                                                                                                                                                                                                                                                                 |
 | -- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1  | Pysyvä arpi: Heitä 1d6 \| 1: Kaula, 2: Kädet, 3: Silmä, 4: Rinta, 5: Jalat, 5: Korva. Heitä 1d6. Jos tulos on suurempi kuin enimmäis-HP:si, käytä uutta tulosta.                                                                                                                |
+| 1  | Pysyvä arpi: Heitä 1d6 \| 1: Kaula, 2: Kädet, 3: Silmä, 4: Rinta, 5: Jalat, 6: Korva. Heitä 1d6. Jos tulos on suurempi kuin enimmäis-HP:si, käytä uutta tulosta.                                                                                                                |
 | 2  | Rytisevä isku: Olet sekaisin ja järkyttynyt. Kuvaile miten palautat keskittymisesi. Heitä 1d6. Jos tulos on suurempi kuin enimmäis-HP:si, käytä uutta tulosta.                                                                                                                  |
 | 3  | Rökitetty: Sinut lähetetään lentoon ja laskeudut naamallesi tuupertuneena. Olet puutostilassa, kunnes lepäät pari tuntia. Sitten heitä 1d6. Lisää tämä määrä enimmäis-HP:hesi.                                                                                                |
 | 4  | Murtunut raaja: Heitä 1d6 \| 1-2: Jalka, 3-4: Käsi, 5: Kylkiluu, 6: Kallo. Heitä 2d6, kun se on korjattu. Jos tulos on suurempi kuin enimmäis-HP:si, käytä uutta tulosta.                                                                                                       |

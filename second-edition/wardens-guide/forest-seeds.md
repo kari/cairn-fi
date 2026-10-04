@@ -64,12 +64,12 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 | **11**  | Muinainen       | Sammaleinen          |
 | **12**  | Poltettu        | Suhiseva             |
 | **13**  | Pyhä            | Sumuinen             |
-| **14**  | Saastunut       | Sumuinen             |
-| **15**  | Sairas          | Syrjäinen            |
-| **16**  | Sammaleinen     | Tuholaisten valtaama |
-| **17**  | Syrjäinen       | Tulvinut             |
-| **18**  | Tahraton        | Täynnä sieniä        |
-| **19**  | Tukahduttava    | Umpeenkasvanut       |
+| **14**  | Saastunut       | Syrjäinen            |
+| **15**  | Sairas          | Tuholaisten valtaama |
+| **16**  | Sammaleinen     | Tulvinut             |
+| **17**  | Syrjäinen       | Täynnä sieniä        |
+| **18**  | Tahraton        | Umpeenkasvanut       |
+| **19**  | Tukahduttava    | Usvainen             |
 | **20**  | Vaarallinen     | Villi                |
 
 ## Metsän henki
@@ -87,17 +87,17 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 | **2**   | Harmoninen     | Ahne             |
 | **3**   | Hoivaava       | Epäilevä         |
 | **4**   | Itsenäinen     | Etäinen          |
-| **5**   | Järkevä        | Etäinen          |
-| **6**   | Kasvattava     | Hajamielinen     |
-| **7**   | Kestävä        | Hallitseva       |
-| **8**   | Kestävä        | Hämärtävä        |
-| **9**   | Luottavainen   | Itsekäs          |
-| **10**  | Mukautuva      | Jäykkä           |
-| **11**  | Määrätietoinen | Loismainen       |
-| **12**  | Nokkela        | Naiivi           |
-| **13**  | Oppinut        | Passiivinen      |
-| **14**  | Puhdistava     | Reviiritietoinen |
-| **15**  | Rohkea         | Saalistava       |
+| **5**   | Järkevä        | Hajamielinen     |
+| **6**   | Kasvattava     | Hallitseva       |
+| **7**   | Kestävä        | Hämärtävä        |
+| **8**   | Luottavainen   | Itsekäs          |
+| **9**   | Mukautuva      | Jäykkä           |
+| **10**  | Määrätietoinen | Loismainen       |
+| **11**  | Nokkela        | Naiivi           |
+| **12**  | Oppinut        | Passiivinen      |
+| **13**  | Puhdistava     | Pidättyväinen    |
+| **14**  | Rohkea         | Reviiritietoinen |
+| **15**  | Sisukas        | Saalistava       |
 | **16**  | Tarkkaavainen  | Saastuttava      |
 | **17**  | Tasapainoinen  | Tunkeileva       |
 | **18**  | Terävät        | Tuomitseva       |

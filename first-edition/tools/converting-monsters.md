@@ -37,7 +37,7 @@ Alla oleva taulu antaa pätevät ohjeet **ML**:n muuntamisesta **tahdonvoimaksi*
 ### Taistelu
 
 - Hyökkäysten **vahinko** on aika suoraviivaista ottaa peleistä kuten OSE (tai B/X); usein voit kopioida ne sellaisinaan. Tarkista [asetaulukosta](/cairn-srd/#aseet-1) jos olet epävarma.
-- Moninkertaiset hyökkäykset (kuten 2 x kynnet, 1 x pisto) tyypillisesti muuntuvat [_Räjähdys_](/cairn-srd/##räjähdykset)- ja/tai "kaksi asetta" -sääntöjen mukaan (esim. d6+d6 on heitä 2d6, pidä korkein).
+- Moninkertaiset hyökkäykset (kuten 2 x kynnet, 1 x pisto) tyypillisesti muuntuvat [_Räjähdys_](/cairn-srd/#räjähdykset)- ja/tai "kaksi asetta" -sääntöjen mukaan (esim. d6+d6 on heitä 2d6, pidä korkein).
 - Kun olet epävarma, ajattele kuinka paljon vakavaa vahinkoa olennon on tarkoitus tehdä. Muista että hyökkäyksen vahingon korottamisen sijaan voit harkita sen tekemisestä _vahvennetun_ joissain tilanteissa tai käyttää _Räjähdys_ tai "kaksi asetta" -sääntöä.
 
 ### Kyvyt ja taikuus

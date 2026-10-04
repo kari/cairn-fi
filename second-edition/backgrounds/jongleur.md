@@ -20,7 +20,7 @@ Jax, Selene, Baladria, Ada, Mort, Saylor, Tripp, Lantos, Echo, Jubilo
 - Soihtu (3 käyttöä)
 - Asu
 - Yksinkertainen soitin (huilu, luuttu jne.)
-- Onnekas jerkin-liivi (1 Panssari)
+- Onnekas jerkin-liivi (+1 Panssari)
 - Linko (d6)
 
 ## Mitä tapahtui viimeisessä esityksessäsi? Heitä 1d6:

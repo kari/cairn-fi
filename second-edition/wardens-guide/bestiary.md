@@ -228,7 +228,7 @@ grand_parent: Toinen laitos
 10 HP, 16 STR, 8 DEX, 6 WIL, nuija (d10)
 
 - Kaksipäinen jättiläisten sukulainen. Suosivat luolia ja maanalaisia hökkeleitä.
-- Ei voi yllättää.
+- Sitä ei voi yllättää.
 
 ## Juurakkohiisi (Root Goblin)
 
@@ -358,7 +358,7 @@ grand_parent: Toinen laitos
 
 ## Luuranko (Skeleton)
 
-5 HP, 1 Panssari, 8 STR, 13 DEX, 0 WIL, ruosteinen miekka (d6) tai jousi (d8)
+5 HP, 1 Panssari, 8 STR, 13 DEX, 0 WIL, ruosteinen miekka (d6) tai jousi (d6)
 
 - Löytyvät usein palvelemassa isäntäänsä tai manaajavelhoa, yleensä kolmen tai useamman ryhmissä.
 - Vaatteina on mitä ikinä niillä oli päällään kuolinhetkellään.
@@ -374,7 +374,7 @@ grand_parent: Toinen laitos
 
 ## Mantikora (Manticore)
 
-6 HP, 15 STR, 14 DEX, 12 WIL, kynnet (d6+d6), häntäpiikit (d6)
+6 HP, 15 STR, 14 DEX, 12 WIL, kynnet (d6+d6), häntäpiikit (d8)
 
 - Ilkeitä hirviöitä, joilla on ihmismäiset kasvot, leijonan vartalo, lepakon siivet ja skorpionin häntä. Asuvat vuoristoseuduilla, hylätyissä linnoissa ja unohdetuissa luolastoissa.
 - Häntäpiikit toimivat kuin tikat, jotka kasvavat uudelleen muutaman päivän kuluessa. Yksittäinen piikki on keräilijälle 150gp:n arvoinen.
@@ -610,10 +610,10 @@ grand_parent: Toinen laitos
 
 ## Varjo (Shadow)
 
-14 HP, 1 STR, 18 DEX, 14 WIL, riistävä kosketus (d10, ohittaa panssarin)
+14 HP, 1 STR, 18 DEX, 14 WIL, riistävä kosketus (d6, ohittaa panssarin)
 
 - Ruumiittomia hirviöitä, jotka näyttävät eläviltä varjoilta. Tavalliset hyökkäykset, nukutus tai mielenhallinta eivät vaikuta niihin.
-- **Kriittinen vahinko**: Kohde menettää 4d STR-pistettä. Jos STR vähenee nollaan, niistä tulee myös varjo.
+- **Kriittinen vahinko**: Kohde menettää d4 STR-pistettä. Jos STR vähenee nollaan, niistä tulee myös varjo.
 
 ## Vesielementaali (Water Elemental)
 

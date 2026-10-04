@@ -158,8 +158,8 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 | **4**   | Kohtelias         | Hajamielinen      |
 | **5**   | Käytännöllinen    | Itsekäs           |
 | **6**   | Lannistumaton     | Itsepäinen        |
-| **7**   | Luova             | Itsepäinen        |
-| **8**   | Myötätuntoinen    | Joustamaton       |
+| **7**   | Luova             | Joustamaton       |
+| **8**   | Myötätuntoinen    | Jääräpäinen       |
 | **9**   | Nokkela           | Kriittinen        |
 | **10**  | Päättelevä        | Kyyninen          |
 | **11**  | Rehellinen        | Mielikuvitukseton |

@@ -12,7 +12,7 @@ nav_order: 1
 ## Johdanto
 
 Alla on muutamia vastauksia joihinkin yleisimmin kysyttyihin kysymyksiin, joita pelaajat joille Cairn on vieras kysyvät.
-Lukiessasi pidä [Sääntökokoelma](/cairn-srd) käsillä, etenekin kun puhutaan [**pelastusheitoista**](/cairn-srd/#saves) ja [taistelusta](/cairn-srd/#combat).
+Lukiessasi pidä [Sääntökokoelma](/cairn-srd) käsillä, etenekin kun puhutaan [**pelastusheitoista**](/cairn-srd/#pelastusheitot) ja [taistelusta](/cairn-srd/#taistelu).
 
 **Pidä seuraavat mielessä, kun luet esimerkkitekstiä!**
 
@@ -21,7 +21,7 @@ Lukiessasi pidä [Sääntökokoelma](/cairn-srd) käsillä, etenekin kun puhutaa
 - Pelaajahahmot etsivät voimakasta [**Muinaisesinettä**](/cairn-srd/#relics), jolla huhutaan olevan parantavia voimia.
 - Hiljattain ryhmä löysi pergamentin, jossa kerrottiin esineen todellinen sijainti jossain kaukaisella itäpuolella **Geunantin metsää**, joka tunnetaan valtavista, ikivanhoista puista, jotka päästävät vain vähän valoa valtavien lehtiensä läpi.
 
-Voit lukea myös koko **esimerkin pelaamisesta** yhtenä kokonaisena sivuna [täällä](/resources/example-of-play).
+Voit lukea myös koko **esimerkin pelaamisesta** yhtenä kokonaisena sivuna [täällä](/first-edition/example-of-play).
 
 <a href='#/' id='expAll' class='exp'>Klikkaa tästä laajentaaksesi/tiivistääksesi kaikki esimerkit</a>{: .btn }
 
@@ -58,7 +58,7 @@ Laajenna esimerkki
 **Entä jos yhdelläkään pelaajahahmolla ei ole asiaan liittyvää kokemusta tai asiantuntemusta?**
 
 - Jos yhdelläkää pelaajahahmolla ei olisi ollut **yrttimestari**taustaa, Vartija olisi todennäköisesti todennut hahmot epätietoisiksi kasvin ominaisuuksista, ja pelaajat olisivat (toivottavasti) yrittäneet selvittää lisää kysymällä ja kokeilemalla.
-- Jos jollain pelaajahahmolla olisi ollut asiaa sivuavaa taustaa (kuten **metsästäjä**), Vartija olisi voinuta antaa [Kohtalon päättää](/cairn-srd/#die-of-fate) ja heittää 1d6. Mitä korkeampi tulos, sitä todennäköisemmin pelaajahahmo tietäisi jotain olennaista tai hyödyllistä.
+- Jos jollain pelaajahahmolla olisi ollut asiaa sivuavaa taustaa (kuten **metsästäjä**), Vartija olisi voinuta antaa [Kohtalon päättää](/cairn-srd/#kohtalon-noppa) ja heittää 1d6. Mitä korkeampi tulos, sitä todennäköisemmin pelaajahahmo tietäisi jotain olennaista tai hyödyllistä.
 
 </details>
 
@@ -139,7 +139,7 @@ Pelaajahahmonn tai sivuhahmon tulisi heittää **pelastusheitto** vain, jos yksi
 
 - Kun toimen lopputulos on epävarma.
 - Kun jokin tai jotain on vaarassa (henki, uhkaava vaara jne.).
-- Kun heitetään kriittisen vahingon pelastusheitto [**taistelun**](/cairn-srd/#critical-damage) aikana.
+- Kun heitetään kriittisen vahingon pelastusheitto [**taistelun**](/cairn-srd/#kriittinen-vahinko) aikana.
 
 **Pelastusheitot** voivat tapahtua sekä taistelussa että sen ulkopuolella. **Pelastusheittoa** ei _lähes_ koskaan tarvita, kun pelaaja- tai sivuhahmo on hyökkäyksen kohteena, sillä hyökkäykset osuvat automaattisesti. On kuitenkin tilanteita, joissa tarinankerronta saattaa sanella, että hyökkäys on automaattisesti epäonnistunut tai mahdoton.
 
@@ -255,7 +255,7 @@ Laajenna esimerkki
 
 Muutamia huomioita:
 
-- Vamma voi olla monitahoinen: [**Puutos**](/cairn-srd/#deprivation--fatigue) voi liittyä esimerkiksi myrkystä aiheutuvaan STR-menetykseen. Tarjoa myös mahdollinen ratkaisu sairauden voittamiseksi.
+- Vamma voi olla monitahoinen: [**Puutos**](/cairn-srd/#puutos-ja-väsymys) voi liittyä esimerkiksi myrkystä aiheutuvaan STR-menetykseen. Tarjoa myös mahdollinen ratkaisu sairauden voittamiseksi.
 - Vahingon pitäisi tapahtua **pelastusheiton** epäonnistumisen seurauksena. Älä pakota pelaajia tekemään **pelastusheittoa** jälkikäteen.
 - Tarinankerronnalliset vammat ovat yhtä voimakkaita kuin suorat mekaaniset vahingot. **DEX**-menetys vaikuttaa hahmon reflekseihin ja nopeuteen, mutta murtunut jalka voi estää hahmoa liikkumasta lainkaan!
 
@@ -305,7 +305,7 @@ Laajenna esimerkki
 
 ## Miten pelaajahahmot etenevät ilman tasojen tai kokemuspisteiden (XP) kaltaisia asioita?
 
-**Cairnissa** hahmon _kasvu_ on tärkeämpää kuin _edistyminen_. Tämä tarkoittaa sitä, että vaikka pelaajahamo _tulee_ muuttumaan, hän ei välttämättä _parane_ ajan myötä. Kasvu tapahtuu sekä mekaanisin keinoin (kuten [**Arpien**](/cairn-srd/#scars)) että pelkästään tarinankerronnassa tapahtuvien tapahtumien kautta.
+**Cairnissa** hahmon _kasvu_ on tärkeämpää kuin _edistyminen_. Tämä tarkoittaa sitä, että vaikka pelaajahamo _tulee_ muuttumaan, hän ei välttämättä _parane_ ajan myötä. Kasvu tapahtuu sekä mekaanisin keinoin (kuten [**Arpien**](/cairn-srd/#arvet-1)) että pelkästään tarinankerronnassa tapahtuvien tapahtumien kautta.
 
 **Vartijan tulisi harkita seuraavia seikkoja myöntäessään pelaajahahmoille ei-mekaanista kasvua:**
 

@@ -15,7 +15,7 @@ Jos haluat nähdä roolipeli-podcastin ("actual play") Cairnista (Vartijan komme
 
 - **Esteri** pelaa entistä **Yrttimestaria**.
 - **Pertti** pelaa entistä **Metsästäjää**.
-- Pelaajahahmot etsivät voimakasta [**Muinaisesinettä**](/cairn-srd/#relics), jolla huhutaan olevan parantavia voimia.
+- Pelaajahahmot etsivät voimakasta [**Muinaisesinettä**](/cairn-srd/#muinaisesineet), jolla huhutaan olevan parantavia voimia.
 - Hiljattain ryhmä löysi pergamentin, jossa kerrottiin esineen todellinen sijainti, ja ovat lähteneet etsimään sitä.
 
 **Vartija**: _"Olette viettäneet valtaosan aamusta raivaamalla tietänne Geunantin metsän halki, pilkkoen tietä läpi roikkuvien köynnösten ja halki vyötärön korkuisten pensasaitojen. Täällä on hyvin helppo eksyä ympäröivän aluskasvillisuuden keskellä. Kaiken kukkuraksi päällänne olevat oksat ovat täysin peittäneet auringon.”_

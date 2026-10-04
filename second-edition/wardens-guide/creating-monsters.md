@@ -194,7 +194,7 @@ Tämä olento on fyysisesti vahva, joten sillä on keskimääräistä korkeampi 
 
 ### Ukkosetana
 
-6 HP, 2 Panssari, 14 STR, 6 DEX, 4 WIL, vierii & iskee (d8+d8, _räjähdys_)
+6 HP, 2 Panssari, 14 STR, 6 DEX, 4 WIL, vierii & iskee (d10, _räjähdys_)
 
 - Paksukilpisiä petoja, jotka hyökkäävät vierimällä vastustajiensa yli suorassa linjassa. Niiden pyörivien kilpien melu on korviahuumaava.
 - **Kriittinen vahinko**: Kohde vedetään mukaan sen vierivään vauhtiin ja menettää 1 STR:n lisää kierrosta kohden, kunnes vapautuu (STR-pelastusheitto paetakseen).

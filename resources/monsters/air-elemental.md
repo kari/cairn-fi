@@ -6,7 +6,7 @@ grand_parent: Lisäaineistot
 
 # Ilmaelementaali (Air Elemental)
 
-16 HP, 11 STR, 15 DEX, 8 WIL, _irrottaminen_
+16 HP, 11 STR, 15 DEX, 8 WIL, _joukko-osasto_
 
 - Eläviä ilma- ja kaasupyörteitä. Niiden pelkkä läsnäolo on tarpeeksi pyyhkäisemään kevyemmät olennot ilmaan.
 - **Tuulenpyörre**: Tuuli lennättää pois kaikki läheiset kohteet, jotka epäonnistuvat STR-pelastusheitossa.
