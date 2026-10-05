@@ -14,7 +14,7 @@ grand_parent: Toinen laitos
 - Kuvaile ensin ilmeiset uhat ja sivuhahmot, ja sen jälkeen huoneissa olevat erityiset ja mieleenpainuvat esineet.
 - Älä kerro hahmoille, miltä heidän pitäisi tuntea, vaan vain kerro mitä juuri nyt tapahtuu heidän silmiensä edessä.
 - Anna vihjeitä siitä, mitä seuraavan käytävän takana on, mukaan lukien hajut, äänet ja korkeusero.
-- Varmista, että pelaajat ymmärtävät hahmonsa vuoron luolastokierroksessa. Muistuta kuka on jo liikkunut, kenellä on vielä tekemättä jokin toiminto ja niin edelleen.
+- Varmista, että pelaajat ymmärtävät hahmonsa vuoron luolaston tutkimuskierroksessa. Muistuta kuka on jo liikkunut, kenellä on vielä tekemättä jokin toiminto ja niin edelleen.
 - Luolaston tutkimisen kustannukset mitataan vuoroissa. Jos seurue viettää liian kauan yhdessä paikassa, toimii varomattomasti, pitää meteliä tai menee uudelle alueelle, he riskeeraavat heiton Luolaston tapahtumat -taulukolla. Pelaajat tulisi aina tehdä tietoisiksi kustannuksesta.
 
 ## Esimerkki luolaston tutkimisesta
@@ -30,11 +30,11 @@ Laaja **avoin** sisäpiha. **Maa** on hiekkainen ja epätasainen. **Raunioita** 
 - **Rauniot**: Ihmisiä muistuttavista patsaista peräisin olevat kivilohkareet.
   - Punainen jalokivi kimmeltää tiukasti kiinni olevassa kivinyrkissä.
 - **Patsas**: Toinen silmäkuoppa on tyhjä, toisessa on punainen jalokivi.
-  - Kultin Kuolemanjumalatar, ajan tahraamana. Jos jäljellä oleva silmä poistetaan, patsas herää henkiin ja viiltää keihästä kaaressa aiheuttaen d6 STR-vahinkoa. Kosketus kaksiteräiseen keihääseen muuttaa uhrin kiveksi.
+  - Kultin Kuolemanjumalatar, ajan tahraamana. Jos jäljellä oleva silmä poistetaan, patsas herää henkiin ja viiltää keihästä kaaressa aiheuttaen d6 STR-vahinkoa. Kosketus kaksikärkiseen keihääseen muuttaa uhrin kiveksi.
   - Jos läheisestä raunioista löytyvä jalokivi asetetaan patsaaseen, mitään ei tapahdu. Jos se poistetaan uudelleen, patsas vastaa sen mukaisesti.
 - **Oviaukko**: Varastohuoneen ovi on melkein lahonnut, jättäen halkeamia puuhun. Rautaketju on selvästi ruostunut.
 
-**Vartija**: _Astutte laajalle sisäpihalle, jota valaisee romahtaneen katon läpi pilkistävä kuunvalo. Maa on hiekkainen ja kimaltelee liidunvalkoisena kuunvalossa. Lähellä keskustaa rauniokasojen keskellä on naispatsas, jolla on kädessään kaksikärkinen keihäs. Idässä puinen ovi on suljettu ja lukittu ketjulla, kun taas lännessä avoin holvikäytävä johtaa kohti pimeää tunnelia. Mitä teette?"_
+**Vartija**: _"Astutte laajalle sisäpihalle, jota valaisee romahtaneen katon läpi pilkistävä kuunvalo. Maa on hiekkainen ja kimaltelee liidunvalkoisena kuunvalossa. Lähellä keskustaa rauniokasojen keskellä on naispatsas, jolla on kädessään kaksikärkinen keihäs. Idässä puinen ovi on suljettu ja lukittu ketjulla, kun taas lännessä avoin holvikäytävä johtaa kohti pimeää tunnelia. Mitä teette?"_
 
 > **Hahmot ilmoittavat sitten aikomansa toiminnot.**
 

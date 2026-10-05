@@ -14,7 +14,7 @@ Seuraavassa on luvalla kopioitu luettelo muinaisesineistä eri puolilta verkkoa.
 
 ### Gaian ote, 5 latausta
 
-- Ohuista köynnöksistä kudottu rannekoru. Kun kantaja tarttuu johonkin, köynnökset versovat sitkeitä kärhiä, jotka varmistavaa kantajan otteen. Ne irtoavat vain kantajan tahdosta tai jos ne sytytetään tuleen.
+- Ohuista köynnöksistä kudottu rannekoru. Kun kantaja tarttuu johonkin, köynnökset versovat sitkeitä kärhiä, jotka varmistavat kantajan otteen. Ne irtoavat vain kantajan tahdosta tai jos ne sytytetään tuleen.
 - **Lataus**: Istuta kuihtunut rannekoru rehevään metsämaahan ja kastele reilusti keijukansan verellä. Se kukkii uudeksi rannekkeeksi yön yli.
 
 ### Varis-portteria, 1 käyttö
@@ -47,12 +47,12 @@ Seuraavassa on luvalla kopioitu luettelo muinaisesineistä eri puolilta verkkoa.
 
 ### Värähdepanssari, 1 käyttö
 
-- Täysi haarniskapuku, joka on tehty pitkistä pystysuoraan kulkevista metallitangoista (2 Panssaria, _kookas_).
+- Täysi haarniskapuku, joka on tehty pitkistä vaakasuoraan kulkevista metallitangoista (2 Panssaria, _kookas_).
 - Haarniskassa liikkuminen saa tangot kolahtelemaan toisiinsa ja värähtelemään, mikä luo miellyttäviä, resonoivia ja selvästi ei-huomaamattomia säveliä. Kun käyttäjän STR-arvo laskee 0:aan, kaikki tangot alkavat värähtelemään ja soimaan. Käyttäjän kuolema lykkääntyy, värähtely pitää hänen kehonsa koossa ja energisoi häntä, pitäen hänet jaloillaan ja antaa hänen toimia kuten hänellä olisi 18 STR. Tämä vaikutus kestää kunnes panssarin jatkuva sointu nousee kuurouttavalle tasolle ja palkit murtuvat, noin minuutin verran. Sitten hän kuolee normaalisti.
 
 ### Pääkartta, 2 latausta
 
-- Ruskea ja hyvin kulunut taitettu arkki vedenpitävää pergamenttia. Kun se avataan, sen pinnalle värjäytyy musteella paikallisen alueen kartta, jossa näkyy tärkeimmät maantieteelliset piirteet ja kaikki lähiseudun asutukset. Yhden latauksen kustannuksella, kirjoita yhden sellaisen paikan nimi, joka ei näy kartalla mutta jonka tiedetään olevan jossain päin aluetta. Merkintä liikkuu kartalla ja asettuu tämän paikan todelliseen sijaintiin.. Merkintä ilmestyy välittömästi kaikkiin muihin olemassa oleviin karttoihin alueesta.
+- Ruskea ja hyvin kulunut taitettu arkki vedenpitävää pergamenttia. Kun se avataan, sen pinnalle värjäytyy musteella paikallisen alueen kartta, jossa näkyy tärkeimmät maantieteelliset piirteet ja kaikki lähiseudun asutukset. Yhden latauksen kustannuksella, kirjoita yhden sellaisen paikan nimi, joka ei näy kartalla mutta jonka tiedetään olevan jossain päin aluetta. Merkintä liikkuu kartalla ja asettuu tämän paikan todelliseen sijaintiin. Merkintä ilmestyy välittömästi kaikkiin muihin olemassa oleviin karttoihin alueesta.
 - **Lataus**: Nuku kartta tyynyn alla. Kun heräät, kartta on vienyt muististasi sinulle tärkeän paikan sijainnin, sellaisen jota ei tunneta laajalti.
 
 ### Säkillinen juonia, 1 lataus
@@ -71,7 +71,7 @@ Seuraavassa on luvalla kopioitu luettelo muinaisesineistä eri puolilta verkkoa.
 
 ### Verenpunainen lyhty
 
-- Suorakaiteen muotoinen lyhty, jossa on himmeä, ruskealla värjätty lasi. Se on suljettu tiiviisti ja liitokskohtiin on raaputettu kulmikkaita symboleja. Yläosassa oleva pieni säiliö syöttää polttoainetta sisälle sinetöidylle pikkukeijulle, joka valaisee lamppua puhtaalla valkoisella valolla.
+- Suorakaiteen muotoinen lyhty, jossa on himmeä, ruskealla värjätty lasi. Se on suljettu tiiviisti ja liitoskohtiin on raaputettu kulmikkaita symboleja. Yläosassa oleva pieni säiliö syöttää polttoainetta sisälle sinetöidylle pikkukeijulle, joka valaisee lamppua puhtaalla valkoisella valolla.
 - Ainoa keijun hyväksymä polttoaine on kunnollinen määrä verta siltä, joka lyhtyä kantaa (d4 STR-vahinkoa tunnin valoa vastaan). Se ärsyyntyy yrityksistä huijata sitä muulla verellä ja saattaa yrittää paeta, jos se ärsyyntyy tarpeeksi.
 
 ### Kuiskusiipi, 3 latausta
@@ -82,7 +82,7 @@ Seuraavassa on luvalla kopioitu luettelo muinaisesineistä eri puolilta verkkoa.
 ### Muuttolinnun oksennuspallot, 3 käyttöä
 
 - Käärmeennahkainen pussi, jonka sisällä on kolme isoa linnun oksennuspalloa. Ne tuoksuvat tupakalle. Kun oksennuspallo revitään kahtia ja kaksi ihmistä syö sen, he oppivat yhteisen, salaisen kielen, jota vain he kaksi ymmärtävät.
-- Tämän parin kielelellä on hyvin omantakeinen estetiikka. Sitä voidaan välittää äänen tai eleiden avulla, mutta siitä ei ole olemassa kirjallista versiota. Kukaan muu ei voi tulkita kieltä tavanomaisin eikä maagisin keinoin, eikä sitä voi opettaa kenellekään muulle kuin alkuperäiselle parille.
+- Tämän parin kielellä on hyvin omintakeinen estetiikka. Sitä voidaan välittää äänen tai eleiden avulla, mutta siitä ei ole olemassa kirjallista versiota. Kukaan muu ei voi tulkita kieltä tavanomaisin eikä maagisin keinoin, eikä sitä voi opettaa kenellekään muulle kuin alkuperäiselle parille.
 
 ### Koivuparkki, 1 lataus
 
@@ -101,7 +101,7 @@ Seuraavassa on luvalla kopioitu luettelo muinaisesineistä eri puolilta verkkoa.
 
 ### Tahdonluut, 3 latausta
 
-- Harmaantuneet hirven kylkiluupari, jotka on leikattu rytmiesitykseen sopiviksi. Toisen pintaan on karkeasti kaiverrettu pääkallo, toiseen luurankokäsi. Kun niillä soitetaan, niillä voidaan hallita toisen olennon luita. Jos olento on vielä elossa, vaikutus on lyhyt, hetken äkillinen kehonhallinta, joka saattaa riittää vain yhden fyysisen toiminnan pilaamiseen. Jos se on kuollut tai epäkuollut, vaikutus kestää niin kauan kuin kantaja jatkaa soittamista.
+- Harmaantunut hirven kylkiluupari, jotka on leikattu rytmiesitykseen sopiviksi. Toisen pintaan on karkeasti kaiverrettu pääkallo, toiseen luurankokäsi. Kun niillä soitetaan, niillä voidaan hallita toisen olennon luita. Jos olento on vielä elossa, vaikutus on lyhyt, hetken äkillinen kehonhallinta, joka saattaa riittää vain yhden fyysisen toiminnan pilaamiseen. Jos se on kuollut tai epäkuollut, vaikutus kestää niin kauan kuin kantaja jatkaa soittamista.
 - **Lataus**: Seiso pimeän metsän reunalla ja heitä yliolanheitolla yksi luu niin pitkälle kuin pystyt kohti ryteikköä. Pidä silmäsi tiukasti kiinni, kun astut metsään hakemaan sen takaisin. Älä kurkistele äläkä vastaa sinua vastaan tulevien kuolleiden pilkkaaviin kuiskauksiin.
 
 ### Suurhiiden sinetti, 1 lataus
@@ -119,7 +119,7 @@ Seuraavassa on luvalla kopioitu luettelo muinaisesineistä eri puolilta verkkoa.
 
 ### Hiljaisuuden huppu, 2 latausta
 
-- Huppu, joka ympäröi kantajansa täydelliseen hiljaisuuteen, estäen niin kuulemaan kuin puhumaan.
+- Huppu, joka vaimentaa kantajansa täydelliseen hiljaisuuteen, estäen kuulemasta kuin puhumastakin.
 - **Lataus**: Meditoi täydellisessä hiljaisuudessa 1 tunti huppu vedettynä päälle.
 
 ### Yrttimestarin pussi, 1 lataus
@@ -163,7 +163,7 @@ Seuraavassa on luvalla kopioitu luettelo muinaisesineistä eri puolilta verkkoa.
 
 ## NSR Discordista
 
-### Viimeinen henkäys, lyhytmiekka, d8 vahinkoia, 1 lataus
+### Viimeinen henkäys, lyhytmiekka, d8 vahinkoa, 1 lataus
 
 - **Viimeisen henkäyksen** iskeminen maahan luo [_Astraalivankilan_](/cairn-srd#100-loitsua) kantajan ympärille. Kantaja on haavoittumaton, mutta ei voi liikkua, ollessaan vankilan sisällä.
 - **Lataus**: Syötä sille sieluja, joita se tarvitsee vankilan rakentamiseen.
@@ -185,7 +185,7 @@ Seuraavassa on luvalla kopioitu luettelo muinaisesineistä eri puolilta verkkoa.
 
 ### Tulipallokäädyt, 1 lataus
 
-- Kaulakoru, josta roikkuu pieni rubiini. Koru voidaan heittää, jolloin sen laskeutumispaikan ympärille syntyy liekkien purskahdus, aiheuttaen d8+d8 vahinkoa kaikille johon ne osuvat.
+- Kaulakoru, josta roikkuu pieni rubiini. Koru voidaan heittää, jolloin sen laskeutumispaikan ympärille syntyy liekkien purskahdus, aiheuttaen d8+d8 vahinkoa kaikille joihin ne osuvat.
 - **Lataus**: Jätä se roihuavaan nuotioon, kunnes liekit sammuvat luonnollisesti.
 
 ### Murhakätyri, tikari, d6 vahinkoa, 1 lataus
@@ -204,7 +204,7 @@ Seuraavassa on luvalla kopioitu luettelo muinaisesineistä eri puolilta verkkoa.
 ### Yksinvaltiaskuningattaren viitta, 3 latausta
 
 - Haalistunut musta suurviitta, jossa on oransseja ja valkoisia geometrisia kuvioita.
-- Hyppää tai lentää ripeästi 9 metrin yli.
+- Hyppää tai lennä ripeästi 9 metrin yli.
 - **Lataus**: Hyppää vähintään 15 metrin korkeudesta tai vietä tunti seikkaillen raivoisissa tuulissa.
 
 ### Peilikuvastin, 1 lataus
@@ -292,8 +292,8 @@ Seuraavassa on luvalla kopioitu luettelo muinaisesineistä eri puolilta verkkoa.
 ### Se Joka Tuhoaa Maailman
 
 - Teräskuutio, jonka sivu on 5 senttimetriä ja jonka yhdestä sivusta suurimman osan vie punainen painike.
- -Kun painiketta painetaan, syntyy sylkyetäisyydelle identtinen kuutio (joka voi myös tehdä lisää kopioita). Pitämällä nappia pohjassa niitä syntyy 1 sekunnissa.
- -Luonnolisesti 1/6 ajasta kuutio ilmestyy painikepuoli alaspäin. Tämä luo jatkuvasti lisää kopioita.
+- Kun painiketta painetaan, syntyy sylkäisyetäisyydelle identtinen kuutio (joka voi myös tehdä lisää kopioita). Pitämällä nappia pohjassa niitä syntyy yksi sekunnissa.
+- Luonnollisesti 1/6 ajasta kuutio ilmestyy painikepuoli alaspäin. Tämä luo jatkuvasti lisää kopioita.
 
 ### Elämänsuojelusamuletti, 1 lataus
 
@@ -310,7 +310,7 @@ Seuraavassa on luvalla kopioitu luettelo muinaisesineistä eri puolilta verkkoa.
 ### Kuuhilpari, 3 latausta
 
 - Mestarillisesti muotoiltu salkoase, jossa on puolikuun muotoinen lyömäkärki. Terää ja piikkejä koristavat hopeiset pyörrekuvioiset upotukset.
-- Jos terä heijastaa luonnollista kuunvaloa, sen kantaja voi käyttää latauksen ja kohdella aseen hyökkäyksiä vahvistettuina, lisäksi jokainen hilparinlyönti vahingoittaa olentoa kuumyrkyllä aiheuttaen 1 pisteen tahdonvoimavahinkoa.
+- Jos terä heijastaa luonnollista kuunvaloa, sen kantaja voi käyttää latauksen ja kohdella aseen hyökkäyksiä vahvennettuina, lisäksi jokainen hilparinlyönti vahingoittaa olentoa kuumyrkyllä aiheuttaen 1 pisteen tahdonvoimavahinkoa.
 - Täyden kuun valossa kantaja voi käyttää kaikki 3 latausta ja "halkoa" vesistön läpi käveltävän kulkuväylän, joka kestää kunnes kuu muuttuu näkymättömäksi.
 - **Lataus**: Aseta hilpari sille tarkoitettuun paikkaan kuutemppelissä 1 vuodeksi.
 
@@ -318,18 +318,18 @@ Seuraavassa on luvalla kopioitu luettelo muinaisesineistä eri puolilta verkkoa.
 
 - Tummista rautarenkaista tehdyt rukkaset, ne näyttävät karkeasti tehdyiltä ja niissä näyttää olevan vanhoja poltto- ja verijälkiä.
 - Kun ne laitetaan päälle, niiden kantaja saa välittömästi 1 väsymyksen ja taas yhden lisää joka tunti, niin kauan kun ne ovat puettuna. Jos kantaja saa joskus 7 tai enemmän väsymystä, hän romahtaa ja kuolee tunnin sisään. Vartijan tulisi vihjata tästä vaarasta selkeästi ennakkoon.
-- Kaikki hyökkäykset vahvistettuja niitä käytettäessä ja kaikki voimateot, joissa käyttäjän kädet/käsivarret ovat mukana, onnistuvat automaattisesti.
+- Kaikki hyökkäykset ovat vahvennettuja niitä käytettäessä ja kaikki voimateot, joissa käyttäjän kädet/käsivarret ovat mukana, onnistuvat automaattisesti.
 
 ### Muodonmuutospeili
 
-- Säilyttää yhden asian kuvan. Jos elävä olento katsoo peiliin tai jos elotonta esinettä pidetään peilin edessä, ne muuttuvat peilikuvaksi. Peilin kuva on katoaa.
+- Säilyttää yhden asian kuvan. Jos elävä olento katsoo peiliin tai jos elotonta esinettä pidetään peilin edessä, ne muuttuvat peilikuvaksi. Peilin kuva katoaa.
 - Elävä olento voidaan muuttaa vain toiseksi eläväksi olennoksi ja eloton esine voidaan muuttaa vain joksikin elottomaksi.
 
 ### Tuhkamiekka (d8), 5 latausta
 
 - Yksinkertainen suora miekka, joka on tuhkan ja noen peitossa, sen terässä on kolhuja ja kulumisen merkkejä.
-- Käyttäjän on kärsittävä puutteesta aktivoidakseen sen maagiset ominaisuudet.
-- 1 latauksen kustannuksella miekan terä syttyy palamaan tummanpunaisella liekillä, joka tuottaa paksua mustaa savua. Kaikki miekalla tehdyt hyökkäykset ovat vahvistettuja ja aina kun se aiheuttaa STR-vahinkoa, se sytyttää kohteensa palamaan. Liekki palaa niin kauan kunnes kunnes kantaja laittaa miekan tuppeen, sammuttaa sen tai ei ole enää puutostilassa.
+- Käyttäjän on kärsittävä puutostilasta aktivoidakseen sen maagiset ominaisuudet.
+- 1 latauksen kustannuksella miekan terä syttyy palamaan tummanpunaisella liekillä, joka tuottaa paksua mustaa savua. Kaikki miekalla tehdyt hyökkäykset ovat vahvennettuja ja aina aiheuttaessaan STR-vahinkoa, se sytyttää kohteensa palamaan. Liekki palaa niin kauan kunnes kantaja laittaa miekan tuppeen, sammuttaa sen tai ei ole enää puutostilassa.
 - **Lataus**: Valmistele suuri kokko ja kastele terä eläinrasvan, hartsin ja männynneulasten seoksella. Kääri se sitten kääriliinoihin joissa joku haudattiin ja laita miekka nuotioon. Sytytä se ja odota, että se sammuu kokonaan, ja sitten voit sitten hakea miekan.
 
 ### Voimakkuuden käsikirja
@@ -343,7 +343,7 @@ Seuraavassa on luvalla kopioitu luettelo muinaisesineistä eri puolilta verkkoa.
 
 - Suden nahasta tehty viitta.
 - Kantaja ja kaikki hänen omaisuutensa muuntuvat tavallisen suden muotoon. Jokaista käytettyä latausta kohden vaikutus kestää 3 tuntia.
-- **Lataus**: Kun et käytä sudennahkaa, metsästä ja tapa saalis ja nauti sen sydän ja maksa raakana.
+- **Lataus**: Kun et käytä sudennahkaa, metsästä, tapa saalis ja syö sen sydän ja maksa raakana.
 
 ### Jumalten kultainen omena, 1 käyttö
 
@@ -398,14 +398,14 @@ Seuraavassa on luvalla kopioitu luettelo muinaisesineistä eri puolilta verkkoa.
 ### Taivaiden raivon claymore-miekka (d10, kookas), 9 latausta
 
 - Sään pieksämä suurmiekka, joka on muinaisten riimujen peittämä.
-- Ukkosmyrskyjen aikana kaikki tällä miekalla tehdyt hyökkäykset ovat vahvistettuja.
-- Käytä 1 lataus paikallisen ukkosmyrskyn luomiseen, säästä riippuen tässä voi kestää muutaman tunti.
+- Ukkosmyrskyjen aikana kaikki tällä miekalla tehdyt hyökkäykset ovat vahvennettuja.
+- Käytä 1 lataus paikallisen ukkosmyrskyn luomiseen, säästä riippuen tässä voi kestää muutama tunti.
 - Käytä 2 latausta kanavoidaksesi salama taivaalta miekan kautta kohti haluttua paikkaa. Tämä aiheuttaa d4 vahinkoa sinulle (panssari jätetään huomiotta) ja d10 räjähdysvahinkoa valittuun paikkaan.
 - **Lataus**: Kävele ukkosmyrskyn läpi miekka kädessäsi, kunnes salama iskee siihen.
 
 ### Happaman mielen etikka, 4 käyttöä
 
-- Pullollinen vanhaa etikkaa, jonka on noitunut äreä velho.
+- Pullollinen vanhaa etikkaa, jonka äreä velho on noitunut.
 - Kun ruokaa tai juomaa valmistetaan tätä etikkaa käyttäen, kaikkiin sitä nauttiviin vaikuttaa Vihanpito-loitsu. He vihaavat ensimmäistä ihmistä, jonka he näkevät.
 
 ### Hiisisäkki, 1 lataus
@@ -435,8 +435,8 @@ Seuraavassa on luvalla kopioitu luettelo muinaisesineistä eri puolilta verkkoa.
 
 ### Paperikäsirysä
 
-- Kudotuista väripaperiesta valmistettu putki, jota koristavat sirkusesiintyjien kuvat ja joka toimii klassisen sormiloukun suurempana versiona.
-- Joka laittaa kätensä putken sisään, on jumissa tunnin ajan, samalla kun hänen kätensä muuttuvat paperiksi.
+- Kudotuista väripapereista valmistettu putki, jota koristavat sirkusesiintyjien kuvat ja joka toimii klassisen sormiloukun suurempana versiona.
+- Jokainen, joka laittaa kätensä putken sisään, on jumissa tunnin ajan, samalla kun hänen kätensä muuttuvat paperiksi.
 - Esine on maagisesti suunniteltu testaamaan kärsivällisyyttä, eikä raakaa voimaa. Jos putki revitään tai leikataan auki, sen sisällä olevat kädet pysyvät paperina eivätkä koskaan palaudu takaisin lihaksi.
 - Enintään 3 käyttökertaa ennen kuin laite purkautuu kasaksi paperiliuskoja ja konfettia.
 
@@ -476,8 +476,7 @@ Seuraavassa on luvalla kopioitu luettelo muinaisesineistä eri puolilta verkkoa.
 ### Heittäjän lantti
 
 - Kysy kysymys, johon voidaan vastata kyllä tai ei, ja heitä kolikkoa. Ilmoitat ilmassa ollessasi, kumpi puoli on kyllä tai ei. Kolikko vastaa totuudenmukaisesti.
- Lataus: Kun teet tärkeää päätöstä, heitä kolikkoa.
-- Ilmoitat ilmassa ollessasi, kumpi puoli on kyllä tai ei. Toimi kolikon vastauksen mukaan. Jos et toimi sen mukaisesti, pyrkimyksesi on kirottu ja kolikko menettää voimansa lopullisesti.
+- **Lataus**: Kun olet tekemässä tärkeää päätöstä, heitä kolikkoa. Ilmoita kolikon ilmassa ollessa kumpi puoli on kyllä tai ei. Toimi kolikon vastauksen mukaan. Jos et toimi sen mukaisesti, pyrkimyksesi on kirottu ja kolikko menettää voimansa lopullisesti.
 
 ### Tarjoilukulho
 
@@ -588,7 +587,7 @@ Koristeellinen, valaan luusta ja hopeafoliosta valmistettu ulosvedettävä kää
 - Pieni, tavallisen näköinen aurinkokello ja pyöreä keltainen pikkukivi. Pitämällä molempia yhtä aikaa kädessä kantaja voi muuttaa auringon todellista sijaintia. Se napsahtaa takaisin paikalleen, kun toinen tai molemmat tavarat pudotetaan.
 - Joka kerta kun tätä esinettä käytetään, heitetään 1d6. Ensimmäisenä 1, aurinko menee pois päiväksi, ja tulee takaisin himmeämpänä. Toisella 1, se menee pois kuukaudeksi ja tulee takaisin punaisena. Kolmannella 1:llä, se menee pois eikä tule takaisin.
 
-### Fizzletrickin häijyjen kumoamisten tiimalasi, 1 lataus
+### Fizzletrickin ilkikuristen kääntöjen tiimalasi, 1 lataus
 
 - Tiimalasi, johon näyttää valuvan hiekkaa loputtomasti.
 - Kun käännät tiimalasin ja asetat sen jonkin pinnan päälle, se kääntää kohteen, jonka päälle se on asetettu, ylösalaisin nopeasti ja rajusti.
@@ -599,7 +598,7 @@ Koristeellinen, valaan luusta ja hopeafoliosta valmistettu ulosvedettävä kää
 ### Animus-neula (d4)
 
 - Tekemällä **kriittistä vahinkoa** tällä pienellä kuparineulalla imet elinvoimaa yhdestä olennosta ja saat neulan hehkumaan haalealla värillä (olennosta riippuen).
-- Pistämällä ladatun neulan toiseen esineeseen tai olentoon siirrät olennon sielun tähän uuteen kohteeseen. Jos kohde on elossa, korkeampi WIL säilyy.
+- Pistämällä ladatun neulan toiseen esineeseen tai olentoon siirrät olennon sielun tähän uuteen kohteeseen. Jos kohde on elossa, korkeampi WIL ratkaisee.
 
 ### Miellyttävä mekko
 
@@ -668,7 +667,7 @@ Koristeellinen, valaan luusta ja hopeafoliosta valmistettu ulosvedettävä kää
 ### Verikivinen taskukello, 1 lataus
 
 - Kun sinä tai liittolaisesi tekisi jotain aktiivisesti vahingollista (astutte ansaan, kompastutte taistelussa), kelaa aikaa takaisin hetkeen ennen kuin se tapahtui, mutta muistat tapahtuneen kelatusta ajasta.
-- **Lataus**: Kun lataus on 0, kärsit puutteesta kunnes verikivelle vuodatetaan verta (3+ STR-vahingon edestä), mikä myös virkistää latauksen.
+- **Lataus**: Kun lataus on 0, kärsit puutostilasta kunnes verikivelle vuodatetaan verta (3+ STR-vahingon edestä), mikä myös virkistää latauksen.
 
 ### Kuuhelmitalismaani, 3 latausta
 
@@ -694,7 +693,7 @@ Koristeellinen, valaan luusta ja hopeafoliosta valmistettu ulosvedettävä kää
 
 - Tämä tyylikäs hopeinen ase näyttää aivan pitkämiekalta, mutta siihen on kaiverrettu koreasti sanat "Tämä ei ole pitkämiekka".
 - Sitä ei lasketa pitkämiekaksi minkään sellaisen vaikutuksen, säännön tai lain kannalta, jossa sellainen huomioitaisiin.
-- Pelaaja voi käyttää sitä kunnolla vasta, kun hän on käyttänyt kuukauden harjoitellen epäoppimaan sen näkemisen pitkämiekkana, minkä jälkeen se tekee vahinkoa WIL:iin STR:n sijasta.
+- Pelaaja voi käyttää sitä kunnolla vasta, kun hän on käyttänyt kuukauden harjoitellen unohtamaan sen näkemisen pitkämiekkana, minkä jälkeen se tekee vahinkoa WIL:iin STR:n sijasta.
 
 ### Savusauva, 4 latausta
 
@@ -712,9 +711,9 @@ Koristeellinen, valaan luusta ja hopeafoliosta valmistettu ulosvedettävä kää
 ### Kahden mielen katse (d6), 2 latausta
 
 - Tummunut kaksiteräinen tikari, jossa on pieni jalokivikahva.
-- Viillä itseäsi terällä ja käytä 1 lataus loihtiaksesi esiin tarka kopio itsestäsi, jolla on kaikki kantamasi varusteet. Se katoaa seuraavana aamu- tai iltahämäränä, riippuen siitä kumpi tulee ensin.
+- Viillä itseäsi terällä ja käytä 1 lataus loihtiaksesi esiin tarkka kopio itsestäsi, jolla on kaikki kantamasi varusteet. Se katoaa seuraavana aamu- tai iltahämäränä, riippuen siitä kumpi tulee ensin.
 - Kopio seuraa kaikkia komentojasi. Sillä on kaikki tietosi ja kykysi, ja se käyttäytyy enimmäkseen kuten sinä, mutta on vain holtittomampi ja kylmempi.
-- **Lataus:** Ruoki nälkäistä petoa tuoreella viattoman ruumiilla ja tapa sitten tämä peto tällä veitsellä.
+- **Lataus:** Ruoki nälkäistä petoa viattoman olennon tuoreella ruumiilla ja tapa sitten tämä peto tällä tikarilla.
 
 ### Vallananastajan sormus
 

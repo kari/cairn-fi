@@ -10,4 +10,4 @@ grand_parent: Lisäaineistot
 
 - Armottomia sotureita, jotka saavat voimansa vaatteina käyttämistään taljoista: karhun, suden, villisikojen jne.
 - Jätä huomiotta **Moraali**-sääntö eikä niitä koskaan kohdella osana _joukko-osastoa_.
-- **Raivo**: Berserkin ensimmäisellä hyökkäyksellä on sekä _vahvistettu_ että _räjähdys_ominaisuudet.
+- **Raivo**: Berserkin ensimmäisellä hyökkäyksellä on sekä _vahvennettu_ että _räjähdys_ominaisuudet.

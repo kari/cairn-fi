@@ -20,7 +20,7 @@ Rook, Ebon, Moro, Yew, Pall, Leth, Bea, Barnaby, Vesper, Leder
 - Lyhty
 - Öljykannu (6 käyttöä)
 - Vaarna (d6)
-- Ketjua (3 metriä)
+- Ketju (3 metriä)
 
 ## Mitä veit kuolleilta? Heitä 1d6:
 

@@ -20,7 +20,7 @@ Luodaksesi yksilöllisen hirviön, noudata näitä ohjeita:
 
 ## Periaatteet
 
-- Käytä **Kriittistä vahinkoa** tukeaksesi jonkin aggressiivisen sivuhahmon uhkaa tai outoutta.
+- Käytä **kriittistä vahinkoa** tukeaksesi jonkin aggressiivisen sivuhahmon uhkaa tai outoutta.
 - Käytä sävyä ja tyyliä, jotta olento erottuu joukosta. Pelaajat muistavat sikanaamaisen humanoidin, joka etsii kadonneita lampaitaan, helpommin kuin geneerisen jousella metsästävän hiiden.
 - Säädä aina olennon tilastoja sen mukaan, mikä on hauskaa ja mielenkiintoista.
 
@@ -203,8 +203,8 @@ Tämä olento on fyysisesti vahva, joten sillä on keskimääräistä korkeampi 
 
 Täydellistä menetelmää hirviöiden muuntamiseen muista roolipelijärjestelmistä ei ole olemassa. Alla on muutamia vinkkejä, jotka saattavat auttaa tässä työssä!
 
-- **Osumasuojaus**: Hyvä nyrkkisääntö on antaa olennolle +1 HP jokaista osumanoppaa (**HD**) kohden **3 HP:n** vähimmäismäärän lisäksi (keskiverto ihminen). Ajattelen yleensä, että **osumanoppa** vastaa d6:sta, jonka _keskiarvo_ on 3,5. Aloita aina olennon **HP:stä** ja vasta _sitten_ valitse sen **STR-arvo**.
-- **Panssari**: Etsi alkuperäisistä tietolaatikoista lauseita kuten “kuin nahka” tai “kuin levypanssari”. Kun muunnat B/X-tyylisistä peleistä, kuten Old School Essentialsista, jätä THAC0 huomiotta ja käytä laskevaa panssariluokkaa (AC) aina kun mahdollista (7 = nahka, 5 = rengaspanssari, 3 = ritarihaarniska). Jos vain nouseva PL on annettu, voit käyttää (12 = nahka, 14 = rengaspanssari, 16 = ritarihaarniska). Riippumatta siitä mistä järjestelmästä muunnat, Panssariarvot vaihtelevat vain välillä 1-3.
+- **Osumasuojaus**: Hyvä nyrkkisääntö on antaa olennolle +1 HP jokaista osumanoppaa (**HD**) kohden **3 HP:n** vähimmäismäärän lisäksi (keskiverto ihminen). Ajattelen yleensä, että **osumanoppa** vastaa d6:ta, jonka _keskiarvo_ on 3,5. Aloita aina olennon **HP:stä** ja vasta _sitten_ valitse sen **STR-arvo**.
+- **Panssari**: Etsi alkuperäisistä tietolaatikoista lauseita kuten “kuin nahka” tai “kuin levypanssari”. Kun muunnat B/X-tyylisistä peleistä, kuten Old School Essentialsista, jätä THAC0 huomiotta ja käytä laskevaa panssariluokkaa (PL, eng. AC) aina kun mahdollista (7 = nahka, 5 = rengaspanssari, 3 = ritarihaarniska). Jos vain nouseva PL on annettu, voit käyttää (12 = nahka, 14 = rengaspanssari, 16 = ritarihaarniska). Riippumatta siitä mistä järjestelmästä muunnat, Panssariarvot vaihtelevat vain välillä 1-3.
 - **Voimakkuus**: Katso olennon **HD** ja **HP**. Jos olentoa on vaikea tappaa, mutta _ei_ siksi, että se on ketterä tai taitava, anna sille enemmän **STR:ää** (mutta _älä_ enemmän **HP**:tä). Aloita **STR**-arvosta 10 (keskiarvo) ja siirry siitä ylös tai alas.
 - **Ketteryys**: Aloita lähtöarvolla **10** ja, jos olento on erityisen vikkelä (usein käytetään termiä "nopea" (_speed_) tai SP), ketterä tai näppäräsorminen, lisää sitä. Jos se reagoi hitaasti, on kookas tai kömpelö, pienennä arvoa. Katso alta lisää kohdasta [Pelastusheitot](#pelastusheitot)!
 - **Tahdonvoima**: **Taistelutahto** (Morale / **ML**) voi olla hyvä ohjenuora, ja se vaihtelee yleensä välillä 2-12. Mitä suurempi olennon persoonallisuus, henki tai olemus on, sitä korkeampi sen WIL:in tulisi olla. Seuraava taulukko on kelpo opas **ML**:n muuntamisesta **WIL**:ksi.
@@ -230,21 +230,21 @@ Täydellistä menetelmää hirviöiden muuntamiseen muista roolipelijärjestelmi
 
 ### Taistelu
 
-- **Vahinkonoppa**: Voidaan tyypillisesti ottaa sellaisenaan useimmista OSR-järjestelmistä, mutta on hyvä tarkistaa ensin Markkinapaikkaan listatuista aseista.
+- **Vahinkonoppa**: Voidaan tyypillisesti ottaa sellaisenaan useimmista OSR-järjestelmistä, mutta on hyvä tarkistaa ensin Markkinapaikkalla listatuista aseista.
 - **Useat hyökkäykset**: Muunna _räjähdykseksi_ tai useammaksi nopaksi (esim. d6+d6).
-- **Tuhoisat hyökkäykset**: Harkitse vahingon tekemistä _vahvistetuksi_, lisää _Räjähdys_-tunniste tai anna hyökkäykselle useita noppia.
+- **Tuhoisat hyökkäykset**: Harkitse vahingon tekemistä _vahvennetuksi_, lisää _Räjähdys_-tunniste tai anna hyökkäykselle useita noppia.
 
 ### Kyvyt
 
 - Joskus alkuperäisen roolipelijärjestelmän mekaniikat eivät yksinkertaisesti _vain käänny lainkaan_. Se on OK! Yritä hyödyntää mikä olennossa on mielenkiintoisinta ja tee “versio” sen kyvystä, joka on sopivampi Cairnin kanssa.
-- Kyvyt voi joskus muuntaa hyökkäyksiksi (vahinkonopalla), jolloin Kriittinen vahinko paljastaa todellisen vaikutuksen.
+- Kyvyt voi joskus muuntaa hyökkäyksiksi (vahinkonopalla), jolloin kriittinen vahinko paljastaa todellisen vaikutuksen.
 - Jos hirviöllä on hyökkäys, joka vaatii pelaajahahmoja yrittämään väistämistä tai pelastusheittoa jotain kykyä vastaan, harkitse kyvyn tekemisestä taistelun ulkopuoliseksi “ansaksi”, jonka pelaajahahmot voivat laukaista. Muuten anna sen onnistua automaattisesti. Taistelu on vaarallista ja Vartijan tehtävä on viestittää vaarasta kunnolla ennen kuin taistelu alkaa.
 
 ### Taikuus
 
 - Maagiset olennot voivat “tietää” läjän loitsuja ilman että niiden tarvitsee kantaa loitsukirjoja. Tässä tapauksessa, tee niiden ruumiista maagisia (ja vaarallisia)!
 - Loitsut ovat hankalia; voit antaa taiankäyttäjille Loitsukirjoja, mutta muista että ne saattavat _tiputtaa_ nämä, kun ne on kukistettu.
-- Harkitse, että jotkin loitsukirjojen räjähtävät tippuessaan (käytä Kohtalon Noppaa määrittääksesi mitkä).
+- Harkitse, että jotkin loitsukirjat räjähtävät tippuessaan (käytä Kohtalon Noppaa määrittääksesi mitkä).
 
 ### Käytä kerrontaa
 
@@ -263,7 +263,7 @@ _HD 5, Nopeus 120', Panssari 14, Taistelutahto 11, Hyökkäys: +4 d8hp (kynnet, 
 _**Yllä olevaa esimerkkiä käyttäen, voin nähdä että:**_
 
 - Hän näyttää kaksi metriä pitkältä ihmisnaiselta, jolla on ketun pää.
-- Hänellä ole kovin korkea HP ja hän on aika nopea.
+- Hänellä ei ole kovin korkea HP ja hän on aika nopea.
 - Hänen ML:nsä on aika korkea ja hän on selvästi aika omapäinen.
 - Hän on ketterä ja notkea.
 - Hän hyökkää hampaillaan ja kynsillään (tukehduttaen saaliinsa, jos mahdollista).

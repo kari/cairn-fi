@@ -50,15 +50,15 @@ grand_parent: Toinen laitos
 
 - Hahmoilla on yhteensä kymmenen varustepaikkaa, mutta he voivat kuljettaa vain neljää tai viittä esinettä mukavasti ilman laukkuja, reppuja, hevosia, kärryjä tai muuta sellaista.
 - Jokaisella pelaajahahmolla on aluksi **Reppu**, johon mahtuu enintään kuuden paikan edestä esineitä tai **Väsymystä**. Kärryt (joita on vedettävä molemmilla käsillä), hevoset tai muulit voivat tehdä valtavan eron siihen, kuinka paljon pelaajahahmo voi ottaa mukaansa seikkailuun. **Palkkalaisille** voidaan myös maksaa varusteiden kantamisesta.
-- Varusteluettelo on abstrakti ja riippuu vain tarinankerronnasta Vartijan päätösten mukaisesti. Jokaisen, jonka varustepaikat ovat täynnä (eli kaikki 10 paikkaa täyttyvät), HP laskee nollaan. Hahmo ei voi täyttää enempää kuin kymmenen paikkaa.
+- Varusteluettelo on abstrakti ja riippuu vain tarinankerronnasta Vartijan päätösten mukaisesti. Jos varustepaikat ovat täynnä (eli kaikki 10 paikkaa täyttyvät), hahmon HP laskee nollaan. Hahmo ei voi täyttää enempää kuin kymmenen paikkaa.
 
 ### Varustepaikat
 
 - Useimmat esineet vievät yhden paikan, ellei toisin mainita.
-- _Pikkuiset_ esineet eivät vie yhtään paikkaa. _Kookkaat_ esineet vievät **kaksi** paikkaa.
+- _Mitättömät_ esineet eivät vie yhtään paikkaa. _Kookkaat_ esineet vievät **kaksi** paikkaa.
 - Alle 100gp:n arvoinen kolikkopussi on _mitätön_ eikä se vie paikkaa.
 
-## Hahmon Piirteet (d10)
+## Hahmonpiirteet (d10)
 
 ### Vartalotyyppi
 
@@ -163,7 +163,7 @@ grand_parent: Toinen laitos
 | **16**  | Veistit **Tammiherran** oksasta **pillin** (_mitätön_). Tekosi ei jäänyt huomaamatta. Et myöskään näytä pystyvän pääsemään eroon pillistä.                                                                                                    |
 | **17**  | **Aamunkoiton prikaati** teki perheellesi palveluksen ja antoi sinulle siitä todisteeksi kuivatun **verenpunaisen kukan** (_mitätön_). Kun kukka muuttuu valkoiseksi, on tullut aika maksaa palvelus takaisin.                                |
 | **18**  | Viihdyttäjä vieraili kerran kotonasi täyttäen sen tarinoilla ja laululla. Hän lähti eräänä päivänä sanomatta sanaakaan, jättäen jälkeensä vain **pienikokoisen luutun**. Jotain kolisee sen sisällä.                                          |
-| **19**  | Sinulle ilmestyi unessa valkoinen varis, jolla oli oksa suussaan. Heräsit seuraavana aamuna se **oksa** (_mitätön_) kädessäsi. Uskot sen tuovan sinulle onnea. Se tuoksuu aavistuksen rikiltä.                                                |
+| **19**  | Sinulle ilmestyi unessa valkoinen varis, jolla oli oksa suussaan. Heräsit seuraavana aamuna ja **oksa** (_mitätön_) oli kädessäsi. Uskot sen tuovan sinulle onnea. Se tuoksuu aavistuksen rikiltä.                                                |
 | **20**  | Yksi esivanhemmistasi loukkasi **Sammalnoitaa**, joka langetti kirouksen hänen verilinjalleen. Kasvosi saa peilit särkymään. Olet huomannut, että sirpaleet voivat joskus paljastaa harhanäkyjä.                                              |
 
 ## Enteet

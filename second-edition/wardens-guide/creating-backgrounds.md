@@ -16,7 +16,7 @@ Cairnissa pelaajahahmon Tausta on hänen luonteensa tärkein elementti, edustaen
 - Pelaajien tulisi olla innoissaan Tausta-taulukkoheitoistaan.
 - Taustat voivat olla arkkityypillisiä ja tuttuja, mutta jättävät tilaa vaihtoehtoisille tulkinnoille!
 - Taustojen pitäisi kertoa pelaajalle jotain pelin viitteellisestä ympäristöstä.
-- Taulukon tuloksien tulisi olla erilaiset, jotta hahmot, joilla on sama Tausta erottuvat silti toisistaan.
+- Taulukon tulosten tulisi olla erilaiset, jotta hahmot, joilla on sama Tausta erottuvat silti toisistaan.
 
 ## Taustan rakenne
 
@@ -28,9 +28,9 @@ Laadi lista yleisistä adjektiiveista, jotka kuvaavat uutta Taustaasi. Jos suunn
 
 Cairnin hahmot määrittyvät pitkälti varusteluettelonsa perusteella, joten aloitusvälineiden tulisi olla Taustan ainutlaatuisuuden rakentamisen lähtöpiste. Jokaisella Taustalla on:
 
-- Kultaa, ruokaa ja jonkinlainen valonlähde. Näiden tulisi silti olla yksilöllisiä; Tausta voisi aloittaa epätavallisilla muonilla, kynttiläkypärällä ja niin edelleen.
+- Kultaa, ruokaa ja jonkinlainen valonlähde. Näiden tulisi silti olla yksilöllisiä; Tausta voisi aloittaa epätavallisilla muona-annoksilla, kynttiläkypärällä ja niin edelleen.
 - Enintään neljä _yksilöllistä_ varustetta, jotka vahvistavat teemaa. Ainakin yhden näistä tulisi olla jonkinlainen ase.
-- Aloitusvälineiden tulisi viedä yhteensä enintään seitsemän varustepaikkaa, jotta hahmon varusteluettelo ei tule ylikuormitetuksi.
+- Aloitusvarusteiden tulisi viedä yhteensä enintään seitsemän varustepaikkaa, jotta hahmon varusteluettelo ei tule ylikuormitetuksi.
 
 ### Taulukot
 

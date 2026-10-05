@@ -11,7 +11,7 @@ grand_parent: Toinen laitos
 
 ### Perusteet
 
-- Luolaston tutkimuskierros (ks. alla) on jaettu **Vuorojen**, **Toimien** ja niiden seurauksien tapahtumasarjaan.
+- Luolaston tutkimuskierros (ks. alla) on jaettu **Vuorojen**, **Toimintojenn** ja niiden seurauksien tapahtumasarjaan.
 - Hahmo voi **vuorollaan** liikkua soihtunsa valaisemaa aluetta vastaavan matkan (noin 12 metriä) ja suorittaa yhden **toiminnon**. Pelaajat voivat käyttää **toimintonsa** liikkuakseen enintään kolme kertaa tuon matkan verran, vaikka tämä kasvattaakin mahdollisuutta [**Luolaston tapahtumat**](#luolaston-tapahtumat) -taulukon heitolle.
 - **Vartijan** tulisi kertoa itsestään selvät tiedot alueesta ja sen vaaroista ilman esteitä ja ilman kustannuksia. Nopea tai varomaton liikkuminen voi lisätä mahdollisuutta kohdata vaeltava hirviö, joutua ansaan tai [**Luolaston tapahtumat**](#luolaston-tapahtumat) -taulukon heitolle.
 
@@ -28,7 +28,7 @@ grand_parent: Toinen laitos
 Luolaston tutkiminen on aina vaarallista, ja ajankulkua on aina punnittava tarkkaan paikan asukkaiden herättämisen, luonnonvaarojen ja suurempien vaarojen riskiä vastaan.
 Kun seurue:
 
-- Viettää useamman kuin yhden luolastokierroksen samassa huoneessa tai paikassa
+- Viettää useamman kuin yhden luolaston tutkimuskierroksen samassa huoneessa tai paikassa
 - Liikkuu pikaisesti tai varomattomasti huoneessa
 - Siirtyy uudelle alueelle, tasolle tai vyöhykkeelle
 - Aiheuttaa kovaäänisen häiriön
@@ -65,7 +65,7 @@ Kun seurue:
 ## Paniikki
 
 - Hahmo, joka on vihollisten ympäröimä, pimeyden peittämä tai joka kohtaa suurimmat pelkonsa, voi kokea _paniikkia_. **WIL** **pelastusheitto** on yleensä tarpeen, jotta vältytään otteen menettämiseltä ja _paniikkiin_ joutumiselta.
-- _Paikoivan_ hahmon on tehtävä **WIL** **pelastusheitto** selvitäkseen olotilastaan **toimintona** omalla **vuorollaan**.
+- _Panikoivan_ hahmon on tehtävä **WIL** **pelastusheitto** selvitäkseen olotilastaan **toimintona** omalla **vuorollaan**.
 - _Panikoivalla_ hahmolla on 0 **HP**:tä, hän ei toimi taistelun ensimmäisellä kierroksella ja kaikki hänen hyökkäyksensä ovat _heikentyneitä_.
 
 ### Luolaston osat
@@ -80,13 +80,13 @@ Kun seurue:
 
 - Ovet ja sisäänkäynnit voivat olla lukossa, jumissa tai kokonaan tukossa. Hahmot voivat yrittää pakottaa oven auki (tai kiilata sen kiinni) käyttämällä saatavilla olevia välineitä (piikkejä, liimaa) tai raakaa kykyä.
 - Seurueen marssijärjestys määrää, keneen vaikuttaa eniten mitä oven takana on.
-- Hahmo voi huolellisen havainnoinnin (kuuntelun, haistamisen jne.) avulla tunnistaa elonmerkkejä ja muita vaaroista lähellä olevien ovien ja seinien läpi.
+- Hahmo voi huolellisen havainnoinnin (kuuntelun, haistamisen jne.) avulla tunnistaa elonmerkkejä ja vaaroja lähellä olevien ovien ja seinien läpi.
 
 #### Ansat
 
 - Varovaiselle hahmolle tulisi kertoa kaikki mahdollinen tieto, joka antaisi hänelle mahdollisuuden _välttää_ ansan laukaiseminen. Tietämätön hahmo laukaisee tarinankerronnan mukaisesti ansan tai muuten siihen on 2/6 mahdollisuus.
 - **Ansat** voi yleensä havaita huolellisesti **etsimällä** huonetta.
-- Ansojen aiheuttama vahinko kohdistuu Kykyihin (yleensä **STR** tai **DEX**) eikä **HP**:stä. Panssari voi vähentää vahinkoa, mutta vain jos se on käy järkeen (esim. kilpi ei vähennä myrkyllisen kaasun aiheuttamaa vahinkoa).
+- Ansojen aiheuttama vahinko kohdistuu Kykyihin (yleensä **STR** tai **DEX**) eikä sitä oteta **HP**:stä. Panssari voi vähentää vahinkoa, mutta vain jos se käy järkeen (esim. kilpi ei vähennä myrkyllisen kaasun aiheuttamaa vahinkoa).
 
 ## Erämaan tutkiminen
 
@@ -137,7 +137,7 @@ Sää, maasto, pimeys, loukkaantuneet seurueen jäsenet ja muut esteet voivat va
 
 ### Sää
 
-Joka päivä Vartijan tulisi heittää noppaa soveltuvan vuodenajan säätaulukkoon. Jos "**Äärimmäinen**" säätulos heitetään kahdesti peräkkäin, sää muuttuu "**Katastrofaaliseksi**. Navakka tuuli muuttuu hurrikaaniksi, myrsky tulvii laaksoon jne.
+Joka päivä Vartijan tulisi heittää noppaa soveltuvan vuodenajan säätaulukkoon. Jos "**Äärimmäinen**" säätulos heitetään kahdesti peräkkäin, sää muuttuu "**Katastrofaaliseksi**". Navakka tuuli muuttuu hurrikaaniksi, myrsky tulvii laaksoon jne.
 
 #### Säätyyppi
 
@@ -167,7 +167,7 @@ Joka päivä Vartijan tulisi heittää noppaa soveltuvan vuodenajan säätaulukk
 
 1. **Vartija** kuvailee nykyisen **pisteen** tai **alueen** kartalla ja kuinka reitti, sää, maasto tai ryhmän tila voivat vaikuttaa **matkanopeuteen**. Seurue suunnittelee tai korjaa tietyn suunnan kohti määränpäätä.
 2. Jokainen seurueen jäsen valitsee yhden **Erämaatoiminnon**. **Vartija** kertoo tulokset ja heittää sitten [**Erämaan tapahtumat**](#erämaan-tapahtumat) -taulukkoa. Seurue reagoi tulokseen.
-3. **Pelaajat** ja **Vartija** kirjaavat ylös kaikki resurssien menetykset ja uudet olosuhteet (esim. soihdun käyttö, _puute_ jne.), ja kierros alkaa alusta.
+3. **Pelaajat** ja **Vartija** kirjaavat ylös kaikki resurssien menetykset ja uudet olosuhteet (esim. soihdun käyttö, _puutos_ jne.), ja kierros alkaa alusta.
 
 ### Erämaan tapahtumat
 
@@ -178,7 +178,7 @@ Joka päivä Vartijan tulisi heittää noppaa soveltuvan vuodenajan säätaulukk
 | **3** | **Ympäristö**   | Muutos säässä tai maastossa.                                                                                                                                                                                                                                                       |
 | **4** | **Menetys**     | Seurue joutuu tekemään valinnan, jonka kustannus on resurssi (muona-annos, työkalu jne.), aikaa tai vaivaa.                                                                                                                                                                        |
 | **5** | **Uupumus**     | Seurue kohtaa esteen, joka pakottaa ponnistelemaan tai huolehtimaan tai aiheuttaa viivästyksen. Tämä saattaa tarkoittaa ylimääräisen ajan käyttämistä (ja ylimääräistä **Erämaatoimintoa**) tai **Väsymyksen** lisäämistä pelaajahahmon varusteluetteloon merkkinä vaikeuksistaan. |
-| **6** | **Löytö**       | Seurue löytää ruokaa, aarteen tai jotain muita hyödyllisiä resursseja. **Vartija** voi näiden sijaan valita paljastaa alueen tärkeimmän piirteen.                                                                                                                                  |
+| **6** | **Löytö**       | Seurue löytää ruokaa, aarteen tai jotain muita hyödyllisiä resursseja. **Vartija** voi näiden sijaan päättää paljastavansa alueen tärkeimmän piirteen.                                                                                                                                  |
 
 ### Erämaan osat
 
@@ -192,7 +192,7 @@ Joka päivä Vartijan tulisi heittää noppaa soveltuvan vuodenajan säätaulukk
 
 - Päivän viimeinen **vahtivuoro** on yleensä varattu [**Leiriytyminen**](#leiriytyminen) -toiminnolle.
 - Hahmot tarvitsevat tyypillisesti unta joka päivä. Mikä tahansa vähäistä keskeytystä suurempi tapahtuma voi mitätöidä tai kumota unen hyödyt.
-- Jos seurue jättää **Leiriytyminen**-toiminnon väliin, jokainen heistä lisää **Väsymyksen** varusteluetteloonsa ja on _puutteessa_. Lisäksi univajeessa matkustaminen nostaa maaston **vaikeutta** asteella (eli _Helppo_ muuttuu _Vaikeaksi_).
+- Jos seurue jättää **Leiriytyminen**-toiminnon väliin, jokainen heistä lisää **Väsymyksen** varusteluetteloonsa ja on _puutostilassa_. Lisäksi univajeessa matkustaminen nostaa maaston **vaikeutta** asteella (eli _Helppo_ muuttuu _Vaikeaksi_).
 
 #### Valaistus
 
@@ -217,7 +217,7 @@ Joka päivä Vartijan tulisi heittää noppaa soveltuvan vuodenajan säätaulukk
 
 #### Tutkiminen
 
-- Yksi tai useampi seurueesta tutkii laajaa alueen etsien piilotettuja piirteitä, tiedustellen ennalta tai edeten varovasti.
+- Yksi tai useampi seurueesta tutkii laajaa aluetta etsien piilotettuja piirteitä, tiedustellen ennalta tai edeten varovasti.
 - Sijainti (suojapaikka, kylä, luola jne.) tai Piirre (kuuma lähde, maanalainen joki, haaksirikkoutunut laiva jne.) löytyy.
 - **Matkustaminen**-toiminto tarvitaan edelleen _poistumaan_ nykyiseltä alueelta, vaikka se olisi tutkittu kokonaan.
 
@@ -230,7 +230,7 @@ Joka päivä Vartijan tulisi heittää noppaa soveltuvan vuodenajan säätaulukk
 #### Leiriytyminen
 
 - Seurue pysähtyy pystyttämään leirin erämaahan. Jokainen ryhmän jäsen (ja heidän ratsunsa) kuluttaa **Muona-annoksen**.
-- Tehdään **vartiovuorot**, jotta seurue voi nukkua rauhassa. Pienempi seurue voi joutua ottamaan riskin nukkua ilman vartiota tai olla nukkumatta useamman päivän aikana.
+- Asetetaan **vahtivuorot**, jotta seurue voi nukkua rauhassa. Pienempi seurue voi joutua ottamaan riskin nukkua ilman vartiota tai vuorotella nukkumisessa useamman päivän aikana.
 - Seurueen jäsenet, jotka kykenivät lepäämään, poistavat kaiken **Väsymyksen** luettelostaan.
 
 ## Vapaa-aika
@@ -239,7 +239,7 @@ Pelikertojen välillä pelaajat voivat harjoittaa erilaisia aktiviteetteja, kute
 
 ### Merkkipaalut
 
-Useampaa vaihetta vaativille toiminnoille **Vartija** asettaa 1-5 **Merkkipaalua**, joiden avulla pelaajat voivat seurata edistymistään. Kukin **Merkkipaalu** edustaa kattavaa tehtävää, jossa ei ole vuorovaikutusta. **Vartija** voi esittää erilaisia tapoja näiden tavoitteiden saavuttamiseksi, joista kullakin on omat **Merkkipaalunsa**. Riippuen pelin tapahtumista, **Vartija** voi myös ottaa käyttöön uusia **Merkkipaaluja** tai hylätä olemassa olevia.
+Useita vaiheita vaativille toiminnoille **Vartija** asettaa 1-5 **Merkkipaalua**, joiden avulla pelaajat voivat seurata edistymistään. Kukin **Merkkipaalu** edustaa kattavaa tehtävää, jossa ei ole vuorovaikutusta. **Vartija** voi esittää erilaisia tapoja näiden tavoitteiden saavuttamiseksi, joista kullakin on omat **Merkkipaalunsa**. Riippuen pelin tapahtumista, **Vartija** voi myös ottaa käyttöön uusia **Merkkipaaluja** tai hylätä olemassa olevia.
 
 ### Hinta
 
@@ -284,7 +284,7 @@ Kuten aina, kysymyksen on perustuttava kokemukseen, joka tapahtui pelin aikana.
 
 Hahmo voi parantaa taitojaan esineellä tai kyvyllä, ja tällä on selkeät kerronnalliset tai mekaaniset vaikutukset. Hän saattaa olla kiinnostunut tekemään enemmän vahinkoa tietyllä aseella, vähentämään mahdollisuuksiaan eksyä huonossa säässä tai oppimaan lukemaan muinaisten kieliä. Pelaajahahmo saattaa viettää useita **Vapaa-ajan toimintoja** harjoittelemalla tietyllä aseella, jolloin hänen taitonsa paranevat viikko viikolta. Tai sitten heidän on matkustettava kaukaisen tietäjän luokse ja parannettava taitojaan lyhyen mutta intensiivisen opiskelun avulla.
 
-Pelaajan on selitettävä tarkasti mitä hän haluaa parantaa ja **Mestari**, jonka kanssa hän voisi harjoitella. Ja tietysti hahmon inspiraatio kehittymiseen pitäisi tulla jostain kokemuksesta pelissä. **Vartijan** tulisi tarjota mahdolliset **Merkkipaalut** ja niihin liittyvät **Kustannukset**.
+Pelaajan on selitettävä tarkasti mitä hän haluaa parantaa ja **Mestarin**, jonka kanssa hän voisi harjoitella. Ja tietysti hahmon inspiraatio kehittymiseen pitäisi tulla jostain kokemuksesta pelissä. **Vartijan** tulisi tarjota mahdolliset **Merkkipaalut** ja niihin liittyvät **Kustannukset**.
 
 **Esimerkkejä:**
 

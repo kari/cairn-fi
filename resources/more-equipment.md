@@ -9,8 +9,8 @@ nav_order: 6
 
 # Varusteluettelo
 
-- Tavaroiden hinnat on kultarahassa.
-- Alla oleva luettelo ei muuta mitään Sääntökokoelmassa (SRD) lueteltuja kohteita, se vain lisää uusia.
+- Tavaroiden hinnat on ilmoitettu kultarahoina.
+- Alla oleva luettelo ei muuta mitään Sääntökokoelmassa (SRD) lueteltua kohdetta, se vain lisää uusia.
 - Tämän luettelon pääasiallisena innoittajana ovat OSE:n hinnasto [Old School Essentials](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page) ja [Kimberly Chapmanin sivu](https://kimberlychapman.com/rpg/equipment.html).
 - Kiitokset [Oskar Swidalle](https://oskarswida.itch.io/)
 
@@ -128,7 +128,7 @@ Ensimmäinen arvo tarkoittaa viikkopalkkaa, toinen osuutta aarteesta (neuvotelta
 
 ## Palkkalaiset: Asiantuntijat
 
-Palkat esitetään kuukausipalkkana. Osuus aarteista, riippuu pelin tarinasta!
+Palkat esitetään kuukausipalkkana. Osuus aarteista riippuu pelin tarinasta!
 
 |                          |                          |
 | ------------------------ | ------------------------ |

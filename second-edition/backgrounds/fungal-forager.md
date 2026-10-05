@@ -32,7 +32,6 @@ Unther, Woozy, Hilda, Current, Leif, Ratan, Mourella, Lal, Per, Madrigal
 | **4** | **Hornanlakki**. Sen tuoksulle altistuminen aiheuttaa voimakasta pahoinvointia ja oksentelua. Joka tapauksessa se tyhjentää tilan. Pullotettu (1 käyttö).                                 |
 | **5** | **Versomaljakas**. Nauti kutistuaksesi hiiren kokoiseksi. (Omaisuutesi pysyy samankokoisina.) Palaat normaalikokoon tunnin kuluessa, usein epätasaisesti. 1 käyttö.                       |
 | **6** | **Juurikukka**. Valkoinen sieni, jota löytyy vain syvällä maan alla olevista ruumiista. Nauti palauttaaksesi d6 WIL-pistettä. Näet unta kuolleista ja heidän tarinoistaan. 1 käyttö.      |
-|       |                                                                                                                                                                                           |
 
 ## Mikä pitää sinut järjissäsi, jopa täydellisessä pimeydessä? Heitä 1d6:
 

@@ -15,11 +15,11 @@ Cairn eroaa monista nykyaikaisista roolipeleistä siinä, että siinä ei ole me
 
 Hahmojen tietämystä rajoittaa ainoastaan se, mitä voidaan selittää tarinankerronnan kautta. Jos tiedetään, että pelaajahahmo on lähtöisin köyhistä oloista ja oppinut selviytymään keinolla millä hyvänsä, niin tätä pelaava voi argumentoida, että hänen hahmonsa kykenee paremmin jäljittämään slummeissa piileskelevää tärkeää sivuhahmoa. Hän saattaa tietää kenelle puhua ja millaisia kauppoja tarvitaan, jotta hän saa tarvitsemansa tiedot kohteensa olinpaikasta.
 
-Jos hahmolla ei ole perusteltua tietämystä jostakin aiheesta, hän ei yksinkertaisesti tiedä siitä mitään! Vartija voi kuitenkin päättää heittää **Kohtalon noppaa** selvittääkseen, onko hahmolla mahdollisuutta tietää _jotain_. Mitä korkeampi tulos on, sitä enemmän hän voisi (kohtuuden rajoissa) tietää.
+Jos hahmolla ei ole perusteltua tietämystä jostakin aiheesta, hän ei yksinkertaisesti tiedä siitä mitään! Vartija voi kuitenkin päättää heittää **Kohtalon Noppaa** selvittääkseen, onko hahmolla mahdollisuutta tietää _jotain_. Mitä korkeampi tulos on, sitä enemmän hän voisi (kohtuuden rajoissa) tietää.
 
 ### Muinaisesineet
 
-Kun hahmo saa ensimmäisen kerran Muinaisesineen, joka ei ole hänelle tuttu, hän voi joko käyttää aikaa oppiakseen siitä enemmän (käyttämällä Vapaa-ajan toiminnon) tai kokeilemalla sitä. Jälkimmäiseen liittyy joitakin vaaroja, ja se saattaa jopa vaatia onnistuneen WIL-pelastusheiton, jotta vältytään negatiivisilta seurauksilta. Usein on kuitenkin mielenkiintoisempaa antaa pelaajan kysellä siitä niin paljon kuin hän haluaa ja (lopulta) yksinkertaisesti vain _kertoa miten se toimii_.
+Kun hahmo saa ensimmäisen kerran Muinaisesineen, joka ei ole hänelle tuttu, hän voi joko käyttää aikaa oppiakseen siitä enemmän (käyttämällä Vapaa-ajan toimintoa) tai kokeilemalla sitä. Jälkimmäiseen liittyy joitakin vaaroja, ja se saattaa jopa vaatia onnistuneen WIL-pelastusheiton, jotta vältytään negatiivisilta seurauksilta. Usein on kuitenkin mielenkiintoisempaa antaa pelaajan kysellä siitä niin paljon kuin hän haluaa ja (lopulta) yksinkertaisesti vain _kertoa miten se toimii_.
 
 ## Tarkkaavaisuus
 
@@ -32,7 +32,7 @@ Otetaan esimerkiksi seuraava merkitty sijainti:
 **Mehiläisparvi** kiertelee kiivaasti massiivista pesää, joka roikkuu suuren tammen oksalla. **Mies** tarkkailee varjoissa puun alla ja ruostunut **miekka** makaa maassa lähellä puuta.
 
 - **Mehiläiset**: Niiden surina on lähes korviahuumaavaa ja se muodostaa äänivallin puun ympärille.
-  - Pesä valuu hunajaa. Se on herkullista ja tavallista.
+  - Pesästä valuu hunajaa. Se on herkullista ja tavallista.
   - Kaikki yritykset ottaa hunajaa mehiläispesästä johtavat parven aggressiiviseen vastaiskuun [3 HP, 3 STR, 12 DEX, 4 WIL, pisto (d6), _joukko-osasto_].
 - **Mies**: Nojaa pitkää sauvaa vasten, katse kiinnittyneenä pesään. Hän ei näytä säikähtävän parvea.
   - Mies on mehiläishoitajan luoma maaginen harha, jolla hän pyrkii pitämään mahdolliset saalistajat poissa. Hän ei reagoi mihinkään suoraan ärsykkeeseen.

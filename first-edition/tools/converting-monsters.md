@@ -13,7 +13,7 @@ Alla on muutamia vinkkejä, jotka saattavat auttaa tässä työssä!
 
 ## Perusteet
 
-Tutustu [Sääntökokoelmassa](https://fi.cairnrpg.com/cairn-srd/#hirviöiden-luominen) oleviin ohjeisiin. Paria asiaa, jotka kannattaa pitää mielessä:
+Tutustu [Sääntökokoelmassa](https://fi.cairnrpg.com/cairn-srd/#hirviöiden-luominen) oleviin ohjeisiin. Pari asiaa, jotka kannattaa pitää mielessä:
 
 - OSE:ssa (tai B/X:ssä) on erittäin hyvät tietolaatikot, jotka voi helposti typistää pikaista muuntamista varten. Katso lisätietoja [tältä sivulta](https://oldschoolessentials.necroticgnome.com/srd/index.php/General) ja [tästä PDF:stä](https://necroticgnome.com/products/old-school-essentials-adaptation-guidelines).
 - Dungeon Worldissa on hienoja hirviöiden "liikkeitä" (_moves_), jotka vertautuvat kriittiseksi vahingoksi varsin mukavasti, joten sieltä vastaavan olennon etsiminen voi todellakin auttaa! Katso esimerkiksi [tämä täältä](http://codex.dungeon-world.com/monster/5698559156420608).
@@ -38,19 +38,19 @@ Alla oleva taulu antaa pätevät ohjeet **ML**:n muuntamisesta **tahdonvoimaksi*
 
 - Hyökkäysten **vahinko** on aika suoraviivaista ottaa peleistä kuten OSE (tai B/X); usein voit kopioida ne sellaisinaan. Tarkista [asetaulukosta](/cairn-srd/#aseet-1) jos olet epävarma.
 - Moninkertaiset hyökkäykset (kuten 2 x kynnet, 1 x pisto) tyypillisesti muuntuvat [_Räjähdys_](/cairn-srd/#räjähdykset)- ja/tai "kaksi asetta" -sääntöjen mukaan (esim. d6+d6 on heitä 2d6, pidä korkein).
-- Kun olet epävarma, ajattele kuinka paljon vakavaa vahinkoa olennon on tarkoitus tehdä. Muista että hyökkäyksen vahingon korottamisen sijaan voit harkita sen tekemisestä _vahvennetun_ joissain tilanteissa tai käyttää _Räjähdys_ tai "kaksi asetta" -sääntöä.
+- Kun olet epävarma, ajattele kuinka paljon vakavaa vahinkoa olennon on tarkoitus tehdä. Muista että hyökkäyksen vahingon korottamisen sijaan voit harkita sen _vahventamista_ joissain tilanteissa tai käyttää _Räjähdys_ tai "kaksi asetta" -sääntöä.
 
 ### Kyvyt ja taikuus
 
 - Joskus alkuperäisen roolipelijärjestelmän mekaniikat eivät yksinkertaisesti _vain käänny lainkaan_. Tämä on OK; yritä hyödyntää mikä olennossa on siisteintä ja tee "versio" sen kyvystä joka on sopivampi Cairnin kanssa.
 - Jos hirviöllä on hyökkäys joka vaatii pelaajahahmoja yrittämään väistämistä tai pelastusheittoa jotain kykyä vastaan, harkitse kyvyn tekemisestä taistelun ulkopuoliseksi "ansaksi", jonka pelaajahahmot voivat laukaista. Muussa tapauksessa _anna sen onnistua automaattisesti_ taistelun aikana. Vartija voi aina vihjata etukäteen vaarasta ennen taistelua, jotta pelaajahahmot voivat paremmin varautua vaaran varalta.
-- Kyvyt voi joskus muuntaa aseiksi, ja antaa niille vahinkonoppa, jolloin Kriittinen Vahinko paljastaa vahingon määrän. Useimmiten sinun kannattaa vain antaa kyvyn tai hyökkäyksen _tapahtua_. Taistelu on vaarallista ja Vartijan tehtävä on viestittää vaarasta kunnolla ennen kuin taistelu alkaa.
+- Kyvyt voi joskus muuntaa aseiksi, ja antaa niille vahinkonopan, jolloin kriittinen vahinko paljastaa vahingon määrän. Useimmiten sinun kannattaa vain antaa kyvyn tai hyökkäyksen _tapahtua_. Taistelu on vaarallista ja Vartijan tehtävä on viestittää vaarasta kunnolla ennen kuin taistelu alkaa.
 
 ### Taikuus
 
 - Maagiset olennot voivat vain "tietää" läjän loitsuja. Tässä tapauksessa, tee niiden ruumiista maagisia (ja vaarallisia!)
-- Loitsut ovat hankalia; voi antaa taiankäyttäjille Loitsukirjoja, mutta muista että ne saattavat _tiputtaa_ nämä kun ne on kukistettu.
-- Tykkään tehdä niin, että 1d4 Loitsukirjoista räjähtävät tippuessaan([Kohtalon Noppa](/cairn-srd/#kohtalon-noppa)), vain tehdäkseni asioista jännittävämpiä!
+- Loitsut ovat hankalia; voit antaa taiankäyttäjille Loitsukirjoja, mutta muista että ne saattavat _tiputtaa_ nämä kun ne on kukistettu.
+- Tykkään tehdä niin, että 1d4 Loitsukirjoista räjähtävät tippuessaan ([Kohtalon Noppa](/cairn-srd/#kohtalon-noppa)), vain tehdäkseni asioista jännittävämpiä!
 
 ### Pelastusheitot
 
@@ -58,7 +58,7 @@ Alla oleva taulu antaa pätevät ohjeet **ML**:n muuntamisesta **tahdonvoimaksi*
 - Joskus tietolaatikoissa käytetään lyhenteitä kuten (E1) tai (F1) (Tason 1 [Haltija](https://oldschoolessentials.necroticgnome.com/srd/index.php/Elf) tai [Taistelija](https://oldschoolessentials.necroticgnome.com/srd/index.php/Fighter)). Nämä ovat erittäin hyödyllisiä tunnistamaan nopeasti olentojen kyvyt.
 - Harkitse pelastusheittoihin perustuen kuvaavien tunnisteiden lisäämistä, kuten "immuuni myrkkykaasuille" tai "hyvä väistämään luoteja".
 
-Alla olevan taulukon pitäisi auttaa määrittämään, mitkä pelastusheitot johtavat jonkin asiaankuuluvan kykyarvon kasvattamiseen.
+Alla olevan taulukon pitäisi auttaa määrittämään, mitkä pelastusheitot kytkeytyvät mihinkin kykyyn.
 
 |                                     |             |
 | ----------------------------------- | ----------- |
@@ -101,7 +101,7 @@ _**Ylläolevaa esimerkkiä käyttäen, voin nähdä että hän:**_
 
 _**Mitä voimme oppia tästä?**_
 - Hän on nopea ja todennäköisesti taitava taistelemaan. Aloittaen **3 HP:stä** ja lisäten yhden **HP:n** per **HD** saadaan **8 HP:ta**.
-- En usko että ketuilla on suojaavaa nahkaa ja hän on päätään lukuunottamatta muuten ihminen joten **ei Panssaria**.
+- En usko että ketuilla on suojaavaa nahkaa ja hän on päätään lukuun ottamatta muuten ihminen joten **ei Panssaria**.
 - Hän on kohtuullisen vahva. Normaali ihminen on 10 ja hän on isompi. **12 STR**.
 - Voin kuvitella hänet metsästämässä saalistaan lumisella tundralla. Hän on nopea. **14 DEX**.
 - Hänen **ML** on korkea, mutta ei maksimi. Ja ketut ovat aika ovelia, eikö vain? Hän selviäisi tukalista tilanteista. **15 WIL**.
@@ -111,9 +111,9 @@ _**Yhteenvetona, meille jää jäljelle seuraava alustava tietolaatikko**_
 _8 HP, 12 STR, 14 DEX, 15 WIL, hampaat (d6), kynnet (d8+d8)_
 
 _**Nyt hänen kykyihinsä:**_
-Tämä on aika suoraviivaista. Me yksinkertaiseti luemme tarinallisen tietolaatikon jonka loimme aikaisemmin!
+Tämä on aika suoraviivaista. Me yksinkertaisesti luemme tarinallisen tietolaatikon jonka loimme aikaisemmin!
 - Me tiedämme miltä hän näyttää ja että hän voi muuttua ketuksi halutessaan.
-- Metalli ei voi vahingottaa häntä; oletan että tämä tarkoittaa, että hän on immuuni _metalliaseille_.
+- Metalli ei voi vahingoittaa häntä; oletan että tämä tarkoittaa, että hän on immuuni _metalliaseille_.
 - Hän tukehduttaa uhrinsa.
 
 _**Helppoa, eikö? Nyt tehdään tuosta hyödyllistä:**_
@@ -123,7 +123,7 @@ _**Helppoa, eikö? Nyt tehdään tuosta hyödyllistä:**_
 - Kriittinen vahinko: uhri tukehdutetaan tajuttomaksi ja syödään pian sen jälkeen.
 
 _**Ja siinä se!**_
-_**Katso, muunnettu Carin-hirviö:**_
+_**Katso, muunnettu Cairn-hirviö:**_
 
 #### Kettunainen
 

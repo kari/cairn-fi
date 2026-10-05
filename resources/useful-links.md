@@ -10,7 +10,7 @@ redirect-from: /third-party-links
 
 ## Huomautus
 
-Kaikki tämän sivun linkit ovat englanninkielisiin sivustoihin tai videoihin.
+Kaikki tämän sivun linkit johtavat englanninkielisille sivustoille tai videoihin.
 
 ## Bastionland
 
@@ -33,7 +33,7 @@ Naeolin on kirjoittanut kasapäin hyviä juttuja Cairnista, mukaan lukien:
 
 ## Dice Goblin Games
 
-Dice Goblin (Block, Dodge Parry hakkeroinnin tekijä)
+Dice Goblin (Block, Dodge Parry -hackin tekijä)
 
 - [Time, Gear & Skill: A Different Approach to Skill Checks](https://dicegoblin.blog/time-gear-skill-a-different-approach-to-skill-checks/)
 - [Dark Souls inspired Weapons](https://dicegoblin.blog/dark-souls-inspired-weapons-for-into-the-odd-cairn/)
@@ -43,7 +43,7 @@ Dice Goblin (Block, Dodge Parry hakkeroinnin tekijä)
 
 ## Dreaming Dragonslayer
 
-Sama on Skoren ja Adventure Hourin tekijä ja hän kirjoittaa Into The Oddista (ja sen varianteista), lasten kanssa pelaamisesta ja hahmojen etualalla kasvusta.
+Sam on Skoren ja Adventure Hourin tekijä ja hän kirjoittaa Into The Oddista (ja sen varianteista), lasten kanssa pelaamisesta ja hahmojen etualalla kasvusta.
 
 - [Advantage & Impact](https://dreamingdragonslayer.wordpress.com/2020/03/28/advantage-and-impact/)
 - [Diegetic Advancement Triggers](https://dreamingdragonslayer.wordpress.com/2020/06/13/diegetic-advancement-triggers/)

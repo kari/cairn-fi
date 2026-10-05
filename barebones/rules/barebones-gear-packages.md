@@ -43,6 +43,7 @@ nav_order: 6
 - Loitsukirja: _Valaistus_
 - Loitsukirja: _Nukutus_
 - Käärö: _Taikuuden paljastus_
+- Pergamentti ja mustetta (3 käyttöä)
 - Kaapu (_mitätön_)
 
 ### Pappi

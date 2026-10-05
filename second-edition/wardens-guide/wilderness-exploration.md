@@ -25,11 +25,11 @@ Seurue on saattamassa sivuhahmoa kahden kohdepisteen välillä: niityllä sijait
 #### Ensimmäinen päivä / Toinen vahtivuoro
 
 - Seurue valitsee jälleen **Matkustaminen**-toiminnon, jatkaen samaa polkua ja tasankoa pitkin. _He eivät eksy._
-- **Tapahtumataulukko**: **Ympäristö**. Sää on illalla huonontunut, minkä seurauksena tasanko on mutainen ja polku vaikeampi kulkea. Vartija lisää matkaan yhden Vartiovuoron, sillä seurueen on pakko hidastaa marssiaan huomattavasti, saavuttaen ruohikoiden reunan vasta iltahämärässä. Seurueen on pakko etsiä suojaa avoimelta tasangolta viereisessä laaksossa olevan määränpään sijaan.
+- **Tapahtumataulukko**: **Ympäristö**. Sää on illalla huonontunut, minkä seurauksena tasanko on mutainen ja polku vaikeampi kulkea. Vartija lisää matkaan yhden Vahtivuoron, sillä seurueen on pakko hidastaa marssiaan huomattavasti, saavuttaen ruohikoiden reunan vasta iltahämärässä. Seurueen on pakko etsiä suojaa avoimelta tasangolta viereisessä laaksossa olevan määränpään sijaan.
 
 #### Ensimmäinen päivä / Kolmas vahtivuoro
 
-- Seurue valitsee **Leiriytymisen** toimintonaan. He pystyttävät hätäisesti kasatun suojan ja jokainen hahmo kuluttaa Muona-annoksen. Asetetaan vartiovuorot, jakaen yön kaikkien neljän seurueen jäsenen kesken.
+- Seurue valitsee **Leiriytymisen** toimintonaan. He pystyttävät hätäisesti kasatun suojan ja jokainen hahmo kuluttaa Muona-annoksen. Asetetaan vahtivuorot, jakaen yön kaikkien neljän seurueen jäsenen kesken.
 - **Tapahtumataulukko**: **Merkki**. Taivas kirkastuu sen verran, että ensimmäinen tähystelijä näkee kaukaisuudessa hitaasti välkkyvän valon. Leirinuotio! Joku seuraa heitä varmasti.
 
 > Huomautus: seurue olisi voinut päättää jatkaa matkaa läpi yön, mutta tämä voisi kasvattaa eksymisen mahdollisuutta ja johtaa seurueen suurempaan vaaraan!

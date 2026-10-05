@@ -9,7 +9,7 @@ parent: Lisäaineistot
 
 ## Huomautus
 
-Kaikki tämän sivun linkit ovat englanninkielisiin sivustoihin tai aineistoihin.
+Kaikki tämän sivun linkit johtavat englanninkielisille sivustoille tai aineistoihin.
 
 ## Sekalaisia lisäaineistoja
 
@@ -20,7 +20,7 @@ Kaikki tämän sivun linkit ovat englanninkielisiin sivustoihin tai aineistoihin
 - [Hahmolomake Notionille](https://www.notion.so/cairnrpg/Cairn-Character-Sheet-Template-684b830396e4472186987fd733bde47c?pvs=4)
 - [Fari-hahmolomake](https://fari.app/characters/new/cairn/cairn)
 - [Perchance](https://perchance.org/cairn-characters) & [Chartopia](http://d12dev.com/chart/32009) generaattorit, tekijänä idolofmanyhands
-- [Klassiset fantasian aloituspakkaukaset](https://dreamingdragonslayer.itch.io/into-the-odd-classic-fantasy-starting-packages)
+- [Klassiset fantasian aloituspakkaukset](https://dreamingdragonslayer.itch.io/into-the-odd-classic-fantasy-starting-packages)
 - [108 loitsua ilman tasorajoja](https://dreamingdragonslayer.itch.io/108-level-less-spells-d366)
 - [Mausritterin esineenluontityökalut](https://mausritter.com/item-card-studio/)
 - [Caers & Crannogs Zine](https://manarampmatt.itch.io/caers-crannogs-issue-1)
@@ -32,5 +32,5 @@ Kaikki tämän sivun linkit ovat englanninkielisiin sivustoihin tai aineistoihin
 
 - [Cairn-seikkailuita](https://itch.io/c/1352509/cairn-adventures)
 - [Cairn-lisäaineistoja](https://itch.io/c/2475049/cairn-resources)
-- [Cairn-hakkerointeja](https://itch.io/c/1702301/cairn-hacks)
+- [Cairn-sääntömuutoksia](https://itch.io/c/1702301/cairn-hacks)
 - [Cairn muilla kielillä](https://itch.io/c/2475051/cairn-in-other-languages)

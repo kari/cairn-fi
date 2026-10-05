@@ -9,7 +9,7 @@ grand_parent: Toinen laitos
 
 ## Johdanto
 
-Joukko-osastot ovat suuria vihollisryhmiä, joita kohdellaan yhtenä kokonaisuutena. Niihin on vaikeampi osua ja ne aiheuttavat vahinkoa useille vastustajille samanaikaisesti. Ratkaisevaa on, että ne pysyvät yhtenä yksikkönä, kunnes ne saavat kriittistä vahinkoa, minkä jälkeen ne hajoavat tai häviävät kokonaan. Toisinaan myös suurta olentoa (kuten lohikäärmettä tai jättiläistä) kohdellaan myös joukko-osastona.
+Joukko-osastot ovat suuria vihollisryhmiä, joita kohdellaan yhtenä kokonaisuutena. Niihin on vaikeampi osua ja ne aiheuttavat vahinkoa useille vastustajille samanaikaisesti. Ratkaisevaa on, että ne pysyvät yhtenä yksikkönä, kunnes ne saavat kriittistä vahinkoa, minkä jälkeen ne hajoavat tai häviävät kokonaan. Toisinaan suurta olentoa (kuten lohikäärmettä tai jättiläistä) kohdellaan myös joukko-osastona.
 
 ## Esimerkki
 
@@ -33,7 +33,7 @@ Joukko-osastot ovat suuria vihollisryhmiä, joita kohdellaan yhtenä kokonaisuut
 
 **Vartija**: _"Freya, juokset olentojen sekaan ja puukotat kahta niistä Kaksosillasi. He menehtyvät helposti, mutta kaksi muuta täyttävät nopeasti heidän paikkansa. Jopa lauman reunoilla niiden ääni on voimakas. Alat tuntea itsesi hämmentyneeksi."_
 
-**Vartija**: _"Wolfram, liikut kohti yhdyskuntaa ja käyt läpi laumaa etsiessäsi merkkejä kuningattaresta. Käytät koko vuorosi etsimiseen, etkä voi tehdä muita toimintoja. Hämärtyvässä valossa näet kuitenkin kaukaisuudessa pidemmän olennon, jonka vatsassa koristaa valkoinen raita."_
+**Vartija**: _"Wolfram, liikut kohti yhdyskuntaa ja käyt läpi laumaa etsiessäsi merkkejä kuningattaresta. Käytät koko vuorosi etsimiseen, etkä voi tehdä muita toimintoja. Hämärtyvässä valossa näet kuitenkin kaukaisuudessa pidemmän olennon, jonka vatsaa koristaa valkoinen raita."_
 
 **Wolfram**: _"Bingo. Tuossahan se on. Huolellinen laukaus, muuta en tarvitse."_
 
@@ -49,7 +49,7 @@ Joukko-osastot ovat suuria vihollisryhmiä, joita kohdellaan yhtenä kokonaisuut
 
 **Vartija**: _"Kyllä vain, mutta voit yrittää WIL-pelastusheitossa onnistumista kerätäksesi itsesi kasaan. Muutama lähistöllä olevista otuksista alkaa nakerrella vaatteitasi samalla kun kiemurtelet ympäriinsä. Lopulta he hyökkäävät sekä sinun että Wolframin kimppuun!"_
 
-> Joukko-osastona Petturirotilla on sekä _Räjähdys_-ominaisuus että ne aiheuttavat _vahvistettua_ vahinkoa. Vartija heittää kahdesti d12, aiheuttaen Freyalle 1 vahingon ja Wolframille 6 vahinkoa.
+> Joukko-osastona Petturirotilla on sekä _Räjähdys_-ominaisuus että ne aiheuttavat _vahvennettua_ vahinkoa. Vartija heittää kahdesti d12, aiheuttaen Freyalle 1 vahingon ja Wolframille 6 vahinkoa.
 
 **Vartija**: _"Freya, sinulla ei ole HP:tä koska olet kaatuneena maahan. Nahkapanssarisi on kuitenkin suojannut sinua ottamasta vahinkoa selkääsi nakertavilta rotilta. Wolfram, otat 6 vahinkoa, mutta HP:si ja panssarisi vaimentavat suurimman osan siitä. Ensi kerralla et ehkä ole niin onnekas."_
 
@@ -61,7 +61,7 @@ Joukko-osastot ovat suuria vihollisryhmiä, joita kohdellaan yhtenä kokonaisuut
 
 > Wolfram heittää 2, mikä riittää aiheuttamaan STR-vahinkoa. Joukko-osaston on nyt tehtävä kriittisen vahingon pelastusheitto käyttäen STR-kykyarvoaan. Vartija heittää 7, epäonnistuminen.
 
-**Vartija**: _"Varsijousen vasama sinkoaa ilman halki ja osuu valkoturkkista olentoa suoraan sydämeen. Se kiljahtaa lysähtäen maahan, ja kauhea meteli loppuu saman tien, kun olennot alkavat juosta karkuun! Lucius, vedät Freyan pois vaaravyöhykkeeltä juuri, kun hän on palaamassa tajuihinsa."_
+**Vartija**: _"Varsijousen vasama sinkoaa ilman halki ja osuu valkoturkkiseen olentoon suoraan sydämeen. Se kiljahtaa lysähtäen maahan, ja kauhea meteli loppuu saman tien, kun olennot alkavat juosta karkuun! Lucius, vedät Freyan pois vaaravyöhykkeeltä juuri, kun hän on palaamassa tajuihinsa."_
 
 **Wolfram**: _"Luojan kiitos, että se on ohi. Menen kuitenkin nappaamaan sen, minkä juuri ammuin. Siitä voisi saada hyvän illallisen."_
 

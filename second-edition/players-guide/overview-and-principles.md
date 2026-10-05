@@ -39,7 +39,7 @@ Vartijan ja pelaajien tulisi kummallakin olla ohjenuorat, jotka auttavat edistä
 
 ### Yhteiset Tavoitteet
 
-Pelaajat voivat luottavaa toisiinsa, että he kaikki osallistuvat yhteiseen ympäristöön, hahmojen tavoitteisiin ja peliryhmän haasteisiin. Näin peliryhmä työskentelee pääsääntöisesti tiiminä yhteisen päämäärän saavuttamiseksi.
+Pelaajat voivat luottaa toisiinsa, että he kaikki osallistuvat yhteiseen ympäristöön, hahmojen tavoitteisiin ja peliryhmän haasteisiin. Näin peliryhmä työskentelee pääsääntöisesti tiiminä yhteisen päämäärän saavuttamiseksi.
 
 ## Periaatteet Pelaajille
 
@@ -56,7 +56,7 @@ Pelaajat voivat luottavaa toisiinsa, että he kaikki osallistuvat yhteiseen ymp�
 
 ### Tutkiskelu
 
-- Kysymysten esittäminen ja yksityiskohtien kuuntelu on hyödyllisempää kuin mitkään tilastot, esineet tai taidot mitä sinulla on.
+- Kysymysten esittäminen ja yksityiskohtien kuuntelu on hyödyllisempää kuin minkäälaiset tilastot, esineet tai taidot joita sinulla on.
 - Luota Vartijan kuvauksiin, mutta älä karta lisätietojen etsimistä.
 - Ei ole yhtä ainoaa oikeaa tietä eteenpäin.
 
@@ -90,7 +90,7 @@ Pelaajat voivat luottavaa toisiinsa, että he kaikki osallistuvat yhteiseen ymp�
 - Ole avulias ja suora vastatessasi heidän kysymyksiinsä.
 - Vastaa rehellisesti, kuvaile johdonmukaisesti ja anna heidän aina tietää, että he voivat jatkaa kysymysten esittämistä.
 
-### Vaikeus
+### Vaikeusaste
 
 - Käytä mieluummin kontekstia ja realismia kuin numeroita ja mekaniikkoja.
 - Jos jokin pelaajien haluama on aidosti mahdotonta, mikään heitto ei tule antamaan heidän tehdä sitä.
@@ -99,7 +99,7 @@ Pelaajat voivat luottavaa toisiinsa, että he kaikki osallistuvat yhteiseen ymp�
 
 ### Valmistelu
 
-- Pelimaailma on orgaaninen, muovautuvainen ja satunnainen. Se aavistaa ja tekee yllättäviä käänteitä.
+- Pelimaailma on orgaaninen, muovautuva ja satunnainen. Se aavistaa ja tekee yllättäviä käänteitä.
 - Käytä satunnaistaulukoita ja -generaattoreita tilanteiden, ei tarinoiden tai juonien, kehittämiseen.
 - Sivuhahmot muistavat mitä pelaajahahmot sanovat ja tekevät ja miten he vaikuttavat maailmaan.
 - Sivuhahmot eivät halua kuolla. Sisällytä jokaiseen persoonallisuuteen heidän oma etunsa ajaminen ja elämänhalunsa.
@@ -122,7 +122,7 @@ Pelaajat voivat luottavaa toisiinsa, että he kaikki osallistuvat yhteiseen ymp�
 - Aarre on sidoksissa siihen ympäristöön, josta se on otettu talteen. Se kertoo tarinan.
 - Aarteet ovat hyvin arvokkaita, lähes aina kookkaita ja harvoin hyödyllisiä arvonsa ja maineensa lisäksi.
 - Muinaisesineet eivät ole Aarteita, vaikka ovatkin hyödyllisiä ja mielenkiintoisia.
-- Käytä Aarteita houkuttumina eksoottisiin paikkoihin, jotka ovat pelottavien vihollisten suojaamina.
+- Käytä Aarteita houkuttimina eksoottisiin paikkoihin, joita suojelevat pelottavat viholliset.
 
 ### Valinnat
 

@@ -18,7 +18,7 @@ Flint, Feather, Crier, Thunder, Falcon, Pluck, Needle, Warsong, Hawk, Cai
 - 3d6 kultarahaa
 - Muona-annokset (3 käyttöä)
 - Soihtu (3 käyttöä)
-- Bow (katso taulukko)
+- Jousi (katso taulukko)
 - Sahalaitainen veitsi (d6)
 - Kovetetut nahkavaatteet (1 Panssari)
 - Sydänjuurivoide (palauttaa 1d4 STR, 1 käyttö)
@@ -30,7 +30,7 @@ Flint, Feather, Crier, Thunder, Falcon, Pluck, Needle, Warsong, Hawk, Cai
 | **1** | **Sodassa**. Jos hyökkäät ensimmäisenä, jousesi saa _räjähdys_-ominaisuuden ensimmäisellä kierroksella.                                                                |
 | **2** | **Haukkametsästyksessä**. Pidät haukkaa [3 HP, 5 STR, 16 DEX, 4 WIL, kynnet (d6+d6), puraisu (d8)]. Se syö vain elävää riistaa.                                        |
 | **3** | **Metsällä**. Kun teet Ruoan hankkiminen -toiminnon, kykysi hankkia **muona-annoksia** kasvaa **yhdellä askeleella** (esim. 1d4 muuttuu 1d6:ksi).                      |
-| **4** | **Turnajaisissa**. Hyökkäykset jousellasi _vahvistuvat_, jos kohde pysyy paikoillaan.                                                                                  |
+| **4** | **Turnajaisissa**. Hyökkäykset jousellasi ovat _vahvennettuja_, jos kohde pysyy paikoillaan.                                                                                  |
 | **5** | **Koulutuksessa**. Jos hyökkäät ensimmäisenä, lähitaisteluhyökkäykset sinua vastaan ovat _heikentyneitä_ kunnes otat STR-vahinkoa.                                     |
 | **6** | **Tiedustelutehtävällä**. Kun teet Matkustus-toiminnon, läsnäolosi vähentää eksymisen todennäköisyyttä yhdellä asteella (esim. 4/6:sta tulee 3/6:sta).                 |
 

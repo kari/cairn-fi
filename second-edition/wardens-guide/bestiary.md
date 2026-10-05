@@ -19,7 +19,7 @@ grand_parent: Toinen laitos
 | **5**   | Hybridi         | Kentauri, Mantikora, Minotauros, Pöllökontio                                                  |
 | **6**   | Hyönteinen      | Aranea, Jättiläisskorpioni, Kaivautuva Kauheus, Luolasirkka                                   |
 | **7**   | Ihmisolennot    | Alttaripalvelija, Halli, Maantierosvo, Pakkashaltija, Triton, Viittamiehet                    |
-| **8**   | Jätti           | Jatuli, Myrskyjättiläinen, Taivasjättiläinen,, Titaani                                        |
+| **8**   | Jätti           | Jatuli, Myrskyjättiläinen, Taivasjättiläinen, Titaani                                        |
 | **9**   | Kasvi           | Juurakkonoita, Kuhisevat köynnökset, Puupaimen, Tappajakeko                                   |
 | **10**  | Keiju           | Aarnivalkea, Ajattara, Dryadi, Keiju, Näkki, Pakkashaltija, Peikko, Punalakki                 |
 | **11**  | Lintu           | Feeniks, Roklintu, Siipilisko                                                                 |
@@ -83,7 +83,7 @@ grand_parent: Toinen laitos
 8 HP, 6 STR, 12 DEX, 15 WIL, aavemainen kosketus (d8)
 
 - Ruumiittomia henkiä, jotka viipyilevät kauan kuoleman jälkeen kummittelemassa eläviä.
-- Kylmä, kuumuus tai sääilmiöt eivät vahingoita. Rauta-aseiden vahinko on _vahvistettu_.
+- Kylmä, kuumuus tai sääilmiöt eivät vahingoita. Rauta-aseiden vahinko on _vahvennettu_.
 - **Tuonenhuuto**: Kaikkien kuuloetäisyydellä olevien on tehtävä WIL-pelastusheitto tai menettää tajuntansa.
 
 ## Basiliski (Basilisk)
@@ -183,7 +183,7 @@ grand_parent: Toinen laitos
 4 HP, 12 STR, 13 DEX, 5 WIL, sarvet (d8)
 
 - Syntyvät ahneen tai itsekkään teon aiheuttaman väkivallan seurauksena.
-- Tappavat uhrinsa ravinnokseen, mutta ei saa siitä helpotusta. Ovat alati nälkäisiä.
+- Tappavat uhrinsa ravinnokseen, mutta eivät saa siitä helpotusta. Ovat alati nälkäisiä.
 - **Kriittinen vahinko**: Viiltävät uhriansa repimällä niiden sisälmykset esiin.
 
 ## Hydra
@@ -205,7 +205,7 @@ grand_parent: Toinen laitos
 8 HP, 15 STR, 14 DEX, 6 WIL, kynnet (d6+d6), puraisu (d8)
 
 - Hurjia lykantrooppeja, jotka voivat muuttua suden muotoon halutessaan.
-- Tavalliset hyökkäykset ovat _heikentyneitä_ ihmissusia vastaan, mutta hopeasta tehdyillä aseilla tehdyt hyökkäykset ovat _vahvistettuja_.
+- Tavalliset hyökkäykset ovat _heikentyneitä_ ihmissusia vastaan, mutta hopeasta tehdyillä aseilla tehdyt hyökkäykset ovat _vahvennettuja_.
 - **Kriittinen vahinko**: Kohde saa lykantropian tartunnan ja muuttuu ihmissudeksi seuraavaan täysikuuhun mennessä.
 
 ## Isohiisi (Hobgoblin)
@@ -234,7 +234,7 @@ grand_parent: Toinen laitos
 
 4 HP, 8 STR, 14 DEX, 8 WIL, keihäs (d6)
 
-- Välttää taistelua, ellei niillä ole etulyöntiasemaa (kuten suurempi vahvuus).
+- Välttää taistelua, ellei niillä ole etulyöntiasemaa (kuten suurempi lukumäärä).
 - Varjelevat varastamiaan tavaroita kuolemaan asti.
 - Juurakkohiidet arvostavat loitsukirjoja ja ovat aina halukkaita vaihtokauppaan.
 
@@ -293,7 +293,7 @@ grand_parent: Toinen laitos
 
 ## Kentauri (Centaur)
 
-6 HP, 1 Panssari, 14 STR, 12 DEX, 14 WIL, keihäs (d8) tai lyhyt jousi (d6)
+6 HP, 1 Panssari, 14 STR, 12 DEX, 14 WIL, keihäs (d8) tai lyhytjousi (d6)
 
 - Olentoja, joilla on hevosen alavartalo ja jalat, mutta ihmismäinen ylävartalo.
 - Löytyvät harvoin yksin, suosivat omankaltaistensa seuraa.
@@ -391,7 +391,7 @@ grand_parent: Toinen laitos
 
 10 HP, 15 STR, 12 DEX, 7 WIL, puraisu (d8), nuija (d10)
 
-- Kookkaita ja ihmismäisiä ja joilla on pitkulaiset puunkuoresta ja puunjuurista tehdyt kädet. Ne elävät metsissä, ja niillä on syvä yhteys niitä ympäröivään kasvillisuuteen.
+- Kookkaita ihmishahmoisia, joilla on pitkulaiset puunkuoresta ja puunjuurista tehdyt käsivarret. Ne elävät metsissä ja niillä on syvä yhteys niitä ympäröivään kasvillisuuteen.
 - Jos ne tapetaan, ne uusiutuvat hitaasti, ellei niiden ruumista viedä pois metsästä tai polteta tulessa.
 - **Kriittinen vahinko**: Kohteen haavoista alkaa kasvaa sammalta ja oksia.
 
@@ -476,7 +476,7 @@ grand_parent: Toinen laitos
 3 HP, 4 STR, 17 DEX, 13 WIL
 
 - Villejä, karvaisia huijareita, jotka arvostavat kiiltäviä rihkamaa enemmän kuin rahaa.
-- Peikoilla on nimet, jotka kuvaavat heidän todellista luonnettaan. Ken tietää tämän oikean nimen, voi hallita peikkoa.
+- Peikoilla on nimet, jotka kuvaavat heidän todellista luonnettaan. Ken tietää tämän tosinimen, voi hallita peikkoa.
 - **Taikuus**: Peikko voi _herättää esineitä henkiin_, _aiheuttaa hämmennystä_, _luoda maagisia valeasuja_, _kaukoliikutella_ ja _kaukosiirtyä_.
 
 ## Poimupantteri (Warp Panther)
@@ -633,7 +633,7 @@ grand_parent: Toinen laitos
 
 ## Viittamiehet (Hooded Men)
 
-12 HP, 9 STR, 12 DEX, 14 WIL, niittysauva (d8)
+12 HP, 9 STR, 12 DEX, 14 WIL, ley-sauva (d8)
 
 - Korven Vartijat; kultti, joka saa voimansa ley-linjoista, riimukivistä ja vastaavista.
 - **Kriittinen vahinko**: Imevät osan uhrin sielusta (1d4 WIL-vahinkoa).
@@ -658,7 +658,7 @@ grand_parent: Toinen laitos
 6 HP, 9 STR, 14 DEX, 5 WIL, kynnet (d6+d6)
 
 - Älykkäitä yöllisiä pussieläimiä, jotka tekevät kotinsa metsiin ja soille. Metsästävät laumoissa.
-- Kriittinen vahinko: Yökissa alkaa syödä kohdetta (d4 STR-vahinkoa), kun se on vielä elossa.
+- **Kriittinen vahinko**: Yökissa alkaa syödä kohdetta (d4 STR-vahinkoa), kun se on vielä elossa.
 
 ## Zombi (Zombie)
 
@@ -666,4 +666,4 @@ grand_parent: Toinen laitos
 
 - Manausrituaalin tai pahan vaikutuksen kautta takaisin henkiin herätetty ruumis. Immuuni kaikille mielenvaikutusyrityksille.
 - Jos zombia ei tuhota täysin (tulen, paloittelun tms. seurauksena), se nousee uudelleen muutaman minuutin kuluessa.
-- **Kriittinen vahinko**: Kohde saa tartunnan ja se kärsii _puutostilasta_. Ilman asiantuntijan tai parantajan apua heistä tulee zombeja 1d4 päivässä.
+- **Kriittinen vahinko**: Kohde saa tartunnan ja se kärsii _puutostilasta_. Ilman asiantuntijan tai parantajan apua heistä tulee zombeja 1d4 päivän kuluessa.

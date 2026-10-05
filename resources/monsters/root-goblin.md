@@ -8,6 +8,6 @@ grand_parent: Lisäaineistot
 
 4 HP, 8 STR, 14 DEX, 8 WIL, keihäs (d6)
 
-- Välttää taistelua ellei niillä ole etulyöntiasemaa (kuten suurempi vahvuus).
+- Välttää taistelua ellei niillä ole etulyöntiasemaa (kuten suurempi lukumäärä).
 - Varjelevat varastamiaan tavaroita kuolemaan asti.
 - Juurakkohiidet arvostavat loitsukirjoja ja ovat aina halukkaita vaihtokauppaan.

@@ -23,7 +23,7 @@ On olemassa kolme yleistä tilannetta, joissa pelaajahahmon tulisi tehdä pelast
 - Voit vapaasti sanoa "ei", mutta muista tarjota vaihtoehto. Jos seurue ei voi edetä heistä riippumattomista syistä, anna heille toinen vaihtoehto harkittavaksi.
 - Hahmon kuoleman ei pitäisi koskaan tulla yllätyksenä. Jos riski on niin suuri, että lopputulos voi olla tappava, varmista, että pelaaja ymmärtää, mihin hän on ryhtymässä.
 - Tarjoa aina useita toteuttamiskelpoisia vaihtoehtoja, joista pelaajahahmot voivat valita. Mitä enemmän vaihtoehtoja, sitä mielenkiintoisemmaksi tilanne muuttuu.
-- Pelastusheiton lopputuloksen ei tarvitse olla vain onnistuminen tai epäonnistuminen. Voit räätälöidä tuloksia kokonaisuuden perusteella: ponnistelujen, ennakoinnin, resurssien ja niiden heitettyjen taitojen perusteella.
+- Pelastusheiton lopputuloksen ei tarvitse olla vain onnistuminen tai epäonnistuminen. Voit räätälöidä tuloksia kokonaisuuden perusteella: ponnistelujen, ennakoinnin, resurssien ja heittoon käytettyjen taitojen perusteella.
 - Ole avoin pelaajien kanssa. Tämä ei tarkoita kaikkien maailman salaisuuksien paljastamista, vaan sitä, että jokaiselle pelaajalle annetaan mahdollisimman paljon tietoa, jota hänen hahmollaan voisi olla.
 - Vältä nopanheiton vaatimista aina kun mahdollista. Jos pelaajahahmo voi ratkaista ongelman puhtaasti kerronnallisin keinoin, _älä pyydä heittoa_.
 - Korvaa useat nopanheitot yhdellä. Tulosten yksinkertaistaminen yhteen heittoon voi lisätä jännitystä ja samalla maksimoida pelaajan panoksen.
@@ -56,7 +56,7 @@ On olemassa kolme yleistä tilannetta, joissa pelaajahahmon tulisi tehdä pelast
 
 > Freya kyyristelee ränsistyneen tavernan kattoparrujen päällä ja vakoilee alhaalla olevaa raskaasti aseistautunutta roistojoukkoa.
 
-**Vahti**: _"Kahdenkymmenen ahtaan ja epämukavan minuutin jälkeen yrityksesi huolellisuus ja varovaisuus vihdoin palkitaan,, kun yksi alla olevista miehistä kertoo heidän piilopaikkansa sijainnin ääneen. Tehtäväsi on suoritettu! Mitä teet nyt?_"
+**Vartija**: _"Kahdenkymmenen ahtaan ja epämukavan minuutin jälkeen yrityksesi huolellisuus ja varovaisuus vihdoin palkitaan,, kun yksi alla olevista miehistä kertoo heidän piilopaikkansa sijainnin ääneen. Tehtäväsi on suoritettu! Mitä teet nyt?_"
 
 **Freya**: _"Minun täytyy häipyä ilman että nämä pellet arvaavat, että olin lainkaan täällä. Näyttääkö siltä, että ne ovat melkein valmiita?"_
 
@@ -68,7 +68,7 @@ On olemassa kolme yleistä tilannetta, joissa pelaajahahmon tulisi tehdä pelast
 
 > Freya heittää 16: epäonnistuminen!
 
-**Vartija**: _"Kun nouset viimeisen palkin päälle, se narahtaa. Kaikki kuusi miestä katsovat ylös ja näkevät sinun loikkaavan välikatolle, joka johtaa pääsalista keittiöön. Ne eivät nähneet kasvojasi, mutta tietävät että ole siellä ylhäällä! He huutelevat ja vetävät aseensa esiin."_
+**Vartija**: _"Kun nouset viimeisen palkin päälle, se narahtaa. Kaikki kuusi miestä katsovat ylös ja näkevät sinun loikkaavan välikatolle, joka johtaa pääsalista keittiöön. Ne eivät nähneet kasvojasi, mutta tietävät että olet siellä ylhäällä! He huutelevat ja vetävät aseensa esiin."_
 
 **Freya**: _"Minulla on yksi savupommi jäljellä, ja aion käyttää sitä. Aion pudottautua keittiöön ja etsiä kattilan. Jos muistan oikein, vesi saa aikaan hulluna savua..."_
 
@@ -80,7 +80,7 @@ On olemassa kolme yleistä tilannetta, joissa pelaajahahmon tulisi tehdä pelast
 
 **Freya**: _"Minä EN jätä häntä. Sinun pitäisi silti jatkaa, mutta minä aion saada hänet vapaaksi. Olen taskuvaras, joten minulla on ystäviä kaikkialla, eikö vain? Tai kenties voin käyttää jotain varkaiden murretta luodakseni yhteyksiä täällä?"_
 
-**Vartija**: _"Juuri näin. Voit viettää yön yrittäen luoda yhteyksiä kaltaisiesi kanssa, jos haluat."_
+**Vartija**: _"Juuri näin. Voit viettää yön yrittäen luoda yhteyksiä kaltaistesi kanssa, jos haluat."_
 
 > Seurue hajaantuu ja Freya selvittää tarvitsemansa paikalliselta varastetun tavaran välittäjältä. (Sen kustannus on yksi hänen Kaksosistaan, eikä hän ole siitä lainkaan iloinen). Lucius odottaa tuomiotaan vartiotuvan alapuolella sijaitsevassa tyrmässä.
 
@@ -112,7 +112,7 @@ On olemassa kolme yleistä tilannetta, joissa pelaajahahmon tulisi tehdä pelast
 
 **Lucius**: _"Mitä nyt tapahtuu? Minulla ei ole mitään millä käydä kauppaa... Paitsi kenties totuus? Mutta se tarkoittaisi, että minun on tehtävä WIL-pelastusheitto, eikö vain? Jotta vaikuttaisin 'vakuuttavalta'?"_
 
-**Vahti**: _"Sinun pitäisi tehdä WIL-pelastusheitto, vaikka et puhuisi totta. Olet ehdottomasti suurimmassa vaarassa täällä, ja vaikka oletkin kokenut huijari, epäilet että hän näkee minkä tahansa valheen läpi. Hän ja sinä ette ehkä olekaan niin erilaisia."_
+**Vartija**: _"Sinun pitäisi tehdä WIL-pelastusheitto, vaikka et puhuisi totta. Olet ehdottomasti suurimmassa vaarassa täällä, ja vaikka oletkin kokenut huijari, epäilet että hän näkee minkä tahansa valheen läpi. Hän ja sinä ette ehkä olekaan niin erilaisia."_
 
 **Lucius**: _"Selvä. Rouva: Puhun suoraan. Olemme ystävieni kanssa tulleet tänne livahtaaksemme Der Thunnin holviin. Opin tuon lauseen vasta muutama minuutti sitten. Uskon, että eräs ystäväni (taskuvaras nimeltään Freya, kenties tunnet hänet) jätti minulle tuon viestin. Jos päästät minut vapaaksi, mainitsen varmasti... mikä sinun nimesi olikaan?"_
 

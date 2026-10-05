@@ -222,7 +222,7 @@ gen_data['misfortune'] = [
 ]
 
 gen_data['equipment'] = [
-  'haarniska: {armor}<br>kypärä/kilpi: {helmet}<br>aseet: {weapons}<br>esineet: {tool,gear,trinket}<br>Bonusesine: {bonus}'
+  'haarniska: {armor}<br>kypärä/kilpi: {helmet}<br>aseet: {weapons}<br>esineet: {tool,gear,trinket}<br>Bonustavara: {bonus}'
 ]
 gen_data['armor'] = {
   '1-3': 'Ei mitään haarniskaa',
@@ -285,7 +285,7 @@ gen_data['tool'] = [
   ,  'Nauloja (pinoutuu)'
   ,  'Verkko (pinoutuu)'
   ,  'Saha'
-  ,  'Tiivisteaina'
+  ,  'Tiivisteaine'
   ,  'Lapio'
   ,  'Pihdit'
 ]
@@ -317,7 +317,7 @@ gen_data['gear'] = [
   'Ilmarakko'
 ,  'Vastamyrkky'
 ,  'Kärryt (+4 paikkaa, kookas)'
-,  'Ketju (10 jalkaa)'
+,  'Ketju (3 metriä)'
 ,  'Taikavarpu'
 ,  'Paloöljy'
 ,  'Heittokoukku'
@@ -326,10 +326,10 @@ gen_data['gear'] = [
 ,  'Tiirikka'
 ,  'Kahleet'
 ,  'Hakku'
-,  'Seiväs (10 jalkaa)'
+,  'Seiväs (3 metriä)'
 ,  'Väkipyörä'
 ,  'Karkote'
-,  'Köysi (25 jalkaa)'
+,  'Köysi (8 metriä)'
 ,  'Hengiltä suojaava kuvio'
 ,  'Kaukoputki'
 ,  'Tulusrasia'

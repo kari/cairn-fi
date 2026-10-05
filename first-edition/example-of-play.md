@@ -9,7 +9,7 @@ nav_order: 2
 
 ## Huomio
 
-Jos haluat nähdä roolipeli-podcastin ("actual play") Cairnista (Vartijan kommenteilla), kasto [tästä](https://www.youtube.com/watch?v=e3N4pqHIEwQ).
+Jos haluat nähdä roolipeli-podcastin ("actual play") Cairnista (Vartijan kommenteilla), katso [tästä](https://www.youtube.com/watch?v=e3N4pqHIEwQ).
 
 **Pidä seuraavat mielessä, kun luet esimerkkitekstiä!**
 
@@ -44,7 +44,7 @@ Jos haluat nähdä roolipeli-podcastin ("actual play") Cairnista (Vartijan komme
 
 **Esteri**: _"Mielestäni meidän tulisi leiriytyä ennen jatkamista. Jos meidän on kiivettävä tämä kuilu alas tai sen ympäri, haluan tehdä sen päivänvalossa!”_
 
-**Pertti**: _"Todellakin. Mikähän olisi truvallisin tapa sen tekemiseen? Selkä rotkoa vasten?"_
+**Pertti**: _"Todellakin. Mikähän olisi turvallisin tapa sen tekemiseen? Selkä rotkoa vasten?"_
 
 **Vartija**: _"Kyllä, ellei tietysti sieltä tule vastaan jotakin!" Kuka on muuten ensimmäisenä vahtivuorossa?"_
 
@@ -52,7 +52,7 @@ Jos haluat nähdä roolipeli-podcastin ("actual play") Cairnista (Vartijan komme
 
 **Vartija**: _"Leiriydytte ja syötte yhden muona-annoksen. Ensimmäisen vuoron puolivälissä kuulet oksien napsahtelun ääniä juuri leirin länsipuolelta, **Geunantin metsän** suunnalta. Mitä teet?"_
 
-**Esteri**: _"Haluaisin potkaista toverini hereille, jotten olisi yksin tässä tilanteessa ja nyökkän hiljaa päätäni hänelle äänen suuntaan ja teen hiljaisuuden merkin."_
+**Esteri**: _"Haluaisin potkaista toverini hereille, jotten olisi yksin tässä tilanteessa ja nyökkään hiljaa päätäni hänelle äänen suuntaan ja teen hiljaisuuden merkin."_
 
 **Vartija**: _"Teet niin, ja hän nousee istumaan juuri kun aluskasvillisuuden takaa tulee näkyviin kauhistuttavan punainen silmäpari._"
 
@@ -98,7 +98,7 @@ Jos haluat nähdä roolipeli-podcastin ("actual play") Cairnista (Vartijan komme
 
 **Esteri**: _"Okei. Kysymys kuuluu, miten ylitämme **Jumalluiskan**? Onko meidän korkeudellamme mitään siltoja?"_
 
-**Vartija**: _"Ei nähdäksenne. Kauempana pohjoisessa puusto syleilee rotkoa ja estää osittain kulkunne; teidän tulisi tutkiskella hieman, jotta näkisitte siitä eteenpäin.  Muutaman sadan metrin päässä etelän suuntaan näette kuitenkin pienen reunuksen, joka työntyy esiin rotkosta, luultavasti viisikymmentä metriä alaspäin. Se muodostaa eräänlaisen L-kirjaimen muodon, ja se yleettää melko lähelle toista puolta. Sen päällä kiipeäminen saattaa vaatia hieman työtä, mutta se vaikuttaa mahdolliselta."_
+**Vartija**: _"Ei nähdäksenne. Kauempana pohjoisessa puusto syleilee rotkoa ja estää osittain kulkunne; teidän tulisi tutkiskella hieman, jotta näkisitte siitä eteenpäin.  Muutaman sadan metrin päässä etelän suuntaan näette kuitenkin pienen reunuksen, joka työntyy esiin rotkosta, luultavasti 15 metriä alaspäin. Se muodostaa eräänlaisen L-kirjaimen muodon, ja se yleettää melko lähelle toista puolta. Sen päällä kiipeäminen saattaa vaatia hieman työtä, mutta se vaikuttaa mahdolliselta."_
 
 **Pertti**: _"Minusta meidän pitäsi mennä reunalle. Vieläkö sinulla on köysi ja kiipeilyhaat?"_
 
@@ -154,11 +154,11 @@ Jos haluat nähdä roolipeli-podcastin ("actual play") Cairnista (Vartijan komme
 
 **Esteri**: _"Älä ole hölmö. Sinusta tulee laskeutumisalustani."_
 
-**Vahti**: _"Sinun tulisi tietää, että et ole juurikaan vaarassa, koska tähtäät itse asiassa altaaseen, mutta se ei tarkoita, etteikö se olisi riskitöntä. Sinun on pidettävä kallionseinästä kiinni molemmin käsin, ja matkasta tulee kuoppainen. Jotain voi irrota."_
+**Vartija**: _"Sinun tulisi tietää, että et ole juurikaan vaarassa, koska tähtäät itse asiassa altaaseen, mutta se ei tarkoita, etteikö se olisi riskitöntä. Sinun on pidettävä kallionseinästä kiinni molemmin käsin, ja matkasta tulee kuoppainen. Jotain voi irrota."_
 
 **Esteri**: _"Okei, DEXini ei ole kovin hyvä, mutta tässä mennään... ja heitin 13, epäonnistuminen. Katsos **Pertti**? Et ole ainoa, jolla on huonoa tuuria."_
 
-**Vartija**: _"Pääset perille, mutta matka alas ei ollut mitenkään hauska. Yksi esine repustasi on päässyt irti, joten heitän Kohtalon noppaa... Hei, onnekas vitonen! OK, saat valita, mikä putoaa."_
+**Vartija**: _"Pääset perille, mutta matka alas ei ollut mitenkään hauska. Yksi esine repustasi on päässyt irti, joten heitän Kohtalon Noppaa... Hei, onnekas vitonen! OK, saat valita, mikä putoaa."_
 
 **Esteri**: _"Jos kerran saan valita, mitä menetän... miten olisi jäljellä oleva soihtuni? Kaikki muu on hyvin tärkeää ja meillä on vielä lyhty ja öljyä."_
 
@@ -210,15 +210,15 @@ Jos haluat nähdä roolipeli-podcastin ("actual play") Cairnista (Vartijan komme
 
 **Esteri**: _"Hitto! Miltä se tuntuu? Myös, mitä näen tällä puolella jokea?"_
 
-**Vahti**: _"Se tuntuu hieman märältä, mutta muuten kuin tatuoinnilta iholla. Kuin se olisi osa sinua. Seisot lähes identtisellä rannalla kuin vastakkaisella puolella; sinun on tutkittava hieman ympärillesi saadaksesi tietää enemmän."_
+**Vartija**: _"Se tuntuu hieman märältä, mutta muuten kuin tatuoinnilta iholla. Kuin se olisi osa sinua. Seisot lähes identtisellä rannalla kuin vastakkaisella puolella; sinun on tutkittava hieman ympärillesi saadaksesi tietää enemmän."_
 
 **Esteri**: _"Voin kai jättää tämän toistaiseksi huomiotta, jos se ei satuta minua tai mitään. **Pertti**, miten aiot ylittää nämä pyörteiset ankeriaiden valtaamat vedet? Ehkä tuolta reunalta alempana?"_
 
 **Pertti**: _"Se voisi toimia. Kuinka monta soihtua sinulla on jäljellä? En halua jättää sinua pimentoon, kun lähden sinnepäin. Voisit myös seurata minua vähän matkaa alaspäin, vaikka valaistus ei ehkä olekaan paras mahdollinen."_
 
-**Esteri**: _"Minulta on kaikki loppu, valitettavasti. Mutta ehkä jos seuraan sinua, voin tehdä jotain tässä päässä auttaakseni sinua hyppäämään tuon reunan yli?"_
+**Esteri**: _"Soihtuni ovat loppu, valitettavasti. Mutta ehkä jos seuraan sinua, voin tehdä jotain tässä päässä auttaakseni sinua hyppäämään tuon reunan yli?"_
 
-**Vartija**: Marssitte rinnakkain nopeasti virtaavan joen molemmin puolin. **Pertin** lampun valo valaisee juuri ja juuri tietänne. **Esteri**, sinulla on erityisen vaikea koska joudut kulkemaan ihan joen rantaa pitkin välttääksesi astumasta tuntemattomiin varjoihin."_
+**Vartija**: Marssitte rinnakkain nopeasti virtaavan joen molemmin puolin. **Pertin** lampun valo valaisee juuri ja juuri tietänne. **Esteri**, sinulla on erityisen vaikeaa koska joudut kulkemaan ihan joen rantaa pitkin välttääksesi astumasta tuntemattomiin varjoihin."_
 
 **Esteri**: _"Jos olen lähellä jokea, haluaisin tutkia sitä vielä lisää. Näenkö yhä niitä pyöriviä bioluminesoivia kasviolentoja?"_
 
@@ -230,11 +230,11 @@ Jos haluat nähdä roolipeli-podcastin ("actual play") Cairnista (Vartijan komme
 
 **Esteri**: _"Mitä näen omalta puoleltani jokea? Vieläkö minun on pakko mennä ihan joenrantaa myöten?"_
 
-**Vartija**: _"Rotko ei ole suinkaan yhtä kapea sinun puolellasi, eli olisi helppoa jatkaa eteenpäin siitä missä olet - jos siirryt pois valosta, tietysti. Mutta mikä tärkeämpää, voit nähdä, että reunus ulottui aikoinaan joen yli, sillä myös toiselta puolelta törröttää vastakkainen reunus. Niiden välissä on kuitenkin valtava kuilu. Ehkä se romahti joskus aikaisemmin? Joka tapauksessa **Pertti** voi joko yrittää kiivetä reunamalle tai mennä jokeen ja kahlalta sen yli. Ainakaan tällä kertaa ei ole limaista vesiputousta kierrettävänä!_
+**Vartija**: _"Rotko ei ole suinkaan yhtä kapea sinun puolellasi, eli olisi helppoa jatkaa eteenpäin siitä missä olet - jos siirryt pois valosta, tietysti. Mutta mikä tärkeämpää, voit nähdä, että reunus ulottui aikoinaan joen yli, sillä myös toiselta puolelta törröttää vastakkainen reunus. Niiden välissä on kuitenkin valtava kuilu. Ehkä se romahti joskus aikaisemmin? Joka tapauksessa **Pertti** voi joko yrittää kiivetä reunukselle tai mennä jokeen ja kahlalta sen yli. Ainakaan tällä kertaa ei ole limaista vesiputousta kierrettävänä!_
 
 **Pertti**: _"Olettaen, että voin helposti kiivetä tämän, sanoisin että tehdään se."_
 
-**Vahti**: _"Kipuat reunalle helposti, kunhan olet ensin asettanut lampun sille ja vetänyt sen jälkeen itsesi ylös. Nyt sinun on vain päästävä yli."_
+**Vartija**: _"Kipuat reunalle helposti, kunhan olet ensin asettanut lampun sille ja vetänyt sen jälkeen itsesi ylös. Nyt sinun on vain päästävä yli."_
 
 **Pertti**: _"Nopea kysymys, millaista vesi on tarkalleen keskellä jokea, siinä kohtaa missä kuilu on?"_
 
@@ -248,7 +248,7 @@ Jos haluat nähdä roolipeli-podcastin ("actual play") Cairnista (Vartijan komme
 
 **Pertti**: _"Öh, selvä. Kävelen varovasti joen keskelle "sillalle", asetun sitten makuulle ja roikutan lyhtyäni reunan yli - mutta vain juuri ja juuri. Haluan olla mahdollisimman turvassa täällä."_
 
-**Vahti**: _"Heti kun lasket sen alas, liukas musta ankerias hyppää ilmaan ja napsauttaa neulamaisilla hampaillaan kiinni lyhtyyn. Olet kuitenkin tarpeeksi nopea pelastamaan sen. Ankerias roiskahtaa takaisin veteen."_
+**Vartija**: _"Heti kun lasket sen alas, liukas musta ankerias hyppää ilmaan ja napsauttaa neulamaisilla hampaillaan kiinni lyhtyyn. Olet kuitenkin tarpeeksi nopea pelastamaan sen. Ankerias roiskahtaa takaisin veteen."_
 
 **Pertti**: _"Vau! Se oli pelottavaa. Minun täytyy kai tehdä pelastusheitto, jotta voin hypätä yli, eikö vain?"_
 
@@ -260,7 +260,7 @@ Jos haluat nähdä roolipeli-podcastin ("actual play") Cairnista (Vartijan komme
 
 **Vartija**: _"Sammutat lyhdyn. Silmäsi räpyttelevät pimeydessä ja sopeutuvat hitaasti siihen. Yhtäkkiä näet valon alkavan välkkyä kaukaisella rannalla, jolla **Esteri** seisoo. Se on hänen nilkkansa; se valaisee kuin kynttilä!"_
 
-**Esther**: _"Hetkinen, voinko valaista nyt? Olenko minä jokin ihmissoihtu?"_
+**Esteri**: _"Hetkinen, voinko valaista nyt? Olenko minä jokin ihmissoihtu?"_
 
 **Vartija**: _"Täydellisessä pimeydessä, kyllä. Toivottavasti et lähiaikoina joudu hiippailemaan pimeässä."_
 

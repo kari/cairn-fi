@@ -16,7 +16,7 @@ nav_order: 1
 Tutustu alkuperäiseen englanninkieliseen [repoon](https://github.com/yochaigal/cairn) tai lataa peli englanniksi muissa [muodoissa](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (ml. Word, Affinity, Google Docs jne.). Suomenkielisen [SRD:n repo löytyy täältä](https://github.com/kari/cairn-fi), sekä tämä peli löytyy myös [ladattavana PDF:nä Itch.io:sta](https://kartza.itch.io/cairn-fi).
 
 **Cairn** on seikkailupeli yhdelle pelinjohtajalle (**Vartija**) ja ainakin yhdelle muulle pelaajalle.
-Pelaajat pelaavat karaistuneita seikkailijoita, jotka tutkivat pimeää ja salaperäistä Metsää, joka on täynnä outoa väkeä, kätkettyjä aarteita ja sanoin kuvaamattomia hirvityksiä.
+Pelaajat pelaavat karaistuneita seikkailijoita, jotka tutkivat pimeää ja salaperäistä Korpea, joka on täynnä outoa väkeä, kätkettyjä aarteita ja sanoin kuvaamattomia hirvityksiä.
 
 <details close markdown="block">
   <summary id="index">
@@ -61,7 +61,7 @@ Vartijalla ja pelaajilla tulisi kaikilla olla yhteiset ohjenuorat, jotka auttava
 
 ### Yhteiset Tavoitteet
 
-Pelaajien tulisi voida luottavaa toisiinsa siinä että he kaikki osallistuvat yhteisesti peliympäristöön, hahmojen tavoitteisiin ja peliryhmän haasteisiin. Näin peliryhmä työskentelee pääsääntöisesti tiiminä yhteisen päämäärän saavuttamiseksi.
+Pelaajien tulisi voida luottaa toisiinsa siinä että he kaikki osallistuvat yhteisesti peliympäristöön, hahmojen tavoitteisiin ja peliryhmän haasteisiin. Näin peliryhmä työskentelee pääsääntöisesti tiiminä yhteisen päämäärän saavuttamiseksi.
 
 [takaisin hakemistoon](#index)
 
@@ -108,7 +108,7 @@ Pelaajien tulisi voida luottavaa toisiinsa siinä että he kaikki osallistuvat y
 - Aarre on sidoksissa siihen ympäristöön, josta se on otettu talteen. Se kertoo tarinan.
 - Aarteet ovat hyvin arvokkaita, lähes aina kookkaita ja harvoin hyödyllisiä arvonsa ja maineensa lisäksi.
 - Muinaisesineet eivät ole Aarteita, vaikka ovatkin hyödyllisiä ja mielenkiintoisia.
-- Käytä Aarteita houkuttumina eksoottisiin paikkoihin, jotka ovat pelottavien vihollisten suojaamina.
+- Käytä Aarteita houkuttimina eksoottisiin paikkoihin, joita suojelevat pelottavat viholliset.
 
 ### Valinnat
 
@@ -142,7 +142,7 @@ Pelaajien tulisi voida luottavaa toisiinsa siinä että he kaikki osallistuvat y
 
 ### Tutkiskelu
 
-- Kysymysten esittäminen ja yksityiskohtien kuunteleminen on hyödyllisempää kuin mitkään tilastot, esineet tai taidot mitä sinulla on.
+- Kysymysten esittäminen ja yksityiskohtien kuunteleminen on hyödyllisempää kuin minkäänlaiset tilastot, esineet tai taidot joita sinulla on.
 - Ota Vartijan kuvailu ilman epäluuloa vastaan, mutta älä karta lisätietojen etsimistä.
 - Ei ole olemassa yhtä ainoaa oikeaa tietä eteenpäin.
 
@@ -177,14 +177,14 @@ Pelaajien tulisi voida luottavaa toisiinsa siinä että he kaikki osallistuvat y
 
 Ensiksi valitse tai heitä pelaajahahmosi **nimi** ja **tausta** niiden [taulukoista](#nimi--tausta-d20). Pelaajahahmon tausta vaikuttaa hänen mahdollisiin tietoihinsa ja taitoihinsa.
 
-Seuraavaksi, heitä hahmosi loput **piirteet** (ulkonäkö, puhe, maneerit, uskomukset, maine jne.) [**Hahmon piirteet**](#hahmon-piirteet-d10) -taulukoista.
+Seuraavaksi, heitä hahmosi loput **piirteet** (ulkonäkö, puhe, maneerit, uskomukset, maine jne.) [**Hahmonpiirteet**](#hahmonpiirteet-d10) -taulukoista.
 
 Lopuksi heitä hahmon **ikä** (2d20+10).
 
 #### Kykyarvot
 
 Pelaajahahmoilla (PC:t) on vain kolme kykyä:\
-**Voimakkuus (STR)**, **Ketteryys (DEX)** ja **Tahdonvoima (WIL)**. Luodessaan pelaajahahmoa, pelaajan tulee heittää 3d6 jokaiselle hahmon kykyarvolle järjestyksessä. Hän voi sitten vaihtaa keskenään mitkä tahansa kaksi tulosta keskenään.
+**Voimakkuus (STR)**, **Ketteryys (DEX)** ja **Tahdonvoima (WIL)**. Luodessaan pelaajahahmoa, pelaajan tulee heittää 3d6 jokaiselle hahmon kykyarvolle järjestyksessä. Hän voi sitten vaihtaa mitkä tahansa kaksi tulosta keskenään.
 
 <details markdown="block">
   <summary>
@@ -204,7 +204,7 @@ Hahmoilla on yhteensä 10 varustepaikkaa: reppu, jossa kuusi paikkaa, yksi paikk
 
 Useimmat esineet vievät yhden paikan, ja pienet tavarat voi pakata yhteen. Paikat ovat abstrakteja ja niitä voi järjestää uudelleen Vartijan harkinnan mukaan.
 
-**Kookkaat** esineet vievät kaksi paikkaa ja ne ovat yleensä kaksikätisiä tai hankalia kantaa. Jokaisen, jonka varustepaikat ovat täynnä (eli kaikki 10 paikkaa täyttyvät), HP-arvo laskee nollaan.
+**Kookkaat** esineet vievät kaksi paikkaa ja ne ovat yleensä kaksikätisiä tai hankalia kantaa. Jos varustepaikat ovat täynnä (eli kaikki 10 paikkaa täyttyvät), hahmon HP-arvo laskee nollaan.
 
 Pelaajahahmo ei voi kantaa enempää esineitä kuin hänen varustepaikkansa sallivat. Kärryt (joita on vedettävä molemmin käsin), hevoset tai muulit voivat kasvattaa varustepaikkojen määrää.  [**Palkkalaisille**](#palkkalaiset) voidaan myös maksaa varusteiden kantamisesta.
 
@@ -212,7 +212,7 @@ Pelaajahahmo ei voi kantaa enempää esineitä kuin hänen varustepaikkansa sall
 
 Kaikilla pelaajahahmoilla on aluksi:
 
-- Kolmen päivän muonat (yksi paikka)
+- Kolmen päivän muona-annokset (yksi paikka)
 - Soihtu (yksi paikka)
 - 3d6 kultarahaa
 
@@ -268,7 +268,7 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 
 <p></p>
 
-## Hahmon Piirteet (d10)
+## Hahmonpiirteet (d10)
 
 #### Vartalotyyppi
 
@@ -425,7 +425,7 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 | 4 | Linssi        | 9  | Pesusieni | 14 | Suitsuke              | 19 | Torvi                 |
 | 5 | Marmorikuulat | 10 | Pilli     | 15 | Sulkakynä ja mustetta | 20 | Väärennetyt jalokivet |
 
-#### Bonustavarat (heitä merkittyä taulukkoa)
+#### Bonustavarat (heitä merkityllä taulukolla)
 
 |                     |              |                   |             |
 | :-----------------: | :----------: | :---------------: | :---------: |
@@ -449,7 +449,7 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 | 9  | Elementaalivalli     | 34 | Kehonvaihdos        | 59 | Nousulähde          | 84  | Teleportti          |
 | 10 | Esineen elävöitys    | 35 | Kiinnitys           | 60 | Nukutus             | 85  | Tiheikkö            |
 | 11 | Esinemuutos          | 36 | Kilpi               | 61 | Nuusku              | 86  | Tosinäkö            |
-| 12 | Gravitaationsiirtymä | 37 | Kolkutus            | 62 | Näpistys            | 87  | Tukahdus            |
+| 12 | Gravitaatiosiirtymä | 37 | Kolkutus            | 62 | Näpistys            | 87  | Tukahdus            |
 | 13 | Haavojen parannus    | 38 | Kuiskeiden kuulo    | 63 | Omistajan tunnistus | 88  | Tyynnytys           |
 | 14 | Harhakuulo           | 39 | Kuolleista nostatus | 64 | Pappila             | 89  | Vaahtopurkaus       |
 | 15 | Harhanäky            | 40 | Kuulahuuma          | 65 | Parvimuoto          | 90  | Vaihdos             |
@@ -671,11 +671,11 @@ Hetken lepääminen ja veden juominen palauttaa menetetyt HP:t, mutta jättää 
 
 ### Puutos ja väsymys
 
-Jos pelaajahahmolla on **puutos** jostain tärkeästä tarpeesta (kuten ruoka tai lepo), hän ei pysty saamaan takaisin HP- tai kykyarvojaan. Yli vuorokauden puutos lisää **Väsymyksen** tavaraluetteloonsa, yhden jokaiselle päivälle. Jokainen Väsymys vie yhden paikan ja kestää kunnes hahmo kykenee toipumaan (esimerkiksi lepäämällä koko yön turvallisessa paikassa). Pelaajahahmot saavat myös Väsymystä **loitsimalla** tai pelin fiktion tapahtumien kautta.
+Jos pelaajahahmolla on **puutos** jostain tärkeästä tarpeesta (kuten ruoka tai lepo), hän ei pysty saamaan takaisin HP- tai kykyarvojaan. Yli vuorokauden puutos lisää **Väsymyksen** varusteluetteloonsa, yhden jokaiselle päivälle. Jokainen Väsymys vie yhden paikan ja kestää kunnes hahmo kykenee toipumaan (esimerkiksi lepäämällä koko yön turvallisessa paikassa). Pelaajahahmot saavat myös Väsymystä **loitsimalla** tai pelin fiktion tapahtumien kautta.
 
 ### Panssari
 
-Ennen kuin lasket vahingon HP:n määrälle, vähennä kohteen **Panssari**-arvo vahinkoheiton tuloksesta. Kilvet ja vastaavat panssarit antavat bonuspuolustuksen (esim. +1 Panssari), mutta vain kuin esine on kädessä tai yllä.\
+Ennen kuin lasket vahingon HP:n määrälle, vähennä kohteen **Panssari**-arvo vahinkoheiton tuloksesta. Kilvet ja vastaavat panssarit antavat bonuspuolustuksen (esim. +1 Panssari), mutta vain jos se on kädessä tai yllä.\
 Kenelläkään ei voi olla yli 3 Panssaria.\
 Kilvet, taisteluhansikkaat ja kypärät voivat antaa lisäetuja niiden käytön mukaan.
 
@@ -690,7 +690,7 @@ Kun pelaajahahmot kohtaavat sivuhahmon (NPC:n), jonka reaktio ryhmää kohtaan e
 
 ### Moraali
 
-Vihollisten on onnistuttava WIL-pelastusheitossa välttääkseen pakenemasta, kun he kohtaavat ensimmäisen tappionsa ja uudelleen, kun he menettävät puolet lukumäärästään. Jotkin ryhmät voivat käyttää johtajansa WIL-arvoa oman WIL:in sijasta. Yksinäisten vastustajien on tehtävä pelastusheitto, kun heidän HP:nsä laskee nollaan. Moraali ei vaikuta pelaajahahmoihin.
+Vihollisten on onnistuttava WIL-pelastusheitossa välttyäkseen pakenemasta, kun he kohtaavat ensimmäisen tappionsa ja uudelleen, kun he menettävät puolet lukumäärästään. Jotkin ryhmät voivat käyttää johtajansa WIL-arvoa oman WIL:in sijasta. Yksinäisten vastustajien on tehtävä pelastusheitto, kun heidän HP:nsä laskee nollaan. Moraali ei vaikuta pelaajahahmoihin.
 
 ### Palkkalaiset
 
@@ -812,7 +812,7 @@ Suuria samankaltaisten taistelijoiden ryhmiä, jotka taistelevat yhdessä, käsi
 Yksilöiden hyökkäykset joukko-osastoja vastaan ovat **heikentyneitä** (lukuun ottamatta räjähdysvahinkoa).\
 Joukko-osastojen hyökkäykset yksilöitä vastaan ovat **vahvennettuja** ja aiheuttavat räjähdysvahinkoa.
 
-### Perääntyminen
+### Vetäytyminen
 
 Pakeneminen tukalasta tilanteesta edellyttää aina onnistunutta DEX-pelastusheittoa sekä suojaisaa pakopaikkaa, jonne juosta.
 
@@ -844,14 +844,14 @@ Kun hyökkäys vähentää pelaajahahmon HP:n tasan nollaan, se vaikuttaa hänee
 **Juurakkohiisi**\
 4 HP, 8 STR, 14 DEX, 8 WIL, keihäs (d6)
 
-- Välttää taistelua, ellei niillä ole etulyöntiasemaa (kuten suurempi vahvuus).
+- Välttää taistelua, ellei niillä ole etulyöntiasemaa (kuten suurempi lukumäärä).
 - Varjelevat varastamiaan tavaroita kuolemaan asti.
 - Arvostavat Loitsukirjoja; halukkaita vaihtokauppaan.
 
 **Viittamiehet**\
-12 HP, 9 STR, 12 DEX, 14 WIL, niittysauva (d8), Loitsukirja (Valitse yksi: _Lumous_, _Hypnotisointi_, _Sysäys/Veto_, _Kilpi_)
+12 HP, 9 STR, 12 DEX, 14 WIL, ley-sauva (d8), Loitsukirja (Valitse yksi: _Lumous_, _Hypnotisointi_, _Sysäys/Veto_, _Kilpi_)
 
-- Metsän Vartijat; kultti, joka saa voimansa leylinjoista, riimukivistä ja vastaavista.
+- Korven Vartijat; kultti, joka saa voimansa leylinjoista, riimukivistä ja vastaavista.
 - Kriittinen vahinko: imevät osan uhrin sielusta (1d4 WIL-vahinkoa).
 
 **Mukulahurtat**\
@@ -896,7 +896,7 @@ Kykyarvot: 3 on vähäinen, 6 on heikko, 10 on keskimääräinen, 14 on huomiona
 - Anna keskiverto-olennoille 3 HP, sitkeille 6 HP ja vakaville uhkille 10+ HP.
 - Käytä sävyä ja tyyliä, jotta ne erottuvat. Pelaajat muistavat sikanaamaisen humanoidin, joka etsii kadonneita lampaitaan, helpommin kuin geneerisen jousella metsästävän hiiden.
 - Käytä kriittistä vahinkoa tukeaksesi jonkin aggressiivisen sivuhahmon uhkaa tai outoutta.
-- Muista, että HP on **osumasuojaus**, ei osumapiste. Se on kestävyyden, onnen ja rohkeuden mittari - ei elämän.
+- Muista, että HP on **osumasuojaus**, ei osumapiste. Se on kestävyyden, onnen ja rohkeuden mittari - ei elinvoiman.
 
 **Muuntaminen OSR-peleistä**
 
@@ -933,7 +933,7 @@ Vahinkonopat ovat suunnilleen samat, vaikka aseelliset hyökkäykset aiheuttavat
 |  9  | [Elementaalivalli](#elemental-wall)    | Maasta nousee suora jää- tai tuliseinä, joka on 50 jalkaa pitkä ja 10 jalkaa korkea.                                                                             |
 | 10  | [Esineen elävöitys](#animate-object)   | Esine tottelee käskyjäsi parhaansa mukaan.                                                                                                                       |
 | 11  | [Esinemuutos](#objectify)              | Muutut miksi tahansa elottomaksi esineeksi, joka on kooltaan pianon ja omenan väliltä.                                                                           |
-| 12  | [Gravitaationsiirtymä](#gravity-shift) | Voit muuttaa painovoiman suuntaa, mutta vain itsellesi.                                                                                                          |
+| 12  | [Gravitaatiosiirtymä](#gravity-shift) | Voit muuttaa painovoiman suuntaa, mutta vain itsellesi.                                                                                                          |
 | 13  | [Haavojen parannus](#cure-wounds)      | Paranna 1d4 STR kerran päivässä olennolle, jota voit koskettaa.                                                                                                  |
 | 14  | [Harhakuulo](#auditory-illusion)       | Luot harhaääniä, jotka vaikuttavat tulevan valitsemastasi suunnasta.                                                                                             |
 | 15  | [Harhanäky](#visual-illusion)          | Valitsemasi kaltainen hiljainen, paikallaan oleva huoneen kokoinen harhanäky ilmestyy.                                                                           |
@@ -941,7 +941,7 @@ Vahinkonopat ovat suunnilleen samat, vaikka aseelliset hyökkäykset aiheuttavat
 | 17  | [Houkutuskohde](#target-lure)          | Koskettamastasi esineestä tulee minkä tahansa lähellä olevan loitsun kohde.                                                                                      |
 | 18  | [Hylkiminen](#repel)                   | Kaksi esinettä hylkii toisiaan voimakkaan magneettisesti 10 jalan säteellä.                                                                                      |
 | 19  | [Hypnotisointi](#hypnotize)            | Olento menee transsiin ja vastaa totuudenmukaisesti yhteen sille esitettyyn kyllä- tai ei-kysymykseen.                                                           |
-| 20  | [Hyytävä kosketus](#icy-touch)         | Paksu jääkerros leviää kosketulle pinnalle, enintään 10 jalan säteellä.                                                                                          |
+| 20  | [Hyytävä kosketus](#icy-touch)         | Paksu jääkerros leviää kosketetulle pinnalle, enintään 10 jalan säteellä.                                                                                          |
 | 21  | [Hämmennys](#befuddle)                 | Valitsemasi olento ei kykene muodostamaan uusia lähimuistikuvia loitsun keston ajan.                                                                             |
 | 22  | [Hämähäkkikiipeily](#spider-climb)     | Pystyt kiipeilemään pintoja kuten hämähäkki.                                                                                                                     |
 | 23  | [Höpötys](#babble)                     | Olennon on toistettava äänekkäästi ja selvästi kaikki, mitä ajattelet. Muuten se on vaiti.                                                                       |
@@ -1052,8 +1052,8 @@ Pelaajahahmoilla on 10 varustepaikkaa; neljä kehonsa ympärillä ja kuusi repus
 
 Kaikkien 10 varustepaikan täyttäminen vähentää pelaajahahmon HP:n nollaan. Pelaajahahmot eivät voi kantaa enempää kuin varustepaikkansa sallivat, joskin kärryt ja hevoset voivat kasvattaa varustepaikkojen määrää.
 
-**VOIMANPUUTE**\
-Pelaajahahmot, jotka kärsivät jostain **puutoksesta** eivät voi saada takaisin HP:tä. Jos kärsii puutoksesta yli vuorokauden, pelaajahahmo lisää **Väsymyksen** tavaraluetteloonsa. Väsymys vie yhden paikan ja kestää kunnes hän kykenee toipumaan suojassa. Tämä vaikutus on kasautuva.
+**PUUTOSTILA**\
+Pelaajahahmot, jotka kärsivät jostain **puutoksesta** eivät voi saada takaisin HP:tä. Jos kärsii puutoksesta yli vuorokauden, pelaajahahmo lisää **Väsymyksen** varusteluetteloonsa. Väsymys vie yhden paikan ja kestää kunnes hän kykenee toipumaan suojassa. Tämä vaikutus on kasautuva.
 
 **PARANTUMINEN**\
 Hetken lepääminen ja veden juominen palauttaa menetetyt HP:t, mutta voi jättää ryhmän alttiiksi vaaralle. Kykyjen menetyksen palauttaminen vaatii viikon levon ja ammattitaitoisen parantajan apua.
@@ -1066,7 +1066,7 @@ Jos pelaajahahmolla on aikaa ja suojaa, hän voi parantaa loitsua ilman lisäkus
 **TAISTELU**\
 Hyökkääjä heittää asenoppansa ja vähentää siitä kohteen panssariarvon, ja aiheuttaa sitten jäljelle jäävän määrän vahinkoa vastustajan HP:hen.
 
-Ennen kuin lasket vahingon HP:n määrälle, vähennä kohteen **Panssari**-arvo vahinkoheiton tuloksesta. Kilvet ja vastaavat panssarit antavat bonuspuolustuksen (esim. +1 Panssari), mutta vain kuin esine on kädessä tai yllä.
+Ennen kuin lasket vahingon HP:n määrälle, vähennä kohteen **Panssari**-arvo vahinkoheiton tuloksesta. Kilvet ja vastaavat panssarit antavat bonuspuolustuksen (esim. +1 Panssari), mutta vain kuin jos se on kädessä tai yllä.
 
 Kenelläkään ei voi olla yli 3 Panssaria.
 
@@ -1077,6 +1077,6 @@ Jos hyökkäys on **heikentynyt**, vahinkonoppa pienenee 1d4:ään, riippumatta 
 **VAHINKO**\
 Jos hyökkäys vähentää pelaajahahmon HP:n täsmälleen nollaan, katso [**Arvet**](#arvet-1)-taulukko.
 
-Vahinko, joka vähentää kohteen HP:n **alle** nollan, vähentää tämän STR:ää lopulla. Tämän jälkeen hänen on tehtävä STR-pelastusheitto välttääkseen **kriittinen vahinko.** Epäonnistuminen poistaa hänet taistelusta ja hän kuolee, jos häntä ei hoideta.
+Vahinko, joka vähentää kohteen HP:n **alle** nollan, vähentää tämän STR:ää lopulla. Tämän jälkeen hänen on tehtävä STR-pelastusheitto välttääkseen **kriittisen vahingon.** Epäonnistuminen poistaa hänet taistelusta ja hän kuolee, jos häntä ei hoideta.
 
 STR 0 tarkoittaa **kuolemaa;** DEX 0 halvaantumista; WIL 0 hourailua.

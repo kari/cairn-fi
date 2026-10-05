@@ -12,7 +12,7 @@ nav_order: 1
 ## Johdanto
 
 Alla on muutamia vastauksia joihinkin yleisimmin kysyttyihin kysymyksiin, joita pelaajat joille Cairn on vieras kysyvät.
-Lukiessasi pidä [Sääntökokoelma](/cairn-srd) käsillä, etenekin kun puhutaan [**pelastusheitoista**](/cairn-srd/#pelastusheitot) ja [taistelusta](/cairn-srd/#taistelu).
+Lukiessasi pidä [Sääntökokoelma](/cairn-srd) käsillä, etenkin kun puhutaan [**pelastusheitoista**](/cairn-srd/#pelastusheitot) ja [taistelusta](/cairn-srd/#taistelu).
 
 **Pidä seuraavat mielessä, kun luet esimerkkitekstiä!**
 
@@ -27,7 +27,7 @@ Voit lukea myös koko **esimerkin pelaamisesta** yhtenä kokonaisena sivuna [tä
 
 ## Mitä vaikutusta pelihahmojen taustoilla on?
 
-Hahmon taustasta, historiasta ja kokemuksista voi mahdollisesti olla hyötyä (tai haittaa) tietyissä tilanteissa. Vastaavasti aiemmat tapahtumat pelissä voivat vaikuttaa hahmon tekoihin, mukaan lukien mitätöidä tarpeen tehdä **pelastusheitto** joissakin tilanteissa!
+Hahmon taustasta, historiasta ja kokemuksista voi mahdollisesti olla hyötyä (tai haittaa) tietyissä tilanteissa. Vastaavasti aiemmat tapahtumat pelissä voivat vaikuttaa hahmon tekoihin, mukaan lukien poistaa tarpeen tehdä **pelastusheitto** joissakin tilanteissa!
 
 <details markdown="block"><summary>
 Laajenna esimerkki
@@ -57,8 +57,8 @@ Laajenna esimerkki
 
 **Entä jos yhdelläkään pelaajahahmolla ei ole asiaan liittyvää kokemusta tai asiantuntemusta?**
 
-- Jos yhdelläkää pelaajahahmolla ei olisi ollut **yrttimestari**taustaa, Vartija olisi todennäköisesti todennut hahmot epätietoisiksi kasvin ominaisuuksista, ja pelaajat olisivat (toivottavasti) yrittäneet selvittää lisää kysymällä ja kokeilemalla.
-- Jos jollain pelaajahahmolla olisi ollut asiaa sivuavaa taustaa (kuten **metsästäjä**), Vartija olisi voinuta antaa [Kohtalon päättää](/cairn-srd/#kohtalon-noppa) ja heittää 1d6. Mitä korkeampi tulos, sitä todennäköisemmin pelaajahahmo tietäisi jotain olennaista tai hyödyllistä.
+- Jos yhdelläkään pelaajahahmolla ei olisi ollut **yrttimestari**taustaa, Vartija olisi todennäköisesti todennut hahmot epätietoisiksi kasvin ominaisuuksista, ja pelaajat olisivat (toivottavasti) yrittäneet selvittää lisää kysymällä ja kokeilemalla.
+- Jos jollain pelaajahahmolla olisi ollut asiaa sivuavaa taustaa (kuten **metsästäjä**), Vartija olisi voinut [antaa Kohtalon päättää](/cairn-srd/#kohtalon-noppa) ja heittää 1d6. Mitä korkeampi tulos, sitä todennäköisemmin pelaajahahmo tietäisi jotain olennaista tai hyödyllistä.
 
 </details>
 
@@ -102,7 +102,7 @@ Jotkut pelit käyttävät "Aloitejärjestystä" selvittämään kuka aloittaa en
 
 ### 1. Kierros
 
-- Pelaajajahahmot tekevät DEX-pelastusheiton. Ne, jotka onnistuvat, toimivat ennen vihollisia (kollektiivisesti yksi "puoli"). He voivat toimia missä järjestyksessä haluavat; tulokset ovat kuitenkin samanaikaisia.
+- Pelaajahahmot tekevät DEX-pelastusheiton. Ne, jotka onnistuvat, toimivat ennen vihollisia (kollektiivisesti yksi "puoli"). He voivat toimia missä järjestyksessä haluavat; tulokset ovat kuitenkin samanaikaisia.
 - Kaikki viholliset toimivat, missä tahansa järjestyksessä **Vartija** valitsee; tulokset ovat samanaikaisia.
 
 ### 2. Kierros
@@ -135,7 +135,7 @@ Laajenna esimerkki
 
 ## Milloin pelaajahahmon tai sivuhahmon tulisi tehdä **pelastusheitto**?
 
-Pelaajahahmonn tai sivuhahmon tulisi heittää **pelastusheitto** vain, jos yksi tai useampi seuraavista ehdoista täyttyy:
+Pelaajahahmon tai sivuhahmon tulisi heittää **pelastusheitto** vain, jos yksi tai useampi seuraavista ehdoista täyttyy:
 
 - Kun toimen lopputulos on epävarma.
 - Kun jokin tai jotain on vaarassa (henki, uhkaava vaara jne.).
@@ -163,8 +163,8 @@ Laajenna esimerkki
 
 **Pertti**: _"Öh... Kuulostaa hyvältä, kai. Okei, tehdään se!"_
 
-**Miksi Pertin ei tarvinnut tehdä pelastusheittoa, jotta hänen onnistui kietoa köysi puun ympärille?**
-Vuorollaan pelaajahahmo voi yrittää mitä tahansa tekoa; **pelastusheitto** vaaditaan vain, jos jotkin edellä luetelluista ehdoista täyttyvät. Oli järkeenkäypää, että **Pertti** voisi rynnätä puun (joka oli vain muutaman metrin päässä) ympäri köyden kanssa ilman suurempaa vaaraa. Jos hän olisi yrittänyt juosta **Hurmehirven** lähelle tai tehnyt jotain yhtä epävarmaa tai vaarallista, häntä olisi vaadittu heittämään **pelastusheitto**.
+**Miksi Pertin ei tarvinnut tehdä pelastusheittoa, jotta hänen onnistui kietoamaan köysi puun ympärille?**
+Vuorollaan pelaajahahmo voi yrittää mitä tahansa tekoa; **pelastusheitto** vaaditaan vain, jos jotkin edellä luetelluista ehdoista täyttyvät. Oli järkeenkäypää, että **Pertti** voisi rynnätä puun (joka oli vain muutaman metrin päässä) ympäri köyden kanssa ilman suurempaa vaaraa. Jos hän olisi yrittänyt juosta **Hurmehirven** lähelle tai tehnyt jotain yhtä epävarmaa tai vaarallista, häneeltä olisi vaadittu **pelastusheitto**.
 
 </details>
 
@@ -247,11 +247,11 @@ Laajenna esimerkki
 
 **Vartija**: _"Liukastut ja kaadut alas pitkin vesiputousta sen alla olevaan vesialtaaseen, lyöden samalla kätesi lujaa altaan reunaan. Menetät 1d4 DEX-vahinkoa, etkä pysty kunnolla puristamaan esineitä hallitsevalla kädelläsi. On lähes täysin pimeää, mutta ylhäällä näkyy vielä kumppanisi lyhdyn valo."_
 
-**Mihin kykyyn taistelum ulkopuolisen vahingon pitäisi vaikuttaa?**
+**Mihin kykyyn taistelun ulkopuolisen vahingon pitäisi vaikuttaa?**
 
 - Jos vamma vaikuttaa fyysiseen voimakkuuteen tai terveyteen, vähennä **STR**:stä. _Tämä ei aiheuta **kriittisen vahingon pelastusheittoa**_. **STR** kuvastaa pelaajahahmon terveyttä, ja sen pitäisi kuvastaa sitä hienovaraisen mielenkiintoisella tavalla: vaatien kenties **pelastusheiton**, vaikka sitä ei olisi tarvittu aiemmin.
-- Jos vamma vaikuttaa kykyyn liikkua, reagoida nopeasti tai hienomotorisiin taitoihin, vähennä **DEX**:istä. Tähän liitetän usein tarinankerronnallinen vaikutus myös; murtuneet sormet vaikuttaisivat esimerkiksi pelaajahahmon kykyyn tiirikoida lukkoja.
-- Jos pelaajahahmon henki, tahdonvoima tai päättäväisyys on kärsinyt, vähennä **WIL**-arvosta. Tämä on erityisen hyödyllistä huomioida maagisten tai pinnallisten vammojen kohdalla. Pelaajahahmo, jonka sielua on polttanut loihtoenergiasta, saattaa esimerkiksi joutua tekemään **WIL**-pelastusheiton voidakseen lukea loitsukirjoja.
+- Jos vamma vaikuttaa kykyyn liikkua, reagoida nopeasti tai hienomotorisiin taitoihin, vähennä **DEX**:istä. Tähän liitetään usein tarinankerronnallinen vaikutus myös; murtuneet sormet vaikuttaisivat esimerkiksi pelaajahahmon kykyyn tiirikoida lukkoja.
+- Jos pelaajahahmon henki, tahdonvoima tai päättäväisyys on kärsinyt, vähennä **WIL**-arvosta. Tämä on erityisen hyödyllistä huomioida maagisten tai pinnallisten vammojen kohdalla. Pelaajahahmo, jonka sielua on polttanut loihtoenergia, saattaa esimerkiksi joutua tekemään **WIL**-pelastusheiton voidakseen lukea loitsukirjoja.
 
 Muutamia huomioita:
 
@@ -291,11 +291,11 @@ Laajenna esimerkki
 
 **Esteri**: _"Älä ole hölmö. Sinusta tulee laskeutumisalustani."_
 
-**Vahti**: _"Sinun tulisi tietää, että et ole juurikaan vaarassa, koska tähtäät itse asiassa altaaseen, mutta se ei tarkoita, etteikö se olisi riskitöntä. Sinun on pidettävä kallionseinästä kiinni molemmin käsin, ja matkasta tulee kuoppainen. Jotain voi irrota."_
+**Vartija**: _"Sinun tulisi tietää, että et ole juurikaan vaarassa, koska tähtäät itse asiassa altaaseen, mutta se ei tarkoita, etteikö se olisi riskitöntä. Sinun on pidettävä kallionseinästä kiinni molemmin käsin, ja matkasta tulee kuoppainen. Jotain voi irrota."_
 
 **Esteri**: _"Okei, DEXini ei ole kovin hyvä, mutta tässä mennään... ja heitin 13, epäonnistuminen. Katsos **Pertti**? Et ole ainoa, jolla on huonoa tuuria."_
 
-**Vartija**: _"Pääset perille, mutta matka alas ei ollut mitenkään hauska. Yksi esine repustasi on päässyt irti, joten heitän Kohtalon noppaa... Hei, onnekas vitonen! OK, saat valita, mikä putoaa."_
+**Vartija**: _"Pääset perille, mutta matka alas ei ollut mitenkään hauska. Yksi esine repustasi on päässyt irti, joten heitän Kohtalon Noppaa... Hei, onnekas vitonen! OK, saat valita, mikä putoaa."_
 
 **Esteri**: _"Jos kerran saan valita, mitä menetän... miten olisi jäljellä oleva soihtuni? Kaikki muu on hyvin tärkeää ja meillä on vielä lyhty ja öljyä."_
 
@@ -305,7 +305,7 @@ Laajenna esimerkki
 
 ## Miten pelaajahahmot etenevät ilman tasojen tai kokemuspisteiden (XP) kaltaisia asioita?
 
-**Cairnissa** hahmon _kasvu_ on tärkeämpää kuin _edistyminen_. Tämä tarkoittaa sitä, että vaikka pelaajahamo _tulee_ muuttumaan, hän ei välttämättä _parane_ ajan myötä. Kasvu tapahtuu sekä mekaanisin keinoin (kuten [**Arpien**](/cairn-srd/#arvet-1)) että pelkästään tarinankerronnassa tapahtuvien tapahtumien kautta.
+**Cairnissa** hahmon _kasvu_ on tärkeämpää kuin _edistyminen_. Tämä tarkoittaa sitä, että vaikka pelaajahahmo _tulee_ muuttumaan, hän ei välttämättä _parane_ ajan myötä. Kasvu tapahtuu sekä mekaanisin keinoin (kuten [**Arpien**](/cairn-srd/#arvet-1)) että pelkästään tarinankerronnassa tapahtuvien tapahtumien kautta.
 
 **Vartijan tulisi harkita seuraavia seikkoja myöntäessään pelaajahahmoille ei-mekaanista kasvua:**
 
@@ -318,8 +318,8 @@ Laajenna esimerkki
 
 **Joitakin esimerkkejä koulutuksesta ja erikoistumisesta:**
 
-- Kahden päivän opiskelu entisen kuninkaallisen jousimiehen johdolla on opettanut sinut ampumaan nuolia tehokkaammin. Hyökkäykset pitkäjousella ovat vahvistettuja.
-- Kahden viikon päivittäisen harjoittelun Gwoedin Terän kanssa jälkeen tunnet olosi tarpeeksi luottavaiseksi käyttääksesi tätä tappavaa asetta taistelussa. Kriittinen vahinko: Kohde menettää raajan tai suolistetaan (valintasi mukaan).
+- Kahden päivän opiskelu entisen kuninkaallisen jousimiehen johdolla on opettanut sinut ampumaan nuolia tehokkaammin. Hyökkäykset pitkäjousella ovat vahvennettuja.
+- Kahden viikon päivittäisen harjoittelu Gwoedin Terän kanssa on saanut olosi tarpeeksi luottavaiseksi käyttääksesi tätä tappavaa asetta taistelussa. Kriittinen vahinko: Kohde menettää raajan tai suolistetaan (valintasi mukaan).
 - Kolmen päivän opiskelu taitavan soturin johdolla on opettanut sinut miten et koskaan tule yllätetyksi. Sinun ei enää tarvitse tehdä DEX-pelastusheittoa ennen taistelua (ellei Vartija toisin määrää).
 - Viisi intensiivistä yötä opiskellen _Kirousten Kirjan_ parissa on antanut sinulle etulyöntiaseman taistelussa. Jos herjaat vastustajaa ennen taistelua, kaikki hänen hyökkäyksensä sinua ja ystäviäsi vastaan ovat heikentyneet.
 - Harjoiteltuasi _Es'tan Surumunkkien_ kanssa voit nyt puhua kuolleiden kanssa. Kärsit puutostilasta jälkeenpäin.
@@ -374,7 +374,7 @@ Laajenna esimerkki
 
 **Esteri**: _"Hitto! Miltä se tuntuu? Myös, mitä näen tällä puolella jokea?"_
 
-**Vahti**: _"Se tuntuu hieman märältä, mutta muuten kuin tatuoinnilta iholla. Kuin se olisi osa sinua. Seisot lähes identtisellä rannalla kuin vastakkaisella puolella; sinun on tutkittava hieman ympärillesi saadaksesi tietää enemmän."_
+**Vartija**: _"Se tuntuu hieman märältä, mutta muuten kuin tatuoinnilta iholla. Kuin se olisi osa sinua. Seisot lähes identtisellä rannalla kuin vastakkaisella puolella; sinun on tutkittava hieman ympärillesi saadaksesi tietää enemmän."_
 
 **Esteri**: _"Voin kai jättää tämän toistaiseksi huomiotta, jos se ei satuta minua tai mitään. **Pertti**, miten aiot ylittää nämä pyörteiset ankeriaiden valtaamat vedet? Ehkä tuolta reunalta alempana?"_
 
@@ -398,7 +398,7 @@ Laajenna esimerkki
 
 **Pertti**: _"Olettaen, että voin helposti kiivetä tämän, sanoisin että tehdään se."_
 
-**Vahti**: _"Kipuat reunalle helposti, kunhan olet ensin asettanut lampun sille ja vetänyt sen jälkeen itsesi ylös. Nyt sinun on vain päästävä yli."_
+**Vartija**: _"Kipuat reunalle helposti, kunhan olet ensin asettanut lampun sille ja vetänyt sen jälkeen itsesi ylös. Nyt sinun on vain päästävä yli."_
 
 **Pertti**: _"Nopea kysymys, millaista vesi on tarkalleen keskellä jokea, siinä kohtaa missä kuilu on?"_
 
@@ -412,7 +412,7 @@ Laajenna esimerkki
 
 **Pertti**: _"Öh, selvä. Kävelen varovasti joen keskelle "sillalle", asetun sitten makuulle ja roikutan lyhtyäni reunan yli - mutta vain juuri ja juuri. Haluan olla mahdollisimman turvassa täällä."_
 
-**Vahti**: _"Heti kun lasket sen alas, liukas musta ankerias hyppää ilmaan ja napsauttaa neulamaisilla hampaillaan kiinni lyhtyyn. Olet kuitenkin tarpeeksi nopea pelastamaan sen. Ankerias roiskahtaa takaisin veteen."_
+**Vartija**: _"Heti kun lasket sen alas, liukas musta ankerias hyppää ilmaan ja napsauttaa neulamaisilla hampaillaan kiinni lyhtyyn. Olet kuitenkin tarpeeksi nopea pelastamaan sen. Ankerias roiskahtaa takaisin veteen."_
 
 **Pertti**: _"Vau! Se oli pelottavaa. Minun täytyy kai tehdä pelastusheitto, jotta voin hypätä yli, eikö vain?"_
 
@@ -424,7 +424,7 @@ Laajenna esimerkki
 
 **Vartija**: _"Sammutat lyhdyn. Silmäsi räpyttelevät pimeydessä ja sopeutuvat hitaasti siihen. Yhtäkkiä näet valon alkavan välkkyä kaukaisella rannalla, jolla **Esteri** seisoo. Se on hänen nilkkansa; se valaisee kuin kynttilä!"_
 
-**Esther**: _"Hetkinen, voinko valaista nyt? Olenko minä jokin ihmissoihtu?"_
+**Esteri**: _"Hetkinen, voinko valaista nyt? Olenko minä jokin ihmissoihtu?"_
 
 **Vartija**: _"Täydellisessä pimeydessä, kyllä. Toivottavasti et lähiaikoina joudu hiippailemaan pimeässä."_
 

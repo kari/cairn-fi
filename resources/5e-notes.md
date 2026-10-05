@@ -12,7 +12,7 @@ Valitse ensin muunnettavat kyvyt.
 - Muunna **DEX** suoraan.
 - Valitse **WIL**:n kohdalla korkein WIS:n tai CHA:n välillä.
 
-Saadaksesi arvo, lisää 10 vastaavaan 5e:n **muuntimeen**. Eli hirviöllä, jolla on 19(+4) STR 5e:ssä, on 14 STR Cairnissa. Sellaisella, jolla on 5e:ssä 6(-2) Viisautta, on Cairnissa 8 WIL.
+Saadaksesi arvon, lisää 10 vastaavaan 5e:n **muuntimeen**. Eli hirviöllä, jolla on 19(+4) STR 5e:ssä, on 14 STR Cairnissa. Sellaisella, jolla on 5e:ssä 6(-2) Viisautta, on Cairnissa 8 WIL.
 
 #### Panssariluokasta (AC) Panssariksi
 
@@ -28,7 +28,7 @@ Saadaksesi arvo, lisää 10 vastaavaan 5e:n **muuntimeen**. Eli hirviöllä, jol
 
 - 1-6 HP tarkoittaa useimpia ihmisiä, pieniä eläimiä ja vastaavia olentoja.
 
-- 7-12 HP tarkoittaa vakavia vihollisia, poikkeuksellisesti koulutettuja ihmisiä tai harvinaisen voimakkaita olentoja. Suuret ja hurjat eläimet, useimmat hirviöt ja sfäärin ulkopuoliset olennot kuuluvat tähän.
+- 7-12 HP tarkoittaa vakavia vihollisia, poikkeuksellisesti koulutettuja ihmisiä tai harvinaisen voimakkaita olentoja. Suuret ja hurjat eläimet, useimmat hirviöt ja sfäärinulkoiset olennot kuuluvat tähän.
 
 - 13-18 HP tarkoittaa suuria uhkia. Lohikäärmeet, jättiläiset, sellaisia viholliset, jotka voivat aiheuttaa valtavaa tuhoa.
 

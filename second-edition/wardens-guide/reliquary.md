@@ -36,7 +36,7 @@ grand_parent: Toinen laitos
 
 ## Huntusilkin ote, 1 lataus, _mitätön_
 
-- Käsinettä pitävä käsi voi häilyä kiinteiden esineiden läpi.
+- Tätä käsinettä pitävä käsi voi häilyä kiinteiden esineiden läpi.
 - **Lataus**: Leikkaa yksi sormi irti.
 
 ## Hävityskäärö, 1 käyttö, _mitätön_
@@ -103,7 +103,7 @@ grand_parent: Toinen laitos
 
 ## Käräjäpöllöjen lupaus, +1 Panssari
 
-- Pöllön pään muotoinen kypärä. Sen kantaja voi kääntää päätään ympäri kuten pöllö ja nähdä pimeässä täysin tarkasti. Kypärää käyttäessään sen kantaja menettää puhekykynsä ja päästä vain yksinkertaisia huhuiluääniä.
+- Pöllön pään muotoinen kypärä. Sen kantaja voi kääntää päätään ympäri kuten pöllö ja nähdä pimeässä täysin tarkasti. Kypärää käyttäessään sen kantaja menettää puhekykynsä ja päästää vain yksinkertaisia huhuiluääniä.
 
 ## Käärmeensormus, 1 lataus, _mitätön_
 
@@ -117,7 +117,7 @@ grand_parent: Toinen laitos
 
 ## Miekka nimeltä Toivo (d6)
 
-- Ohut, kaareva miekka, joka hehkuu heikkoa valoa, joka näkyy vain täydellisessä pimeydessä. Kun se kylpee voimakkaassa auringonvalossa, sen ensimmäinen hyökkäys on _Vahvistunut_.
+- Ohut, kaareva miekka, joka hehkuu heikkoa valoa, joka näkyy vain täydellisessä pimeydessä. Kun se kylpee voimakkaassa auringonvalossa, sen ensimmäinen hyökkäys on _vahvennettu_.
 
 ## Muurahaispurkki
 
@@ -153,7 +153,7 @@ grand_parent: Toinen laitos
 
 ## Sielumöykky
 
-- Kova, nyrkin kokoinen pallo, joka on pienten kuoppien peitossa. Kun sitä pyöritetään tasaisella pinnalla, se kerää kaikki sen nykyistä massaa pienemmät esineet ja sen massa kasvaa sitä mukaan kun sen pintaan kiinnittyy lisää esineitä. Vain elävät olennot ovat immuuneja.
+- Kova, nyrkin kokoinen pallo, joka on pienten kyhmyjen peitossa. Kun sitä pyöritetään tasaisella pinnalla, se kerää kaikki sen nykyistä massaa pienemmät esineet ja sen massa kasvaa sitä mukaan kun sen pintaan kiinnittyy lisää esineitä. Vain elävät olennot ovat immuuneja.
 
 ## Sieniarmeija, 1 käyttö
 
@@ -189,7 +189,7 @@ grand_parent: Toinen laitos
 ## Verikartta, 1 lataus
 
 - Tyhjä nahkapergamentti, joka imee itseensä kaiken pinnalleen valuneen veren, jonka jälkeen se rullautuu tiiviiksi kääröksi. Avaa nähdäksesi karkea kartta, joka paljastaa jäljellä olevan veren nykyisen sijainnin. Kuva katoaa muutaman minuutin kuluttua.
-- **Lataus**: Kaada tuopillinen omaa elämänvoimaasi kartalle, verta verestä. Kärsit _voimanpuutteesta_, kunnes voit levätä ja syödä muona-annoksen.
+- **Lataus**: Kaada tuopillinen omaa elämänvoimaasi kartalle, verta verestä. Kärsit _puutoksesta_, kunnes voit levätä ja syödä muona-annoksen.
 
 ## Vihellysköysi
 

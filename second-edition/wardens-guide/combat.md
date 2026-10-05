@@ -11,10 +11,10 @@ grand_parent: Toinen laitos
 
 Taistelu Cairnissa on nopeaa, kiihkeää ja usein tappavaa. Näiden lisäksi taistelusäännöt poikkeavat tavallisista muutamalla keskeisellä tavalla:
 
-- **Puolen aloitejärjestys**: Ensimmäistä kierrosta lukuun ottamatta (jolloin pelaajahahmojen on ensin onnistuttava DEX-pelastusheitossa varmistaakseen vuoronsa) sekä pelaajahahmot että heidän vastustajansa toimivat vuorollaan yhdessä. Kummankin osapuolen toimien tulos tapahtuu samanaikaisesti.
+- **Puolen aloitejärjestys**: Ensimmäistä kierrosta lukuun ottamatta (jolloin pelaajahahmojen on ensin onnistuttava DEX-pelastusheitossa varmistaakseen vuoronsa) sekä pelaajahahmot että heidän vastustajansa toimivat vuorollaan yhdessä. Kummankin osapuolen toimintojen tulos tapahtuu samanaikaisesti.
 - **Hyökkäykset osuvat automaattisesti**: Taistelijat aiheuttavat yleensä vahinkoa kohteilleen automaattisesti, tekemättä erillistä heittoa sen selvittämiseksi "osuuko" hyökkäys vai ei. Kun useampi hyökkääjä kohdistaa hyökkäyksensä samaan viholliseen, vain korkeinta noppatulosta käytetään hyökkäyksessä.
 - **Osumasuojaus ja Arvet**: Osumasuojaus toimii taidon, kestävyyden, sitkeyden ja onnen mittarina. Se myös palaa takaisin täyteen automaattisesti, kun pelaajahahmo on turvassa ja rauhassa. Jos vahinko vähentää pelaajahahmon HP:n tasan nollaan, hän saa _Arven_, jolla voi olla sekä positiivisia että negatiivisia seurauksia.
-- **Kriittinen Vahinko**: Vahinko, joka vähentää kohteen HP:n alle nollan, vähennetään kohteen STR-arvosta jäljellä olevan vahingon määrällä. Kohteen on tämän jälkeen välittömästi tehtävä STR-pelastusheitto välttääkseen **kriittisen vahingon**, käyttäen uutta STR-arvoaan. Epäonnistuessaan kohde on kukistettu.
+- **Kriittinen vahinko**: Vahinko, joka vähentää kohteen HP:n alle nollan, vähennetään kohteen STR-arvosta jäljellä olevan vahingon määrällä. Kohteen on tämän jälkeen välittömästi tehtävä STR-pelastusheitto välttääkseen **kriittisen vahingon**, käyttäen uutta STR-arvoaan. Epäonnistuessaan kohde on kukistettu.
 
 ## Esimerkki
 
@@ -48,7 +48,7 @@ Taistelu Cairnissa on nopeaa, kiihkeää ja usein tappavaa. Näiden lisäksi tai
 
 > Nyt on vastustajien vuoro hyökätä tai tehdä jokin muu toiminto. Vaikka nämä tapahtumat kuvataan tässä peräkkäin, tulokset tapahtuvat suunnilleen samaan aikaan. Vartija heittää hyökkäysnoppaa jokaiselle vihollistaistelijalle, hyökäten jokaista pelaajahahmoa kohti vain kerran. Suuri mies heittää d10:n, mutta aiheuttaa vain 3 vahinkoa Freyalle, kun taas hänen kumppaninsa heittävät kumpikin d6:n ja aiheuttavat 1 ja 6 vahinkoa Wolframia ja Luciusta vastaan, tässä järjestyksessä. Kun Vartija kertoo tulokset, kukin pelaaja kirjaa menetetyt HP:t tai STR:t hahmolomakkeelleen.
 
-**Vartija**: _"Nyt vastustajanne pääsevät iskemään. Iso mies heilauttaa kirvestään Freyaa kohti, mutta ei osu, vaan Freyan ja kirveen terän väliin jää leveä rako. Epäilet että olisit kuitenkaan niin onnekas ensi kerralla. Sen jälkeen lyhyempi mies iskee puukolla kohti Wolframia, joka on lähin kolmesta. Onneksi miehen terä vain kimmahtaa hänen haarniskastaan. Nyt vuorossa on miehen sisko, joka melkein ottaa Luciuksen pään irti miekallaan. Jostain syystä terä ei viillä, vaan iskee Luciusta niin kovaa taaksepäin, että hän melkein kaatuu ja hänen näkönsä täyttyy kirkkaista valoista ja kimalluksesta."_
+**Vartija**: _"Nyt vastustajanne pääsevät iskemään. Iso mies heilauttaa kirvestään Freyaa kohti, mutta ei osu, vaan Freyan ja kirveen terän väliin jää leveä rako. Epäilet että olisit kuitenkaan niin onnekas ensi kerralla. Sen jälkeen lyhyempi mies iskee puukolla kohti Wolframia, joka on lähin kolmesta. Onneksi miehen terä vain kimmahtaa hänen panssaristaan. Nyt vuorossa on miehen sisko, joka melkein ottaa Luciuksen pään irti miekallaan. Jostain syystä terä ei viillä, vaan iskee Luciusta niin kovaa taaksepäin, että hän melkein kaatuu ja hänen näkönsä täyttyy kirkkaista valoista ja kimalluksesta."_
 
 **Lucius**: _"Auts. Luulenpa, että tuo vie minut tasan 0 HP:hen. Minun pitäisi tarkistaa Arpitaulukko, eikö vain?"_
 
@@ -68,7 +68,7 @@ Taistelu Cairnissa on nopeaa, kiihkeää ja usein tappavaa. Näiden lisäksi tai
 
 **Vartija**: _"Wolfram, isket veitselläsi lyhyempää miestä kohti, mutta hän väistää taitavasti hyökkäyksesi! Freya, tikarisi viiltävät isoa miestä vaikuttavalla nopeudella ja voimakkuudella ja on selvää, että olet saanut hänet puolustuskannalle, sillä näet kuinka hiki alkaa valua hänen päänsä sivuilla. Häneltä alkaa loppua vauhti! Lucius, keppimiekka lävistää naista vatsaan! Hän tekee STR-pelastusheiton selvittääkseen, pysyykö hän taistelussa mukana. Hän heittää 13, epäonnistuminen! Hän luhistuu!"_
 
-> Tämä on taistelun ensimmäinen tappio, joten naisen liittolaisten on tehtävä WIL-pelastusheitto jatkaakseen tai paettava. Vartija heittää käyttäen johtajan WIL-arvoa ja hän epäonnistuu!
+> Tämä on taistelun ensimmäinen tappio, joten naisen liittolaisten on tehtävä WIL-pelastusheitto jatkaakseen tai paetakseen. Vartija heittää käyttäen johtajan WIL-arvoa ja hän epäonnistuu!
 
 **Vartija**: _"Lyhyempi mies näkee sisarensa kaatuvan ja päästää tuskanhuudon. Hän pudottaa miekkansa ja käskee isompaa miestä pudottamaan kirveensä. 'Olkaa kilttejä', hän rukoilee. 'En välitä siitä, mitä tuossa kammiossa on. Rukoilen teitä: olkaa armollisia. Pelastakaa sisareni, jos vain kykenette.'"_
 
@@ -76,6 +76,6 @@ Taistelu Cairnissa on nopeaa, kiihkeää ja usein tappavaa. Näiden lisäksi tai
 
 **Vartija**: _"Lyhyempi mies nyökkää ja ryntää sitten sisarensa luo. Isompi mies vain hymyilee ja sanoo sitten: 'Minä en vanno mitään. Mutta teen mitä hän sanoo, kunhan hän maksaa. Antakaa minun vain pitää kirveeni.'"_
 
-> Seurue käyttää sidostarpeita naiseen, saaden hänen tilansa vakaaksi. Jos he eivät olisi tehneet niin, hän olisi vuotanut kuiviin tunnissa. Nyt vaaran ulkopuolella, pelaajahahmot ottavat nopean kulauksen vettä ja saavat menetetyt HP:nsä takaisin. Lucius yrittää tehdä vaikutuksen Freyaan esittelemällä uutta taisteluarpeaan kulmakarvoissaan, mutta se ei onnistu.
+> Seurue käyttää sidetarpeita naiseen, saaden hänen tilansa vakaaksi. Jos he eivät olisi tehneet niin, hän olisi vuotanut kuiviin tunnissa. Nyt vaaran ulkopuolella, pelaajahahmot ottavat nopean kulauksen vettä ja saavat menetetyt HP:nsä takaisin. Lucius yrittää tehdä vaikutuksen Freyaan esittelemällä uutta taisteluarpeaan kulmakarvoissaan, mutta se ei onnistu.
 
 **Wolfram**: _"No niin, se on sitten hoidettu. Te kaikki palaatte nyt takaisin kaupunkiin, ja me tapaamme teidät myöhemmin. Juuri nyt, meillä on asioita selvitettävänä tämän Hukarikuninkaan, josta olen lukenut niin paljon, kanssa."_

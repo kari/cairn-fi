@@ -503,7 +503,7 @@ Harmaa **metsäpyhäkkö** seisoo neljän polun risteyksessä. Sen keskellä on 
   - _Kuihtumisen_ vaikutukset näkyvät jo ennen aukiolle tuloa, sillä _Kuihtuminen_ on alkanut levitä joka suuntaan.
   - Aukealle tuotu kasvimateriaali alkaa pian kivettyä, jopa ilman suoraa kosketusta.
 - **Patsaat**: Kaksi metsänpeikkoa tappelee kiiltävästä esineestä, jota suurempi heistä pitää korkealla ilmassa.
-  - Esine on **Menneisyyden lasi**, peilimuinaisjäänne, jonka taika on häirinnyt herkkää loitsua, joka teki tästä alueesta aikoinaan vehreän turvapaikan metsän elämälle.
+  - Esine on **Menneisyyden lasi**, peilimuinaisesine, jonka taika on häirinnyt herkkää loitsua, joka teki tästä alueesta aikoinaan vehreän turvapaikan metsän elämälle.
   - Noidan loitsua voidaan estää vain poistamalla peili alueelta tai tuhoamalla se kokonaan. Se on tiukasti kiinni patsaassa, mutta se voidaan irrottaa käyttämällä rasvaa tai murtamalla peikon käsivarsi.
   - Jos loitsu rikotaan, taian vaikutus päättyy ja peikot heräävät hitaasti henkiin. Ne yrittävät välittömästi saada peilin takaisin.
 
@@ -559,7 +559,7 @@ Musta **karju** ontuu äänekkäästi lähellä suurta **röykkiötä** mustaa l
   - Pesässä asuu 3 **Mustaa silkkihämähäkkiä**. Ne hyökkäävät kaikkien kimppuun, jotka koskevat niiden ruokaan tai tulevat liian lähelle niiden pesää.
   - Pesästä voi kerätä varovasti 200gp:n edestä mustaa silkkiä. Siitä voi saada aikaan ohuen köyden (noin 18 metriä), joka on myös uskomattoman vahva ja joka on haluttua tavaraa sen vettähylkivyyden vuoksi.
 - **Ruhot**: Enimmäkseen eläinten ruumiita. Ihmisen hahmo näkyy mustan verkon läpi.
-  - Ihminen oli metsästäjä, joka jätti Sweeneyn varoitukset huomiotta ja metsästi _Metsästäjän reitin_ pohjoispuolella. Ruumiilta löytyy ruoka-annoksia (2 käyttökertaa jäljellä), 33gp ja puukko (d6).
+  - Ihminen oli metsästäjä, joka jätti Sweeneyn varoitukset huomiotta ja metsästi _Metsästäjän reitin_ pohjoispuolella. Ruumiilta löytyy muona-annoksia (2 käyttökertaa jäljellä), 33gp ja puukko (d6).
 - **Joenuoma**: Suuria puukasoja levinneenä ympäriinsä. Pidempien kappaleiden ympärille on sidottu mustaa silkkiä.
   - Entinen majavapato, joka piti veden juoksun norona. Hämähäkit kaatoivat padon rakentaakseen pesänsä. Sitä seurannut tulva tuhosi luostarin kohdassa **7**, mutta joki ehtyi vasta kuivuuden jälkeen aiemmin tänä vuonna.
 

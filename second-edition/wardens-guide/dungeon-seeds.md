@@ -410,7 +410,7 @@ _Tämän luolaston nykyiset asukkaat ovat alkuperäisten ryhmittymien jälkeläi
 
 Nyt kun meillä on jonkinlainen käsitys luolaston historiasta, tarkoituksesta ja asukkaista, meillä on vihdoin teemamme. Laitetaan kaikki yhteen:
 
-_Tiheän peittävässä metsässä sijaitsee temppeli, joka on tehty kokonaan kivettyneestä puusta. Fanaattinen kultti nimeltä Eolithin Lapset rakensi temppeli, joka suunniteltiin suojelemaan Puunsorvaajaa, muinaista pyhäinjäännöstä, joka voi muuttaa minkä tahansa kasvin kiveksi. Kultti jakaantui lopulta kahteen vastakkaiseen ryhmittymään ja kun niiden keskenään taistelleet rituaalit ottivat yhteen, temppeli hajosi ja kumpikin ryhmittymä otti yhden puoliskon siitä omakseen. Nykyään näiden ryhmittymien jälkeläiset kilpailevat yhä temppelin hallinnasta, sen tuhosta ja pelastuksesta, mutta vallan epätasapaino ja muinaiset perinteet estävät heitä._
+_Tiheän peittävässä metsässä sijaitsee temppeli, joka on tehty kokonaan kivettyneestä puusta. Fanaattinen kultti nimeltä Eolithin Lapset rakensi temppeli, joka suunniteltiin suojelemaan Puunsorvaajaa, muinaista muinaisesinettä, joka voi muuttaa minkä tahansa kasvin kiveksi. Kultti jakaantui lopulta kahteen vastakkaiseen ryhmittymään ja kun niiden keskenään taistelleet rituaalit ottivat yhteen, temppeli hajosi ja kumpikin ryhmittymä otti yhden puoliskon siitä omakseen. Nykyään näiden ryhmittymien jälkeläiset kilpailevat yhä temppelin hallinnasta, sen tuhosta ja pelastuksesta, mutta vallan epätasapaino ja muinaiset perinteet estävät heitä._
 
 _Verenpunainen Polku uskoo, että jos alkuperäinen Muinaisesine saataisiin takaisin, he voisivat taivuttaa sen voiman tuhoamaan Taivaansinen Legioonan lopullisesti. Entiset uskonveljet ovat kuitenkin torjuneet jokaisen yrityksen tutkia temppelin syvyyksiä. Äskettäinen hyökkäys aiheutti monien kuoleman ja eloonjääneet jäsenet ovat sittemmin paenneet temppelistä ryhmittyäkseen uudelleen._
 
@@ -422,7 +422,7 @@ _Syvällä luolaston kätköissä on Muinaisesine nimeltä **Puunsorvaaja**. Se 
 
 #### Koukut
 
-- Verenpunainen Polku on julkisesti ilmoittanut tarjoavansa 300gp jokaiselle, jotka saavat syvällä temppelissä olevan "muinaisen reliikin" turvallisesti talteen. Hahmojen pitää itse hoitaa mahdollinen "vastustus".
+- Verenpunainen Polku on julkisesti ilmoittanut tarjoavansa 300gp jokaiselle, jotka saavat syvällä temppelissä olevan "muinaisesineen" turvallisesti talteen. Hahmojen pitää itse hoitaa mahdollinen "vastustus".
 - Seurueeseen ottaa yhteyttä Taivaansinen Legioonan salassa toimiva asiamies. Seurueen tehtävänä on löytää ja tuhota **Puunsorvaaja**, temppeliin hukkunut voimakas esine. Tehtävän on tarkoitus pysyä salassa ja minkä tahansa Ryhmittymän jäsenet todennäköisesti ovat heitä vastaan. Hahmoille maksetaan 1000gp (yhteensä).
 
 ### Kartta
@@ -573,7 +573,7 @@ Länsiseinällä roikkuu **peili** **kiskoa** pitkin. Itäpuolella maahan on kai
 
 - **Peili**: Jos peili siirretään pohjoisseinälle, heijastus paljastaa pienen, näkymättömän alkovin eteläpuolella.
   - Alkovi on muuten piilotettu seinänpätkältä näyttävän harhakuvan taakse. Sen sisälle on piilotettu **Puunsorvaaja**.
-  - Jos peili vaurioituu, se räjähtää (d6 STR-vahinkoa kaikille lähellä oleville). Uhri kärsii _voimanpuutteesta_ ja hänen haavansa paranevat vasta temppelistä poistumisen jälkeen.
+  - Jos peili vaurioituu, se räjähtää (d6 STR-vahinkoa kaikille lähellä oleville). Uhri kärsii _puutostilasta_ ja hänen haavansa paranevat vasta temppelistä poistumisen jälkeen.
 - **Aukko**: Tunneli huoneeseen **8** (9m).
 
 #### Puunsorvaaja

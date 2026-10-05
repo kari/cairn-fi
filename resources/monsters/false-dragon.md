@@ -10,4 +10,4 @@ grand_parent: Lisäaineistot
 
 - Pikkuruisia siivekkäitä lohikäärmeen kaltaisia olentoja, joilla on pistävä piikkihäntä ja punertavat suomut. Löytyy yleisesti metsistä ja luolista.
 - Voivat kommunikoida telepaattisesti lähellä olevien olentojen kanssa.
-- **Kriittinen vahinko**: Kohde on kärsii _voimanpuutteesta_ d6 päivää, ellei pistosta puhdisteta myrkyistä.
+- **Kriittinen vahinko**: Kohde on kärsii _puutostilasta_ d6 päivää, ellei pistosta puhdisteta myrkyistä.

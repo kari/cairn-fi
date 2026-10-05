@@ -7,7 +7,7 @@ grand_parent: Toinen laitos
 
 # Eräratsastaja (Outrider)
 
-> Tulosi tulevat karavaanareiden saattamisesta, karkureiden jäljittämisestä tai tarjoamalla miekkaasi jotain tarkoitusta varten. Olet ollut niin pelastaja, teloittaja, sankari kuin jopa roisto. Sinun polkusi ei kuitenkaan ole yksinäinen: sinulla on aina hevosesi.
+> Tulosi tulevat karavaanareiden saattamisesta, karkureiden jäljittämisestä tai tarjoamalla miekkaasi jotain tarkoitusta varten. Olet ollut pelastaja, teloittaja, sankari ja jopa roisto. Sinun polkusi ei kuitenkaan ole yksinäinen: sinulla on aina hevosesi.
 
 ## Nimiä
 
@@ -28,7 +28,7 @@ Drake, Cyra, Keir, Darius, Valen, Rorik, Yara, Rui, Talon, Jory
 |       |                                                                                                                                                                                                                                                                                                               |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Ei viattomien verta**: Kukaan sivullinen ei tule kärsimään sinun vahdillasi. Ota **Vakaa kupurakilpi** (+1 Panssari). Kun pidät tätä kilpeä, mikään ei voi saada sinua liikkumaan niin kauan kuin molemmat jalkasi ovat tukevasti maassa.                                                                   |
-| **2** | **Kunnioita kuoleman työkaluja**: Aseita on arvostettava ja huollettava. Ota **Suurmadon hiomakivi**. Puolen tunnin rituaalinomaisen teroituksen jälkeen aseella tehdyt hyökkäykset _vahvistuvat_ kunnes STR-vahinkoa saadaan aikaan.                                                                         |
+| **2** | **Kunnioita kuoleman työkaluja**: Aseita on arvostettava ja huollettava. Ota **Suurmadon hiomakivi**. Puolen tunnin rituaalinomaisen teroituksen jälkeen aseella tehdyt hyökkäykset ovat _vahvennettuja_ kunnes STR-vahinkoa saadaan aikaan.                                                                         |
 | **3** | **Kuolemaan asti, aina**: Et koskaan peräänny taistelusta, olipa tilanne mikä tahansa. Ota **Kuolinpilli**, 1 lataus. Sen huuto pelottaa kaikkia, jotka sen kuulevat (WIL-pelastusheitto tai pakeneminen). **Lataus**: Ota talteen kuolevan soturin viimeinen henkäys.                                        |
 | **4** | **Kunnioita kuolleita**: Kuolema on matka, jonka me kaikki teemme, ja se ansaitsee arvonsa. Ota **30gp** ylimääräistä. Asetat aina kaksi kultakolikkoa tapetun vihollisen silmille. Jotenkin löydät aina tarvittavat kolikot.                                                                                 |
 | **5** | **Uskollisuus työtä kohtaan**: Sinun sanasi on lupauksesi. Kun olet ottanut työn vastaan, hoidat sen loppuun asti. Ota kulunut **Päiväpulkka**. Kun vala on merkitty sen etupuolelle, kapula kovettuu (d8) siihen asti kunnes vala on saatu päätökseen. Kapula katkeaa kahtia, jos vala milloinkaan rikotaan. |
