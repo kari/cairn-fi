@@ -13,7 +13,7 @@ nav_order: 6
 - Kuivalihaa (3 käyttöä, _mitätön_)
 - Soihtuja (3 käyttöä)
 - Sidetarpeet (3 käyttöä)
-- Köysi (7 metriä)
+- Köysi (8 metriä)
 - Kilpi (+1 Panssari)
 - Gambeson (+1 Panssari)
 - Miekka (d8)
