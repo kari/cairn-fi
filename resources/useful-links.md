@@ -2,8 +2,7 @@
 layout: default
 title: Kolmannen osapuolen linkkejä
 parent: Lisäaineistot
-nav_order: 10
-redirect-from: /third-party-links
+nav_order: 6
 ---
 
 # Hyödyllisiä linkkejä
@@ -62,4 +61,4 @@ Sam on Skoren ja Adventure Hourin tekijä ja hän kirjoittaa Into The Oddista (j
 - By Odin's Beard: ["How is Cairn Different from D&D 5e"](https://www.youtube.com/watch?v=3vQTAa8rIzg)
 - Jorphdan's Jocular Junction: ["Taking Cairn of Business"](https://youtu.be/x0LJAruoxks?si=oVIa51TgdkVih7dQ)
 - Axe Wizard: ["Cairn 2e Worldbuilding"](https://www.youtube.com/watch?v=TpvejI8ivtg)
-- Legends & Dice Cafe: ["ACTUAL Solo Playthrough"](https://www.youtube.com/watch?v=Av6OJc3vwKs)
+- Legends & Dice Cafe: ["Cairn 2e: Quick Tutorial"](https://www.youtube.com/watch?v=2X_hKQ09nLw)

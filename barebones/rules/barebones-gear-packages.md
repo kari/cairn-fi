@@ -13,7 +13,7 @@ nav_order: 6
 - Kuivalihaa (3 käyttöä, _mitätön_)
 - Soihtuja (3 käyttöä)
 - Sidetarpeet (3 käyttöä)
-- Köysi
+- Köysi (7 metriä)
 - Kilpi (+1 Panssari)
 - Gambeson (+1 Panssari)
 - Miekka (d8)
@@ -24,7 +24,7 @@ nav_order: 6
 
 - 3d6 kultarahaa
 - Muona-annokset (3 käyttöä)
-- Kahdet taittotikarit (d6+d6)
+- Kahdet taittotikarit (d6+d6, _kookas_)
 - Häränsilmälyhty
 - Öljykannu (6 käyttöä)
 - Jalkapiikit

@@ -2,7 +2,7 @@
 layout: default
 title: Lisää varusteita
 parent: Lisäaineistot
-nav_order: 6
+nav_order: 3
 ---
 
 # Lisää varusteita

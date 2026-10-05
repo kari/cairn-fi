@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Kolmannen osapuolen lisäaineistoja
-nav_order: 9
+nav_order: 5
 parent: Lisäaineistot
 ---
 

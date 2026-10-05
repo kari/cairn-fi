@@ -1,5 +1,7 @@
 ---
 title: Uutiskirje
-nav_order: 4
-redirect_to: https://news.cairnrpg.com
+nav_order: 5
+has_children: True
 ---
+
+# Uutiskirje

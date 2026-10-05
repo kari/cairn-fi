@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Käännökset
-nav_order: 14
+nav_order: 12
 has_children: true
 ---
 

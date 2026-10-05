@@ -2,7 +2,7 @@
 layout: default
 title: Lisää muinaisesineitä
 parent: Lisäaineistot
-nav_order: 4
+nav_order: 1
 redirect_from: /resources/relics/
 ---
 

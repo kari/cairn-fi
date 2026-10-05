@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Kolmannen osapuolen sisältö
-parent: Seikkailut
-nav_order: 4
+parent: Lisäaineistot
+nav_order: 14
 ---
 
 # Kolmannen osapuolen sisältö

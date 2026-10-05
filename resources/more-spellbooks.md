@@ -2,7 +2,7 @@
 layout: default
 title: Lisää loitsukirjoja
 parent: Lisäaineistot
-nav_order: 5
+nav_order: 2
 ---
 
 # Lisää loitsukirjoja

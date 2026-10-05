@@ -62,7 +62,7 @@ Kun seurue:
 - Valonlähde ja _turvallinen paikka_ tarvitaan **lepäämiseen**. Nykyinen tai lähestyvä vaara tekee **levon** mahdottomaksi.
 - **Lepo** ei palauta **Väsymystä**, koska on mahdotonta turvallisesti **Leiriytyä** luolastossa.
 
-## Paniikki
+### Paniikki
 
 - Hahmo, joka on vihollisten ympäröimä, pimeyden peittämä tai joka kohtaa suurimmat pelkonsa, voi kokea _paniikkia_. **WIL** **pelastusheitto** on yleensä tarpeen, jotta vältytään otteen menettämiseltä ja _paniikkiin_ joutumiselta.
 - _Panikoivan_ hahmon on tehtävä **WIL** **pelastusheitto** selvitäkseen olotilastaan **toimintona** omalla **vuorollaan**.

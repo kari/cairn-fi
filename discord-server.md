@@ -1,5 +1,5 @@
 ---
 title: Discord-palvelin
-nav_order: 3
+nav_order: 2
 redirect_to: https://discord.gg/7U6px3Mdkg
 ---
