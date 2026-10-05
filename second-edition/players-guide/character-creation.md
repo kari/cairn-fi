@@ -32,7 +32,7 @@ grand_parent: Toinen laitos
 ## Kyvyt, osumasuojaus ja piirteet
 
 - Heitä hahmosi **Kyvyt** ja **Osumasuojaus**.
-- Heitä loput hahmosi [Piirteistä](#hahmon-piirteet-d10) ja sitten [Siteet](#siteet) taulukosta.
+- Heitä loput hahmosi [Piirteistä](#hahmonpiirteet-d10) ja sitten [Siteet](#siteet) taulukosta.
 - Lopuksi heitä hahmosi **Ikä** (2d20+10). Jos olet _nuorin_ hahmo, heitä [Enteet](#enteet)-taulukosta. Tulos olisi luettava ääneen muille pelaajille. Vartijan tulisi sisällyttää Enteitä peliympäristöön parhaaksi katsomallaan tavalla.
 
 ## Kyvyt
@@ -163,7 +163,7 @@ grand_parent: Toinen laitos
 | **16**  | Veistit **Tammiherran** oksasta **pillin** (_mitätön_). Tekosi ei jäänyt huomaamatta. Et myöskään näytä pystyvän pääsemään eroon pillistä.                                                                                                    |
 | **17**  | **Aamunkoiton prikaati** teki perheellesi palveluksen ja antoi sinulle siitä todisteeksi kuivatun **verenpunaisen kukan** (_mitätön_). Kun kukka muuttuu valkoiseksi, on tullut aika maksaa palvelus takaisin.                                |
 | **18**  | Viihdyttäjä vieraili kerran kotonasi täyttäen sen tarinoilla ja laululla. Hän lähti eräänä päivänä sanomatta sanaakaan, jättäen jälkeensä vain **pienikokoisen luutun**. Jotain kolisee sen sisällä.                                          |
-| **19**  | Sinulle ilmestyi unessa valkoinen varis, jolla oli oksa suussaan. Heräsit seuraavana aamuna ja **oksa** (_mitätön_) oli kädessäsi. Uskot sen tuovan sinulle onnea. Se tuoksuu aavistuksen rikiltä.                                                |
+| **19**  | Sinulle ilmestyi unessa valkoinen varis, jolla oli oksa suussaan. Heräsit seuraavana aamuna ja **oksa** (_mitätön_) oli kädessäsi. Uskot sen tuovan sinulle onnea. Se tuoksuu aavistuksen rikiltä.                                            |
 | **20**  | Yksi esivanhemmistasi loukkasi **Sammalnoitaa**, joka langetti kirouksen hänen verilinjalleen. Kasvosi saa peilit särkymään. Olet huomannut, että sirpaleet voivat joskus paljastaa harhanäkyjä.                                              |
 
 ## Enteet

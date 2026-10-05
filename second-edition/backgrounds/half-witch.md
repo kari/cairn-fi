@@ -32,7 +32,7 @@ Solena, Veles, Bryn, Sabine, Razvan, Rowena, Galen, Nyx, Vex, Iwan
 | **3** | Sisälläsi asustaa **Elävä painajainen**, mutta se ilmenee aina kun olet vaarassa. Sillä on kanssasi samat **Kyvyt** ja **HP** ja se hyökkää kynsillään (d8+d8). Se katoaa **Kriittisen vahingon** yhteydessä (ota 1d4 WIL-vahinkoa), ilmestyen uudelleen seuraavan täydenkuun aikaan. |
 | **4** | **Lievo** [8 HP, 3 STR, 11 DEX, 13 WIL, nokka, (d6)]. Se puhuu kuin älykäs olento ja on täysin omistautunut sinulle.                                                                                                                                                                  |
 | **5** | **Pensasaidan piikki**. Se voi lävistää minkä tahansa orgaanisen materiaalin (melko kivuliaasti), mutta kun se vedetään irti, se ei jätä jälkeäkään.                                                                                                                                  |
-| **6** | Keijuolennon **Tosinimi**. Lausu se kutsuaksesi sen omistajan tekemään suuren palveluksen, mutta vain kerran. Oikealta ostajalta siitä voi myös saada muhkean hinnan.                                                                                                                      |
+| **6** | Keijuolennon **Tosinimi**. Lausu se kutsuaksesi sen omistajan tekemään suuren palveluksen, mutta vain kerran. Oikealta ostajalta siitä voi myös saada muhkean hinnan.                                                                                                                 |
 
 ## Mitä keitosta sinulla on mukanasi, ja mitä harvinaisia aineksia keräsit sen valmistamiseksi? Heitä 1d6:
 

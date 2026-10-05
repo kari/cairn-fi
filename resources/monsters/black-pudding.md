@@ -12,4 +12,3 @@ grand_parent: Lisäaineistot
 - Liikkuvat seiniä ja kattoja pitkin. Tunkeutuvat helposti reikien ja halkeamien läpi.
 - Immuuni maallisille hyökkäyksille, paitsi tulelle. Normaalit hyökkäykset halkaisevat Mustaketon  luoden kaksi kettoa jotka jakavat HP:n ja STR:n.
 - **Kriittinen vahinko**: Kohteet, joiden panssari ei ole metallista, menettävät 1 Panssaripisteen ja panssaroimattomien kohteiden STR-menetys on _pysyvä_.
-

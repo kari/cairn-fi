@@ -14,7 +14,7 @@ Valitse ensin muunnettavat kyvyt.
 
 Saadaksesi arvon, lisää 10 vastaavaan 5e:n **muuntimeen**. Eli hirviöllä, jolla on 19(+4) STR 5e:ssä, on 14 STR Cairnissa. Sellaisella, jolla on 5e:ssä 6(-2) Viisautta, on Cairnissa 8 WIL.
 
-#### Panssariluokasta (AC) Panssariksi
+## Panssariluokasta (AC) Panssariksi
 
 - 12 AC tai vähemmän = ei panssaria
 

@@ -7,14 +7,16 @@ nav_order: 6
 
 # Lisää varusteita
 
-# Varusteluettelo
+## Varusteluettelo
 
 - Tavaroiden hinnat on ilmoitettu kultarahoina.
 - Alla oleva luettelo ei muuta mitään Sääntökokoelmassa (SRD) lueteltua kohdetta, se vain lisää uusia.
 - Tämän luettelon pääasiallisena innoittajana ovat OSE:n hinnasto [Old School Essentials](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page) ja [Kimberly Chapmanin sivu](https://kimberlychapman.com/rpg/equipment.html).
 - Kiitokset [Oskar Swidalle](https://oskarswida.itch.io/)
 
-## Rakennukset: Tukikohdan osat
+### Rakennukset
+
+#### Tukikohdan osat
 
 |                       |           |                       |           |
 | --------------------- | --------- | --------------------- | --------- |
@@ -26,7 +28,7 @@ nav_order: 6
 | Maanalainen käytävä   | 500       | Torni, suuri          | 30000     |
 | Linnan muuri          | 5000      | Vallihauta            | 400       |
 
-## Rakennukset: Sisätilojen ominaisuudet
+#### Sisätilojen ominaisuudet
 
 |                            |              |                            |              |
 | -------------------------- | ------------ | -------------------------- | ------------ |
@@ -42,7 +44,7 @@ nav_order: 6
 | Luukku, kivi-              | 120          | Salaovi tai -luukku        | 5 × normaali |
 | Luukku, puu-               | 20           | Siirtyvä seinä             | 1000         |
 
-## Vaatetus
+### Vaatetus
 
 |                                                       |           |                                 |           |
 | ----------------------------------------------------- | --------- | ------------------------------- | --------- |
@@ -68,7 +70,7 @@ nav_order: 6
 | Keeppi, pitkä                                         | 50        | Viitta, villa-                  | 70        |
 | Kiltti (miesten kietaistava ja olalle nostettu tyyli) | 125       | Vyö, nahka-                     | 5         |
 
-## Ruoka ja juoma
+### Ruoka ja juoma
 
 |                                              |           |                                |           |
 | -------------------------------------------- | --------- | ------------------------------ | --------- |
@@ -105,7 +107,9 @@ nav_order: 6
 | Lintu, ankka (kokonainen)                    | 8         | Voi (naula)                    | 3         |
 | Lintu, fasaani (kokonainen)                  | 20        | Äyriäiset (tusina)             | 8         |
 
-## Palkkalaiset: Palkkasoturit
+### Palkkalaiset
+
+#### Palkkasoturit
 
 Ensimmäinen arvo tarkoittaa viikkopalkkaa, toinen osuutta aarteesta (neuvoteltavissa).
 
@@ -126,7 +130,7 @@ Ensimmäinen arvo tarkoittaa viikkopalkkaa, toinen osuutta aarteesta (neuvotelta
 | Jousiampuja, ratsain, haltija     | 30 / 6%             | Varsijousiampuja, ratsain, kääpiö | 15 / 3%             |
 | Jousiampuja, ratsain, ihminen     | 15 / 3%             | Varsijousiampuja, örkki           | 2 / 0,4%            |
 
-## Palkkalaiset: Asiantuntijat
+#### Asiantuntijat
 
 Palkat esitetään kuukausipalkkana. Osuus aarteista riippuu pelin tarinasta!
 
@@ -146,7 +150,7 @@ Palkat esitetään kuukausipalkkana. Osuus aarteista riippuu pelin tarinasta!
 | Tietäjä                  | 2000                     |
 | Vakooja                  | 500 (tai enemmän)        |
 
-## Karja
+### Karja
 
 |                       |           |                       |           |
 | --------------------- | --------- | --------------------- | --------- |
@@ -163,7 +167,7 @@ Palkat esitetään kuukausipalkkana. Osuus aarteista riippuu pelin tarinasta!
 | Koira, kouluttamaton  | 30        | Vuohi                 | 80        |
 | Koira, metsästys-     | 150       |                       |           |
 
-## Karjan rehu
+### Karjan rehu
 
 |                   |           |
 | ----------------- | --------- |
@@ -173,7 +177,7 @@ Palkat esitetään kuukausipalkkana. Osuus aarteista riippuu pelin tarinasta!
 | Olki (25 naulaa)  | 7         |
 | Vehnä (25 naulaa) | 20        |
 
-## Työkalut ja varusteet
+### Työkalut ja varusteet
 
 |                                                |           |                                                |           |
 | ---------------------------------------------- | --------- | ---------------------------------------------- | --------- |
@@ -212,7 +216,9 @@ Palkat esitetään kuukausipalkkana. Osuus aarteista riippuu pelin tarinasta!
 | Piippu                                         | 3         | Öljy (1 pullo)                                 | 2         |
 | Pilli                                          | 5         | Öljykangaslaukku                               | 5         |
 
-## Kuljetus: Eläimet
+### Kuljetus
+
+#### Eläimet
 
 |                                         |           |
 | --------------------------------------- | --------- |
@@ -224,7 +230,7 @@ Palkat esitetään kuukausipalkkana. Osuus aarteista riippuu pelin tarinasta!
 | Kameli (+3 paikkaa, nopea)              | 85        |
 | Muuli (+6 paikkaa, hidas)               | 50        |
 
-## Kuljetus: Maa-ajoneuvot
+#### Maa-ajoneuvot
 
 |                                         |           |
 | --------------------------------------- | --------- |
@@ -233,7 +239,7 @@ Palkat esitetään kuukausipalkkana. Osuus aarteista riippuu pelin tarinasta!
 | Kärryt, pienet (+4 paikkaa, _kookkaat_) | 30        |
 | Vankkurit (+8 paikkaa, hidas)           | 200       |
 
-## Kuljetus: Vesialukset
+#### Vesialukset
 
 |                                           |                   |
 | ----------------------------------------- | ----------------- |

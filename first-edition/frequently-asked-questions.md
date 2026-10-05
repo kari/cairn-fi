@@ -305,7 +305,7 @@ Laajenna esimerkki
 
 ## Miten pelaajahahmot etenevät ilman tasojen tai kokemuspisteiden (XP) kaltaisia asioita?
 
-**Cairnissa** hahmon _kasvu_ on tärkeämpää kuin _edistyminen_. Tämä tarkoittaa sitä, että vaikka pelaajahahmo _tulee_ muuttumaan, hän ei välttämättä _parane_ ajan myötä. Kasvu tapahtuu sekä mekaanisin keinoin (kuten [**Arpien**](/cairn-srd/#arvet-1)) että pelkästään tarinankerronnassa tapahtuvien tapahtumien kautta.
+**Cairnissa** hahmon _kasvu_ on tärkeämpää kuin _edistyminen_. Tämä tarkoittaa sitä, että vaikka pelaajahahmo _tulee_ muuttumaan, hän ei välttämättä _parane_ ajan myötä. Kasvu tapahtuu sekä mekaanisin keinoin (kuten [**Arpien**](/cairn-srd/#arpi-taulukko)) että pelkästään tarinankerronnassa tapahtuvien tapahtumien kautta.
 
 **Vartijan tulisi harkita seuraavia seikkoja myöntäessään pelaajahahmoille ei-mekaanista kasvua:**
 

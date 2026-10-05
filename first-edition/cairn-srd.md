@@ -173,7 +173,7 @@ Pelaajien tulisi voida luottaa toisiinsa siinä että he kaikki osallistuvat yht
 
 ## Hahmonluonti
 
-#### Nimi, Tausta ja Piirteet
+### Nimi, Tausta ja Piirteet
 
 Ensiksi valitse tai heitä pelaajahahmosi **nimi** ja **tausta** niiden [taulukoista](#nimi--tausta-d20). Pelaajahahmon tausta vaikuttaa hänen mahdollisiin tietoihinsa ja taitoihinsa.
 
@@ -181,7 +181,7 @@ Seuraavaksi, heitä hahmosi loput **piirteet** (ulkonäkö, puhe, maneerit, usko
 
 Lopuksi heitä hahmon **ikä** (2d20+10).
 
-#### Kykyarvot
+### Kykyarvot
 
 Pelaajahahmoilla (PC:t) on vain kolme kykyä:\
 **Voimakkuus (STR)**, **Ketteryys (DEX)** ja **Tahdonvoima (WIL)**. Luodessaan pelaajahahmoa, pelaajan tulee heittää 3d6 jokaiselle hahmon kykyarvolle järjestyksessä. Hän voi sitten vaihtaa mitkä tahansa kaksi tulosta keskenään.
@@ -196,9 +196,9 @@ Laajenna esimerkkiä varten.
 
 ### Osumasuojaus
 
-Heitä 1d6 määrittääksesi pelaajahahmosi alkutason **Osumasuojaus** (HP), joka kuvastaa hänen kykyään välttää vahinkoa taistelussa. HP ei ilmaise hahmon elämää tai voimaa; eikä hän menetä sitä kovin pitkäksi aikaa (katso [**Parantuminen**](#parantuminen)). Jos hyökkäys vie pelaajahahmon HP:n tasan nollaan, pelaajan on heitettävä heitto [**Arvet**](#arvet-1) -taulukon avulla.
+Heitä 1d6 määrittääksesi pelaajahahmosi alkutason **Osumasuojaus** (HP), joka kuvastaa hänen kykyään välttää vahinkoa taistelussa. HP ei ilmaise hahmon elämää tai voimaa; eikä hän menetä sitä kovin pitkäksi aikaa (katso [**Parantuminen**](#parantuminen)). Jos hyökkäys vie pelaajahahmon HP:n tasan nollaan, pelaajan on heitettävä heitto [**Arpi-taulukon**](#arpi-taulukko) avulla.
 
-#### Varustepaikat
+### Varustepaikat
 
 Hahmoilla on yhteensä 10 varustepaikkaa: reppu, jossa kuusi paikkaa, yksi paikka kummassakin kädessä ja kaksi paikkaa ylävartalossa (kuten vyö, rinta tai pää). Reppu voi toimia myös hätämakuupussina, mutta vain jos se on tyhjennetty kaikesta.
 
@@ -226,7 +226,7 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 
 ## Nimi & Tausta (d20)
 
-#### Naisen Nimet
+### Naisen Nimet
 
 |   |          |    |         |    |          |    |        |
 | - | -------- | -- | ------- | -- | -------- | -- | ------ |
@@ -236,7 +236,7 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 | 4 | Bronwyn  | 9  | Griya   | 14 | Moralil  | 19 | Ygwal  |
 | 5 | Cannora  | 10 | Henaine | 15 | Morgwen  | 20 | Yslen  |
 
-#### Miehen Nimet
+### Miehen Nimet
 
 |   |         |    |           |    |         |    |          |
 | - | ------- | -- | --------- | -- | ------- | -- | -------- |
@@ -270,7 +270,7 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 
 ## Hahmonpiirteet (d10)
 
-#### Vartalotyyppi
+### Vartalotyyppi
 
 |   |               |    |               |
 | - | ------------- | -- | ------------- |
@@ -280,7 +280,7 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 | 4 | Lihaksikas    | 9  | Urheilullinen |
 | 5 | Lyhyt         | 10 | Veistosmainen |
 
-#### Iho
+### Iho
 
 |   |               |    |               |
 | - | ------------- | -- | ------------- |
@@ -290,7 +290,7 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 | 4 | Pyöreä        | 9  | Tatuoitu      |
 | 5 | Roikkuva      | 10 | Tumma         |
 
-#### Hiukset
+### Hiukset
 
 |   |             |    |           |
 | - | ----------- | -- | --------- |
@@ -300,7 +300,7 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 | 4 | Letitetyt   | 9  | Ylelliset |
 | 5 | Likaiset    | 10 | Öljyiset  |
 
-#### Kasvot
+### Kasvot
 
 |   |                |    |                |
 | - | -------------- | -- | -------------- |
@@ -310,7 +310,7 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 | 4 | Neliskulmaiset | 9  | Terävät        |
 | 5 | Painuneet      | 10 | Täydelliset    |
 
-#### Puhe
+### Puhe
 
 |   |                  |    |             |
 | - | ---------------- | -- | ----------- |
@@ -320,7 +320,7 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 | 4 | Karhea           | 9  | Tyly        |
 | 5 | Kitisevä         | 10 | Änkyttävä   |
 
-#### Vaatetus
+### Vaatetus
 
 |   |             |    |             |
 | - | ----------- | -- | ----------- |
@@ -330,7 +330,7 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 | 4 | Nuhjuinen   | 9  | Verinen     |
 | 5 | Rähjäinen   | 10 | Virkapuku   |
 
-#### Hyve
+### Hyve
 
 |   |                 |    |                |
 | - | --------------- | -- | -------------- |
@@ -340,7 +340,7 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 | 4 | Kurinalainen    | 9  | Suvaitsevainen |
 | 5 | Nöyrä           | 10 | Varovainen     |
 
-#### Pahe
+### Pahe
 
 |   |                |    |                |
 | - | -------------- | -- | -------------- |
@@ -350,7 +350,7 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 | 4 | Katkera        | 9  | Turhamainen    |
 | 5 | Kostonhimoinen | 10 | Töykeä         |
 
-#### Maine
+### Maine
 
 |   |                 |    |                  |
 | - | --------------- | -- | ---------------- |
@@ -360,7 +360,7 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 | 4 | Outolintu       | 9  | Viiihdyttäjä     |
 | 5 | Rehellinen      | 10 | Viisas           |
 
-#### Vastoinkäymiset
+### Vastoinkäymiset
 
 |   |            |    |            |
 | - | ---------- | -- | ---------- |
@@ -374,28 +374,28 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 
 ## Aloitusvarusteet (d20)
 
-#### Haarniska
+### Haarniska
 
 |           |             |                |                 |
 | :-------: | :---------: | :------------: | :-------------: |
 |    1-3    |     4-14    |      15-19     |        20       |
 | Ei mitään | Brigandiini | Rengaspanssari | Ritarihaarniska |
 
-#### Kypärät ja Kilvet
+### Kypärät ja Kilvet
 
 |           |        |       |                 |
 | :-------: | :----: | :---: | :-------------: |
 |    1-13   |  14-16 | 17-19 |        20       |
 | Ei mitään | Kypärä | Kilpi | Kypärä ja kilpi |
 
-#### Aseet
+### Aseet
 
 |                      |                           |                          |                                     |
 | :------------------: | :-----------------------: | :----------------------: | :---------------------------------: |
 |          1-5         |            6-14           |           15-19          |                  20                 |
 | Tikari, nuija, sauva | Miekka, sotanuija, kirves | Jousi, varsijousi, linko | Hilpari, sotavasara, taistelukirves |
 
-#### Retkivarusteet
+### Retkivarusteet
 
 |   |                         |    |                               |    |                    |    |             |
 | - | ----------------------- | -- | ----------------------------- | -- | ------------------ | -- | ------------|
@@ -405,7 +405,7 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 | 4 | Ilmarakko               | 9  | Kärryt (+4 paikkaa, kookkaat) | 14 | Suuri säkki        | 19 | Vastamyrkky |
 | 5 | Kahleet                 | 10 | Köysi (25 jalkaa)             | 15 | Taikavarpu         | 20 | Väkipyörä   |
 
-#### Työkalut
+### Työkalut
 
 |   |             |    |              |    |             |    |              |
 | - | ----------- | -- | ------------ | -- | ----------- | -- | ------------ |
@@ -415,7 +415,7 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 | 4 | Lapio       | 9  | Onkivapa     | 14 | Sorkkarauta | 19 | Verkko       |
 | 5 | Liima       | 10 | Palkeet      | 15 | Taltta      | 20 | Ämpäri       |
 
-#### Rihkamat
+### Rihkamat
 
 |   |               |    |           |    |                       |    |                       |
 | - | --------------| -- | --------- | -- | --------------------- | -- | --------------------- |
@@ -425,7 +425,7 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 | 4 | Linssi        | 9  | Pesusieni | 14 | Suitsuke              | 19 | Torvi                 |
 | 5 | Marmorikuulat | 10 | Pilli     | 15 | Sulkakynä ja mustetta | 20 | Väärennetyt jalokivet |
 
-#### Bonustavarat (heitä merkityllä taulukolla)
+### Bonustavarat (heitä merkityllä taulukolla)
 
 |                     |              |                   |             |
 | :-----------------: | :----------: | :---------------: | :---------: |
@@ -434,9 +434,9 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 
 <p></p>
 
-#### Loitsukirjat (d100)
+### Loitsukirjat (d100)
 
-|    |                      |    |                     |    |                     |     |                    |
+|    |                      |    |                     |    |                     |     |                     |
 | -- | -------------------- | -- | ------------------- | -- | ------------------- | --- | ------------------- |
 | 1  | Ahneus               | 26 | Inhimillistys       | 51 | Läpivalaisu         | 76  | Spektaakkeli        |
 | 2  | Aineen muovaus       | 27 | Irrottelu           | 52 | Maanjäristys        | 77  | Sumupilvi           |
@@ -449,7 +449,7 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 | 9  | Elementaalivalli     | 34 | Kehonvaihdos        | 59 | Nousulähde          | 84  | Teleportti          |
 | 10 | Esineen elävöitys    | 35 | Kiinnitys           | 60 | Nukutus             | 85  | Tiheikkö            |
 | 11 | Esinemuutos          | 36 | Kilpi               | 61 | Nuusku              | 86  | Tosinäkö            |
-| 12 | Gravitaatiosiirtymä | 37 | Kolkutus            | 62 | Näpistys            | 87  | Tukahdus            |
+| 12 | Gravitaatiosiirtymä  | 37 | Kolkutus            | 62 | Näpistys            | 87  | Tukahdus            |
 | 13 | Haavojen parannus    | 38 | Kuiskeiden kuulo    | 63 | Omistajan tunnistus | 88  | Tyynnytys           |
 | 14 | Harhakuulo           | 39 | Kuolleista nostatus | 64 | Pappila             | 89  | Vaahtopurkaus       |
 | 15 | Harhanäky            | 40 | Kuulahuuma          | 65 | Parvimuoto          | 90  | Vaihdos             |
@@ -468,7 +468,7 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 
 ## Varusteluettelo (Hinnat kultarahassa)
 
-#### Haarniskat
+### Haarniskat
 
 |                                       |    |
 | ------------------------------------- | -- |
@@ -479,7 +479,7 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 | Rengaspanssari (2 Panssaria, kookas)  | 40 |
 | Ritarihaarniska (3 Panssaria, kookas) | 60 |
 
-#### Aseet
+### Aseet
 
 |                                                              |    |
 | ------------------------------------------------------------ | -- |
@@ -490,9 +490,9 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 | Jousi (d6 vahinkoa, kookas)                                  | 20 |
 | Varsijousi (d8 vahinkoa, kookas)                             | 30 |
 
-#### Välineet ja työkalut
+### Välineet ja työkalut
 
-|                                    |    |                                |     |
+|                                    |     |                               |     |
 | ---------------------------------- | --- | ----------------------------- | --- |
 | Hakku                              | 10  | Piikki                        | 1   |
 | Heittokoukku                       | 25  | Piikkisaappaat                | 5   |
@@ -527,7 +527,7 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 
 ## Valinnaiset varustepaketit
 
-#### Pappi
+### Pappi
 
 |                                                   |
 | ------------------------------------------------- |
@@ -538,7 +538,7 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 | Pyhä tunnusmerkki (_Vartiokuvio_ kerran päivässä) |
 | Veljeskunnan Viitta                               |
 
-#### Kaivonkatsoja
+### Kaivonkatsoja
 
 |                                                  |
 | ------------------------------------------------ |
@@ -549,7 +549,7 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 | Kulunut kartta                                   |
 | Kaukoputki                                       |
 
-#### Kääpiö
+### Kääpiö
 
 |                                                  |
 | ------------------------------------------------ |
@@ -560,7 +560,7 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 | Myrkyllinen sieni                                |
 | Käsipora                                         |
 
-#### Haltija
+### Haltija
 
 |                                                  |
 | ------------------------------------------------ |
@@ -571,7 +571,7 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 | Kultainen huilu                                  |
 | Ilmarakko                                        |
 
-#### Taistelija
+### Taistelija
 
 |                         |
 | ----------------------- |
@@ -582,7 +582,7 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 | Tupakkapussi ja piippu  |
 | Nopat                   |
 
-#### Munkki
+### Munkki
 
 |                               |
 | ----------------------------- |
@@ -593,7 +593,7 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 | Kansanlaulukirja              |
 | Kärryt (+4 paikkaa, kookkaat) |
 
-#### Ritari
+### Ritari
 
 |                                      |
 | ------------------------------------ |
@@ -604,7 +604,7 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 | Kahleet                              |
 | Hienoa köyttä                        |
 
-#### Taiankäyttäjä
+### Taiankäyttäjä
 
 |                                                                |
 | -------------------------------------------------------------- |
@@ -615,7 +615,7 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 | Rähjäiset vaatteet (piilotaskuin)                              |
 | Kesantolakki (x2, katso [**Muinaisesineet**](#muinaisesineet)) |
 
-#### Varas
+### Varas
 
 |                                      |
 | ------------------------------------ |
@@ -626,7 +626,7 @@ Jos haluat jotain, joka on lähempänä perinteisiä luokkia, katso luettelo [**
 | Heittokoukku                         |
 | Metalliviila                         |
 
-#### Samooja
+### Samooja
 
 |                                         |
 | --------------------------------------- |
@@ -799,7 +799,7 @@ Täydellinen DEX:n ja WIL:n menetys tekee hahmosta toimintakyvyttömän, kunnes 
 
 ### Arvet
 
-Kun pelaajahahmoon kohdistuva vahinko vähentää hänen HP:nsä tasan nollaan, hän muuttuu joskus peruuttamattomasti. Katso lisätietoja [**Arvet**](#arvet-1) -taulukosta.
+Kun pelaajahahmoon kohdistuva vahinko vähentää hänen HP:nsä tasan nollaan, hän muuttuu joskus peruuttamattomasti. Katso lisätietoja [**Arpi-taulukosta**](#arpi-taulukko) .
 
 ### Tajuttomuus ja kuolema
 
@@ -816,7 +816,7 @@ Joukko-osastojen hyökkäykset yksilöitä vastaan ovat **vahvennettuja** ja aih
 
 Pakeneminen tukalasta tilanteesta edellyttää aina onnistunutta DEX-pelastusheittoa sekä suojaisaa pakopaikkaa, jonne juosta.
 
-### Arvet
+### Arpi-taulukko
 
 Kun hyökkäys vähentää pelaajahahmon HP:n tasan nollaan, se vaikuttaa häneen ainutlaatuisesti. Katso tulos alla olevasta taulukosta saadun _kokonaisvahingon_ perusteella:
 
@@ -824,7 +824,7 @@ Kun hyökkäys vähentää pelaajahahmon HP:n tasan nollaan, se vaikuttaa hänee
 | -- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1  | Pysyvä arpi: Heitä 1d6 \| 1: Kaula, 2: Kädet, 3: Silmä, 4: Rinta, 5: Jalat, 6: Korva. Heitä 1d6. Jos tulos on suurempi kuin enimmäis-HP:si, käytä uutta tulosta.                                                                                                                |
 | 2  | Rytisevä isku: Olet sekaisin ja järkyttynyt. Kuvaile miten palautat keskittymisesi. Heitä 1d6. Jos tulos on suurempi kuin enimmäis-HP:si, käytä uutta tulosta.                                                                                                                  |
-| 3  | Rökitetty: Sinut lähetetään lentoon ja laskeudut naamallesi tuupertuneena. Olet puutostilassa, kunnes lepäät pari tuntia. Sitten heitä 1d6. Lisää tämä määrä enimmäis-HP:hesi.                                                                                                |
+| 3  | Rökitetty: Sinut lähetetään lentoon ja laskeudut naamallesi tuupertuneena. Olet puutostilassa, kunnes lepäät pari tuntia. Sitten heitä 1d6. Lisää tämä määrä enimmäis-HP:hesi.                                                                                                  |
 | 4  | Murtunut raaja: Heitä 1d6 \| 1-2: Jalka, 3-4: Käsi, 5: Kylkiluu, 6: Kallo. Heitä 2d6, kun se on korjattu. Jos tulos on suurempi kuin enimmäis-HP:si, käytä uutta tulosta.                                                                                                       |
 | 5  | Sairastunut: Sinua vaivaa ällöttävä, epämiellyttävä tartunta. Kun olet päässyt siitä yli, heitä 2d6. Jos tulos on suurempi kuin enimmäis-HP:si, käytä uutta tulosta.                                                                                                            |
 | 6  | Vakava päävamma: Heitä 1d6 \| 1-2: STR, 3-4: DEX, 5-6: WIL. Heitä 3d6. Jos tulos on suurempi kuin nykyinen kykyarvosi, käytä uutta tulosta.                                                                                                                                     |
@@ -832,8 +832,8 @@ Kun hyökkäys vähentää pelaajahahmon HP:n tasan nollaan, se vaikuttaa hänee
 | 8  | Kuuroutunut: Et kuule mitään, ennen kuin löydät poikkeuksellista apua. Joka tapauksessa, tee WIL-pelastusheitto. Jos onnistut, lisää enimmäis-WIL:iäsi 1d4:llä.                                                                                                                 |
 | 9  | Aivot sekaisin: Jokin piilotettu osa psyykettäsi on päässyt vapaaksi. Heitä 3d6. Jos tulos on suurempi kuin enimmäis-WIL:si, käytä uutta tulosta.                                                                                                                               |
 | 10 | Murskautuminen: Jokin ruumiinjäsen on revitty irti, rampautunut tai käyttökelvoton. Vartija kertoo sinulle mikä. Sitten, tee WIL-pelastusheitto. Jos onnistut, lisää enimmäis-WIL:iäsi 1d6:lla.                                                                                 |
-| 11 | Kohtalokas vamma: Olet puutostilassa ja toimintakyvytön. Ellei sinua paranneta, kuolet tunnin aikana. Toivuttuasi, heitä 2d6. Käytä tulosta uutena enimmäis-HP:näsi.                                                                                                         |
-| 12 | Tuhoon tuomittu: Kuolema näytti olevan niin lähellä, mutta jotenkin selvisit hengissä. Jos seuraava pelastusheittosi kriittistä vahinkoa vastaan epäonnistuu, kuolet kauhealla tavalla. Jos onnistut, heitä 3d6. Jos tulos on suurempi kuin enimmäis-HP:si, käytä uutta tulosta. |
+| 11 | Kohtalokas vamma: Olet puutostilassa ja toimintakyvytön. Ellei sinua paranneta, kuolet tunnin aikana. Toivuttuasi, heitä 2d6. Käytä tulosta uutena enimmäis-HP:näsi.                                                                                                            |
+| 12 | Tuhoon tuomittu: Kuolema näytti olevan niin lähellä, mutta jotenkin selvisit hengissä. Jos seuraava pelastusheittosi kriittistä vahinkoa vastaan epäonnistuu, kuolet kauhealla tavalla. Jos onnistut, heitä 3d6. Jos tulos on suurempi kuin enimmäis-HP:si, käytä uutta tulosta.|
 
 [takaisin hakemistoon](#index)
 
@@ -890,7 +890,8 @@ X HP, X Panssari, X STR, X DEX, X WIL, Ase (dX, erityiset esineet, ominaisuudet)
 - Oikku, taktiikka tai erityispiirre, joka tekee tästä sivuhahmosta yksilöllisen
 - Erikoisvaikutus tai kriittisen vahingon seuraus
 
-**Yleisperiaatteet**\
+#### Yleisperiaatteet
+
 Kykyarvot: 3 on vähäinen, 6 on heikko, 10 on keskimääräinen, 14 on huomionarvoinen ja 18 on legendaarinen. Säädä tarpeen mukaan.
 
 - Anna keskiverto-olennoille 3 HP, sitkeille 6 HP ja vakaville uhkille 10+ HP.
@@ -898,7 +899,7 @@ Kykyarvot: 3 on vähäinen, 6 on heikko, 10 on keskimääräinen, 14 on huomiona
 - Käytä kriittistä vahinkoa tukeaksesi jonkin aggressiivisen sivuhahmon uhkaa tai outoutta.
 - Muista, että HP on **osumasuojaus**, ei osumapiste. Se on kestävyyden, onnen ja rohkeuden mittari - ei elinvoiman.
 
-**Muuntaminen OSR-peleistä**
+#### Muuntaminen OSR-peleistä
 
 - Anna useimmille olennoille 1 HP per osumanoppa (HD).
 - Useimmilla humanoideilla on vähintään 4 HP.
@@ -933,7 +934,7 @@ Vahinkonopat ovat suunnilleen samat, vaikka aseelliset hyökkäykset aiheuttavat
 |  9  | [Elementaalivalli](#elemental-wall)    | Maasta nousee suora jää- tai tuliseinä, joka on 50 jalkaa pitkä ja 10 jalkaa korkea.                                                                             |
 | 10  | [Esineen elävöitys](#animate-object)   | Esine tottelee käskyjäsi parhaansa mukaan.                                                                                                                       |
 | 11  | [Esinemuutos](#objectify)              | Muutut miksi tahansa elottomaksi esineeksi, joka on kooltaan pianon ja omenan väliltä.                                                                           |
-| 12  | [Gravitaatiosiirtymä](#gravity-shift) | Voit muuttaa painovoiman suuntaa, mutta vain itsellesi.                                                                                                          |
+| 12  | [Gravitaatiosiirtymä](#gravity-shift)  | Voit muuttaa painovoiman suuntaa, mutta vain itsellesi.                                                                                                          |
 | 13  | [Haavojen parannus](#cure-wounds)      | Paranna 1d4 STR kerran päivässä olennolle, jota voit koskettaa.                                                                                                  |
 | 14  | [Harhakuulo](#auditory-illusion)       | Luot harhaääniä, jotka vaikuttavat tulevan valitsemastasi suunnasta.                                                                                             |
 | 15  | [Harhanäky](#visual-illusion)          | Valitsemasi kaltainen hiljainen, paikallaan oleva huoneen kokoinen harhanäky ilmestyy.                                                                           |
@@ -941,7 +942,7 @@ Vahinkonopat ovat suunnilleen samat, vaikka aseelliset hyökkäykset aiheuttavat
 | 17  | [Houkutuskohde](#target-lure)          | Koskettamastasi esineestä tulee minkä tahansa lähellä olevan loitsun kohde.                                                                                      |
 | 18  | [Hylkiminen](#repel)                   | Kaksi esinettä hylkii toisiaan voimakkaan magneettisesti 10 jalan säteellä.                                                                                      |
 | 19  | [Hypnotisointi](#hypnotize)            | Olento menee transsiin ja vastaa totuudenmukaisesti yhteen sille esitettyyn kyllä- tai ei-kysymykseen.                                                           |
-| 20  | [Hyytävä kosketus](#icy-touch)         | Paksu jääkerros leviää kosketetulle pinnalle, enintään 10 jalan säteellä.                                                                                          |
+| 20  | [Hyytävä kosketus](#icy-touch)         | Paksu jääkerros leviää kosketetulle pinnalle, enintään 10 jalan säteellä.                                                                                        |
 | 21  | [Hämmennys](#befuddle)                 | Valitsemasi olento ei kykene muodostamaan uusia lähimuistikuvia loitsun keston ajan.                                                                             |
 | 22  | [Hämähäkkikiipeily](#spider-climb)     | Pystyt kiipeilemään pintoja kuten hämähäkki.                                                                                                                     |
 | 23  | [Höpötys](#babble)                     | Olennon on toistettava äänekkäästi ja selvästi kaikki, mitä ajattelet. Muuten se on vaiti.                                                                       |
@@ -1029,41 +1030,49 @@ Vahinkonopat ovat suunnilleen samat, vaikka aseelliset hyökkäykset aiheuttavat
 
 # Sääntöjen Yhteenveto
 
-**TOIMINNOT**\
+## TOIMINNOT
+
 Vuorollaan hahmo voi liikkua enintään 40 jalkaa ja tehdä enintään yhden toiminnon. Toimiin voi kuulua loitsiminen, hyökkääminen, liikkuminen toiseen kertaan tai jotkin muut kohtuulliset toimet. Toiminnot, hyökkäykset ja liikkuminen tapahtuvat samanaikaisesti. Aina kun vuorojärjestys on epävarma, pelaajahahmojen tulee tehdä DEX-pelastusheitto selvittääkseen, toimivatko he ennen vihollisiaan.
 
 **Vetäytyminen** vaarallisesta tilanteesta edellyttää aina onnistunutta DEX-pelastusheittoa sekä suojaisaa pakopaikkaa, jonne juosta.
 
-**KYVYT**\
+## KYVYT
+
 **STR:** Lihakset, voimat & vastustuskyky.\
 **DEX:** Väistely, hiipiminen & refleksit.\
 **WIL:** Vakuuttelu, pelottelu & taikuus.
 
-**PELASTUSHEITOT**
+## PELASTUSHEITOT
 
 - Heitä d20 ja saa tulos, joka on yhtä suuri tai alle kykyarvon.
 - 1 on aina onnistuminen, ja 20 on aina epäonnistuminen.
 
-**OSUMASUOJAUS**\
+## OSUMASUOJAUS
+
 **HP** kuvastaa pelaajahahmon kykyä välttää loukkaantumista. Sitä menetetään taistelun aikana ja se palautuu hetken levon jälkeen.
 
-**VARUSTEPAIKAT**\
+## VARUSTEPAIKAT
+
 Pelaajahahmoilla on 10 varustepaikkaa; neljä kehonsa ympärillä ja kuusi repussaan (joka toimii tyhjennettynä makuupussina). Useimmat esineet vievät yhden paikan, mutta pienemmät tavarat voi pakata yhteen. **Kookkaat** tavarat vievät kaksi paikkaa ja niitä on hankala tai vaikea kantaa.
 
 Kaikkien 10 varustepaikan täyttäminen vähentää pelaajahahmon HP:n nollaan. Pelaajahahmot eivät voi kantaa enempää kuin varustepaikkansa sallivat, joskin kärryt ja hevoset voivat kasvattaa varustepaikkojen määrää.
 
-**PUUTOSTILA**\
+## PUUTOSTILA
+
 Pelaajahahmot, jotka kärsivät jostain **puutoksesta** eivät voi saada takaisin HP:tä. Jos kärsii puutoksesta yli vuorokauden, pelaajahahmo lisää **Väsymyksen** varusteluetteloonsa. Väsymys vie yhden paikan ja kestää kunnes hän kykenee toipumaan suojassa. Tämä vaikutus on kasautuva.
 
-**PARANTUMINEN**\
+## PARANTUMINEN
+
 Hetken lepääminen ja veden juominen palauttaa menetetyt HP:t, mutta voi jättää ryhmän alttiiksi vaaralle. Kykyjen menetyksen palauttaminen vaatii viikon levon ja ammattitaitoisen parantajan apua.
 
-**LOITSUKIRJAT**\
+## LOITSUKIRJAT
+
 Loitsukirjat sisältävät yhden loitsun ja vievät yhden varustepaikan. Kuka tahansa voi loitsia pitämällä Loitsukirjaa molemmilla käsillään ja lukemalla sen sisällön ääneen. Loitsiminen lisää **Väsymyksen** pelaajahahmon varusteluetteloon.
 
 Jos pelaajahahmolla on aikaa ja suojaa, hän voi parantaa loitsua ilman lisäkustannuksia. Jos hän kärsii puutoksesta tai on vaarassa, WIL-pelastusheitto voi olla tarpeen kauheiden seurausten välttämiseksi.
 
-**TAISTELU**\
+## TAISTELU
+
 Hyökkääjä heittää asenoppansa ja vähentää siitä kohteen panssariarvon, ja aiheuttaa sitten jäljelle jäävän määrän vahinkoa vastustajan HP:hen.
 
 Ennen kuin lasket vahingon HP:n määrälle, vähennä kohteen **Panssari**-arvo vahinkoheiton tuloksesta. Kilvet ja vastaavat panssarit antavat bonuspuolustuksen (esim. +1 Panssari), mutta vain kuin jos se on kädessä tai yllä.
@@ -1074,8 +1083,9 @@ Kenelläkään ei voi olla yli 3 Panssaria.
 
 Jos hyökkäys on **heikentynyt**, vahinkonoppa pienenee 1d4:ään, riippumatta aseesta. Jos hyökkäys on **vahvennettu**, hyökkääjä heittää 1d12. Hyökkäykset **räjähdys**ominaisuudella vaikuttavat kaikkiin alueen kohteisiin, jokaiselle heitetään erikseen.
 
-**VAHINKO**\
-Jos hyökkäys vähentää pelaajahahmon HP:n täsmälleen nollaan, katso [**Arvet**](#arvet-1)-taulukko.
+## VAHINKO
+
+Jos hyökkäys vähentää pelaajahahmon HP:n täsmälleen nollaan, katso [**Arpi-taulukko**](#arpi-taulukko).
 
 Vahinko, joka vähentää kohteen HP:n **alle** nollan, vähentää tämän STR:ää lopulla. Tämän jälkeen hänen on tehtävä STR-pelastusheitto välttääkseen **kriittisen vahingon.** Epäonnistuminen poistaa hänet taistelusta ja hän kuolee, jos häntä ei hoideta.
 

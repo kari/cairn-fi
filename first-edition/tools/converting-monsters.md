@@ -73,6 +73,7 @@ Alla olevan taulukon pitäisi auttaa määrittämään, mitkä pelastusheitot ky
  On monta tapaa tehdä tämä, mutta yritä olla johdonmukainen! Cairnissa kirjoitan tietolaatikon näin:
 **Nimi**
 X HP, X Panssari, X STR, X DEX, X WIL, Ase (dX, _ominaisuudet_), erikoisesineet
+
 - Kiinnostava kuvaus ulkonäöstä tai käyttäytymisestä
 - Oikku, taktiikka tai erikoisuus, joka tekee tästä sivuhahmosta yksilöllisen
 - Erikoisvaikutus tai kriittisen vahingon seuraus
@@ -83,14 +84,16 @@ Lue alkuperäinen tietolaatikko ja sitä ympäröivä selite, sitten kirjoita pa
 
 Otetaan esimerkiksi tämä olento:
 
-#### Kettunainen
+### Kettunainen
 
 Voi ottaa ketun, naisen tai kaksimetriä pitkän kettupäisen muodon.
 _HD 5, Nopeus 120', Panssari 14, Moraali 11, Hyökkäys: +4 d8hp (kynnet, puraisu tai tukehdutus)_
+
 - Puolustus: Metalli ei voi vahingoittaa
 - Erikoisuus: Voi halutessaan muuttua ketuksi tai neidoksi, jonka yksi ketunjalka on piilossa (samat ominaisuudet)
 
 _**Ylläolevaa esimerkkiä käyttäen, voin nähdä että hän:**_
+
 - Näyttää kaksi metriä pitkältä ihmisnaiselta, jolla on ketun pää.
 - Numeroita katsoen, näyttää ettei hänellä ole kovin korkea HP ja että hän on hyvin nopea.
 - Hänen **ML** on aika korkea. Hän on selvästi aika itsepäinen.
@@ -100,6 +103,7 @@ _**Ylläolevaa esimerkkiä käyttäen, voin nähdä että hän:**_
 - On immuuni metalliaseille.
 
 _**Mitä voimme oppia tästä?**_
+
 - Hän on nopea ja todennäköisesti taitava taistelemaan. Aloittaen **3 HP:stä** ja lisäten yhden **HP:n** per **HD** saadaan **8 HP:ta**.
 - En usko että ketuilla on suojaavaa nahkaa ja hän on päätään lukuun ottamatta muuten ihminen joten **ei Panssaria**.
 - Hän on kohtuullisen vahva. Normaali ihminen on 10 ja hän on isompi. **12 STR**.
@@ -112,11 +116,13 @@ _8 HP, 12 STR, 14 DEX, 15 WIL, hampaat (d6), kynnet (d8+d8)_
 
 _**Nyt hänen kykyihinsä:**_
 Tämä on aika suoraviivaista. Me yksinkertaisesti luemme tarinallisen tietolaatikon jonka loimme aikaisemmin!
+
 - Me tiedämme miltä hän näyttää ja että hän voi muuttua ketuksi halutessaan.
 - Metalli ei voi vahingoittaa häntä; oletan että tämä tarkoittaa, että hän on immuuni _metalliaseille_.
 - Hän tukehduttaa uhrinsa.
 
 _**Helppoa, eikö? Nyt tehdään tuosta hyödyllistä:**_
+
 - Näyttää kaksi metriä pitkältä ihmisnaiselta jolla on ketun pää.
 - Muuttuu ketuksi halutessaan.
 - Immuuni metalliaseiden hyökkäyksille.

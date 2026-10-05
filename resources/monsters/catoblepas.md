@@ -10,4 +10,3 @@ grand_parent: Lisäaineistot
 
 - Kimeerinen hirviö, jolla on puhvelin, liskon ja villisian piirteitä. Sen valtava pää osoittaa aina kohti maata.
 - **Jähmettyminen**: Yksittäinen kohde muuttuu kiveksi. Kuunvalo kumoaa vaikutuksen.
-

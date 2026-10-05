@@ -19,7 +19,7 @@ grand_parent: Toinen laitos
 | **5**   | Hybridi         | Kentauri, Mantikora, Minotauros, Pöllökontio                                                  |
 | **6**   | Hyönteinen      | Aranea, Jättiläisskorpioni, Kaivautuva Kauheus, Luolasirkka                                   |
 | **7**   | Ihmisolennot    | Alttaripalvelija, Halli, Maantierosvo, Pakkashaltija, Triton, Viittamiehet                    |
-| **8**   | Jätti           | Jatuli, Myrskyjättiläinen, Taivasjättiläinen, Titaani                                        |
+| **8**   | Jätti           | Jatuli, Myrskyjättiläinen, Taivasjättiläinen, Titaani                                         |
 | **9**   | Kasvi           | Juurakkonoita, Kuhisevat köynnökset, Puupaimen, Tappajakeko                                   |
 | **10**  | Keiju           | Aarnivalkea, Ajattara, Dryadi, Keiju, Näkki, Pakkashaltija, Peikko, Punalakki                 |
 | **11**  | Lintu           | Feeniks, Roklintu, Siipilisko                                                                 |
