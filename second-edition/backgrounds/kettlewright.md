@@ -25,7 +25,7 @@ Fergus, Eon, Bram, Idris, Hester, Darragh, Seren, Rónán, Berek, Lorenz
 
 ## Mikä on alaasi? Heitä 1d6:
 
-|       |                                                                                                                                                                                                                                                         |
+| d6    | Tulos                                                                                                                                                                                                                                                   |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | Rakennat pieniä härveleitä paikallisille killoille (etkä kysele liikaa). Ota 40gp ylimääräistä sekä etsintäkuulutusjuliste naamallasi. Jos aikaa ja materiaaleja on riittävästi, voit avata melkein minkä tahansa oven tai holvin.                      |
 | **2** | Kotitarvikkeet ja työkalut ovat omaa alaasi, ja kaupittelet tuotteitasi kaupunkilaisille eri puolilla maata. Ota 20gp:n arvosta esineitä [varustetaulukosta](/second-edition/players-guide/marketplace#varusteet). Puhut sujuvasti Matkaajien Murretta. |
@@ -36,11 +36,11 @@ Fergus, Eon, Bram, Idris, Hester, Darragh, Seren, Rónán, Berek, Lorenz
 
 ## Mikä ei koskaan petä sinua pääsemään vaikeuksista? Heitä 1d6:
 
-|   |                      |                                                                                                                                                                                                                     |
-| - | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 | **Tulimunat**        | Kuusi pientä merisuolasta, puusta ja savipölystä valmistettua puristettua palloa. Ne räjähtävät alhaisessa lämmössä (d8, _räjähdys_), mutta liekit haihtuvat nopeasti.                                              |
-| 2 | **Musta terva**      | Monipuolista: Sekä tahmeaa että helposti syttyvää. 3 käyttöä.                                                                                                                                                       |
-| 3 | **Piikkisaappat**    | Murtaa päitä (d8) yhtä helposti kuin jäätä ja sontaa. Matkustaminen on myös hieman hitaampaa, mutta helpompaa.                                                                                                      |
-| 4 | **Nikkarointiliima** | Sulkee tiiviisti minkä tahansa nyrkin kokoisen aukon. 3 käyttöä.                                                                                                                                                    |
-| 5 | **Ilotulitteet**     | Häikäisevä vaikkakin vaarallinen esitys. Tarpeeksi räjähdysainetta pamauttaa irti sormen tai pari. 2 käyttöä jäljellä.                                                                                              |
-| 6 | **Haaskakissa**      | Nokkela lemmikki, joka on tarpeeksi pieni lymyilläkseen repussasi (_kookas_), mutta tarpeeksi voimakas pitääkseen pienemmät saaliseläimet poissa. Vaatii yhden **muona-annoksen** päivässä, ja sen on oltava lihaa. |
+| d6 | Esine                | Kuvaus                                                                                                                                                                                                              |
+| -- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1  | **Tulimunat**        | Kuusi pientä merisuolasta, puusta ja savipölystä valmistettua puristettua palloa. Ne räjähtävät alhaisessa lämmössä (d8, _räjähdys_), mutta liekit haihtuvat nopeasti.                                              |
+| 2  | **Musta terva**      | Monipuolista: Sekä tahmeaa että helposti syttyvää. 3 käyttöä.                                                                                                                                                       |
+| 3  | **Piikkisaappat**    | Murtaa päitä (d8) yhtä helposti kuin jäätä ja sontaa. Matkustaminen on myös hieman hitaampaa, mutta helpompaa.                                                                                                      |
+| 4  | **Nikkarointiliima** | Sulkee tiiviisti minkä tahansa nyrkin kokoisen aukon. 3 käyttöä.                                                                                                                                                    |
+| 5  | **Ilotulitteet**     | Häikäisevä vaikkakin vaarallinen esitys. Tarpeeksi räjähdysainetta pamauttaa irti sormen tai pari. 2 käyttöä jäljellä.                                                                                              |
+| 6  | **Haaskakissa**      | Nokkela lemmikki, joka on tarpeeksi pieni lymyilläkseen repussasi (_kookas_), mutta tarpeeksi voimakas pitääkseen pienemmät saaliseläimet poissa. Vaatii yhden **muona-annoksen** päivässä, ja sen on oltava lihaa. |

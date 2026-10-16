@@ -25,7 +25,7 @@ Winda, Brielle, Theron, Chayse, Nuja, Dev, Raven, Arawan, Sable, Baruani
 
 ## Mitä metsästit viimeksi? Heitä 1d6:
 
-|       |                                                                                                                                                                                                                                                                         |
+| d6    | Tulos                                                                                                                                                                                                                                                                   |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | _Valetulikärpästä_, joka houkutteli vedenkantajia hehkuvalla syötillään. Ota **Alkemistinen jalka** (d8, _mitätön_ kun sitä käytetään) sen repimän raajasi tilalle ja **Öljykannu** (6 käyttöä). Raaja on immuuni kuumuudelle ja myrkyille. Se pitää öljytä päivittäin. |
 | **2** | _Jäänokkosta_, joka pyydysti ja imi lampaita kuiviin. Menetit palkkiosi, kun tuomasi sieni tappoi puolet laumasta. Ota **Kuuransiemen** (1 käyttö). Se jäädyttää minkä tahansa vesistön, riippumatta sen koosta. Älä syö sitä.                                          |
@@ -36,7 +36,7 @@ Winda, Brielle, Theron, Chayse, Nuja, Dev, Raven, Arawan, Sable, Baruani
 
 ## Mikä työkalu on aina repussasi? Heitä 1d6:
 
-|       |                     |                                                                                                                      |
+| d6    | Esine               | Kuvaus                                                                                                               |
 | ----- | ------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Pontikkaa**       | Pitää sinut lämpimänä hyvinä aikoina ja toimii räjähteenä pahassa paikassa. 3 Käyttöä.                               |
 | **2** | **Jäljenravistin**  | Meluisa soitin, joka paljastaa läheiset jäljet, vaikka ne olisivat syvällä piilossa.                                 |

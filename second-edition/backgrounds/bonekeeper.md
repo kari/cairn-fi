@@ -24,7 +24,7 @@ Rook, Ebon, Moro, Yew, Pall, Leth, Bea, Barnaby, Vesper, Leder
 
 ## Mitä veit kuolleilta? Heitä 1d6:
 
-|       |                                                                                                                                                                                                                                                                                                                                                                        |
+| d6    | Esine                                                                                                                                                                                                                                                                                                                                                                  |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Variksen muotoinen amuletti**. Voit kysyä kuolleelta, mutta sinun on lisättävä **Väsymys** jokaisesta kysymyksestä. He eivät aina puhu totta.                                                                                                                                                                                                                        |
 | **2** | Vapautetun _kalmohengen_ antama **kuolettava haava**. Sinut parannettiin, mutta vääristymäsi on tehnyt sinusta hylkiön. Et tarvitse happea etkä ravintoa, mutta olet silti altis kivulle ja kuolemalle. Olet maailmojen välissä loukussa, ja kuolleet pitävät sinua yhtenä omistaan.                                                                                   |
@@ -35,11 +35,11 @@ Rook, Ebon, Moro, Yew, Pall, Leth, Bea, Barnaby, Vesper, Leder
 
 ## Mikä työkalu oli korvaamaton työssäsi? Heitä 1d6:
 
-|   |                 |                                                                                                                                                     |
-| - | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 | **Kahleet**     | Vaikkakin vanhat, edelleen tehokkaat jopa hyvin vahvoja vastaan. Sinulla ei ole avainta.                                                            |
-| 2 | **Pesusieni**   | Kuulemma valmistettu harvinaisen merenelävän jäännöksistä. Se ei tunnu koskaan kuivuvan.                                                            |
-| 3 | **Väkipyörä**   | Sopii erinomaisesti hautakivien, kivien tai jopa ruumiiden siirtämiseen.                                                                            |
-| 4 | **Suitsuke**    | Täydellinen rituaaleihin tai pitämään kärpäset loitolla. Rauhoittaa verta.                                                                          |
-| 5 | **Sorkkarauta** | d6 vahinkoa. Joskus on vain saatava se hemmetin juttu auki!                                                                                         |
-| 6 | **Karkote**     | Voimakasta tavaraa. Sen haalistunut etiketti tekee kuitenkin epäselväksi, mitä sen oikeastaan on _tarkoitus_ karkottaa. Kenties kaikkea. 3 käyttöä. |
+| d6 | Esine           | Kuvaus                                                                                                                                              |
+| -- | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1  | **Kahleet**     | Vaikkakin vanhat, edelleen tehokkaat jopa hyvin vahvoja vastaan. Sinulla ei ole avainta.                                                            |
+| 2  | **Pesusieni**   | Kuulemma valmistettu harvinaisen merenelävän jäännöksistä. Se ei tunnu koskaan kuivuvan.                                                            |
+| 3  | **Väkipyörä**   | Sopii erinomaisesti hautakivien, kivien tai jopa ruumiiden siirtämiseen.                                                                            |
+| 4  | **Suitsuke**    | Täydellinen rituaaleihin tai pitämään kärpäset loitolla. Rauhoittaa verta.                                                                          |
+| 5  | **Sorkkarauta** | d6 vahinkoa. Joskus on vain saatava se hemmetin juttu auki!                                                                                         |
+| 6  | **Karkote**     | Voimakasta tavaraa. Sen haalistunut etiketti tekee kuitenkin epäselväksi, mitä sen oikeastaan on _tarkoitus_ karkottaa. Kenties kaikkea. 3 käyttöä. |

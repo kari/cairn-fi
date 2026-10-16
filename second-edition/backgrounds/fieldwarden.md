@@ -25,7 +25,7 @@ Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye
 
 ## Mikä sai sinusta yliotteen? Heitä 1d6:
 
-|       |                                                                                                                                                                                                                                                                                                                                           |
+| d6    | Tulos                                                                                                                                                                                                                                                                                                                                     |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | Ahnas tuholaisparvi, joka nielaisi niin sadon kuin eläimiäkin. Kun ei enää ollut mitään puolustettavaa, lähdit pois. Ota **Puhurisiemenuute** (3 käyttöä).  Sitä nauttimalla voit juosta nelinkertaisella nopeudella normaaliin vauhtiisi verrattuna. Sen jälkeen lisää kaksi **Väsymystä**.                                              |
 | **2** | Sadon henki, joka suuttui vähäisistä kymmenyksistä. Tuli söi lähes kaiken, ja jälkikäteen sait kerättyä pussillisen **Tulisiemeniä** (d8, _räjähdys_, 4 käyttöä).                                                                                                                                                                         |
@@ -36,7 +36,7 @@ Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye
 
 ## Mikä työkalu pelasti henkesi? Heitä 1d6:
 
-|       |                        |                                                                                                                                                                                                          |
+| d6    | Esine                  | Kuvaus                                                                                                                                                                                                   |
 | ----- | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Veriköynnöspiiska**  | d8 vahinkoa. **Kriittisellä vahingolla** se imee kohteesta verta, antaen aseen seuraavalle hyökkäykselle _räjähdys_-tyypin                                                                               |
 | **2** | **Kolinanpitäjä**      | Käsikäyttöinen laite, joka päästää kovaa ääntä ja pelottaa useimmat olennot kauas pois.                                                                                                                  |

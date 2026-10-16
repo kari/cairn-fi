@@ -29,10 +29,9 @@ Tutustu [Sääntökokoelmassa](https://fi.cairnrpg.com/cairn-srd/#hirviöiden-lu
 
 Alla oleva taulu antaa pätevät ohjeet **ML**:n muuntamisesta **tahdonvoimaksi**.
 
-|         |   |    |    |    |
-|---------|---|----|----|----|
-| **ML**  | 4 | 8  | 10 | 12 |
-| **WIL** | 6 | 12 | 15 | 18 |
+| **ML**     | 4    | 8     | 10    | 12    |
+| :--------- | :--- | :---- | :---- | :---- |
+| **WIL**    | 6    | 12    | 15    | 18    |
 
 ### Taistelu
 
@@ -60,7 +59,7 @@ Alla oleva taulu antaa pätevät ohjeet **ML**:n muuntamisesta **tahdonvoimaksi*
 
 Alla olevan taulukon pitäisi auttaa määrittämään, mitkä pelastusheitot kytkeytyvät mihinkin kykyyn.
 
-|                                     |             |
+| Pelastusheitto                      | Kyky        |
 | ----------------------------------- | ----------- |
 | **Kuolema tai Myrkky**              | STR         |
 | **Taikasauvat**                     | DEX         |

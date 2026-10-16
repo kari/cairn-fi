@@ -25,7 +25,7 @@ Percival, Felix, Isolde, Wolfram, Aldric, Eira, Oswin, Ivor, Brunhilda, Beatrix
 
 ## Mihin veljeskuntaan kuulut? Heitä 1d6:
 
-|       |                                                                                                                                                                                                                                          |
+| d6    | Tulos                                                                                                                                                                                                                                    |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Risteysten Veljeskunta**. Ota **Ley-linojen taskuetsin**. Se osoittaa läheisiin ley-linjoihin ja muihin salaperäisten voimien lähteisiin. Jos menetät sen, rangaistuksena on kuolema.                                                  |
 | **2** | **Verestävän Tähden Veljeskunta**. Ota **Rautainen piikkinuija** (d8). Se loistaa heikosti pimeässä ja muuttuu hyvin kuumaksi noituuden läsnä ollessa.                                                                                   |
@@ -36,7 +36,7 @@ Percival, Felix, Isolde, Wolfram, Aldric, Eira, Oswin, Ivor, Brunhilda, Beatrix
 
 ## Mikä oli valasi? Heitä 1d6:
 
-|       |                                                                                                                                                                                                                                                                                                                                                                       |
+| d6    | Tulos                                                                                                                                                                                                                                                                                                                                                                 |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Rehellisyys**. Valitse **asetyyppi** (tylppä, miekka jne.). Tämäntyyppiset sinuun kohdistuvat hyökkäykset ovat _heikentyneitä_. Jos valasi rikkoutuu, menetät d4 WIL:iä.                                                                                                                                                                                            |
 | **2** | **Köyhyys**. Sinulla on mukanasi _Irrottelu_-**loitsukirja**. Vain sinä voit käyttää sitä. Jos valasi rikkoutuu, se räjähtää (d12 STR-vahinkoa). Irrottelu: Mikä vain ruumiinosasi voidaan halutessasi irrottaa ja kiinnittää uudelleen, aiheuttamatta kipua tai vahinkoa. Voit silti hallita niitä. _Kaikki repeytyneet tai turmeltuneet sivut uusiutuvat takaisin._ |

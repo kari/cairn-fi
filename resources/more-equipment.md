@@ -18,9 +18,8 @@ nav_order: 3
 
 #### Tukikohdan osat
 
-|                       |           |                       |           |
-| --------------------- | --------- | --------------------- | --------- |
 | **Tukikohdan osa**    | **Hinta** | **Tukikohdan osa**    | **Hinta** |
+| --------------------- | --------- | --------------------- | --------- |
 | Barbakaani            | 37000     | Porttitorni           | 6500      |
 | Bastioni              | 9000      | Siviilirakennus, kivi | 3000      |
 | Keskustorni           | 75000     | Siviilirakennus, puu  | 1500      |
@@ -30,9 +29,8 @@ nav_order: 3
 
 #### Sisätilojen ominaisuudet
 
-|                            |              |                            |              |
-| -------------------------- | ------------ | -------------------------- | ------------ |
 | **Sisätilojen ominaisuus** | **Hinta**    | **Sisätilojen ominaisuus** | **Hinta**    |
+| -------------------------- | ------------ | -------------------------- | ------------ |
 | Ampuma-aukko               | 10           | Luukku, rauta-             | 120          |
 | Ikkuna                     | 10           | Luukku, vahvistettua puuta | 40           |
 | Ikkunakalterit             | 10           | Ovi, kivi-                 | 50           |
@@ -46,9 +44,8 @@ nav_order: 3
 
 ### Vaatetus
 
-|                                                       |           |                                 |           |
-| ----------------------------------------------------- | --------- | ------------------------------- | --------- |
 | **Vaatetus**                                          | **Hinta** | **Vaatetus**                    | **Hinta** |
+| ----------------------------------------------------- | --------- | ------------------------------- | --------- |
 | (Munkin) kaapu                                        | 40        | Käsineet                        | 10        |
 | Alusliivi                                             | 65        | Käsineet, kyynärpäähän ulottuva | 25        |
 | Doubletti                                             | 100       | Käsineet, pitkät                | 20        |
@@ -72,9 +69,8 @@ nav_order: 3
 
 ### Ruoka ja juoma
 
-|                                              |           |                                |           |
-| -------------------------------------------- | --------- | ------------------------------ | --------- |
 | **Ruoka ja juoma**                           | **Hinta** | **Ruoka ja juoma**             | **Hinta** |
+| -------------------------------------------- | --------- | ------------------------------ | --------- |
 | Alkoholi, brandy (pullo)                     | 20        | Lintu, hanhi (kokonainen)      | 12        |
 | Alkoholi, hunajasima (puolen gallonan kannu) | 1         | Lintu, kalkkuna (kokonainen)   | 15        |
 | Alkoholi, olut                               | 3         | Lintu, kana (kokonainen)       | 5         |
@@ -113,9 +109,8 @@ nav_order: 3
 
 Ensimmäinen arvo tarkoittaa viikkopalkkaa, toinen osuutta aarteesta (neuvoteltavissa).
 
-|                                   |                     |                                   |                     |
-| --------------------------------- | ------------------- | --------------------------------- | ------------------- |
 | **Palkkasoturi**                  | **Palkka viikossa** | **Palkkasoturi**                  | **Palkka viikossa** |
+| --------------------------------- | ------------------- | --------------------------------- | ------------------- |
 | Jalkaväki, kevyt, haltija         | 4 / 0,8 %           | Jousiampuja, örkki                | 3 / 0,6%            |
 | Jalkaväki, kevyt, hiisi           | 1 / 0,2%            | Pitkäjousiampuja, haltija         | 20 / 4%             |
 | Jalkaväki, kevyt, ihminen         | 2 / 0,4%            | Pitkäjousiampuja, ihminen         | 10 / 2%             |
@@ -134,9 +129,8 @@ Ensimmäinen arvo tarkoittaa viikkopalkkaa, toinen osuutta aarteesta (neuvotelta
 
 Palkat esitetään kuukausipalkkana. Osuus aarteista riippuu pelin tarinasta!
 
-|                          |                          |
-| ------------------------ | ------------------------ |
 | **Asiantuntija**         | **Palkka (kuukaudessa)** |
+| ------------------------ | ------------------------ |
 | Alkemisti                | 1000                     |
 | Eläinten kouluttaja      | 500                      |
 | Haarniskaseppä           | 100                      |
@@ -152,9 +146,8 @@ Palkat esitetään kuukausipalkkana. Osuus aarteista riippuu pelin tarinasta!
 
 ### Karja
 
-|                       |           |                       |           |
-| --------------------- | --------- | --------------------- | --------- |
 | **Eläin**             | **Hinta** | **Eläin**             | **Hinta** |
+| --------------------- | --------- | --------------------- | --------- |
 | Ankka                 | 10        | Koira, paimen-        | 120       |
 | Fasaani               | 25        | Koira, vartio-        | 80        |
 | Hanhi                 | 15        | Kyyhky                | 5         |
@@ -169,9 +162,8 @@ Palkat esitetään kuukausipalkkana. Osuus aarteista riippuu pelin tarinasta!
 
 ### Karjan rehu
 
-|                   |           |
-| ----------------- | --------- |
 | **Rehu**          | **Hinta** |
+| ----------------- | --------- |
 | Heinä (25 naulaa) | 10        |
 | Kaura (25 naulaa) | 15        |
 | Olki (25 naulaa)  | 7         |
@@ -179,9 +171,8 @@ Palkat esitetään kuukausipalkkana. Osuus aarteista riippuu pelin tarinasta!
 
 ### Työkalut ja varusteet
 
-|                                                |           |                                                |           |
-| ---------------------------------------------- | --------- | ---------------------------------------------- | --------- |
 | **Esine**                                      | **Hinta** | **Esine**                                      | **Hinta** |
+| ---------------------------------------------- | --------- | ---------------------------------------------- | --------- |
 | Hajuvesi (unssi)                               | 15        | Pyhä tunnusmerkki                              | 25        |
 | Hakku                                          | 10        | Pyhää vettä (pullo)                            | 25        |
 | Heittokoukku                                   | 25        | Rasvaa                                         | 10        |
@@ -220,9 +211,8 @@ Palkat esitetään kuukausipalkkana. Osuus aarteista riippuu pelin tarinasta!
 
 #### Eläimet
 
-|                                         |           |
-| --------------------------------------- | --------- |
 | **Eläin**                               | **Hinta** |
+| --------------------------------------- | --------- |
 | Aasi (+4 paikkaa, hidas)                | 30        |
 | Hevonen, ratsastus- (+2 paikkaa, nopea) | 75        |
 | Hevonen, veto- (+3 paikkaa)             | 40        |
@@ -232,18 +222,16 @@ Palkat esitetään kuukausipalkkana. Osuus aarteista riippuu pelin tarinasta!
 
 #### Maa-ajoneuvot
 
-|                                         |           |
-| --------------------------------------- | --------- |
 | **Ajoneuvo**                            | **Hinta** |
+| --------------------------------------- | --------- |
 | Kärryt, isot (+6 paikkaa)               | 100       |
 | Kärryt, pienet (+4 paikkaa, _kookkaat_) | 30        |
 | Vankkurit (+8 paikkaa, hidas)           | 200       |
 
 #### Vesialukset
 
-|                                           |                   |
-| ----------------------------------------- | ----------------- |
 | **Vesialus**                              | **Hinta**         |
+| ----------------------------------------- | ----------------- |
 | Jokilaiva                                 | 4000              |
 | Kaleeri, pieni                            | 10000             |
 | Kaleeri, sota-                            | 60000             |

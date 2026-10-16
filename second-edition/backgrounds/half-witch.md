@@ -25,7 +25,7 @@ Solena, Veles, Bryn, Sabine, Razvan, Rowena, Galen, Nyx, Vex, Iwan
 
 ## Mitä toit mukanasi Hämärähovista? Heitä 1d6:
 
-|       |                                                                                                                                                                                                                                                                                       |
+| d6    | Tulos                                                                                                                                                                                                                                                                                 |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Mustaruusuviulu** (_kookas_). Sen musiikki aiheuttaa läheisissä kuolevaisissa voimakasta surua ja kykenemättömyyttä liikkua. (Muut ovat vain kiehtoutuneita.) Et osaa soittaa sitä.                                                                                                 |
 | **2** | **Paperijalat**. Olet äärimmäisen kevyt, ja voit tippua muutaman kerroksen verran ilman että loukkaannut. Yritä välttää niiden repeytymistä tai kastumista.                                                                                                                           |
@@ -36,7 +36,7 @@ Solena, Veles, Bryn, Sabine, Razvan, Rowena, Galen, Nyx, Vex, Iwan
 
 ## Mitä keitosta sinulla on mukanasi, ja mitä harvinaisia aineksia keräsit sen valmistamiseksi? Heitä 1d6:
 
-|       |                               |                                                                                                                                                                                            |
+| d6    | Esine                         | Kuvaus                                                                                                                                                                                     |
 | ----- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **1** | **Uudelleensyntymisen tuhka** | Kaarnahengen jäänteet. Ripottele sytyttääksesi uudelleen sammunut tuli tai herättääksesi henkiin vain hetkeä aiemmin kuolleen olennon. 3 käyttöä.                                          |
 | **2** | **Hohtosulka**                | Tulilinnun höyhen. Voi saada minkä tahansa olennon esiintymään vakuuttavasti jonain muuna olentona. 1 käyttö.                                                                              |

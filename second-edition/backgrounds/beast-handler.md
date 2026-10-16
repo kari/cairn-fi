@@ -25,7 +25,7 @@ Amara, Wulf, Mireille, Soren, Freki, Aster, Gerrik, Boreas, Veda, Matheus
 
 ## Mikä olento on erikoisalaasi? Heitä 1d6:
 
-|       |                  |                                                                                                                                                                                                                                  |
+| d6    | Erikoisala       | Kuvaus                                                                                                                                                                                                                           |
 | ----- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Hämähäkit**    | Ota **Nopea liekkisauva** ja **Öljykanisteri** (6 käyttöä). Ne voivat tuhota suuren hämähäkkipesän sekunneissa.                                                                                                                  |
 | **2** | **Kissaeläimet** | Ota säkillinen **Viiksikarvanjuurta**. Sen tuoksu pystyy rauhoittamaan ja hillitsemään suurimmankin kissan.                                                                                                                      |
@@ -36,7 +36,7 @@ Amara, Wulf, Mireille, Soren, Freki, Aster, Gerrik, Boreas, Veda, Matheus
 
 ## Mitä olet oppinut luonnon olennoista? Heitä 1d6:
 
-|       |                                                                                                                                                                                                           |
+| d6    | Tulos                                                                                                                                                                                                     |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | Sen että maailmassa on paljon muutakin kuin mitä silmä näkee. Rauhallisella keskittymisellä voit lainata lähellä olevan **erityisalasi** olennon aisteja.                                                 |
 | **2** | Sen että petojen käyttäytyminen on kieli itsessään. Tarkkaillessasi **erikoisalasi** petoja saat tietoa säätiloista ja uhkaavista katastrofeista.                                                         |

@@ -1,7 +1,7 @@
 ---
 title: Uutiskirje
 nav_order: 5
-has_children: True
+layout: default
 ---
 
 # Uutiskirje

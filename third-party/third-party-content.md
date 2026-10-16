@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Kolmannen osapuolen sisältö
-parent: Lisäaineistot
-nav_order: 14
+parent: Kolmannen osapuolen
+nav_order: 1
 ---
 
 # Kolmannen osapuolen sisältö

@@ -9,5 +9,5 @@ grand_parent: Lisäaineistot
 12 HP, 9 STR, 12 DEX, 14 WIL, ley-sauva (d8)
 
 - Korven Vartijat; kultti, joka saa voimansa leylinjoista, riimukivistä ja vastaavista.
-- **Kriittinen vahinko**: Imevät osan uhrin sielusta (1d4 WIL-vahinkoa).
 - Kantavat mukaan kahta seuraavista loitsukirjoista: _Lumous, Hypnotisointi, Sysäys/Veto, Kilpi_.
+- **Kriittinen vahinko**: Imevät osan uhrin sielusta (1d4 WIL-vahinkoa).

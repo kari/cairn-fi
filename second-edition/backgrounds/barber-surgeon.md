@@ -25,7 +25,7 @@ Wilmot, Patch, Lancet, Sawbones, Theo, Cutwell, Humor, Landsford, Goodeye, Johan
 
 ## Miten olet "parantanut" itseäsi? Heitä 1d6:
 
-|       |                                                                                                                                                                                                                                                                                   |
+| d6    | Tulos                                                                                                                                                                                                                                                                             |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | Sinulla on vaihto**silmä**, joka voi suurentaa esineitä, toimia kaukoputkena ja antaa minimaalisen pimeännäön. Et voi pitää päässäsi mitään metallista, ja voimakkaiden magneettien läsnäolo aiheuttaa sinussa _puutostilan_.                                                     |
 | **2** | Yksi **jalka** on enimmäkseen metallia (potku, d6), ja kohtelet joitakin Vaikeita maastoja **Helppoina**. Kanna **Öljykannua** (6 käyttöä). Ilman päivittäistä öljyämistä kärsit _puutoksesta_ ja olet meluisa.                                                                   |
@@ -36,7 +36,7 @@ Wilmot, Patch, Lancet, Sawbones, Theo, Cutwell, Humor, Landsford, Goodeye, Johan
 
 ## Mikä harvinainen työkalu on välttämätön työssäsi? Heitä 1d6:
 
-|       |                           |                                                                                                                                                                                                                                     |
+| d6    | Esine                     | Kuvaus                                                                                                                                                                                                                              |
 | ----- | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Uudelleenkasvun voide** | Kasvattaa ruumiinosan takaisin yhden vuorokauden aikana. 1 käyttö.                                                                                                                                                                  |
 | **2** | **Siirrännäistoukka**     | Pieni mato, joka voi sulattaa elottomia esineitä kiinni ruumiinosiin.  1 käyttö.                                                                                                                                                    |

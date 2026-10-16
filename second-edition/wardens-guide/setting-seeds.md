@@ -37,9 +37,8 @@ Alueen tärkein osa on sen _ihmiset_: heidän luonteensa, tavoitteensa ja voimav
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |                       |                           |
-| ------- | --------------------- | ------------------------- |
 | **d20** | **Luonne**            | **Tavoite**               |
+| :------ | :-------------------- | :------------------------ |
 | **1**   | Epäitsekäs            | Hajaannus                 |
 | **2**   | Eristäytynyt          | Hallinta                  |
 | **3**   | Harmoninen            | Itsenäisyys               |
@@ -65,9 +64,8 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |                 |                 |
-| ------- | --------------- | --------------- |
 | **d20** | **Runsaus**     | **Niukkuus**    |
+| ------- | --------------- | --------------- |
 | **1**   | Alukset         | Alukset         |
 | **2**   | Aseet           | Aseet           |
 | **3**   | Hevoset         | Hevoset         |
@@ -117,9 +115,8 @@ Heitä yksi tai useampi heitto [Ryhmittymien tyypit](#ryhmittymien-tyypit), [Ryh
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |                      |               |
-| ------- | -------------------- | ------------- |
 | **d20** | **Tyyppi**           | **Edustaja**  |
+| ------- | -------------------- | ------------- |
 | **1**   | Aateliset            | Akateemikko   |
 | **2**   | Hallitsijat          | Haudankaivaja |
 | **3**   | Heimo                | Kauppias      |
@@ -145,9 +142,8 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |                   |                       |
-| ------- | ----------------- | --------------------- |
 | **d20** | **Piirre 1**      | **Piirre 2**          |
+| ------- | ----------------- | --------------------- |
 | **1**   | Ahdasmielinen     | Armoton               |
 | **2**   | Arvoituksellinen  | Avokätinen            |
 | **3**   | Harkitseva        | Epäpätevä             |
@@ -173,9 +169,8 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
 Heitä 1d20 määrittääksesi, kuinka monta etua ryhmittymällä on, ja heitä sitten 1d20 uudelleen jokaista etua varten. Jos esimerkiksi sarakkeesta "Etujen määrä" saataisiin tulos "2", heittäisit saraketta "Etu" kahdesti ja merkitsisit jokaisen tuloksen muistiin. Heitä sama tulos uudestaan.
 
-|         |              |                   |
-| ------- | ------------ | ----------------- |
 | **d20** | Etujen määrä | **Etu**           |
+| ------- | ------------ | ----------------- |
 | **1**   | 1            | Asema             |
 | **2**   | 1            | Erikoistuminen    |
 | **3**   | 1            | Häikäilemättömyys |
@@ -201,9 +196,8 @@ Heitä 1d20 määrittääksesi, kuinka monta etua ryhmittymällä on, ja heitä 
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |                                      |                                                              |
-| ------- | ------------------------------------ | ------------------------------------------------------------ |
 | **d20** | **Tavoite**                          | **Este**                                                     |
+| ------- | ------------------------------------ | ------------------------------------------------------------ |
 | **1**   | Entisen vallan elvyttäminen          | Harvinainen mutta tarpeellinen resurssi on ensin hankittava. |
 | **2**   | Harvinaisen resurssin kasvattaminen  | Kulttuuriset tabut estävät.                                  |
 | **3**   | Jonkin puolustaminen                 | Liitto vihollisen kanssa on solmittava ensin.                |
@@ -260,9 +254,8 @@ _Kiltaa_ on varoitettu siitä, että heidän riveissään liikkuu korkeassa asem
 
 #### Ryhmittymien toimet
 
-|        |                             |                                                             |
-| ------ | --------------------------- | ----------------------------------------------------------- |
 | **d6** | **Seuraus**                 | **Vaikutus**                                                |
+| ------ | --------------------------- | ----------------------------------------------------------- |
 | **1**  | **Epäonnistuminen**         | Uusi **Este** otetaan käyttöön ja yksi **Etu** menetetään.  |
 | **2**  | **Takaisku**                | **Etu** on menetetty.                                       |
 | **3**  | **Vallitseva tila**         | Mitään ei saavuteta, mutta mitään ei myöskään menetetä.     |
@@ -293,9 +286,8 @@ Alueen maasto ja luonnonpiirteet ovat olennainen osa mitä tahansa karttaa, sill
 
 ### Maaston nopanputoamistaulukko
 
-|         |             |
-| ------- | ----------- |
 | **d6**  | **Vaikeus** |
+| ------- | ----------- |
 | **1-3** | Helppo      |
 | **4-5** | Vaikea      |
 | **6**   | Vaarallinen |
@@ -304,9 +296,8 @@ Alueen maasto ja luonnonpiirteet ovat olennainen osa mitä tahansa karttaa, sill
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |                   |                           |
-| ------- | ----------------- | ------------------------- |
 | **d20** | **Maasto**        | **Maamerkki**             |
+| ------- | ----------------- | ------------------------- |
 | **1**   | Ahot              | Hopearinne                |
 | **2**   | Alangot           | Jättiläisen valtaistuin   |
 | **3**   | Arot              | Jättimäinen Portti        |
@@ -332,9 +323,8 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |                |                         |
-| ------- | -------------- | ----------------------- |
 | **d20** | **Maasto**     | **Maamerkki**           |
+| ------- | -------------- | ----------------------- |
 | **1**   | Aapasuot       | Basalttipylväät         |
 | **2**   | Aavikot        | Jäätynyt vesiputous     |
 | **3**   | Dyynit         | Kanjonisilta            |
@@ -360,9 +350,8 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |                |                           |
-| ------- | -------------- | ------------------------- |
 | **d20** | **Maasto**     | **Maamerkki**             |
+| ------- | -------------- | ------------------------- |
 | **1**   | Alppiniityt    | Aktiivinen tulivuori      |
 | **2**   | Jyrkänteet     | Ammoniakkiluolat          |
 | **3**   | Jättömaat      | Arpeutunut maa            |
@@ -397,9 +386,8 @@ Säällä voi olla suuri vaikutus alueen ihmisiin, kulttuuriin ja maastoon. Se v
 
 #### Vuodenaikojen sää
 
-|        |                         |                      |                     |                       |
-| ------ | ----------------------- | -------------------- | ------------------- | --------------------- |
 | **d6** | **Kevät**               | **Kesä**             | **Syksy**           | **Talvi**             |
+| ------ | ----------------------- | -------------------- | ------------------- | --------------------- |
 | **1**  | Leuto ja aurinkoinen    | Kuuma ja aurinkoinen | Mukava ja tuulinen  | Leuto ja selkeä       |
 | **2**  | Mukava ja tihkusateinen | Mukava ja pilvinen   | Leuto ja tuulinen   | Viileä ja tuulinen    |
 | **3**  | Viileä ja tuulinen      | Leuto ja sateinen    | Viileä ja sumuinen  | Kylmä ja sateinen     |
@@ -409,9 +397,8 @@ Säällä voi olla suuri vaikutus alueen ihmisiin, kulttuuriin ja maastoon. Se v
 
 #### Epätavallinen sää
 
-|         |                                                                                                                           |
-| ------- | ------------------------------------------------------------------------------------------------------------------------- |
 | **d20** | **Sää**                                                                                                                   |
+| ------- | ------------------------------------------------------------------------------------------------------------------------- |
 | **1**   | Ilma on tavallista sakeampaa, ja hengittäminen on vaikeaa.                                                                |
 | **2**   | Järvet ja purot haihtuvat muutamassa minuutissa täyttäen myrskypilvet, jotka hukuttavat maan.                             |
 | **3**   | Kun sataa lunta, hiutaleet ovat lämpimiä ja kuivia.                                                                       |
@@ -457,9 +444,8 @@ Kartalla olevat kiinnostavat kohdepisteet (POI, _"point of interest"_) jaetaan y
 
 ### Kohdepisteiden nopanputoamistaulukko
 
-|         |                   |
-| ------- | ----------------- |
 | **d6**  | **Kohdepiste**    |
+| ------- | ----------------- |
 | **1**   | Etappi tai Asutus |
 | **2-3** | Erikoisuus        |
 | **4**   | Pesäpaikka        |
@@ -469,9 +455,8 @@ Kartalla olevat kiinnostavat kohdepisteet (POI, _"point of interest"_) jaetaan y
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |                |                                   |
-| ------- | -------------- | --------------------------------- |
 | **d20** | **Asutus**     | **Piirre**                        |
+| ------- | -------------- | --------------------------------- |
 | **1**   | Akatemia       | Hyvin tiheään asuttu              |
 | **2**   | Etuvartioasema | Jakaantunut                       |
 | **3**   | Huvila         | Kaupankäynnin keskus              |
@@ -497,9 +482,8 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |                    |                                           |
-| ------- | ------------------ | ----------------------------------------- |
 | **d20** | **Virstanpylväät** | **Piirre**                                |
+| ------- | ------------------ | ----------------------------------------- |
 | **1**   | Arkisto            | Asukkaat ovat pilkuntarkkoja laista       |
 | **2**   | Basaari            | Asukkaat ovat ylimuodollisia              |
 | **3**   | Bunkkeri           | Edellisten asukkaiden kiroama             |
@@ -525,9 +509,8 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |                            |                            |
-| ------- | -------------------------- | -------------------------- |
 | **d20** | **Erikoisuudet**           | **Piirre**                 |
+| ------- | -------------------------- | -------------------------- |
 | **1**   | Haljennut kello            | Epävakaa maaperä           |
 | **2**   | Haudattu megaliitti        | Epävakaa painovoima        |
 | **3**   | Jättimäinen nyrkki         | Erillissäätila             |
@@ -553,9 +536,8 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |                             |                               |
-| ------- | --------------------------- | ----------------------------- |
 | **d20** | **Pesäpaikka**              | **Piirre**                    |
+| ------- | --------------------------- | ----------------------------- |
 | **1**   | Alkukantainen silta         | Aiemmin asutettu              |
 | **2**   | Haaksirikkoutunut laiva     | Ansoja hajallaan              |
 | **3**   | Hylätty torni               | Haaskansyöjiä liikkeellä      |
@@ -581,9 +563,8 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |                |                         |
-| ------- | -------------- | ----------------------- |
 | **d20** | **Tyyppi**     | **Piirre**              |
+| ------- | -------------- | ----------------------- |
 | **1**   | Etuvartioasema | Eristäytynyt            |
 | **2**   | Hauta          | Haudattu                |
 | **3**   | Hautausmaa     | Hylätty                 |
@@ -636,9 +617,8 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |                          |                                 |
-| ------- | ------------------------ | ------------------------------- |
 | **d20** | **Piirre**               | **Olosuhteet**                  |
+| ------- | ------------------------ | ------------------------------- |
 | **1**   | Haudatut loitsut         | Arvaamaton sää                  |
 | **2**   | Hiljattain tehty         | Epätasainen, vetinen maaperä    |
 | **3**   | Hylätyt pellot           | Hyvin ruuhkainen                |

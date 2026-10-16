@@ -7,9 +7,8 @@ grand_parent: Toinen laitos
 
 # Sivuhahmotaulukot
 
-|         |           |
-| ------- | --------- |
 | **d20** | **Nimi**  |
+| ------- | --------- |
 | **1**   | Alaric    |
 | **2**   | Carver    |
 | **3**   | Cleaver   |
@@ -31,9 +30,8 @@ grand_parent: Toinen laitos
 | **19**  | Quill     |
 | **20**  | Seraphine |
 
-|         |           |
-| ------- | --------- |
 | **d20** | **Nimi**  |
+| ------- | --------- |
 | **1**   | Ainsley   |
 | **2**   | Azura     |
 | **3**   | Brave     |
@@ -55,9 +53,8 @@ grand_parent: Toinen laitos
 | **19**  | Tanner    |
 | **20**  | Thyme     |
 
-|         |          |
-| ------- | -------- |
 | **d20** | **Nimi** |
+| ------- | -------- |
 | **1**   | Alder    |
 | **2**   | Alistair |
 | **3**   | Caius    |
@@ -81,9 +78,8 @@ grand_parent: Toinen laitos
 
 ## Oikut
 
-|         |                             |
-| ------- | --------------------------- |
 | **d20** | **Oikku 1**                 |
+| ------- | --------------------------- |
 | **1**   | Huomiota herättävät hiukset |
 | **2**   | Hyväryhtinen                |
 | **3**   | Kalju                       |
@@ -107,9 +103,8 @@ grand_parent: Toinen laitos
 
 ## Tausta
 
-|         |               |
-| ------- | ------------- |
 | **d20** | **Tausta**    |
+| ------- | ------------- |
 | **1**   | Akateemikko   |
 | **2**   | Haudankaivaja |
 | **3**   | Kauppias      |
@@ -133,9 +128,8 @@ grand_parent: Toinen laitos
 
 ## Tavoitteet
 
-|         |                  |
-| ------- | ---------------- |
 | **d20** | **Tavoite**      |
+| ------- | ---------------- |
 | **1**   | Herruus          |
 | **2**   | Kosto            |
 | **3**   | Laajentaminen    |
@@ -159,9 +153,8 @@ grand_parent: Toinen laitos
 
 ## Piirteet
 
-|         |                   |
-| ------- | ----------------- |
 | **d20** | **Hyveet**        |
+| ------- | ----------------- |
 | **1**   | Harkitseva        |
 | **2**   | Hienovarainen     |
 | **3**   | Huolellinen       |
@@ -183,9 +176,8 @@ grand_parent: Toinen laitos
 | **19**  | Verkostoitunut    |
 | **20**  | Älykäs            |
 
-|         |                       |
-| ------- | --------------------- |
 | **d20** | **Paheet**            |
+| ------- | --------------------- |
 | **1**   | Ahne                  |
 | **2**   | Epäpätevä             |
 | **3**   | Etäinen               |

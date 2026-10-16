@@ -56,9 +56,8 @@ Kuka rakensi tämän luolaston? Mihin sitä alun perin käytettiin? Ehkä se oli
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |                                           |                                  |
-| ------- | ----------------------------------------- | -------------------------------- |
 | **d20** | **Alkuperäinen käyttö**                   | **Rakentaja**                    |
+| ------- | ----------------------------------------- | -------------------------------- |
 | **1**   | Aarrekätkö                                | Epätoivoiset kapinalliset        |
 | **2**   | Armeijan etuvartioasema                   | Fanaattinen kultti               |
 | **3**   | Astraalinen kauppapaikka                  | Harhaoppiset alkemistit          |
@@ -84,9 +83,8 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |                            |                  |
-| ------- | -------------------------- | ---------------- |
 | **d20** | **Sisäänkäynti**           | **Koostumus**    |
+| ------- | -------------------------- | ---------------- |
 | **1**   | Harha muurista             | Elävät kasvit    |
 | **2**   | Kaivo                      | Eteerinen kangas |
 | **3**   | Kaivoskuilu                | Hiekka           |
@@ -112,9 +110,8 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |                 |                                |
-| ------- | --------------- | ------------------------------ |
 | **d20** | **Kunto**       | **Syy**                        |
+| ------- | --------------- | ------------------------------ |
 | **1**   | Ahmittu         | Alkemistinen onnettomuus       |
 | **2**   | Haljennut       | Hedonismi                      |
 | **3**   | Häpäisty        | Hirviöiden valtaama            |
@@ -149,9 +146,8 @@ Samaan aikaan, jokaisessa luolastossa tulisi olla ainakin yksi sivuhahmo, joka e
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |                   |                   |
-| ------- | ----------------- | ----------------- |
 | **d20** | **Hyveet**        | **Paheet**        |
+| ------- | ----------------- | ----------------- |
 | **1**   | Ahkera            | Ahne              |
 | **2**   | Itsenäinen        | Epäilevä          |
 | **3**   | Järjestelmällinen | Etäinen           |
@@ -181,9 +177,8 @@ Kaikissa luolastoissa tulisi olla yksi tai useampi ryhmittymä, joilla on kaikil
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |               |                              |
-| ------- | ------------- | ---------------------------- |
 | **d20** | **Tavoite**   | **Este**                     |
+| ------- | ------------- | ---------------------------- |
 | **1**   | Herruus       | Altistuminen luonnonvoimille |
 | **2**   | Kasvu         | Epäoikeudenmukaisuus         |
 | **3**   | Kosto         | Eripura                      |
@@ -217,9 +212,8 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
 #### Luolaston nopanputoamistaulukko
 
-|         |           |
-| ------- | --------- |
 | **d6**  | **Huone** |
+| ------- | --------- |
 | **1**   | Hirviö-   |
 | **2-3** | Tarina-   |
 | **4**   | Erikois-  |
@@ -230,19 +224,12 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 ### Polkutyypit
 
 - **Peruspolut** ovat ilmeisiä huoneiden välisiä yhteyksiä. _Esitetään paksulla viivalla._
-
 - **Piilotetut** polut eivät näy missään tunnetuissa kartoissa. Niiden löytäminen vaatii aina jonkin kustannuksen. _Esitetään katkoviivalla._
-
 - **Ehdollisilla** poluilla voi olla este tai niiden käyttäminen voi vaatia erikoistyökaluja (piilotetut vivut, kiipeilyvarusteet jne.). Toisia voi olla jopa mahdotonta edetä ilman karttaa tai opasta. _Esitetään yliruksatulla viivalla._
-
 - Aloittaen sisäänkäynnistä, luo 1-4 polkua jokaisen huoneen välille.
-
 - Luo silmukoita, haarautuvia käytäviä, umpikujia ja oikoteitä huoneiden välille.
-
 - Jotkin polut ovat Ehdollisia, ja niitä kuvaa ruksattu viiva.
-
 - Jotkin polut ovat Piilotettuja, ja niitä kuvataan katkoviivalla.
-
 - Luo risteyksiä (risteävät viivat), joiden välissä ei ole huonetta.
 
 ### Täytä huoneet
@@ -256,9 +243,8 @@ Hirviöt ovat mitä tahansa vaarallisia olentoja, jotka elävät luolastossa. T�
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |                 |                 |
-| ------- | --------------- | --------------- |
 | **d20** | **Ryhmä**       | **Toiminta**    |
+| ------- | --------------- | --------------- |
 | **1**   | Demoni          | Ahmii           |
 | **2**   | Epäkuollut      | Kasvaa          |
 | **3**   | Epätavallinen   | Kiduttaa        |
@@ -286,9 +272,8 @@ Tarinahuoneiden tulisi rakentua luolaston teemaan, antaa arvokkaita opetuksia ta
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |                 |               |
-| ------- | --------------- | ------------- |
 | **d20** | **Huonetyyppi** | **Vihje**     |
+| ------- | --------------- | ------------- |
 | **1**   | Asevarasto      | Haju          |
 | **2**   | Holvi           | Ilmavirta     |
 | **3**   | Kasarmi         | Jalanjäljet   |
@@ -316,9 +301,8 @@ Erikoishuoneet ovat harvinaisia alueita, joissa on piilotettu tai toiminnallinen
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |                |                |
-| ------- | -------------- | -------------- |
 | **d20** | **Erikoisuus** | **Ominaisuus** |
+| ------- | -------------- | -------------- |
 | **1**   | Aarteet        | Avaa           |
 | **2**   | Allas          | Elävöittää     |
 | **3**   | Huonekalut     | Harha          |
@@ -346,9 +330,8 @@ Ansa on vaarallinen ja piilotettu esine, joka yleensä laukeaa hahmon toiminnan 
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |            |                 |
-| ------- | ---------- | --------------- |
 | **d20** | **Ansa**   | **Laukaisu**    |
+| ------- | ---------- | --------------- |
 | **1**   | Ampuu      | Astuminen       |
 | **2**   | Hukuttaa   | Avaaminen       |
 | **3**   | Hypnotisoi | Häiritseminen   |

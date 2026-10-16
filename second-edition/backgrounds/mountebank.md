@@ -25,7 +25,7 @@ Ambrose, Lucius, Beauregard, Cornelius, Aria, Toph, Indigo, Delphine, Solene, No
 
 ## Miten petoksesi paljastui? Heitä 1d6:
 
-|       |                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| d6    | Tulos                                                                                                                                                                                                                                                                                                                                                                                                            |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | "Potilaasi" raportoivat jatkuvasti ihmetoipumisista, vaikka sinulla ei ole minkäänlaista koulutusta. Aloita **Sidetarpeilla** (3 käyttöä) ja taidolla parantaa.                                                                                                                                                                                                                                                  |
 | **2** | Sen jälkeen kun olit vietellyt varakkaan suojelijan, hänen perheensä palkkasi rikollisjengin hakemaan sinut. Pääsit karkuun ja nyt sinun on pysyttävä piilossa. Aloita **Kauneusvoiteella**, 2 käyttöä. Levitä näyttääksesi vastustamattoman kauniilta seuraavien 12 tunnin ajan.                                                                                                                                |
@@ -36,7 +36,7 @@ Ambrose, Lucius, Beauregard, Cornelius, Aria, Toph, Indigo, Delphine, Solene, No
 
 ## Mistä muistoesineestä sinut voi aina tunnistaa? Heitä 1d6:
 
-|       |                            |                                                                                                                                                                                          |
+| d6    | Esine                      | Kuvaus                                                                                                                                                                                   |
 | ----- | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Kuninkaallinen vaakuna** | Synnyit kuninkaalliseen perheeseen, mutta valitsit toisenlaisen elämän. Vaakunan avulla pääset paikkoihin, mutta se myös paljastaa olinpaikkasi perheellesi. _Mitätön_.                  |
 | **2** | **Ihmeöljy**               | Haiseva, liukas seos. 2 käyttöä.                                                                                                                                                         |

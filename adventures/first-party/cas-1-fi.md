@@ -206,6 +206,8 @@ Vaikka aluetta pidetäänkin suhteellisen turvallisena, yöllä matkustaminen on
 
 Entinen metsätyökaupunki, joka nykyään pärjää hädin tuskin **Länsijärven** kalastuksesta saatavilla tuloilla. Alle kolmekymmentä perhettä asuu tässä kylässä. Kaupungin tori on avoinna joka päivä klo 8-14, ja sieltä löytyy kelp valikoima tavaroita ja elintarvikkeita, mukaan lukien kaikki alle 10gp:n esineet. (Katso [Markkinapaikka](/second-edition/players-guide/marketplace/) toisen laitoksen Pelaajan oppaasta.) Paikallisiin herkkuihin kuuluvat paistettu turska, paistetut sammakonjalat ja kuuma marjapiirakka. Kalastusvälineet (15gp), suokengät (10gp pari) ja sadevaatteet (15gp) ovat suosittuja tuotteita.
 
+![Kannaskylä](/adventures/first-party/img/cas-1/Isthmus%20Town.webp)
+
 ## Ryhmittymät
 
 ### Vuorovetten tuomat
@@ -430,7 +432,7 @@ Puro päättyy pieneen suohon, joka sijaitsee vain muutaman minuutin kävelymatk
 
 # Sieniliskojen temppeli
 
-![Sieniliskojen temppeli](/adventures/first-party/img/cas-1/Temple of the Fungal Lizards.png)
+![Sieniliskojen temppeli](/adventures/first-party/img/cas-1/Temple of the Fungal Lizards.webp)
 
 ## Yleistä tietoa
 
@@ -556,7 +558,7 @@ Oven vieressä (oikealla, eteistä katsottuna) on pieni rako, jonka alapuolella 
 
 ## Vuk
 
-![Vuk](/adventures/first-party/img/cas-1/Vuk.png)
+![Vuk](/adventures/first-party/img/cas-1/Vuk.webp)
 
 Entinen kuningatar, jonka hänen oma kansana murhasi sivilisaation luhistuessa tuhat vuotta sitten. Kirottu kummittelemaan juuri siinä huoneessa, jossa hän kuoli, ja nyt hän aikoo hallita näitä maita jälleen. Täysissä voimissa hän on yli kaksi metriä pitkä kalmomaagikuningatar, jolla on lintumaiset kasvonpiirteet ja joka kantaa upeaa keltaista harjaa.
 
@@ -576,7 +578,7 @@ Lopuksi yksi kuulustelijoista osoittaa nurkassa olevaa liskomaista ihmisenkaltai
 
 Yhtäkkiä huoneen ovi avautuu ja joku muu astuu huoneeseen. Sitten kuuluu vielä lisää vierasta puhetta, ja sen jälkeen sekä kuulustelijat että liskot ryntäävät ulos huoneesta ja paiskaavat oven kiinni takanaan. Katsoja katsoo alas vatsassaan olevaa haavaa, ja sitten kaikki pimenee.
 
-![Kivilohkare](/adventures/first-party/img/cas-1/Stoneblock.png)
+![Kivilohkare](/adventures/first-party/img/cas-1/Stoneblock.webp)
 
 # Seikkailun päättäminen
 

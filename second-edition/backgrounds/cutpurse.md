@@ -25,7 +25,7 @@ Arlo, Lyra, Eamon, Salina, Elara, Freya, Bull, Sparrow, Ivy, Silas
 
 ## Mikä oli viimeinen iso keikkasi? Heitä 1d6:
 
-|       |                                                                                                                                                                                                      |
+| d6    | Tulos                                                                                                                                                                                                |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | Aatelisen kesäkoti. Paikka oli täynnä hienoja viinejä (+20gp), muttei paljon muuta. Ota **Aitaleikkurit**.                                                                                           |
 | **2** | Pankki. (Jäit kiinni.) Sinulla on polttomerkki, joka näkyy vain tulen valossa, ja jokainen sen nähnyt saa pyytää sinulta oluen. Ota **Sisäänvedettävä vaijeri**.                                     |
@@ -36,7 +36,7 @@ Arlo, Lyra, Eamon, Salina, Elara, Freya, Bull, Sparrow, Ivy, Silas
 
 ## Mikä auttaa sinua varastamisessa? Heitä 1d6:
 
-|       |                    |                                                                                                                                                       |
+| d6    | Esine              | Kuvaus                                                                                                                                                |
 | ----- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Katinsormus**    | 2 latausta. Kiipeä seinä ylös ja tipu alas turvallisesti. **Lataus**: Aseta sormus kulkukissan häntään.                                               |
 | **2** | **Kultasormi**     | 1 lataus. Sormikas, joka pystyy jäljittelemään mitä tahansa tavallista avainta. **Lataus**: Täytä se vähintään 100 kultarahalla yön yli.              |

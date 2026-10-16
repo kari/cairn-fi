@@ -25,7 +25,7 @@ Gale, Piper, Brook, Adair, Stone, Dale, Wren, Cliff, Rain, Robin
 
 ## Mistä lauluista sinut tunnetaan parhaiten? Heitä 1d6:
 
-|       |                                                                                                                                                                                                                                 |
+| d6    | Tulos                                                                                                                                                                                                                           |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | _Nikkaroijan polkka_. Humoristinen satu lahjoja jakelevasta matkustelijasta. Aloita **Ruokopillillä**. Kenen tahansa kuuloetäisyydellä olevan on läpäistävä WIL-pelastusheitto tehdäkseen väkivaltaa.                           |
 | **2** | _Sylfi ja hänen rakastajansa_. Rietas tarina menetetystä rakkaudesta. Aloita **Tuulisolmulla** (3 latausta). Luo voimakkaan tuulenvireen. **Lataus**: Sido se mastoon myrskyn aikana.                                           |
@@ -36,7 +36,7 @@ Gale, Piper, Brook, Adair, Stone, Dale, Wren, Cliff, Rain, Robin
 
 ## Millä maksat matkasi maan halki? Heitä 1d6:
 
-|       |                          |                                                                                                                                                                                                                                 |
+| d6    | Tulos                    | Kuvaus                                                                                                                                                                                                                          |
 | ----- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Esiintyminen**         | Esiintyminen kapakoissa kattaa aina niin huoneen että ylläpidon. Joskus saat jopa juomarahaa! Aloita **10gp**:llä ylimääräistä.                                                                                                 |
 | **2** | **Henkivartija**         | Olet suojelija niille, jotka pelkäävät matkustaa yksin. Aloita **Säilällä** (d8).                                                                                                                                               |

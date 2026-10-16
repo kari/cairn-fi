@@ -25,7 +25,7 @@ Flint, Feather, Crier, Thunder, Falcon, Pluck, Needle, Warsong, Hawk, Cai
 
 ## Missä ansaitsit jousesi? Heitä 1d6:
 
-|       |                                                                                                                                                                        |
+| d6    | Tulos                                                                                                                                                                  |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Sodassa**. Jos hyökkäät ensimmäisenä, jousesi saa _räjähdys_-ominaisuuden ensimmäisellä kierroksella.                                                                |
 | **2** | **Haukkametsästyksessä**. Pidät haukkaa [3 HP, 5 STR, 16 DEX, 4 WIL, kynnet (d6+d6), puraisu (d8)]. Se syö vain elävää riistaa.                                        |
@@ -36,7 +36,7 @@ Flint, Feather, Crier, Thunder, Falcon, Pluck, Needle, Warsong, Hawk, Cai
 
 ## Millaisesta puusta jousesi on tehty? Heitä 1d6:
 
-|       |                                                                                                                         |
+| d6    | Tulos                                                                                                                   |
 | ----- | ----------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Marjakuusesta** (d6, _kookas_). Voidaan käyttää tylppänä lyömäaseena (d6). Äänekäs.                                   |
 | **2** | **Talvitammesta** (d8, _kookas_). Paiskautuu kohteisiin. **Kriittisellä vahingolla** jotain repeää irti.                |

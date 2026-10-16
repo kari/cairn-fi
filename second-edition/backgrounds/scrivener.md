@@ -25,7 +25,7 @@ Lazlo, Stilo, Akshara, Pisa, Ji-Yun, Kalamos, Hugo, Shui, Kalam, Julius
 
 ## Minkä teoksen pidit itselläsi? Heitä 1d6:
 
-|       |                                                                                                                                                                                                                                                             |
+| d6    | Tulos                                                                                                                                                                                                                                                       |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Villi kieli**. Nippu nahkaan sidottuja kääröjä. Uraauurtava teos, joka luetteloi petojen piilotetut kielet ja miten niitä voi ymmärtää.                                                                                                                   |
 | **2** | **Äänetön sinfonia**. Sidottu loistavaan kääreeseen. Hyvin harvinainen, se kertoo näkymättömyysmagiaa käyttävien hienovaraisista merkeistä.                                                                                                                 |
@@ -36,7 +36,7 @@ Lazlo, Stilo, Akshara, Pisa, Ji-Yun, Kalamos, Hugo, Shui, Kalam, Julius
 
 ## Miten kopioit arkaluonteisia tietoja? Heitä 1d6:
 
-|       |                   |                                                                                                                              |
+| d6    | Esine             | Kuvaus                                                                                                                       |
 | ----- | ----------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Valemuste**     | Hehkuu kun sillä kirjoitetaan tosia väitteitä, mutta haalistuu, jos sillä kirjoitetaan valheellisia.                         |
 | **2** | **Salauskivi**    | Pari terävää mustaa kiveä. Kumpikin purkaa toisen kirjoittaman viestin.                                                      |

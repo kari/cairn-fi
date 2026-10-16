@@ -24,9 +24,8 @@ grand_parent: Toinen laitos
 
 ### Nimikaavat
 
-|        |                                                                   |
-| ------ | ----------------------------------------------------------------- |
 | **d6** | **Kaava**                                                         |
+| ------ | ----------------------------------------------------------------- |
 | **1**  | **[Substantiivi]** **[Kohdepiste]**                               |
 | **2**  | **[Adjektiivi]** **[Kohdepiste]**                                 |
 | **3**  | **[Substantiivi genetiivissä]** **[Kohdepiste]**                  |
@@ -36,9 +35,8 @@ grand_parent: Toinen laitos
 
 ## Adjektiivit
 
-|          |                |          |                |
-| -------- | -------------- | -------- | -------------- |
 | **d100** | **Adjektiivi** | **d100** | **Adjektiivi** |
+| -------- | -------------- | -------- | -------------- |
 | **1**    | Ammottava      | **51**   | Pahaenteinen   |
 | **2**    | Ankea          | **52**   | Paikattu       |
 | **3**    | Graniittinen   | **53**   | Painunut       |
@@ -92,9 +90,8 @@ grand_parent: Toinen laitos
 
 ## Substantiivit
 
-|          |                  |          |                  |
-| -------- | ---------------- | -------- | ---------------- |
 | **d100** | **Substantiivi** | **d100** | **Substantiivi** |
+| -------- | ---------------- | -------- | ---------------- |
 | **1**    | Aamurusko        | **51**   | Mätä             |
 | **2**    | Aave             | **52**   | Oikku            |
 | **3**    | Aurinko          | **53**   | Omena            |
@@ -148,9 +145,8 @@ grand_parent: Toinen laitos
 
 ## Maaston synonyymit
 
-|                   |                                                             |
-| ----------------- | ----------------------------------------------------------- |
 | **Maasto**        | **Synonyymi**                                               |
+| ----------------- | ----------------------------------------------------------- |
 | **Aavikot**       | dyynit, erämaat, hiekkasärkkä, hiekka, joutomaa, autiomaa   |
 | **Joet**          | vesiväylä, puro, kanava, luoma, koski, virta                |
 | **Jyrkänteet**    | seinämä, kallio, pahta, jyrkkä, reuna, harju                |
@@ -183,9 +179,8 @@ grand_parent: Toinen laitos
 
 #### Ryhmätyypit
 
-|         |             |
-| ------- | ----------- |
 | **d20** | **Ryhmä**   |
+| ------- | ----------- |
 | **1**   | Enklaavi    |
 | **2**   | Kartelli    |
 | **3**   | Kauppahuone |
@@ -209,9 +204,8 @@ grand_parent: Toinen laitos
 
 #### Nimikaavat ryhmittymille
 
-|        |                                                              |
-| ------ | ------------------------------------------------------------ |
 | **d6** | **Kaava**                                                    |
+| ------ | ------------------------------------------------------------ |
 | **1**  | **[Substantiivi]** **[Ryhmä]**                               |
 | **2**  | **[Adjektiivi]** **[Ryhmä]**                                 |
 | **3**  | **[Substantiivi genetiivissä]** **[Ryhmä]**                  |
@@ -230,9 +224,8 @@ grand_parent: Toinen laitos
 
 ### Hallitsijatyypit
 
-|         |                        |
-| ------- | ---------------------- |
 | **d20** | **Hallitsija**         |
+| ------- | ---------------------- |
 | **1**   | **Hallintoalue**       |
 | **2**   | **Herttuakunta**       |
 | **3**   | **Keisarikunta**       |
@@ -254,9 +247,8 @@ grand_parent: Toinen laitos
 | **19**  | **Yhteisö**            |
 | **20**  | **Ylivalta**           |
 
-|        |                                                                   |
-| ------ | ----------------------------------------------------------------- |
 | **d6** | **Kaava**                                                         |
+| ------ | ----------------------------------------------------------------- |
 | **1**  | **[Substantiivi]** **[Hallitsija]**                               |
 | **2**  | **[Adjektiivi]** **[Hallitsija]**                                 |
 | **3**  | **[Substantiivi genetiivissä]** **[Hallitsija]**                  |
@@ -271,9 +263,8 @@ grand_parent: Toinen laitos
 - Käytä vastakkaisia sanoja (esim. _Kiemurteleva Lehvästö_) tuodaksesi esiin kiintoisan seikan paikasta.
 - Saa se kuulostamaan kivalta. Alkusoinnut ja miellyttävät yhdistelmät voivat luoda aistikkaita ääniä. _Kuiskiva Korpi_ on miellyttävämpi korvaan kuin _Rehevä Metsä._
 
-|          |                  |                   |
-| -------- | ---------------- | ----------------- |
 | **d100** | **Adjektiivit**  | **Substantiivit** |
+| -------- | ---------------- | ----------------- |
 | **1**    | Aavemainen       | Aho               |
 | **2**    | Ajaton           | Alho              |
 | **3**    | Apea             | Aluskasvillisuus  |

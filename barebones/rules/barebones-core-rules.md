@@ -110,9 +110,8 @@ Pelaajahahmoilla (PC:t) on kolme **Kykyä**:
 
 Kun PC:t kohtaavat sivuhahmon, jonka reaktio ryhmää kohtaan ei ole ilmeinen, Vartija voi heittää 2d6 ja käyttää seuraavaa taulukkoa:
 
-|              |            |         |              |         |
-| :----------: | :--------: | :-----: | :----------: | :-----: |
 |       2      |     3-5    |   6-8   |     9-11     |    12   |
+| :----------: | :--------: | :-----: | :----------: | :-----: |
 | Vihamielinen | Varovainen | Utelias | Ystävällinen | Avulias |
 
 ## Taistelu
@@ -175,9 +174,8 @@ Jos pelaajahahmoon kohdistuva vahinko vähentäisi hänen HP:nsä tasan nollaan,
 
 #### Arpitaulukko
 
-|                  |                                                                                                                                                                                                                                                                                  |
-| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Menetetty HP** | **Tulos**                                                                                                                                                                                                                                                                        |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1                | Pysyvä arpi: Heitä 1d6. 1: Kaula, 2: Kädet, 3: Silmä, 4: Rinta, 5: Jalat, 6: Korva. Heitä 1d6. Jos tulos on suurempi kuin enimmäis-HP:si, käytä uutta tulosta.                                                                                                                   |
 | 2                | Rytisevä isku: Olet sekaisin ja järkyttynyt. Kuvaile miten palautat keskittymisesi. Heitä 1d6. Jos tulos on suurempi kuin enimmäis-HP:si, käytä uutta tulosta.                                                                                                                   |
 | 3                | Rökitetty: Sinut lähetetään lentoon ja laskeudut naamallesi tuupertuneena. Kärsit puutostilasta, kunnes lepäät pari tuntia. Sitten heitä 1d6. Lisää tämä määrä enimmäis-HP:hesi.                                                                                                 |

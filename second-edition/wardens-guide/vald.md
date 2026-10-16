@@ -156,9 +156,8 @@ Vuorokaudessa on 24 tuntia ja viikossa 6 päivää. Jokaisessa kuukaudessa on 24
 
 ### Juhlapyhät, juhlamenot ja tapahtumat päivämäärän mukaan
 
-|                     |                                                             |                                                                                                                                                                                             |
-| ------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Kuukausi**        | **Päivä**                                                   | **Tapahtuma**                                                                                                                                                                               |
+| Kuukausi            | Päivä                                                       | Tapahtuma                                                                                                                                                                                   |
+| :------------------ | :---------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1. **Surukuu**      |                                                             |                                                                                                                                                                                             |
 |                     | 4. päivän keskiyö (kymmentai)                               | Kalmankausi alkaa.                                                                                                                                                                          |
 |                     | 24. päivän iltahämärä (levontai)                            | _Ensivalo_: Uuden vuoden ensimmäisen kuukauden päättymisen kunniaksi. Soihdut ja tulet palavat läpi yön muuttaen yön päiväksi.                                                              |
@@ -202,9 +201,8 @@ Vuorokaudessa on 24 tuntia ja viikossa 6 päivää. Jokaisessa kuukaudessa on 24
 
 ## Valdin sää
 
-|        |                  |                          |                         |                       |
+| d6     | Kalmankausi      | Poutakausi               | Sadekausi               | Elonkorjuu            |
 | ------ | ---------------- | ------------------------ | ----------------------- | --------------------- |
-| **d6** | **Kalmankausi**  | **Poutakausi**           | **Sadekausi**           | **Elonkorjuu**        |
 | **1**  | Kylmä ja selkeä  | Kuuma ja aurinkoinen     | Kevyt sade              | Leuto ja aurinkoinen  |
 | **2**  | Pakkasaamut      | Lämmin ja aurinkoinen    | Pilvinen                | Viileä ja selkeä      |
 | **3**  | Pilvinen taivas  | Lämmin ja tuulinen       | Tuulinen                | Lämmin ja aurinkoinen |

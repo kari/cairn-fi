@@ -73,9 +73,8 @@ X HP, X Panssari, X STR, X DEX, X WIL, Hyökkäys (dX, erityiset esineet, _omina
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |                      |                 |
-| ------- | -------------------- | --------------- |
 | **d20** | **Vartalontyyppi**   | **Ominaisuus**  |
+| ------- | -------------------- | --------------- |
 | **1**   | Albiino              | Häntä           |
 | **2**   | Hehkuva              | Höyhenet        |
 | **3**   | Hyytelömäinen        | Kidukset        |
@@ -101,9 +100,8 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |                                  |                        |
-| ------- | -------------------------------- | ---------------------- |
 | **d20** | **Oikut**                        | **Heikkous**           |
+| ------- | -------------------------------- | ---------------------- |
 | **1**   | Ei kuole vanhuuteen              | Alkoholi               |
 | **2**   | Hikoilee harvinaisia mineraaleja | Arvoitukset            |
 | **3**   | Kasvit kasvavat sen vanavedessä  | Auringonvalo           |
@@ -129,9 +127,8 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |            |                            |
-| ------- | ---------- | -------------------------- |
 | **d20** | **Tyyppi** | **Kriittinen vahinko**     |
+| ------- | ---------- | -------------------------- |
 | **1**   | Ampuu      | Heikentää                  |
 | **2**   | Heittää    | Jähmettää                  |
 | **3**   | Iskee      | Katkoo                     |
@@ -157,9 +154,8 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |                |           |
-| ------- | -------------- | --------- |
 | **d20** | **Kyky**       | **Kohde** |
+| ------- | -------------- | --------- |
 | **1**   | Ansat          | Aika      |
 | **2**   | Estää          | Aine      |
 | **3**   | Hallitsee      | Energia   |
@@ -209,10 +205,9 @@ Täydellistä menetelmää hirviöiden muuntamiseen muista roolipelijärjestelmi
 - **Ketteryys**: Aloita lähtöarvolla **10** ja, jos olento on erityisen vikkelä (usein käytetään termiä "nopea" (_speed_) tai SP), ketterä tai näppäräsorminen, lisää sitä. Jos se reagoi hitaasti, on kookas tai kömpelö, pienennä arvoa. Katso alta lisää kohdasta [Pelastusheitot](#pelastusheitot)!
 - **Tahdonvoima**: **Taistelutahto** (Morale / **ML**) voi olla hyvä ohjenuora, ja se vaihtelee yleensä välillä 2-12. Mitä suurempi olennon persoonallisuus, henki tai olemus on, sitä korkeampi sen WIL:in tulisi olla. Seuraava taulukko on kelpo opas **ML**:n muuntamisesta **WIL**:ksi.
 
-|         |   |    |    |    |
-| ------- | - | -- | -- | -- |
-| **ML**  | 4 | 8  | 10 | 12 |
-| **WIL** | 6 | 12 | 15 | 18 |
+| **ML**  | 4    | 8     | 10    | 12    |
+| :------ | :--- | :---- | :---- | :---- |
+| **WIL** | 6    | 12    | 15    | 18    |
 
 ### Pelastusheitot
 
@@ -220,7 +215,7 @@ Täydellistä menetelmää hirviöiden muuntamiseen muista roolipelijärjestelmi
 - Joskus tietolaatikoissa käytetään lyhenteitä kuten (E1) tai (F1) (Tason 1 Haltija (Elf) tai Taistelija (Fighter)). Nämä ovat erittäin hyödyllisiä tunnistamaan nopeasti olentojen kyvyt.
 - Harkitse pelastusheittoihin perustuen kuvaavien tunnisteiden lisäämistä, kuten “immuuni myrkkykaasuille” tai “hyvä väistämään luoteja”. Alla olevan taulukon pitäisi auttaa määrittämään, mitkä pelastusheitot johtavat jonkin asiaankuuluvan kykyarvon kasvattamiseen.
 
-|                                     |                     |
+| Pelastusheitto                      | Kyky                |
 | ----------------------------------- | ------------------- |
 | **Kuolema tai Myrkky**              | **STR**             |
 | **Taikasauvat**                     | **DEX**             |

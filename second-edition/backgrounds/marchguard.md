@@ -24,7 +24,7 @@ Gann, Light, Saoirse, Frost, Thorn, Reed, Dirk, Ragnar, Brie, Aasim
 
 ## Miksi vannoit Valan?
 
-|       |                                                                                                                                                                                                    |
+| d6    | Tulos                                                                                                                                                                                              |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | Suvussasi on pitkät perinteet palveluksesta, ja sinut koulutettiin jo varhain selviytymään luonnossa. Kun teet Ruoan hankkiminen -toiminnon, saaliisi kasvaa yhdellä askeleella (esim. 1d4 > 1d6). |
 | **2** | Tuomittuna vankina vala oli yksinkertaisesti vain keino välttää rangaistus. Ota **Tiirikat** ja **Avain** (_mitätön_) turvataloon.                                                                 |
@@ -35,7 +35,7 @@ Gann, Light, Saoirse, Frost, Thorn, Reed, Dirk, Ragnar, Brie, Aasim
 
 ## Mitä sinulla on mukanasi todisteena Valastasi?
 
-|       |                           |                                                                                                                                                                                                               |
+| d6    | Esine                     | Kuvaus                                                                                                                                                                                                        |
 | ----- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Vaikuttava rintaneula** | Kaartin metallinen kunniamerkki. Se voi avata ovia, mutta jättää jäljen. _Mitätön_.                                                                                                                           |
 | **2** | **Valakompassi**          | Ei osoita kohti pohjoista, vaan lähimpään Kaartin jäseneen. Sen avulla tiedät myös, milloin he ovat lähellä.                                                                                                  |

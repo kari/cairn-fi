@@ -9,9 +9,8 @@ grand_parent: Toinen laitos
 
 ## Hirviöiden ryhmittely
 
-|         |                 |                                                                                               |
-| ------- | --------------- | --------------------------------------------------------------------------------------------- |
-| **d20** | **Ryhmä**       | **Hirviöt**                                                                                   |
+| d20     | Ryhmä           | Hirviöt                                                                                       |
+| :------ | :-------------- | :-------------------------------------------------------------------------------------------- |
 | **1**   | Demoni          | Hiidenhevonen, Hornanhurtta                                                                   |
 | **2**   | Epäkuollut      | Aave, Hautakammion vartija, Kalmohinen, Kalmomaagi, Luuranko, Marras, Muumio, Vampyyri, Zombi |
 | **3**   | Epätavallinen   | Etanasoturi, Hyytelölimaolio, Ruostehirviö, Valekapine                                        |

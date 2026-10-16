@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Kolmannen osapuolen lisäaineistoja
-nav_order: 5
-parent: Lisäaineistot
+parent: Kolmannen osapuolen
+nav_order: 2
 ---
 
 # Kolmannen osapuolen lisäaineistoja
@@ -10,6 +10,13 @@ parent: Lisäaineistot
 ## Huomautus
 
 Kaikki tämän sivun linkit johtavat englanninkielisille sivustoille tai aineistoihin.
+
+## Itch-kokoelmia
+
+- [Cairn-seikkailuita](https://itch.io/c/1352509/cairn-adventures)
+- [Cairn-lisäaineistoja](https://itch.io/c/2475049/cairn-resources)
+- [Cairn-sääntömuutoksia](https://itch.io/c/1702301/cairn-hacks)
+- [Cairn muilla kielillä](https://itch.io/c/2475051/cairn-in-other-languages)
 
 ## Sekalaisia lisäaineistoja
 
@@ -27,10 +34,3 @@ Kaikki tämän sivun linkit johtavat englanninkielisille sivustoille tai aineist
 - [d100 potentiaalista loitsun latausehtoa](https://blog.d4caltrops.com/2022/09/d100-potential-spell-recharge-conditions.html)
 - [Lisäkiviä](https://github.com/seedlinggames/extra-stones/blob/main/trinkets.md)
 - [Cairn-hirviökokoelma (Google Sheets)](https://docs.google.com/spreadsheets/d/1Fnb7khcg0hv3xuBSbSkM6GvRayUYMYyX9q0HmxzoKTs)
-
-## Itch-kokoelmia
-
-- [Cairn-seikkailuita](https://itch.io/c/1352509/cairn-adventures)
-- [Cairn-lisäaineistoja](https://itch.io/c/2475049/cairn-resources)
-- [Cairn-sääntömuutoksia](https://itch.io/c/1702301/cairn-hacks)
-- [Cairn muilla kielillä](https://itch.io/c/2475051/cairn-in-other-languages)

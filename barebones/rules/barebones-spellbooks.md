@@ -7,7 +7,7 @@ nav_order: 8
 
 # Pelkistetyn laitoksen loitsukirjat
 
-|         |                         |                                                                                                                                                                                                                                                                                                            |
+| d100    | Loitsu                  | Kuvaus                                                                                                                                                                                                                                                                                                     |
 | ------- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1**   | **Ahneus**              | Olento tuntee ylivoimaista halua omistaa valitsemasi näkyvä esine. _Kansi vaihtuu omistajansa mukaan, vihjaillen hienovaraisesti hänen syvimmistä toiveistaan._                                                                                                                                            |
 | **2**   | **Aineen muovaus**      | Eloton materiaali käyttäytyy käsissäsi kuin savi. _Hitaasti hajoaa joutuessaan kosketuksiin puun tai kankaan kanssa. Hautaa multaan tai upota veteen palauttaaksesi kirja._                                                                                                                                |

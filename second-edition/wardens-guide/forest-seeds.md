@@ -48,9 +48,8 @@ Heitä noppaa [Metsän kuvaus](#metsän-kuvaus) -taulukolla ja kirjoita tulokset
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |                 |                      |
-| ------- | --------------- | -------------------- |
 | **d20** | **Kuvaus**      | **Kuvaus**           |
+| ------- | --------------- | -------------------- |
 | **1**   | Ajaton          | Aurinkoinen          |
 | **2**   | Hehkuva         | Heräävä              |
 | **3**   | Hämärä          | Hiljainen            |
@@ -80,9 +79,8 @@ Korpi on tavallaan yksi kokonaisuus, jonka aivot elävät jokaisessa puussa ja k
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |                |                  |
-| ------- | -------------- | ---------------- |
 | **d20** | **Hyveet**     | **Paheet**       |
+| ------- | -------------- | ---------------- |
 | **1**   | Empaattinen    | Aggressiivinen   |
 | **2**   | Harmoninen     | Ahne             |
 | **3**   | Hoivaava       | Epäilevä         |
@@ -108,9 +106,8 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |                   |                |
-| ------- | ----------------- | -------------- |
 | **d20** | **Tavoite**       | **Este**       |
+| ------- | ----------------- | -------------- |
 | **1**   | Herääminen        | Ahneus         |
 | **2**   | Kehitys           | Eristys        |
 | **3**   | Laajentuminen     | Haavoittuvuus  |
@@ -145,9 +142,8 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
 #### Metsän nopanputoamistaulukko
 
-|         |                |
-| ------- | -------------- |
 | **d6**  | **Kohdepiste** |
+| ------- | -------------- |
 | **1**   | Hirviö         |
 | **2-3** | Rauniot        |
 | **4**   | Suoja          |
@@ -177,9 +173,8 @@ Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |                        |                               |
-| ------- | ---------------------- | ----------------------------- |
 | **d20** | **Tyyppi**             | **Merkit**                    |
+| ------- | ---------------------- | ----------------------------- |
 | **1**   | Eläinten polku         | Hehkuvat rupikonnat           |
 | **2**   | Hedelmätarhan polku    | Heiluvat kasvit               |
 | **3**   | Itiöiden täyttämä      | Hiljaisuus                    |
@@ -209,9 +204,8 @@ Hirviöt ovat mitä tahansa vaarallisia olentoja, joita voi kohdata metsässä. 
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |                    |                 |
-| ------- | ------------------ | --------------- |
 | **d20** | **Hirviö**         | **Toiminta**    |
+| ------- | ------------------ | --------------- |
 | **1**   | Aarnivalkea        | Ahmii           |
 | **2**   | Dryadi             | Hautaa          |
 | **3**   | Gargoili           | Hiiviskelee     |
@@ -239,9 +233,8 @@ Metsät ovat villejä paikkoja, mutta se ei tarkoita, etteivätkö ihmiset olisi
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |                                    |                                         |
-| ------- | ---------------------------------- | --------------------------------------- |
 | **d20** | **Raunio**                         | **Ominaisuus**                          |
+| ------- | ---------------------------------- | --------------------------------------- |
 | **1**   | Homehtunut maalaistalo             | Aineksia keräilevä akka                 |
 | **2**   | Hylätty kartano                    | Epäonnistuneen rituaalin jäänteitä      |
 | **3**   | Kaatunut patsas                    | Epätavallisten kasvien valtaama         |
@@ -269,9 +262,8 @@ Huolimatta Korven villistä ja arvaamattomasta luonteesta, on aina ollut niitä,
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |                             |                                         |
-| ------- | --------------------------- | --------------------------------------- |
 | **d20** | **Suoja**                   | **Ominaisuus**                          |
+| ------- | --------------------------- | --------------------------------------- |
 | **1**   | Erakon mökki                | Houkuttelee villipetoja                 |
 | **2**   | Hakkuualue                  | Hylätty, toistaiseksi                   |
 | **3**   | Haukanmetsästäjän torni     | Hyödyttömien kummitusten riivaama       |
@@ -299,9 +291,8 @@ Korpi on vaarallinen paikka, eikä sen kanssa pidä leikkiä. Metsä ja sen asuk
 
 Heitä 1d20 kutakin saraketta kohti ja yhdistä tulokset.
 
-|         |                         |                                     |
-| ------- | ----------------------- | ----------------------------------- |
 | **D20** | **Vaara**               | **Ominaisuus**                      |
+| ------- | ----------------------- | ----------------------------------- |
 | **1**   | Eläimenloukku           | Aarnivalkeiden kokoontuminen        |
 | **2**   | Epävakaa maaperä        | Elävät variksenpelättimet           |
 | **3**   | Hidas juoksuhiekka      | Elävöitetty panssari                |
@@ -589,9 +580,8 @@ Pohjoisessa pienen **järven** viereen rakennettu ränsistynyt **maja**. **Savua
 
 ### Kohtaamiset
 
-|         |                                                                                                       |
-| ------- | ----------------------------------------------------------------------------------------------------- |
 | **d20** | **Kohtaaminen**                                                                                       |
+| ------- | ----------------------------------------------------------------------------------------------------- |
 | **1**   | Pieni parrakas mies riitelee rääkyvän korpin kanssa. Se pitää nokassaan jotain kiiltävää.             |
 | **2**   | Dryadi istuu kivellä, violetti sieni peittää hänen käsivarsiaan. Hänen silmistään paistaa väkivalta.  |
 | **3**   | Kaistale juoksuhiekka on naamioitu pehmeäksi maaksi. Lähistöllä lojuu katkennut köysirulla.           |

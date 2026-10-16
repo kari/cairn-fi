@@ -25,7 +25,7 @@ Jax, Selene, Baladria, Ada, Mort, Saylor, Tripp, Lantos, Echo, Jubilo
 
 ## Mitä tapahtui viimeisessä esityksessäsi? Heitä 1d6:
 
-|       |                                                                                                                                                                                                                                                                                                                                                                  |
+| d6    | Tulos                                                                                                                                                                                                                                                                                                                                                            |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | Huolimatta tappavien taitojen koulutuksestasi, näyttelijä kuoli ja sinä sait syytökset. Ota kevyt **Säilä** (d6) ja väärä henkilöllisyys.                                                                                                                                                                                                                        |
 | **2** | Yleisö piti tarttuvasta kappaleestasi, joka kertoi aatelisesta ja hänen romanttisista epäonnistumisistaan. Kyseinen aatelinen, ei niinkään. Ota _Ajatustenluku_-**loitsukirja** ja pidätysmääräyksesi. Ajatustenluku: Voit kuulla lähellä olevien olentojen pinnallisia ajatuksia. _Pitkäkestoinen käyttö voi saada lukijan pitämään toisten ajatuksia ominaan._ |
@@ -36,7 +36,7 @@ Jax, Selene, Baladria, Ada, Mort, Saylor, Tripp, Lantos, Echo, Jubilo
 
 ## Mitä rihkamaa et pystynyt jättämään jälkeesi? Heitä 1d6:
 
-|       |                              |                                                                                                                            |
+| d6    | Esine                        | Kuvaus                                                                                                                     |
 | ----- | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Väärät käsiraudat**        | Mukavat, aidon näköiset käsiraudat. Vain sinä tiedät tempun, jolla niistä pääsee irti.                                     |
 | **2** | **Taskuteatteri**            | Sarja pieniä nukkeja ja kokoontaitettava näyttämö. Hyvä nopeaan harhautukseen.                                             |

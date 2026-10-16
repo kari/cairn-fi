@@ -25,7 +25,7 @@ Faunus, Snowdrop, Wisp, Silverdew, Brim, Solstice, Steeleye, Artea, Gossamer, Ha
 
 ## Kuka otti sinut huomaansa? Heitä 1d6:
 
-|       |                                                                                                                                                                                                                                                                                                                                                                 |
+| d6    | Tulos                                                                                                                                                                                                                                                                                                                                                           |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | Vanha metsästäjä. Olitte molemmat varsin onnellisia, kunnes se kaikki päättyi. Ota **Kulunut pitkäjousi** (d8, _kookas_) ja **Nahkainen Jerkin-liivi** (1 Panssari).                                                                                                                                                                                            |
 | **2** | Kurttuinen apteekkari, joka opetti sinulle parantajan taitoja, mutta säilytti kliinisen etäisyyden sinuun. Ota **Parantava voide** (palauttaa d4 STR, 1 käyttö).                                                                                                                                                                                                |
@@ -36,7 +36,7 @@ Faunus, Snowdrop, Wisp, Silverdew, Brim, Solstice, Steeleye, Artea, Gossamer, Ha
 
 ## Mikä pitää ikävät uutiset loitolla? Heitä 1d6:
 
-|       |                    |                                                                                                                                                                             |
+| d6    | Esine              | Kuvaus                                                                                                                                                                      |
 | ----- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Piipputupakka**  | Onnenkalusi. Keskustelut sujuvat yleensä helpommin tupakan jälkeen. 6 käyttöä.                                                                                              |
 | **2** | **Haisupurkki**    | Tämän purkin rikkominen vapauttaa niin pahan hajun, että kaikkien lähistöllä olevien on tehtävä STR-pelastusheitto tai oksennettava välittömästi. 1 käyttö.                 |

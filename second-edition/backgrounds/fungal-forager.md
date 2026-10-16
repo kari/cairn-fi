@@ -24,7 +24,7 @@ Unther, Woozy, Hilda, Current, Leif, Ratan, Mourella, Lal, Per, Madrigal
 
 ## Minkä oudon sienen löysit? Heitä 1d6:
 
-|       |                                                                                                                                                                                           |
+| d6    | Tulos                                                                                                                                                                                     |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Kirkuva torvisieni**. Kun se altistuu valolle, se huutaa niin kovaa, että kaikki lähistöllä olevat hyökkäykset (myös omasi) _heikentyvät_. 2 käyttöä.                                   |
 | **2** | **Soihtusieni**. Murskattuna luo lyhyen aikaa kylmää sinistä valoa. 2 käyttöä.                                                                                                            |
@@ -35,7 +35,7 @@ Unther, Woozy, Hilda, Current, Leif, Ratan, Mourella, Lal, Per, Madrigal
 
 ## Mikä pitää sinut järjissäsi, jopa täydellisessä pimeydessä? Heitä 1d6:
 
-|       |                            |                                                                                                              |
+| d6    | Esine                      | Kuvaus                                                                                                       |
 | ----- | -------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | **1** | **Hehkuetana**             | Levittää pehmeää bioluminesenssivaloa. Syö yhden muona-annoksen joka toinen päivä.                           |
 | **2** | **Silkkiperhon huivi**     | Säänkestävä peite, jolla voi myös sammuttaa tulipalon sen vahingoittumatta.                                  |

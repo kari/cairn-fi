@@ -35,7 +35,7 @@ Kun seurue:
 
 #### Tee heitto alla olevaa taulukkoa käyttäen
 
-|       |                 |                                                                                                                                                                       |
+| d6    | Tapahtuma       | Kuvaus                                                                                                                                                                |
 | :---: | :-------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | **1** | **Kohtaaminen** | Heitä kohtaamistaulukkoa. Mahdollisesti **vihamielinen**. (Katso [Reaktiot](/barebones/rules/barebones-core-rules#reaktiot).)                                         |
 | **2** |    **Merkki**   |                                                    Johtolanka, jälki, hylätty piilopaikka, haju, uhri jne. löytyy.                                                    |
@@ -112,25 +112,22 @@ Sää, maasto, pimeys, loukkaantuneet seurueen jäsenet ja muut esteet voivat va
 
 ### Reitin vaikeusaste
 
-|            |                |                              |
-| ---------- | -------------- | ---------------------------- |
 | **Reitti** | **Sakko**      | **Eksymisen todennäköisyys** |
+| ---------- | -------------- | ---------------------------- |
 | Tiet       | Ei mitään      | Ei mitään                    |
 | Polut      | +1 Vahtivuoro  | 2/6                          |
 | Erämaa     | +2 Vahtivuoroa | 3/6                          |
 
-|                   |                |
-| ----------------- | -------------- |
 | **Reitin pituus** | **Sakko**      |
+| ----------------- | -------------- |
 | Lyhyt             | +1 Vahtivuoro  |
 | Keskipitkä        | +2 Vahtivuoroa |
 | Pitkät            | +3 Vahtivuoroa |
 
 ## Maaston vaikeus
 
-|                 |                                |                |                                                                                                                            |
-| --------------- | ------------------------------ | -------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | **Vaikeus**     | **Maasto**                     | **Sakko**      | **Tekijät**                                                                                                                |
+| --------------- | ------------------------------ | -------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | **Helppo**      | **Tasangot, ylängöt, laaksot** | ei mitään      | _Turvalliset lepoalueet, kanssakulkijoita, hyvä näkyvyys_                                                                  |
 | **Vaikea**      | **Metsät, aavikot, kukkulat**  | +1 Vahtivuoro  | _Villieläimet, tulvat, rikkoutuneet varusteet, putoilevat kivet, vaaralliset suojapaikat, metsästäjien ansat_              |
 | **Vaarallinen** | **Vuoret, viidakot, suot**     | +2 Vahtivuoroa | _Juoksuhiekkaa, upottavaa mutaa, tukahduttavia köynnöksiä, likaista vettä, myrkyllisiä kasveja ja eläimiä, huono näkyvyys_ |
@@ -141,9 +138,8 @@ Joka päivä Vartijan tulisi heittää noppaa soveltuvan vuodenajan säätaulukk
 
 #### Säätyyppi
 
-|        |             |             |             |             |
-| :----: | :---------: | :---------: | :---------: | :---------: |
 | **d6** |  **Kevät**  |   **Kesä**  |  **Syksy**  |  **Talvi**  |
+| :----: | :---------: | :---------: | :---------: | :---------: |
 |  **1** |    Mukava   |    Mukava   | Kohtalainen | Kohtalainen |
 |  **2** | Kohtalainen |    Mukava   | Kohtalainen |    Huono    |
 |  **3** | Kohtalainen | Kohtalainen |    Huono    |    Ankara   |
@@ -153,9 +149,8 @@ Joka päivä Vartijan tulisi heittää noppaa soveltuvan vuodenajan säätaulukk
 
 #### Sään vaikeusaste
 
-|                      |                                                                                                                |                                                                 |
-| :------------------: | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
 |        **Sää**       | **Vaikutus**                                                                                                   | **Esimerkkejä**                                                 |
+| :------------------: | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
 |      **Mukava**      | Suotuisat olosuhteet matkustamiselle.                                                                          | _Selkeää, aurinkoista_                                          |
 |    **Kohtalainen**   | Suotuisat olosuhteet matkustamiselle.                                                                          | _Pilvistä, tuulista_                                            |
 |       **Huono**      | Lisää **Väsymys** _tai_ lisää yksi **vahtivuoro** matkaan.                                                     | _Puuskittaiset tuulet, sadekuurot, paahtava helle, viileä ilma_ |
@@ -171,7 +166,7 @@ Joka päivä Vartijan tulisi heittää noppaa soveltuvan vuodenajan säätaulukk
 
 ### Erämaan tapahtumat
 
-|       |                 |                                                                                                                                                                                                                                                                                    |
+| d6    | Tapahtuma       | Kuvaus                                                                                                                                                                                                                                                                             |
 | ----- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Kohtaaminen** | Heitä kyseisen maastotyypin tai paikan kohtaamistaulukkoa. Älä unohda tehdä sivuhahmon [reaktioheittoa](/barebones/rules/barebones-core-rules#reaktiot) tarvittaessa.                                                                                                              |
 | **2** | **Merkki**      | Seurue löytää vihjeen, jäljen tai merkin läheisestä kohtaamisesta, paikasta, piilotetusta erikoisuudesta tai tietoa lähialueesta.                                                                                                                                                  |

@@ -20,7 +20,7 @@ nav_order: 5
 ### Nimet (d100)
 
 | d100 | Etunimi  | Sukunimi    |
-| ---- | -------- | ----------- |
+| :--- | :------- | :---------- |
 | 1    | Adair    | Abbot       |
 | 2    | Alaric   | Addyman     |
 | 3    | Alder    | Ashwell     |
@@ -136,8 +136,8 @@ Heitä hahmosi Piirteet seuraavia taulukoita apuna käyttäen.
 
 #### Vartalotyyppi
 
-|       |               |        |               |
-| ----- | ------------- | ------ | ------------- |
+| d10   | Vartalo       | d10    | Vartalo       |
+| :---- | :------------ | :----- | :------------ |
 | **1** | Hoikka        | **6**  | Pyöreä        |
 | **2** | Jykevä        | **7**  | Ruipelo       |
 | **3** | Kookas        | **8**  | Tukeva        |
@@ -146,8 +146,8 @@ Heitä hahmosi Piirteet seuraavia taulukoita apuna käyttäen.
 
 #### Iho
 
-|       |               |        |               |
-| ----- | ------------- | ------ | ------------- |
+| d10   | Iho           | d10    | Iho           |
+| :---- | :------------ | :----- | :------------ |
 | **1** | Arpinen       | **6**  | Ruusuinen     |
 | **2** | Kulunut       | **7**  | Syntymämerkki |
 | **3** | Merkitty      | **8**  | Tatuoitu      |
@@ -156,8 +156,8 @@ Heitä hahmosi Piirteet seuraavia taulukoita apuna käyttäen.
 
 #### Hiukset
 
-|       |             |        |             |
-| ----- | ----------- | ------ | ----------- |
+| d10   | Hiukset     | d10    | Hiukset     |
+| :---- | :---------- | :----- | :---------- |
 | **1** | Aaltoilevat | **6**  | Pitkät      |
 | **2** | Kalju       | **7**  | Pörröiset   |
 | **3** | Kiharat     | **8**  | Törkyinen   |
@@ -166,8 +166,8 @@ Heitä hahmosi Piirteet seuraavia taulukoita apuna käyttäen.
 
 #### Kasvot
 
-|       |                |        |                |
-| ----- | -------------- | ------ | ---------- --- |
+| d10   | Kasvot         | d10    | Kasvot         |
+| :---- | :------------- | :----- | :------------- |
 | **1** | Kalpeat        | **6**  | Pitkät         |
 | **2** | Leikatut       | **7**  | Rempseät       |
 | **3** | Luisevat       | **8**  | Rikkonaiset    |
@@ -176,8 +176,8 @@ Heitä hahmosi Piirteet seuraavia taulukoita apuna käyttäen.
 
 #### Puhe
 
-|       |                  |        |              |
-| ----- | ---------------- | ------ | ------------ |
+| d10   | Puhe             | d10    | Puhe         |
+| :---- | :--------------- | :----- | :----------- |
 | **1** | Arvoituksellinen | **6**  | Kuiskaava    |
 | **2** | Horiseva         | **7**  | Muodollinen  |
 | **3** | Jyrisevä         | **8**  | Tarkka       |
@@ -186,8 +186,8 @@ Heitä hahmosi Piirteet seuraavia taulukoita apuna käyttäen.
 
 #### Vaatetus
 
-|       |             |        |            |
-| ----- | ----------- | ------ | ---------- |
+| d10   | Vaatetus    | d10    | Vaatetus   |
+| :---- | :---------- | :----- | :--------- |
 | **1** | Antiikkinen | **6**  | Tyylikäs   |
 | **2** | Hajuinen    | **7**  | Törkyinen  |
 | **3** | Likainen    | **8**  | Ulkomainen |
@@ -196,7 +196,7 @@ Heitä hahmosi Piirteet seuraavia taulukoita apuna käyttäen.
 
 #### Hyve
 
-|       |                 |        |                |
+| d10   | Hyve            | d10    | Hyve           |
 | ----- | --------------- | ------ | -------------- |
 | **1** | Armelias        | **6**  | Rohkea         |
 | **2** | Kunniallinen    | **7**  | Seesteinen     |
@@ -206,7 +206,7 @@ Heitä hahmosi Piirteet seuraavia taulukoita apuna käyttäen.
 
 #### Pahe
 
-|       |                |        |                |
+| d10   | Pahe           | d10    | Pahe           |
 | ----- | -------------- | ------ | -------------- |
 | **1** | Aggressiivinen | **6**  | Laiska         |
 | **2** | Ahne           | **7**  | Pelkurimainen  |
@@ -219,7 +219,7 @@ Heitä hahmosi Piirteet seuraavia taulukoita apuna käyttäen.
 Määritä hahmosi tausta ja aloitusvarusteet tekemällä heitto seuraavaa taulukkoa käyttäen:
 
 | d100 | Tausta ja aloitusvarusteet                                                                                                                                                       |
-| :--: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :--- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   1  | **Akrobaatti**: Seiväs (3m), Köysi (8 metriä), Savupommi                                                                                                                         |
 |   2  | **Alkemisti**: Happoa, linssi, öljykangaslaukku                                                                                                                                  |
 |   3  | **Alttaripalvelija**: Suitsuke, pergamentti ja mustetta (3 käyttöä), [loitsukirja](/barebones/rules/barebones-spellbooks)                                                        |

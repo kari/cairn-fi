@@ -15,9 +15,8 @@ grand_parent: Toinen laitos
 
 ## Taustat
 
-|         |                                                            |         |                                                            |
+| **d20** | **Tausta**                                                 | **d20** | **Tausta**                                                 |
 | ------- | ---------------------------------------------------------- | ------- | ---------------------------------------------------------- |
-| **d20** | **Tausta**                                                 |         |                                                            |
 | **1**   | [Eräratsastaja](/second-edition/backgrounds/outrider)      | **11**  | [Puoskari](/second-edition/backgrounds/mountebank)         |
 | **2**   | [Jonglööri](/second-edition/backgrounds/jongleur/)         | **12**  | [Puronkulkija](/second-edition/backgrounds/rill-runner)    |
 | **3**   | [Kattilamaakari](/second-edition/backgrounds/kettlewright) | **13**  | [Rajavartija](/second-edition/backgrounds/marchguard/)     |
@@ -62,7 +61,7 @@ grand_parent: Toinen laitos
 
 ### Vartalotyyppi
 
-|       |               |        |               |
+| d10   | Vartalo       | d10    | Vartalo       |
 | ----- | ------------- | ------ | ------------- |
 | **1** | Hoikka        | **6**  | Pyöreä        |
 | **2** | Jykevä        | **7**  | Ruipelo       |
@@ -72,7 +71,7 @@ grand_parent: Toinen laitos
 
 ### Iho
 
-|       |               |        |               |
+| d10   | Iho           | d10    | Iho           |
 | ----- | ------------- | ------ | ------------- |
 | **1** | Arpinen       | **6**  | Ruusuinen     |
 | **2** | Kulunut       | **7**  | Syntymämerkki |
@@ -82,7 +81,7 @@ grand_parent: Toinen laitos
 
 ### Hiukset
 
-|       |             |        |             |
+| d10   | Hiukset     | d10    | Hiukset     |
 | ----- | ----------- | ------ | ----------- |
 | **1** | Aaltoilevat | **6**  | Pitkät      |
 | **2** | Kalju       | **7**  | Pörröiset   |
@@ -92,8 +91,8 @@ grand_parent: Toinen laitos
 
 ### Kasvot
 
-|       |                |        |                |
-| ----- | -------------- | ------ | ---------- --- |
+| d10   | Kasvot         | d10    | Kasvot         |
+| ----- | -------------- | ------ | -------------- |
 | **1** | Kalpeat        | **6**  | Pitkät         |
 | **2** | Leikatut       | **7**  | Rempseät       |
 | **3** | Luisevat       | **8**  | Rikkonaiset    |
@@ -102,7 +101,7 @@ grand_parent: Toinen laitos
 
 ### Puhe
 
-|       |                  |        |              |
+| d10   | Puhe             | d10    | Puhe         |
 | ----- | ---------------- | ------ | ------------ |
 | **1** | Arvoituksellinen | **6**  | Kuiskaava    |
 | **2** | Horiseva         | **7**  | Muodollinen  |
@@ -112,7 +111,7 @@ grand_parent: Toinen laitos
 
 ### Vaatetus
 
-|       |             |        |            |
+| d10   | Vaatetus    | d10    | Vaatetus   |
 | ----- | ----------- | ------ | ---------- |
 | **1** | Antiikkinen | **6**  | Tyylikäs   |
 | **2** | Hajuinen    | **7**  | Törkyinen  |
@@ -122,7 +121,7 @@ grand_parent: Toinen laitos
 
 ### Hyve
 
-|       |                 |        |                |
+| d10   | Hyve            | d10    | Hyve           |
 | ----- | --------------- | ------ | -------------- |
 | **1** | Armelias        | **6**  | Rohkea         |
 | **2** | Kunniallinen    | **7**  | Seesteinen     |
@@ -132,7 +131,7 @@ grand_parent: Toinen laitos
 
 ### Pahe
 
-|       |                |        |                |
+| d10   | Pahe           | d10    | Pahe           |
 | ----- | -------------- | ------ | -------------- |
 | **1** | Aggressiivinen | **6**  | Laiska         |
 | **2** | Ahne           | **7**  | Pelkurimainen  |
@@ -142,9 +141,8 @@ grand_parent: Toinen laitos
 
 ## Siteet
 
-|         |                                                                                                                                                                                                                                               |
+| **d20** | **Side**                                                                                                                                                                                                                                      |
 | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **D20** | **Side**                                                                                                                                                                                                                                      |
 | **1**   | Perit kauan sitten kuolleelta sukulaiselta **yhden jalokiven** (500gp, kylmä ja hauras). Se saapui varoituksen kera: tuhlaa uudet rikkautesi ja pitkään unohdetuksi luultu velka tulee maksettavaksi.                                         |
 | **2**   | Kaukainen serkku jätti sinulle pienen perinnön. Ota **20gp** ja **omituinen kompassi** (_mitätön_), joka osoittaa aina kohti jotain syvällä Korven siimeksessä.                                                                               |
 | **3**   | Kannat medaljongissa (_mitätön_) **muotokuvaa** entisestä rakkaudesta, joka katosi Korpeen kauan sitten. Jotenkin tiedät, että hän on yhä elossa.                                                                                             |
@@ -168,9 +166,8 @@ grand_parent: Toinen laitos
 
 ## Enteet
 
-|         |                                                                                                                                                                                                                                                                                    |
-| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **d20** | **Enne**                                                                                                                                                                                                                                                                           |
+| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1**   | Joen kerran runsaat ja antoisat vedet ovat muuttuneet mustiksi ja mädäksi, saastuttaen maan ja tehneen sairaiksi siitä juoneet. Kylän vanhin ehdottaa syyksi jonkin viimeaikaisen häpäisyn, mutta useimmat eivät kiinnitä huomiota hänen sanoihinsa.                               |
 | **2**   | Tuntuu kuin talvi olisi saapunut tänä vuonna liian aikaisin, pakkanen ja lumet ilmestyvät paljon odotettua aikaisemmin. Ikkunoiden, lammikoiden ja maan halkeamien huurteessa puhutaan olevan jokin kuvio. Se näyttää ihan kartalta.                                               |
 | **3**   | Paksu, luonnoton sumu on alkanut tunkeutua muinaiseen ja pyhään metsikköön. Sen sanotaan olevan suuren metsänhengen, joka on suuttunut läheisestä metsäkadosta, tekosia.                                                                                                           |

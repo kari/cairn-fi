@@ -25,7 +25,7 @@ Drake, Cyra, Keir, Darius, Valen, Rorik, Yara, Rui, Talon, Jory
 
 ## Mitä henkilökohtaista sääntöä tai periaatetta noudatat? Heitä 1d6:
 
-|       |                                                                                                                                                                                                                                                                                                               |
+| d6    | Tulos                                                                                                                                                                                                                                                                                                         |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Ei viattomien verta**: Kukaan sivullinen ei tule kärsimään sinun vahdillasi. Ota **Vakaa kupurakilpi** (+1 Panssari). Kun pidät tätä kilpeä, mikään ei voi saada sinua liikkumaan niin kauan kuin molemmat jalkasi ovat tukevasti maassa.                                                                   |
 | **2** | **Kunnioita kuoleman työkaluja**: Aseita on arvostettava ja huollettava. Ota **Suurmadon hiomakivi**. Puolen tunnin rituaalinomaisen teroituksen jälkeen aseella tehdyt hyökkäykset ovat _vahvennettuja_ kunnes STR-vahinkoa saadaan aikaan.                                                                  |
@@ -36,7 +36,7 @@ Drake, Cyra, Keir, Darius, Valen, Rorik, Yara, Rui, Talon, Jory
 
 ## Mitä rotua hevosesi on? Heitä 1d6:
 
-|       |                            |                                                                                                                                                        |
+| d6    | Hevonen                    | Kuvaus                                                                                                                                                 |
 | ----- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **1** | **Kylmäverinen sotaratsu** | Sodankäyntiin kasvatettu peto, hyvin vaikuttava olento. 8 HP, 1 Panssari, kaviot (d10+d10), +2 paikkaa.                                                |
 | **2** | **Mustajalkainen Keikari** | Sitkeä ja mukautuva. **Vaikea** tai **Vaarallinen** maasto on yhden askeleen helpompi. 6 HP. +4 paikkaa.                                               |

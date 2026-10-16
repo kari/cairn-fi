@@ -24,7 +24,7 @@ Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Jazia
 
 ## Mikä meni kauhistuttavan pieleen? Heitä 1d6:
 
-|       |                                                                                                                                                                                                                                                  |
+| d6    | Tulos                                                                                                                                                                                                                                            |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **1** | Tapahtui räjähdys ja menetit hajuaistisi. No, melkein: voit nuuskia kultaa kuin sika tryffeleitä. Ota **Nuuskapurkki** (6 käyttöä) vaimentamaan vaikutusta. Käytä sitä joka päivä tai kärsit _puutoksesta_.                                      |
 | **2** | Teit rakkaan lemmikin aineettomaksi. Nyt se seuraa sinua ympäriinsä, näkymättömänä mutta aina läsnä. Vaikka se ei voi vaikuttaa fyysiseen maailmaan, pystyt jakamaan sen aistit. (Lisää **Väsymys** joka kerralla.) Se seuraa peruskäskyjä.      |
@@ -35,7 +35,7 @@ Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Jazia
 
 ## Mikä alkemian ihme on nerokkuutesi viimeisin tuote? Heitä 1d6:
 
-|       |                             |                                                                                                                                                                                                                                               |
+| dd6   | Esine                       | Kuvaus                                                                                                                                                                                                                                        |
 | ----- | --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Itsestään syttyvä geeli** | Tahmea vihreä neste, joka syttyy tuleen, kun se joutuu ilman kanssa kosketuksiin ja palaa sitten 8 tuntia. Ei voida sammuttaa (1 käyttö).                                                                                                     |
 | **2** | **Räjähdyspallo**           | Räjähdysainejauheella täytetty pään kokoinen rautapallo, joka räjähtää osuessaan (d12, _räjähdys_, _kookas_, 1 käyttö).                                                                                                                       |
