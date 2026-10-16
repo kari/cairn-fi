@@ -15,7 +15,7 @@ Seuraava seikkailu on saatavilla:
 
 _Kuohuntaa Kaksoisjärvillä_ on ensimmäinen osa Cairn-seikkailupelin toisen laitoksen itsenäisten seikkailujen sarjassa. Seikkailu keskittyy kahteen keskeiseen mysteeriin, joita seurue voi ratkaista. Siinä on monenlaisia sivuhahmoja ja vastustajia sekä useita paikkoja tutkittavaksi. Tämä seikkailu sopii sekä aloitteville että kokeneille pelaajille, ja se sopii erityisen hyvin hahmoille, jotka yhä etsivät paikkaansa villissä ja mahdollisesti vaarallisessa maailmassa. Vaikka alue ja sen asukkaat kuuluvat osaksi laajempaa **Vald**-maailmaa, ne voidaan helposti sovittaa mihin tahansa valitsemaasi low-fantasy -maailmaan.
 
-**Cairn-seikkailusarja 1**
+**Cairn-seikkailujen sarja 1**
 Yochai Galin laatima seikkailumoduuli Cairnin 2. laitokselle
 
 **Tekijät:** Kirjoittanut Yochai Gal, toimittanut Derek B. ja toimitusavustanut Yossi Krausz, ulkoasu ja paikkakuntakartat Adam Hensley. Kansitaide ja aluekartta Ari-Matti Toivonen.
@@ -24,7 +24,7 @@ Tuottaja: Cairn Press.
 
 Tämän teoksen teksti on lisensoitu [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) -käyttöluvalla.
 
-![Kuohuntaa Kaksoisjärvillä (kansi)](/adventures/first-party/img/cas-1/Trouble_in_Twin_Lakes_Cover.png)
+![Kuohuntaa Kaksoisjärvillä (kansi)](/adventures/first-party/img/cas-1/Trouble_in_Twin_Lakes_Cover.webp)
 
 ## Johdanto
 
@@ -177,7 +177,7 @@ Pohjoisessa sijaitsee **Kivimetsä**, laaja metsäalue täynnä vanhoja myllyjä
 
 Vaikka aluetta pidetäänkin suhteellisen turvallisena, yöllä matkustaminen on silti vaarallista, sillä sekä maantierosvojoukkojen että yökissojen tiedetään ahdistelevan suojattomia matkaseurueita. Seikkailu alkaa Elonkorjuukauden aikaan, juuri kun viimeiset sadot on saatu korjattua.
 
-![CAS1-kartta v2](/adventures/first-party/img/cas-1/CAS1_Map_v2.png)
+![CAS1-kartta v2](/adventures/first-party/img/cas-1/CAS1_Map_v2.webp)
 
 | d6    | Matkalla kuultuja huhuja<br>**Heitä 1d6 aina kun seurue lähtee Kannaskylästä. Heitä sama tulos uudestaan.**                                                                                                                                                                                                                                                                                                                                           |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -298,7 +298,7 @@ Kuiva, hyvin tallattu polku, joka kulkee Kannaskylästä etelään, **Kyttyrävu
 
 Ohut, kauas toisistaan rakennettujen ränsistyneiden talojen kehä. Alun perin kalastajakylä, ennen kuin Itäjärven vesi pilaantui. Nykyään täällä asuu enää vain köyhiä kalastajia ja epäonnisia maanviljelijöitä. Yhdistyy **Itäjärven solaan**.
 
-![Dunston](/adventures/first-party/img/cas-1/Dunston.png)
+![Dunston](/adventures/first-party/img/cas-1/Dunston.webp)
 
 ## Fashan maatila
 
@@ -341,7 +341,7 @@ Yleinen puissa elävä saalistaja Kivimetsässä on Yökissa, yöpussieläin, jo
 - Älykkäitä yöllisiä pussieläimiä, jotka tekevät kotinsa metsiin ja soille. Metsästävät laumoissa.
 - **Kriittinen vahinko**: Yökissa alkaa syödä kohdetta (d4 STR-vahinkoa), kun se on vielä elossa.
 
-![Kivimetsä](/adventures/first-party/img/cas-1/Stone Forest.png)
+![Kivimetsä](/adventures/first-party/img/cas-1/Stone Forest.webp)
 
 # Kuolomylly
 
@@ -388,7 +388,7 @@ Sumun peittämä, mutainen ja haiseva suo, joka on suosittu lähde kauhutarinoil
 
 Pieni metsä Alasoiden itäpuolella. Se on saanut nimensä raunioituneesta valkoisesta tornista, jonka läheinen suo verhoaa sumuun. Pääsy **Itäjärven solalta** kohti **Vanhan myllyn tietä** haarautuvan polun kautta.
 
-![Valkotornin letto](/adventures/first-party/img/cas-1/White Tower Fens.png)
+![Valkotornin letto](/adventures/first-party/img/cas-1/White Tower Fens.webp)
 
 ## 1. Vihellysvaahtera
 
