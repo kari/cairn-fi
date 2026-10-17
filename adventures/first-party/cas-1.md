@@ -18,9 +18,9 @@ _Kuohuntaa Kaksoisjärvillä_ on ensimmäinen osa Cairn-seikkailupelin toisen la
 **Cairn-seikkailujen sarja 1**
 Yochai Galin laatima seikkailumoduuli Cairnin 2. laitokselle
 
-**Tekijät:** Kirjoittanut Yochai Gal, toimittanut Derek B. ja toimitusavustanut Yossi Krausz, ulkoasu ja paikkakuntakartat Adam Hensley. Kansitaide ja aluekartta Ari-Matti Toivonen. Käännös Kari Silvennoinen.
+**Tekijät:** Kirjoittanut Yochai Gal, toimittanut Derek B. ja toimitusavustanut Yossi Krausz, ulkoasu ja paikkakuntakartat Adam Hensley. Kansitaide ja aluekartta Ari-Matti Toivonen. Suomenkielinen käännös Kari Silvennoinen.
 
-Tuottaja: Cairn Press.
+Alkuperäisen englanninkielisen teoksen tuottaja: Cairn Press.
 
 Tämän teoksen teksti on lisensoitu [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) -käyttöluvalla.
 
