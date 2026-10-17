@@ -41,7 +41,7 @@ Kaksi viikkoa sitten **Aldra**, Kannaskylän rakastettu lihakauppias, katosi yht
 ## Koukut
 
 - [Vuorovetten tuomat](#vuorovetten-tuomat) ovat suostuneet maksamaan seurueelle 750gp Aldran olinpaikan selvittämisestä. 250gp:n lisäpalkkio maksetaan, jos miehen ruumis löydetään ja palautetaan Vuorovetten tuomien alttaripalvelijalle asianmukaista hautausta varten. Heidän on määrä tavata Flavia Kannaskylän lihakaupassa ennen kuin he aloittavat etsintänsä.
-- Kaupungit tarjoavat 200gp sille, joka voi auttaa löytämään Jandyn, kymmenystenkerääjän, jonka olisi pitänyt palata jo päiviä sitten mukanaan viimeisimmät kymmenykset. Seurue saa palkkionsa vain jo kymmenykset on palautettu kokonaisuudessaan ja tilitettynä. Heidän on tavattava Vouti Täysitupa-majatalolla ennen kuin he aloittavat etsintänsä.
+- Kaupungit tarjoavat 200gp sille, joka voi auttaa löytämään Jandyn, kymmenystenkerääjän, jonka olisi pitänyt palata jo päiviä sitten mukanaan viimeisimmät kymmenykset. Seurue saa palkkionsa vain, jos kymmenykset on palautettu kokonaisuudessaan ja tilitettynä. Heidän on tavattava Vouti Täysitupa-majatalolla ennen kuin he aloittavat etsintänsä.
 
 ## Mitä täällä oikeasti on meneillään?
 
@@ -102,12 +102,12 @@ Heitä joka päivä 1d8 selvittääksesi, kuka joutuu uhriksi.
 
 ## Vouti Trellis
 
-Karismaattinen hahmo, suosittu ja karskin komea. Puhuu korostetun venytettyllä äänellä ja unohtaa jatkuvasti nimiä. Täysitupa-majatalon omistaja ja äskettäin valittu hoitamaan kylän asioita.
+Karismaattinen, suosittu ja karskin komea mies. Puhuu korostetun venytettyllä äänellä ja unohtaa jatkuvasti nimet. Hän on Täysitupa-majatalon omistaja ja äskettäin valittu hoitamaan kylän asioita.
 
-- Pysyy mahdollisimman paljon poissa pelaajahahmojen tieltä, mutta ryhtyy toimimaan heitä vastaan, jos he osoittavat kiinnostusta Aldraa kohtaan.
+- Pysyy mahdollisimman paljon poissa pelaajahahmojen tieltä, mutta ryhtyy toimimaan heitä vastaan, jos nämä osoittavat kiinnostusta Aldraa kohtaan.
 - Tietää, että Jandy ei koskaan tullut hakemaan kymmenyksiä, mutta kaikki jatkokysymykset miehen tavaroista ohjataan Drumille, joka työskentelee majatalossa, jossa Jandy majoittui.
-- Voudin työhuoneessa oleva virallinen **kymmenyskirjanpito** on väärennös. Oikeaa kirjanpitoa säilytetään Täysitupa-majatalon **kellarissa**. Hänen rikoksensa voidaan paljastaa myös vertaamalla tätä kirjanpitoa Jandyn omaan [kymmenyskirjanpitoon](#1-sisätila).
-- Jos hänen henkeään uhataan, hän tunnustaa varastaneensa kymmenyksistä, mutta ei myönnä Aldran murhaa.
+- Voutin työhuoneessa oleva virallinen **kymmenyskirjanpito** on väärennös. Oikeaa kirjanpitoa säilytetään Täysitupa-majatalon **kellarissa**. Hänen rikoksensa voidaan paljastaa myös vertaamalla tätä kirjanpitoa Jandyn omaan [kymmenyskirjanpitoon](#1-sisätila).
+- Jos hänen henkeään uhataan, hän tunnustaa varastaneensa kymmenyksiä, mutta ei myönnä Aldran murhaa.
 
 ## Fasha
 
@@ -122,7 +122,7 @@ Dunstonista kotoisin oleva maanviljelijä, aiemmin heikko ja töykeä, nyt nautt
 
 Vankkarakenteinen ja suosittu lihakauppias, vakaumuksellinen Vuortovetten tuoma sekä Flavian aviomies. He omistivat yhdessä lihakaupan.
 
-- Murhayönä Aldra oli työpöytänsä ääressä, kun hän näki Voudin kantavan suuria laukkuja ulos [kellarin luukusta](#kellari). Hän hiipi hiljaa ulos, varoen herättämästä vaimoaan, ja seurasi Voutia. Myöhemmin samana yönä Fasha raahasi Aldran elottoman ruumiin Luusuolle ja murhasi hänet ruokkiakseen [Vukia](#vuk).
+- Murhayönä Aldra oli työpöytänsä ääressä, kun hän näki Voutin kantavan suuria laukkuja ulos [kellarin luukusta](#kellari). Hän hiipi hiljaa ulos, varoen herättämästä vaimoaan, ja seurasi Voutia. Myöhemmin samana yönä Fasha raahasi Aldran elottoman ruumiin Luusuolle ja murhasi hänet ruokkiakseen [Vukia](#vuk).
 
 ## Flavia
 
@@ -220,7 +220,7 @@ Kauppiaiden, oppineiden ja hyvin vaikutusvaltaisten henkilöiden yhteenliittymä
 
 ## Täysitupa
 
-Kannaskylän ainoa kappakka ja ainoa paikka, jossa matkailijat voivat levätä turvallisesti. Yöpyminen jaetussa huoneessa maksaa 10gp, ja hintaan sisältyy sipulikeitto ja laimeaa olutta. Viereisissä tallissa on tarjolla perusmajoitusta hintaan 5gp per yö. Majatalon omistaa Vouti Trellis, mutta suurimman osan varsinaisesta työstä hoitavat Drum ja paikallinen kokki.
+Kannaskylän ainoa kapakka ja ainoa paikka, jossa matkailijat voivat levätä turvallisesti. Yöpyminen jaetussa huoneessa maksaa 10gp, ja hintaan sisältyy sipulikeitto ja laimeaa olutta. Viereisessä tallissa on tarjolla perusmajoitusta hintaan 5gp per yö. Majatalon omistaa Vouti Trellis, mutta suurimman osan varsinaisesta työstä hoitavat Drum ja paikallinen kokki.
 
 ### Ulkopuolella
 
@@ -235,7 +235,7 @@ Rakennus on H-kirjaimen muotoinen, ja sen pääsisäänkäynti on koilliskulmass
 
 Kapakkaosa on pieni; siellä on vain kolme pöytää, jotka on sijoitettu kohtisuoraan baaritiskiin nähden. Kaikki vierashuoneet sijaitsevat toisessa kerroksessa, jonne pääsee yhden, eteläpuolella sijaitsevan portaikon kautta. Pieni toimisto sijaitsee nurkassa. Sen ovi on lähes aina lukossa (vain Vouti Trellisillä on avain), mutta se on helppo tiirikoida auki. Kapakka on käytännössä suljettu klo 15:een asti, jolloin Drum ja kokki saapuvat siivoamaan ja valmistamaan ruokaa.
 
-#### Voudin työhuone
+#### Voutin työhuone
 
 Kostea, epämukava huone Täysitupa-majatalon takana. Tila on tyhjä, lukuun ottamatta **työpöytää** ja lukittua **kellarin ovea**. Pöydällä on pieni **kirja**.
 
@@ -248,7 +248,7 @@ Pieni, kostea tila, joka oli täynnä erilaisia **laatikoita**. Ilma on täynnä
 
 - **Laatikko**: Vaatteita, taloustavaroita, ruokaa. Ne on merkitty yhden suurkaupungin kymmenyksiksi.
   - Nämä on tarkoitettu Jandylle, joka jätti ne noutamatta viikko sitten.
-- **Työpöytä**: Työkaluja ovn hajallaan pitkin työpöytää.
+- **Työpöytä**: Työkaluja on hajallaan pitkin työpöytää.
   - Työpöydän alla on piilotettu valelokero. Siellä on kaupungin todellinen **kymmenystilikirja**. Vertailemalla tätä kirjaa yläkerran toimistossa olevaan väärennettyyn tilikirjaan tai sen kaksoiskappaleeseen Jandyn **laukussa** voidaan todistaa, että Vouti on varastanut Kaupungeille kuuluvista kymmenyksistä.
 - **Luukku**: Johtaa ylös majatalon ja lihakaupan väliselle kujalle. Sen läpi on pujotettu paksu ketju, joka on sitten kiinni suurella messinkilukolla. Ainoastaan Vouti Trellisillä on avain.
 
