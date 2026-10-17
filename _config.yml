@@ -44,3 +44,7 @@ last_edit_time_format: "%b %e %Y %H:%M" # uses ruby's time format: https://ruby-
 
 # If you want to ignore the monsters folder during builds
 # exclude: /resources/monsters
+
+sass:
+  quiet_deps: true # https://github.com/just-the-docs/just-the-docs/issues/1541
+  silence_deprecations: ['import'] # https://github.com/just-the-docs/just-the-docs/issues/1607
