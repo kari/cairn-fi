@@ -51,7 +51,7 @@ Mitkä näyttävät aluksi olevan toisiinsa liittyviä tapahtumia ovatkin itse a
 
 ### Kuusi kuukautta sitten
 
-Suurimman osan elämästään Fasha oli nöyrä, itsekäs maanviljelijä, joka ansaitsi niukan toimeentulonsa **Dunstonissa**. Jo jonkin aikaa hän oli toiminut Reeve Trellisin oikeana kätenä, auttaen tätä säännöllisesti varastamaan Kaupungeille kuuluvia kymmenyksiä ja kätkemällä osan saaliista yön pimeydessä **Dunstonissa** sijaitsevaan **Hylättyyn taloon**.
+Suurimman osan elämästään Fasha oli nöyrä, itsekäs maanviljelijä, joka ansaitsi niukan toimeentulonsa **Dunstonissa**. Jo jonkin aikaa hän oli toiminut Vouti Trellisin oikeana kätenä, auttaen tätä säännöllisesti varastamaan Kaupungeille kuuluvia kymmenyksiä ja kätkemällä osan saaliista yön pimeydessä **Dunstonissa** sijaitsevaan **Hylättyyn taloon**.
 
 Eräänä päivänä, kun Fasha käveli **Luusuon** vierestä, hän kuuli naisen äänen kutsuvan häntä pinnan alta. Ääni, joka kutsui itseään Vukiksi, pyysi Fashaa vapauttamaan hänet. Fasha suostui, ja sai vastineeksi **Vukin silmän**.
 
