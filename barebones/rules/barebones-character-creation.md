@@ -225,7 +225,7 @@ Määritä hahmosi tausta ja aloitusvarusteet tekemällä heitto seuraavaa taulu
 |   3  | **Alttaripalvelija**: Suitsuke, pergamentti ja mustetta (3 käyttöä), [loitsukirja](/barebones/rules/barebones-spellbooks)                                                        |
 |   4  | **Apteekkari**: Vastamyrkky, sidetarpeita (3 käyttöä), suljettava pullo                                                                                                          |
 |   5  | **Baarimestari**: Alkoholia, suljettava pullo, rauhoittava aine                                                                                                                  |
-|   6  | **Erakko**: Viltti, seiväs (8 metriä), tupakkayrtit (3 käyttöä)                                                                                                                  |
+|   6  | **Erakko**: Huopa, seiväs (8 metriä), tupakkayrtit (3 käyttöä)                                                                                                                   |
 |   7  | **Filosofi**: Liitu (_mitätön_), pergamentti ja mustetta, piippu                                                                                                                 |
 |   8  | **Haudankaivaja**: Alkoholia, tikkaat, lapio                                                                                                                                     |
 |   9  | **Haukankasvattaja**: Häkki, käsineet (_mitätön_), pilli (_mitätön_)                                                                                                             |
