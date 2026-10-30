@@ -13,6 +13,8 @@ plugins:
   - jekyll-image-links
   - rpg-callouts
   - jekyll-titles-from-headings
+# Exclude H1 page titles from the sidebar TOC to avoid duplicate entries; keep section headings.
+sidebar_toc_levels: "2..4"
 include:
   - js
 
@@ -42,9 +44,12 @@ footer_content: "Tämän sivun teksti on lisensoitu <a href=\"https://creativeco
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y %H:%M" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
-# If you want to ignore the monsters folder during builds
-# exclude: /resources/monsters
-
 sass:
-  quiet_deps: true # https://github.com/just-the-docs/just-the-docs/issues/1541
-  silence_deprecations: ['import'] # https://github.com/just-the-docs/just-the-docs/issues/1607
+  quiet_deps: true # JTD deprecation warnings from their own theme. Less noise.
+  silence_deprecations: ['import', 'global-builtin', 'color-functions']
+
+# If you want to ignore for faster local builds
+#exclude:
+#  - /resources
+#  - /localization
+#  - /hacks

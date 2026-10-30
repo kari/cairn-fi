@@ -13,9 +13,9 @@ Alla on muutamia vinkkejä, jotka saattavat auttaa tässä työssä!
 
 ## Perusteet
 
-Tutustu [Sääntökokoelmassa](https://fi.cairnrpg.com/cairn-srd/#hirviöiden-luominen) oleviin ohjeisiin. Pari asiaa, jotka kannattaa pitää mielessä:
+Tutustu [Sääntökokoelmassa](first-edition/cairn-srd/#hirviöiden-luominen) oleviin ohjeisiin. Pari asiaa, jotka kannattaa pitää mielessä:
 
-- OSE:ssa (tai B/X:ssä) on erittäin hyvät tietolaatikot, jotka voi helposti typistää pikaista muuntamista varten. Katso lisätietoja [tältä sivulta](https://oldschoolessentials.necroticgnome.com/srd/index.php/General) ja [tästä PDF:stä](https://necroticgnome.com/products/old-school-essentials-adaptation-guidelines).
+- OSE:ssa (tai B/X:ssä) on erittäin hyvät tietolaatikot, jotka voi helposti typistää pikaista muuntamista varten. Katso lisätietoja [tältä sivulta](https://oldschoolessentials.necroticgnome.com/rules/doku.php?id=player_characters:game_statistics) ja [tästä PDF:stä](https://necroticgnome.com/products/old-school-essentials-adaptation-guidelines).
 - Dungeon Worldissa on hienoja hirviöiden "liikkeitä" (_moves_), jotka vertautuvat kriittiseksi vahingoksi varsin mukavasti, joten sieltä vastaavan olennon etsiminen voi todellakin auttaa! Katso esimerkiksi [tämä täältä](http://codex.dungeon-world.com/monster/5698559156420608).
 - Joskus suora käännös tietolaatikon arvoista ei ole vaihtoehto. Se ei haittaa! Tähän löytyy [ratkaisu](#käytä-kerrontaa)!
 
@@ -35,8 +35,8 @@ Alla oleva taulu antaa pätevät ohjeet **ML**:n muuntamisesta **tahdonvoimaksi*
 
 ### Taistelu
 
-- Hyökkäysten **vahinko** on aika suoraviivaista ottaa peleistä kuten OSE (tai B/X); usein voit kopioida ne sellaisinaan. Tarkista [asetaulukosta](/cairn-srd/#aseet-1) jos olet epävarma.
-- Moninkertaiset hyökkäykset (kuten 2 x kynnet, 1 x pisto) tyypillisesti muuntuvat [_Räjähdys_](/cairn-srd/#räjähdykset)- ja/tai "kaksi asetta" -sääntöjen mukaan (esim. d6+d6 on heitä 2d6, pidä korkein).
+- Hyökkäysten **vahinko** on aika suoraviivaista ottaa peleistä kuten OSE (tai B/X); usein voit kopioida ne sellaisinaan. Tarkista [asetaulukosta](/first_edition/cairn-srd/#aseet-1) jos olet epävarma.
+- Moninkertaiset hyökkäykset (kuten 2 x kynnet, 1 x pisto) tyypillisesti muuntuvat [_Räjähdys_](first_edition/cairn-srd/#räjähdykset)- ja/tai "kaksi asetta" -sääntöjen mukaan (esim. d6+d6 on heitä 2d6, pidä korkein).
 - Kun olet epävarma, ajattele kuinka paljon vakavaa vahinkoa olennon on tarkoitus tehdä. Muista että hyökkäyksen vahingon korottamisen sijaan voit harkita sen _vahventamista_ joissain tilanteissa tai käyttää _Räjähdys_ tai "kaksi asetta" -sääntöä.
 
 ### Kyvyt ja taikuus
@@ -49,12 +49,12 @@ Alla oleva taulu antaa pätevät ohjeet **ML**:n muuntamisesta **tahdonvoimaksi*
 
 - Maagiset olennot voivat vain "tietää" läjän loitsuja. Tässä tapauksessa, tee niiden ruumiista maagisia (ja vaarallisia!)
 - Loitsut ovat hankalia; voit antaa taiankäyttäjille Loitsukirjoja, mutta muista että ne saattavat _tiputtaa_ nämä kun ne on kukistettu.
-- Tykkään tehdä niin, että 1d4 Loitsukirjoista räjähtävät tippuessaan ([Kohtalon Noppa](/cairn-srd/#kohtalon-noppa)), vain tehdäkseni asioista jännittävämpiä!
+- Tykkään tehdä niin, että 1d4 Loitsukirjoista räjähtävät tippuessaan ([Kohtalon Noppa](first_edition/cairn-srd/#kohtalon-noppa)), vain tehdäkseni asioista jännittävämpiä!
 
 ### Pelastusheitot
 
-- Voit käyttää _pelastusheittoja_ saadaksesi lisäinformaatiota olennon kyvyistä, erityisesti sen kyvystä välttää fyysisen vamman, taikuuden tai myrkyn aiheuttama kuolema. Katso [OSE:n SRD](https://oldschoolessentials.necroticgnome.com/srd/index.php/Checks,_Damage,_Saves) (englanniksi) lisätietoja varten.
-- Joskus tietolaatikoissa käytetään lyhenteitä kuten (E1) tai (F1) (Tason 1 [Haltija](https://oldschoolessentials.necroticgnome.com/srd/index.php/Elf) tai [Taistelija](https://oldschoolessentials.necroticgnome.com/srd/index.php/Fighter)). Nämä ovat erittäin hyödyllisiä tunnistamaan nopeasti olentojen kyvyt.
+- Voit käyttää _pelastusheittoja_ saadaksesi lisäinformaatiota olennon kyvyistä, erityisesti sen kyvystä välttää fyysisen vamman, taikuuden tai myrkyn aiheuttama kuolema. Katso [OSE:n SRD](https://oldschoolessentials.necroticgnome.com/rules/doku.php?id=adventuring:saving_throws) (englanniksi) lisätietoja varten.
+- Joskus tietolaatikoissa käytetään lyhenteitä kuten (E1) tai (F1) (Tason 1 [Haltija](https://oldschoolessentials.necroticgnome.com/rules/doku.php?id=character_classes:elf_demihuman_class) tai [Taistelija](https://oldschoolessentials.necroticgnome.com/rules/doku.php?id=character_classes:fighter)). Nämä ovat erittäin hyödyllisiä tunnistamaan nopeasti olentojen kyvyt.
 - Harkitse pelastusheittoihin perustuen kuvaavien tunnisteiden lisäämistä, kuten "immuuni myrkkykaasuille" tai "hyvä väistämään luoteja".
 
 Alla olevan taulukon pitäisi auttaa määrittämään, mitkä pelastusheitot kytkeytyvät mihinkin kykyyn.

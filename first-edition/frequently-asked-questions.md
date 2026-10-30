@@ -18,7 +18,7 @@ Lukiessasi pidä [Sääntökokoelma](/cairn-srd) käsillä, etenkin kun puhutaan
 
 - **Esteri** pelaa entistä **Yrttimestaria**.
 - **Pertti** pelaa entistä **Metsästäjää**.
-- Pelaajahahmot etsivät voimakasta [**Muinaisesinettä**](/cairn-srd/#relics), jolla huhutaan olevan parantavia voimia.
+- Pelaajahahmot etsivät voimakasta [**Muinaisesinettä**](/first-edition/cairn-srd/#muinaisesineet), jolla huhutaan olevan parantavia voimia.
 - Hiljattain ryhmä löysi pergamentin, jossa kerrottiin esineen todellinen sijainti jossain kaukaisella itäpuolella **Geunantin metsää**, joka tunnetaan valtavista, ikivanhoista puista, jotka päästävät vain vähän valoa valtavien lehtiensä läpi.
 
 Voit lukea myös koko **esimerkin pelaamisesta** yhtenä kokonaisena sivuna [täällä](/first-edition/example-of-play).
