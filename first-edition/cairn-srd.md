@@ -1036,7 +1036,7 @@ Hetken lepääminen ja veden juominen palauttaa menetetyt HP:t, mutta voi jätt�
 
 Loitsukirjat sisältävät yhden loitsun ja vievät yhden varustepaikan. Kuka tahansa voi loitsia pitämällä Loitsukirjaa molemmilla käsillään ja lukemalla sen sisällön ääneen. Loitsiminen lisää **Väsymyksen** pelaajahahmon varusteluetteloon.
 
-Jos pelaajahahmolla on aikaa ja suojaa, hän voi parantaa loitsua ilman lisäkustannuksia. Jos hän kärsii puutoksesta tai on vaarassa, WIL-pelastusheitto voi olla tarpeen kauheiden seurausten välttämiseksi.
+Jos pelaajahahmolla on aikaa ja suojaa, hän voi tehostaa loitsua ilman lisäkustannuksia. Jos hän kärsii puutoksesta tai on vaarassa, WIL-pelastusheitto voi olla tarpeen kauheiden seurausten välttämiseksi.
 
 ## TAISTELU
 

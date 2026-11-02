@@ -7,7 +7,7 @@ grand_parent: Seikkailut
 
 Seuraava seikkailu on saatavilla:
 
-- [Julkaistuna](https://store.cairnrpg.com/products/cas-2-rise-of-the-blood-olms) (englanniksi)
+- [Painettuna](https://store.cairnrpg.com/products/cas-2-rise-of-the-blood-olms) (englanniksi)
 - [PDF-tiedostona](https://yochaigal.itch.io/rise-of-the-blood-olms) (englanniksi, suomennos tulossa)
 - Markdown-muodossa (katso alla)
 
@@ -19,7 +19,7 @@ Seuraava seikkailu on saatavilla:
 
 ## Tietoja tästä seikkailusta
 
-_CAS-2: Veriolmien nousu_ on aloitusseikkailu, joka on suunniteltu niin uusille kuin kokeneille Vartijoille. Moduuli on tappavan, mutta hahmot kykenevät selviämään hengissä käyttämällä kriittistä ajattelua ja huolellista tutkimista. Jos joku seurueen jäsenistä kuolee, on tärkeämpää, että uusi hahmo liittyy seurueeseen mahdollisimman nopeasti, kuin että pidetään kiinni realismista.
+_CAS-2: Veriolmien nousu_ on aloitusseikkailu, joka on suunniteltu niin uusille kuin kokeneille Vartijoille. Moduuli on tappava, mutta hahmot kykenevät selviämään hengissä käyttämällä kriittistä ajattelua ja huolellista tutkimista. Jos joku seurueen jäsenistä kuolee, on tärkeämpää, että uusi hahmo liittyy seurueeseen mahdollisimman nopeasti, kuin että pidetään kiinni realismista.
 
 ## Periaatteet
 
@@ -42,7 +42,7 @@ Muutama päivä saapumisensa jälkeen alkuperäinen tutkimusretkikunta löysi **
 
 ## Yhdeksän piiri
 
-Kauppiaiden, oppineiden ja hyvin vaikutusvaltaisten henkilöiden yhteenliittymä, joka luottaa huomattavaan varallisuuteensa ja laajaan vakoiluverkostoonsa saavuttaakseen tavoitteensa. He keskittyvät ensisijaisesti **Porttien** löytämiseen, tunnistamiseen ja sääntelyyn. He uskovat, että **muinaisesineet** ovat lujasti sidoksissa **Juuristoon**, ja ovat valmiita maksamaan runsaasti tiedoista, jotka liittyvät kumpaan vain.
+Kauppiaiden, oppineiden ja hyvin vaikutusvaltaisten henkilöiden yhteenliittymä, joka luottaa huomattavaan varallisuuteensa ja laajaan vakoiluverkostoonsa saavuttaakseen tavoitteensa. He keskittyvät ensisijaisesti **Porttien** löytämiseen, tunnistamiseen ja sääntelyyn. He uskovat, että **muinaisesineet** ovat lujasti sidoksissa **Juuristoon**, ja ovat valmiita maksamaan runsaasti tiedoista, jotka liittyvät kumpaankin niistä.
 
 ## Retkikunta
 
@@ -53,11 +53,11 @@ Kauppiaiden, oppineiden ja hyvin vaikutusvaltaisten henkilöiden yhteenliittymä
 
 ## Juuristo
 
-Labyrinttimaiset onkalot ulottuvat mittaamattomien etäisyyksien päähän syvällä maan alla, yhdistäen kaupunkien viemärit kaukaisiin raunioihin. **Juuriston** sisäänkäyntejä (joita kutsutaan **Porteiksi**) sijaitsee ympäri valtakuntaa, mutta ne ovat suojattuja tai taitavasti piilotettuja.
+Vanhan maailman jäännöksiä: labyrinttimaiset onkalot ulottuvat mittaamattomien etäisyyksien päähän syvällä maan alla, yhdistäen kaupunkien viemärit kaukaisiin raunioihin. **Juuriston** sisäänkäyntejä (joita kutsutaan **Porteiksi**) sijaitsee ympäri valtakuntaa, mutta ne ovat suojattuja tai taitavasti piilotettuja.
 
 ## Hopeasilkkijoki
 
-Kaupunkien tärkein vedenlähde, joka virtaa kapean kanjonin, jota kutsutaan **Sormiksi**, läpi. Viime kuukausina tämä muinainen joki on menettänyt suuren osan vedestään, paljastaen [suuren, sinirenkaisen luolan](#c2-luolan-sisäänkäynti). Tämän seurauksena myös veden korkeus luolassa on laskenut huomattavasti.
+Kaupunkien tärkein vedenlähde, joka virtaa kapean kanjonin, jota kutsutaan **Sormiksi**, läpi. Viime kuukausina tämä muinainen joki on menettänyt suuren osan vedestään, paljastaen [suuren, sinirenkaisen luolan](#c2-luolan-sisäänkäynti). Tämän seurauksena myös vedenpinta luolassa on laskenut huomattavasti.
 
 ## Punainen erakkopuu
 
@@ -67,7 +67,7 @@ Kasvaa ylösalaisin, roikkuen katosta puoliksi veden peitossa olevissa luolissa.
 
 Rauhallisia, sokeita luola-asukkaita. Ne hengittävät ilmaa, mutta osaavat uida ja pidättää hengitystään pitkään. Niillä on erinomainen kuulo, ja ne pystyvät havaitsemaan jopa kaikkein heikoimmat värähtelyt tai lämpötilan muutokset. Ne elävät punaisen erakkopuun hedelmistä ja jokikasveista.
 
-Kun tutkimusretkikunta oli sulkenut veden [C7. Valopihassa](#c7-valopiha), Punainen erakkopuu lakkasi tuottamasta hedelmiä. Ilman niitä Olmit kuolevat. Jotkut ovat jopa alkaneet syödä putkimatoja ja tulleet hulluiksi, muuttuen [veriolmeiksi](#veriolmi).
+Kun tutkimusretkikunta oli tukkinut veden [C7. Valopihassa](#c7-valopiha), Punainen erakkopuu lakkasi tuottamasta hedelmiä. Ilman niitä olmit kuolevat. Jotkut ovat jopa alkaneet syödä putkimatoja ja tulleet hulluiksi, muuttuen [veriolmeiksi](#veriolmi).
 
 ## Putkimadot
 
@@ -79,10 +79,10 @@ Koiran kokoisia kasvinsyöjiä, joilla on lyhyet, paksut jalat. Ne ovat sokeita,
 
 ## Luolaston yleiskatsaus
 
-- **Sisäänkäynnit**: Ryhmä saapuu [C1. Leiripaikalle](#c1-leiripaikka), joka on suojassa kallionkielekkeen alla. [C2. Luolan sisäänkäynti](#c2-luolan-sisäänkäynti) sijaitsee leiristä alamäkeen, eikä se ole suoraan näkyvissä **C1**:stä.
+- **Sisäänkäynnit**: Seurue saapuu [C1. Leiripaikalle](#c1-leiripaikka), joka on suojassa kallionkielekkeen alla. [C2. Luolan sisäänkäynti](#c2-luolan-sisäänkäynti) sijaitsee leiristä alamäkeen, eikä se ole suoraan näkyvissä **C1**:stä.
 - **Valo**: Luolissa ei ole luonnonvaloa eikä keinotekoista valonlähdettä.
 - **Metaani**: Alueella [C3. Putkimatojen pesä](#c3-putkimatojen-pesä) on näkyvillä metaanin tuuletusaukko. Ilma on erittäin tulenarkaa, ja pitkäaikainen altistuminen sille voi aiheuttaa päänsärkyä ja pahoinvointia (uhrit kärsivät puutostilasta). Kaasu on hajutonta, mutta avotuli välkkyy ja muuttuu siniseksi tuuletusaukon läheisyydessä.
-- **Luolaston tapahtumat**: Kohtaamistuloksella ryhmän tulisi kohdata yksi kolmesta veriolmista [C9. Veriolmien pesäpaikasta](#c9-veriolmien-pesäpaikka). Heitä [reaktiotaulukkoa](/second-edition/players-guide/core-rules/#reaktiot).
+- **Luolaston tapahtumat**: Kohtaamistuloksella seurueen tulisi kohdata yksi kolmesta veriolmista [C9. Veriolmien pesäpaikasta](#c9-veriolmien-pesäpaikka). Heitä [reaktiotaulukkoa](/second-edition/players-guide/core-rules/#reaktiot).
 
 ## C1. Leiripaikka
 
@@ -99,27 +99,27 @@ Koiran kokoisia kasvinsyöjiä, joilla on lyhyet, paksut jalat. Ne ovat sokeita,
 
 ## C2. Luolan sisäänkäynti
 
-Luolan suuren pystysuoran **suuaukon** reunalla kasvaa sinistä **sammalta**. Kuollutta **joen kasvillisuutta** ja kiviä on hajallaan ympäriinsä. Luolan **sisäänkäynnin** edessä oleva **maa** on mudan peitossa.
+Luolan suuren pystysuoran **suuaukon** reunalla kasvaa sinistä **sammalta**. Kuollutta **joen kasvillisuutta** ja kiviä on hajallaan ympäriinsä. Luolan **sisäänkäynnin** edessä oleva **maa** on mudan ympäröimä.
 
 - **Sammal**: Ihan tavallista sinistä sammalta. Kourallinen on arvoltaan noin 10gp Kaupungeissa.
 - **Luola**: [C3. Putkimatojen pesästä](#c3-putkimatojen-pesä) vuotava metaanin suhina kuuluu heikosti, mutta vain täydellisessä hiljaisuudessa.
 - **Kasvillisuus**: Kuolleet kasvit, simpukankuoret, litteät kivet ja veden uurteet ovat hyviä merkkejä siitä, että tämä alue oli aikoinaan veden alla.
-- **Maa**: Länteen päin johtavat mutaiset jalanjäljet vievät ylämäkeen kohti [C1. Leiripaikkaa](#c1-leiripaikka).
+- **Maa**: Länteen päin mutaiset kengänjäljet vievät ylämäkeen kohti [C1. Leiripaikkaa](#c1-leiripaikka).
 - **Sisäänkäynti**: Avotuli alkaa välkkyä sinisenä [C3. Putkimatojen pesän](#c3-putkimatojen-pesä) läheisyydessä.
 
 ## C3. Putkimatojen pesä
 
 Huoneen **ilma** on tukahduttavaa. Maassa lojuu kolme lihavaa **madon raatoa**. Munankaltaisia **säkkejä** on kasattu koilliskulmaan. Eteläseinällä **lattiassa** suuri **tuuletusaukko** suhisee äänekkäästi.
 
-- **Ilma**: Mätänevien matojen tuottaman kaasun ja metaanivuotojen yhdistelmä on tehnyt tästä huoneesta räjähdysalttiin. Sisäänkäynti avotulen kanssa aiheuttaa räjähdyksen, joka aiheuttaa d6 STR-vahinkoa kaikille lähistöllä oleville ja tuhoaa liekin lähteen.
+- **Ilma**: Mätänevien matojen tuottaman kaasun ja metaanivuotojen yhdistelmä on tehnyt tästä huoneesta räjähdysalttiin. Huoneeseen saapuminen avotulen kanssa laukaisee räjähdyksen, joka tekee d6 STR-vahinkoa kaikille lähistöllä oleville ja tuhoaa liekin lähteen.
 - **Raadot**: Niissä on selkeitä puremajälkiä.
 - **Säkit**: Kourallinen munia (d6 kappaletta). Jos ne laitetaan veteen, ne kuoriutuvat muutaman päivän kuluessa.
-- **Tuuletusaukko**: Erittäin kuuma. Peittämällä se ilma on hengitettävää 1d4 tunnin kuluttua.
+- **Tuuletusaukko**: Erittäin kuuma. Jos sen peittää, ilma on hengitettävää 1d4 tunnin kuluttua.
 - **Lattia**: Tasainen, mutta nousee hieman länsi- ja pohjoisuloskäyntejä kohti. Kaasu nousee kohti [C4. Väijytyshuonetta](#c4-väijytyshuone).
 
 ## C4. Väijytyshuone
 
-Kapea käytävä, jossa on korkeat katot ja hiekka**maaperä**. Itäpäässä kahden suuren **kiven** väliin on muodostunut ahdas käytävä. Kattossa on lukuisia **tippukiviä** ja **kielekkeitä**. **Ilma** on täällä raskasta ja epämiellyttävää. Itäinen uloskäynti laskee kohti [C3. Putkimatojen pesää](#c3-putkimatojen-pesä).
+Kapea käytävä, jossa on korkeat katot ja hiekkainen **maaperä**. Itäpäässä kahden suuren **kiven** väliin on muodostunut ahdas käytävä. Kattossa on lukuisia **tippukiviä** ja **kielekkeitä**. **Ilma** on täällä raskasta ja epämiellyttävää. Itäinen uloskäynti laskee kohti [C3. Putkimatojen pesää](#c3-putkimatojen-pesä).
 
 - **Maaperä**: Yhdensuuntaiset jäljet osoittavat, että kivet on raahattu nykyisille paikoilleen.
 - **Kivet**: Työnnetty paikoilleen, kaventaen kulkua.
@@ -147,26 +147,26 @@ Huone haisee kauhealta, ja **maaperä** on täysin sotkuinen. Ylhäältä, katos
   - Valkoisessa tahmassa näkyy räpylämäisiä jalanjälkiä. Niitä on mahdotonta seurata.
 - **Äänet**: Satoja lepakoita pesii yläpuolella olevassa katossa, paettuaan [C7. Valopihalta](#c7-valopiha).
 - **Sienet**: Kasvavat paksuina ja köysimäisinä, ja niitä voi työntää sivuun. Myrkyllisiä vain syötynä.
-  - Peittävät tunnelin [C11. Kaivolle](#c11-kaivo). Se on juuri tarpeeksi leveä, jotta sen läpi voi ryömiä yksitellen ja peräkkäin.
+  - Peittävät tunnelin [C11. Kaivolle](#c11-kaivo). Se on juuri tarpeeksi leveä, jotta sen läpi voi ryömiä yksitellen.
 
 ## C7. Valopiha
 
 Katosta roikkuu valtava **puu**, jonka juuret ovat näkyvillä. Alhaalle on kertynyt pieni määrä **vettä**. Eteläisen **seinän** lähellä makaa kaksi **ruumista**, kasvot alaspäin.
 
 - **Puu**: Punainen erakkopuu. Se on kuolemaisillaan vedenpuutteeseen.
-  - Jos vesi palaa tähän huoneeseen ja juuret ovat kokonaan veden peitossa, puu selviää ja alkaa tuottaa jälleen hedelmää, ja Olmit [C8. Olmien pesästä](#c8-olmien-pesä) selviävät.
+  - Jos vesi palaa tähän huoneeseen ja juuret ovat kokonaan veden peitossa, puu selviää ja alkaa tuottaa jälleen hedelmää, ja olmit [C8. Olmien pesästä](#c8-olmien-pesä) selviävät.
   - Puun ylimmät oksat ovat lepakon ulosteen peitossa. Puu on yleensä täynnä lepakoita, mutta ne ovat kaikki paenneet [C6. Lepakkohuoneeseen](#c6-lepakkohuone) sen jälkeen kun puu lakkasi tuottamasta hedelmiä.
 - **Vesi**: Rinteeseen on kaivertunut pieni lammikko. Vettä riittää seurueen varastojen täydentämiseen, mutta ei muuhun. Mätiä hedelmiä kelluu pinnalla.
-  - Vesi voidaan palauttaa tuhoamalla pato [C9. Veriolmien pesäpaikasta](#c9-veriolmien-pesäpaikka).
+  - Vesi voidaan palauttaa tuhoamalla [C9. Veriolmien pesäpaikassa](#c9-veriolmien-pesäpaikka) oleva pato.
 - **Ruumiit**: Mitä **Farajista** ja **Orenista** on jäljellä. Veriolmi on repinyt heidät palasiksi.
-  - Näyttävät olleen kuolleenna vähintään kolmen päivän ajan.
-  - Kaksikosta suuremmalta (**Oren**) löytyy pieni veitsi (d6), soihtu (1 käyttökerta jäjellä) ja 47gp. Pienemmältä (**Faraj**) löytyy kompassi (55gp) ja tylppä lapio (d6).
+  - Näyttävät olleen kuolleina vähintään kolmen päivän ajan.
+  - Kaksikosta suuremmalta (**Oren**) löytyy pieni veitsi (d6), soihtu (1 käyttökerta jäljellä) ja 47gp. Pienemmältä (**Faraj**) löytyy kompassi (55gp) ja tylppä lapio (d6).
 
 ![BloodOlm (takakansi)](/adventures/first-party/img/cas-2/BloodOlm_Backcover.webp)
 
 ## C8. Olmien pesä
 
-Lämmin, ahdas. 10-14 **Olmia** nukkumassa, syömässä, kuiskailemassa. **Seinät** ovat tiivistetystä savesta, ja niihin on maalattu kirkkailla väreillä. Koillispuolella oleva pieni **valli** on täynnä vettä. Huoneessa on erittäin kosteaa ja lämmintä. Lattia on täynnä mädäntyneitä hedelmiä ja ulosteita.
+Lämmin, ahdas. 10-14 **olmia** nukkumassa, syömässä, kuiskailemassa. **Seinät** ovat tiivistetystä savesta, ja niihin on maalattu kirkkailla väreillä. Koillispuolella oleva pieni **valli** on täynnä vettä. Huoneessa on erittäin kosteaa ja lämmintä. Lattia on täynnä mädäntyneitä hedelmiä ja ulosteita.
 
 - **Olmit**: Sairaita. Eri kokoisia. Jotkut näyttävät liikkumattomilta.
   - Eivät kiinnitä huomiota pelaajahahmoihin, ellei niillä ole tuoreita hedelmiä mukanaan (ne haistavat ne).
@@ -181,13 +181,13 @@ Lämmin, ahdas. 10-14 **Olmia** nukkumassa, syömässä, kuiskailemassa. **Sein�
 
 ## C9. Veriolmien pesäpaikka
 
-Vasta tehdy, tiivistyneestä vedestä märät **seinät**. Ruumiita ja **verilöylyn** jälkiä on ympäriinsä. Täällä on kolme **veriolmia**.
+Vasta tehdyt, tiivistyneestä vedestä märät **seinät**. Ruumiita ja **verilöylyn** jälkiä on ympäriinsä. Täällä on kolme **veriolmia**.
 
 - **Seinät**: Näyttävät äskettäin rakennetuilta. Vettä tippuu pohjoispuolella sijaitsevasta padosta.
   - Retkikunta käytti tässä Mutasiivilää tukkimaan maanalaisen joen, jolloin puun vedensaanti katkesi. Jos pato vaurioituu, se murtuu 1d4 minuutin kuluessa täyttäen luolan vedellä (DEX-pelastusheitto, jotta pääsee uiden turvaan).
 - **Verilöyly**: Puolen tusinan olmin, putkimadon ja lepakon jäännöksiä.
-- **Veriolmit**: Enintään kolme, riippuen siitä, miten ryhmä eteni luolastossa.
-  - Jos pelaajahahmot tulivat sisään [C1. Leiripaikan](#c1-leiripaikka) kautta tai aiheuttivat paljon meteliä, veriolmit ovat heränneet ja valppaina. _Heitä [reaktiotaulukkoa](/second-edition/players-guide/core-rules/#reaktiot)_.
+- **Veriolmit**: Enintään kolme, riippuen siitä, miten seurue eteni luolastossa.
+  - Jos pelaajahahmot tulivat sisään [C1. Leiripaikan](#c1-leiripaikka) kautta tai aiheuttivat paljon meteliä, veriolmit ovat hereillä ja valppaina. _Heitä [reaktiotaulukkoa](/second-edition/players-guide/core-rules/#reaktiot)_.
   - Jos pelaajahahmot tulivat sisään [C2. Luolan sisäänkäynnin](#c2-luolan-sisäänkäynti) kautta ja kulkivat varovasti luolaston halki, olennot ovat unessa.
   - Veriolmit eivät anna pelaajahahmojen hukuttaa pesäänsä, ja ne hyökkäävät jokaisen padon tuhoamista yrittävän kimppuun.
 
@@ -197,7 +197,7 @@ Tähän huoneeseen johtava käytävä on tukittu lattiasta kattoon **mutaseinäl
 
 - **Muta**: Täysin sileää, tiivistynyttä ja kuivunutta mutaa. Läpikaivaminen käsin vie tunnin ja työkaluilla vain pari minuuttia.
 - **Kengänjäljet**: Valkoiset, lepakon ulosteista. Johtavat suoraan kohti mutaseinää, aivan kuin sitä ei olisi siinä.
-  - Puhuminen äänekkäästi herättää [C10b. Suojan](#c10b-suoja) asukkaan huomion ja hän huutaa huomiota. Mudan takia hänen äänensä kuitenkin vaimenee huomattavasti.
+  - Puhuminen äänekkäästi herättää [C10b. Suojan](#c10b-suoja) asukkaan huomion ja hän huudahtaa. Mudan takia hänen äänensä kuitenkin vaimenee huomattavasti.
 
 ## C10b. Suoja
 
@@ -213,7 +213,7 @@ Pieni, pyöreä huone, jonka **seinät** ovat kiveä ja jossa katon sijasta on s
 - **Seinät**: Tämä huone sijaitsee kuivan kaivon pohjalla. Yllä oleva aukko jatkuu 25 metriä ylöspäin, ennen kuin se päättyy mutaiselle kattoon, joka syntyi kaivon romahtaessa vuosikymmeniä sitten.
 - **Jätteet**: Vanha metallinen ämpäri, joukko pieniä posliinikuppeja ja ihmisen luuranko.
   - Kupit ovat erinomaisessa kunnossa, mutta silti hyvin hauraita. Ne ovat yhdessä arvoltaan 150gp.
-  - Rusal kertoo, että hän löysi luurangon monia vuosia sitten ja päätti pitää sen lähellään, koska hän oli yksinäinen. Hän tulee hyökkäämään sen koskemttamista yrittävän kimppuun.
+  - Rusal kertoo, että hän löysi luurangon monia vuosia sitten ja päätti pitää sen lähellään, koska hän oli yksinäinen. Hän tulee hyökkäämään sen koskettamista yrittävän kimppuun.
 - **Laatta**: Rusal nukkuu kankaan päällä. Laatta oli aikoinaan osa vanhaa (ja jo kauan sitten tuhoutunutta) kylää, joka käytti tätä kaivoa.
 
 # Rusal
@@ -222,19 +222,19 @@ Pieni, pyöreä huone, jonka **seinät** ovat kiveä ja jossa katon sijasta on s
 
 Vihreäihoinen, iäkäs ihmisolento, jolla on pitkä, varpaiden tasalle ylettyvä, valkoinen parta. Hänen sammakkomaiset silmänsä ovat sameat, mutta vilkkaat. Hänen kätensä ja jalkansa ovat räpylämäiset, ja hän on aina alasti.
 
-- Rusal, joen ja luolan henki, on aina asunut näissä luolissa. Hän muutti vanhaan kaivoon vasta sen jälkeen, kun lepakot olivat vallanneet hänen entisen asuinpaikkansa [C6. Lepakkohuoneessa](#c6-lepakkohuone). Hän on syvästi huolissaan luonnon epätasapainosta, mutta ei aio ryhtyä mihinkään toimenpiteisiin Veriolmeja vastaan. "Ne ovat nyt osa uutta tasapainoa."
+- Rusal, joen ja luolan henki, on aina asunut näissä luolissa. Hän muutti vanhaan kaivoon vasta sen jälkeen, kun lepakot olivat vallanneet hänen entisen asuinpaikkansa [C6. Lepakkohuoneessa](#c6-lepakkohuone). Hän on syvästi huolissaan luonnon epätasapainosta, mutta ei aio ryhtyä mihinkään toimenpiteisiin veriolmeja vastaan. "Ne ovat nyt osa uutta tasapainoa."
 - Hän on erittäin tyytymätön viimeaikaisiin tapahtumiin. Ensin joki menetti suurimman osan vedestään, sitten tunkeilijat saapuivat ja sekoittivat mutaa ikään kuin se olisi vettä, sitten puu alkoi kuolla, ja lopulta olmit ryhtyivät syömään toisiaan. Koska hänen vanha kotinsa oli peittynyt lepakon ulosteisiin, hän joutui muuttamaan ”vanhaan kaivoon” ([C11. Kaivo](#c11-kaivo)). Jos lepakot saavat palata Valopihalle ([C7. Valopiha](#c7-valopiha)) hän on siitä erittäin kiitollinen ja myöntää **lahjan** yhdelle pelaajahahmolle.
-- Muussa tapauksessa hän tarjoaa mielellään vaihtokauppaa pelaajahahmojen kanssa ja lupaa suurta voimaa - tietysti tietystä hinnasta. Hän hyväksyy kuitenkin maksuna vain hämyisiä, abstrakteja käsitteitä: henkilön puhetta, kotimuistoja, kunnianhimoja, naurua jne. Hän rakastaa kaikenlaisten kauppojen tekemistä, ja erityisesti kauppojen sisällä olevia kauppoja.
+- Muussa tapauksessa hän tarjoaa mielellään vaihtokauppaa pelaajahahmojen kanssa ja lupaa suurta voimaa - tietysti tietystä hinnasta. Hän hyväksyy kuitenkin maksuna vain hämyisiä, abstrakteja käsitteitä: henkilön puhetta, kotimuistoja, kunnianhimoja, naurua jne. Hän rakastaa kaikenlaisten kauppojen tekemistä ja erityisesti kauppojen sisällä olevia kauppoja.
 - Häntä ei voi vahingoittaa millään tavanomaisella tavalla, mutta hän pakenee palavaa tupakkaa tai suitsuketta (hän ei yksinkertaisesti pidä niiden hajusta). Hän kuitenkin todella pitää musiikista ja tanssimisesta.
 
 | **d6** | **Lahja** (Heitä uudelleen, jos tulos on sama tai ei päde.)                                             |
 | ------ | ------------------------------------------------------------------------------------------------------- |
-| **1**  | Veden hengittäminen. Mitä pidempään vietät aikaa vedessä, sitä enemmän haluat palata sinne.             |
+| **1**  | Veden hengittäminen. Mitä pidempään vietät aikaa vedessä, sitä enemmän tarvitset palata sinne.          |
 | **2**  | Parantaa sairauden tai vaivan. Heitä STR- tai DEX-arvo uudelleen ja pidä tulos.                         |
 | **3**  | Vastaanota suuri kyky, joka on suuren taiteilijan arvoinen. Se ei kuitenkaan tuota sinulle mitään iloa. |
 | **4**  | Paina loitsukirja pysyvästi mieleesi (menetät 1d4 WIL-pistettä). Tämä tuhoaa loitsukirjan.              |
 | **5**  | Minkä tahansa oven avain, joka toimii vain kerran. Se näyttää kalanruodolta (mitätön).                  |
-| **6**  | Voimakkaan salaisuuden takana piilevä tootuus. Vain sinä kuulet tuloksen.                               |
+| **6**  | Voimakkaan salaisuuden takana piilevä totuus. Vain sinä kuulet tuloksen.                                |
 
 # Sivuhahmojen tiedot
 
@@ -242,7 +242,7 @@ Vihreäihoinen, iäkäs ihmisolento, jolla on pitkä, varpaiden tasalle ylettyv�
 
 6 HP, 11 STR, 15 DEX, 17 WIL, terotettu kiipeilyhaka (d6). Pitkä ja ylimielinen Kirjuri, joka on menettänyt järkensä.
 
-- Söi putkimadon lihaa muutama päivä sen jälkeen, kun joki oli padottu [C9. Veriolmien pesäpaikassa](#c9-veriolmien-pesäpaikka). Se ajoi hänet hiljalleen hulluksi, ja hänen silmänsä muuttuivat syvän punaisiksi. Yritti murhata **Jhel-Friesin**, mutta epäonnistui.
+- Söi putkimadon lihaa muutama päivä sen jälkeen, kun joki oli padottu [C9. Veriolmien pesäpaikassa](#c9-veriolmien-pesäpaikka). Se ajoi hänet hiljalleen hulluksi, ja hänen silmänsä muuttuivat syvänpunaisiksi. Yritti murhata **Jhel-Friesin**, mutta epäonnistui.
 - Kantaa mukanaan pientä kääröä (mitätön), jossa selitetään, miten Mutasiivilä toimii. Sivun alareunassa on 3 mustaa merkkiä, jotka osoittavat, kuinka monta latausta muinaisesineellä on, kun se on ladattu.
 - Hänet voidaan parantaa vain Kaupungeissa tarjottavan erikoistuneen hoidon avulla. Hän vastustaa kaikkia yrityksiä poistua luolista ja yrittää tappaa jokaisen kohtaamansa elävän olennon.
 
@@ -250,9 +250,9 @@ Vihreäihoinen, iäkäs ihmisolento, jolla on pitkä, varpaiden tasalle ylettyv�
 
 8 HP, 14 STR, 11 DEX, 4 WIL, kynnet (d8+d8)
 
-- Sokeita, lihaaysöviä ihmisolentoja, jotka metsästävät lämpöjäljen avulla. Avoimesti kannibalistisia.
+- Sokeita, lihaasyöviä ihmisolentoja, jotka metsästävät lämpöjäljen avulla. Avoimesti kannibalistisia.
 - Välttävät metaanikaasua sisältäviä alueita, ja yrittävät sammuttaa kaikki avotulet.
-- **Kriittinen vahinko**: Suuri pala lihaa puraristaan irti (d6 STR-vahinkoa)
+- **Kriittinen vahinko**: Suuri pala lihaa puraistaan irti (d6 STR-vahinkoa)
 
 ## Olmi
 

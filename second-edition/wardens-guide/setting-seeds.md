@@ -444,12 +444,12 @@ Kartalla olevat kiinnostavat kohdepisteet (POI, _"point of interest"_) jaetaan y
 
 ### Kohdepisteiden nopanputoamistaulukko
 
-| **d6**  | **Kohdepiste**    |
-| ------- | ----------------- |
-| **1**   | Etappi tai Asutus |
-| **2-3** | Erikoisuus        |
-| **4**   | Pesäpaikka        |
-| **5-6** | Luolasto          |
+| **d6**  | **Kohdepiste**           |
+| ------- | ------------------------ |
+| **1**   | Virstanpylväs tai Asutus |
+| **2-3** | Erikoisuus               |
+| **4**   | Pesäpaikka               |
+| **5-6** | Luolasto                 |
 
 ### Asutukset
 

@@ -7,7 +7,7 @@ grand_parent: Seikkailut
 
 Seuraava seikkailu on saatavilla:
 
-- [Julkaistuna](https://store.cairnrpg.com/products/cas-1-trouble-in-twin-lakes) (englanniksi)
+- [Painettuna](https://store.cairnrpg.com/products/cas-1-trouble-in-twin-lakes) (englanniksi)
 - [PDF-tiedostona](https://yochaigal.itch.io/trouble-in-twin-lakes) (englanniksi, suomennos tulossa)
 - Markdown-muodossa (katso alla)
 
@@ -45,7 +45,7 @@ Kaksi viikkoa sitten **Aldra**, Kannaskylän rakastettu lihakauppias, katosi yht
 
 ## Mitä täällä oikeasti on meneillään?
 
-Mitkä näyttävät aluksi olevan toisiinsa liittyviä tapahtumia ovatkin itse asiassa _pelkkiä yhteensattumia_. Aldran kohtalo ja Kuolomyllyssä olevan miehen kohtalo eivät itse asiassa liity toisiinsa lainkaan. Vaikka sekä _Vukin paluu_ että _Nielty mies_ jakavat joitakin hahmoja ja tapahtumapaikkoja, niiden taustalla olevat tapahtumat eivät liity mitenkään toisiinsa.
+Se, mikä aluksi näyttää joukolta toisiinsa liittyviä tapahtumia, onkin itse asiassa _pelkkiä yhteensattumia_. Aldran kohtalo ja Kuolomyllyssä olevan miehen kohtalo eivät itse asiassa liity toisiinsa lainkaan. Vaikka sekä _Vukin paluu_ että _Nielty mies_ jakavat joitakin hahmoja ja tapahtumapaikkoja, niiden taustalla olevat tapahtumat eivät liity mitenkään toisiinsa.
 
 ## Vukin paluu
 
@@ -53,11 +53,11 @@ Mitkä näyttävät aluksi olevan toisiinsa liittyviä tapahtumia ovatkin itse a
 
 Suurimman osan elämästään Fasha oli nöyrä, itsekäs maanviljelijä, joka ansaitsi niukan toimeentulonsa **Dunstonissa**. Jo jonkin aikaa hän oli toiminut Vouti Trellisin oikeana kätenä, auttaen tätä säännöllisesti varastamaan Kaupungeille kuuluvia kymmenyksiä ja kätkemällä osan saaliista yön pimeydessä **Dunstonissa** sijaitsevaan **Hylättyyn taloon**.
 
-Eräänä päivänä, kun Fasha käveli **Luusuon** vierestä, hän kuuli naisen äänen kutsuvan häntä pinnan alta. Ääni, joka kutsui itseään Vukiksi, pyysi Fashaa vapauttamaan hänet. Fasha suostui, ja sai vastineeksi **Vukin silmän**.
+Eräänä päivänä, kun Fasha kulki **Luusuon** läheltä, hän kuuli naisen äänen kutsuvan häntä pinnan alta. Ääni, joka kutsui itseään Vukiksi, pyysi Fashaa vapauttamaan hänet. Fasha suostui, ja sai vastineeksi **Vukin silmän**.
 
 ### Nyt
 
-Kaksi viikkoa sitten Fashan ja Vuodin myöhäisillan puuhat herättivät paikallisen lihakauppiaan, **Aldran**, huomion. Hän seurasi miehiä takaisin Dunstoniin toivoen saavansa heidät kiinni itse teosta. Mutta Fasha oli varautunut: hän väijyi lihakauppiasta ja raahasi tämän **[Sieniliskojen temppeliin](#sieniliskojen-temppeli)**. Siellä Vuk repi hänen sydämensä irti ruumiista ja söi sen. Ja vaikka Vouti Trellis tietääkin, että Fasha on vastuussa Aldran kohtalosta, pelko ja itsekkyys saavat hänet pysymään osallisena.
+Kaksi viikkoa sitten Fashan ja Voutin myöhäisillan puuhat herättivät paikallisen lihakauppiaan, **Aldran**, huomion. Hän seurasi miehiä takaisin Dunstoniin toivoen saavansa heidät kiinni itse teosta. Mutta Fasha oli varautunut: hän väijyi lihakauppiasta ja raahasi tämän **[Sieniliskojen temppeliin](#sieniliskojen-temppeli)**. Siellä Vuk repi hänen sydämensä irti ruumiista ja söi sen. Ja vaikka Vouti Trellis tietääkin, että Fasha on vastuussa Aldran kohtalosta, pelko ja itsekkyys saavat hänet pysymään osallisena.
 
 Viikkoja on kulunut Aldran katoamisesta. Sillä välin Vuk vaatii joka päivä lisää uhrauksia nopeuttaakseen uudelleensyntymistään. Joka toinen ilta Fasha sieppaa uuden uhrin ja vie tämän **Sieniliskojen temppeliin**, jotta Vuk voi syödä uhrin vielä sykkivän sydämen seuraavana aamuna.
 
@@ -67,7 +67,7 @@ Viikkoja on kulunut Aldran katoamisesta. Sillä välin Vuk vaatii joka päivä l
 
 **Jandy**, taustaltaan Kirjuri, matkusti säännöllisesti **Kannaskylään** keräämään kymmenyksiä Kaupunkien nimissä. Hän oli jo kuukausien ajan kirjoittanut alueen lyhyttä historiaa, haastatellen paikallisia ja vieraillen eri kulttuurikohteissa. Osana kyseistä tutkimusta hän vieraili **[Kuolomyllyssä](#kuolomylly)** viikkoa ennen seikkailun alkua. Jandyn kannalta ikävästi paikka oli täynnä maansortumia ja juoksuhiekkaa.
 
-Tietämättömänä vaaroista Jandy putosi juoksuhiekkaan ja menehtyi. Koska hän oli kuitenkin lähellä **Kaikukipinää**, hänet palasi takaisin, mutta hänellä ei ollut mitään muistikuvaa kuolemastaan. Hän sitten astui jälleen juoksuhiekkaan ja jatkoi loputonta kuoleman silmukkaa.
+Tietämättömänä vaaroista Jandy putosi juoksuhiekkaan ja menehtyi. Koska hän oli kuitenkin lähellä **Kaikukipinää**, hänet palautettiin takaisin, mutta hänellä ei ollut mitään muistikuvaa kuolemastaan. Hän sitten astui jälleen juoksuhiekkaan ja jatkoi loputonta kuoleman silmukkaa.
 
 Seuraavana yönä paikallinen teini, **Drum**, näki, kuinka maa nielaisi miehen kokonaan Kuolomyllyssä. Koska täysikuuhun on enää vain kaksi päivää, huhut siitä, että jotain pahaa on tapahtumaisillaan, leviävät kulovalkean tavoin.
 
@@ -95,14 +95,14 @@ Heitä joka päivä 1d8 selvittääksesi, kuka joutuu uhriksi.
 | 4  | Drum                                       |
 | 5  | Beju (leski)                               |
 | 6  | Vouti Trellis                              |
-| 7  | Nicolas (matkailija)                       |
+| 7  | Nicolas (matkalainen)                      |
 | 8  | Flavia                                     |
 
 # Tärkeät sivuhahmot
 
 ## Vouti Trellis
 
-Karismaattinen, suosittu ja karskin komea mies. Puhuu korostetun venytettyllä äänellä ja unohtaa jatkuvasti nimet. Hän on Täysitupa-majatalon omistaja ja äskettäin valittu hoitamaan kylän asioita.
+Karismaattinen, suosittu ja karskin komea mies. Puhuu korostetulla, venytetyllä äänellä ja unohtaa jatkuvasti nimet. Hän on Täysitupa-majatalon omistaja ja äskettäin valittu hoitamaan kylän asioita.
 
 - Pysyy mahdollisimman paljon poissa pelaajahahmojen tieltä, mutta ryhtyy toimimaan heitä vastaan, jos nämä osoittavat kiinnostusta Aldraa kohtaan.
 - Tietää, että Jandy ei koskaan tullut hakemaan kymmenyksiä, mutta kaikki jatkokysymykset miehen tavaroista ohjataan Drumille, joka työskentelee majatalossa, jossa Jandy majoittui.
@@ -120,7 +120,7 @@ Dunstonista kotoisin oleva maanviljelijä, aiemmin heikko ja töykeä, nyt nautt
 
 ## Aldra
 
-Vankkarakenteinen ja suosittu lihakauppias, vakaumuksellinen Vuortovetten tuoma sekä Flavian aviomies. He omistivat yhdessä lihakaupan.
+Vankkarakenteinen ja suosittu lihakauppias, vakaumuksellinen Vuorovetten tuoma sekä Flavian aviomies. He omistivat yhdessä lihakaupan.
 
 - Murhayönä Aldra oli työpöytänsä ääressä, kun hän näki Voutin kantavan suuria laukkuja ulos [kellarin luukusta](#kellari). Hän hiipi hiljaa ulos, varoen herättämästä vaimoaan, ja seurasi Voutia. Myöhemmin samana yönä Fasha raahasi Aldran elottoman ruumiin Luusuolle ja murhasi hänet ruokkiakseen [Vukia](#vuk).
 
@@ -129,13 +129,13 @@ Vankkarakenteinen ja suosittu lihakauppias, vakaumuksellinen Vuortovetten tuoma 
 Aldran vaimo ja lihakaupan toinen omistaja. Silmiinpistävästi järkyttynyt, mutta yrittää näyttää rohkealta.
 
 - Hän kertoo, että hänen miehensä otti aina riipuksensa (jossa on kolme vinoa koukeroviivaa) pois ennen nukkumaanmenoa, eikä hän ole nähnyt sitä missään.
-- Hän näki miehensä viimeksi kaksi viikkoa sitten. Kun Flavia oli menossa nukkumaan, mies laski vielä kolikoita työpöytänsä ääressä, kuten hän usein teki yömyöhään asti. Hän laittoi miehen keskeneräiseksi jääneen tilikirjan **[kirjoituspöydän laatikkoon](#lihakauppa)**. Laatikoston avain roikkuu pienessä hopeaketjussa, joka on huomaamattomasti ripustettu hänen kaulaansa.
+- Hän näki miehensä viimeksi kaksi viikkoa sitten. Kun Flavia oli menossa nukkumaan, mies laski vielä kolikoita työpöytänsä ääressä, kuten hän usein teki yömyöhään asti. Hän laittoi miehen keskeneräiseksi jääneen tilikirjan **[kirjoituspöydän laatikkoon](#lihakauppa)**. Laatikon avain roikkuu pienessä hopeaketjussa, joka on huomaamattomasti ripustettu hänen kaulaansa.
 - Jos häneltä kysytään Fashasta, hän sanoo kuulleensa huhuja miehen kävelevän myöhään öisin **Itäjärven solaa** pitkin. Hän inhoaa miestä valtavasti ja pitää tätä töykeänä ja ylimielisenä.
 - Jos häneltä kysytään Givasta, Flavia mainitsee, että vaikka Giva on äreä ja taikauskoinen vanha akka, Aldra piti häntä ihastuttavana.
 
 ## Jandy
 
-Keski-ikäinen, nuhjuinen Kirjuri ja Kaupunkien kymmenystenkerääjä. Kävi säännöllisesti Kannaskylässä keräämässä kymmenykset Vouti Trellisiltä. Hän liikkuu vapaasti hevosella ja vaunulla, sillä yksikään maantierosvo ei edes uneksisi hyökätä Kaupunkien tunnuksia kantavan kimppuun.
+Keski-ikäinen, nuhjuinen Kirjuri ja Kaupunkien kymmenystenkerääjä. Kävi säännöllisesti Kannaskylässä keräämässä kymmenykset Vouti Trellisiltä. Hän liikkuu vapaasti hevosella ja vaunulla, sillä yksikään maantierosvo ei edes uneksisi hyökätä Kaupunkien tunnuksia kantavan henkilön kimppuun.
 
 - Hänellä on vakituinen huone Täysitupa-majatalossa, mutta hänen oli määrä lähteä samana päivänä, jona hän vieraili Kuolomyllyllä. Hänen hevosensa ja vaununsa ovat kuitenkin yhä kylän tallissa.
 - Hän oli ystävällisissä väleissä Givan kanssa ja hän haastatteli Givaa alueen historiaa käsittelevää teosta varten.
@@ -155,11 +155,11 @@ Sarkastinen, laiha teini. Giva on hänen isotätinsä. Työskentelee iltapäivis
 - Hän kokee, että ainoa keino päästä pois Kannaskylästä on kerätä mahdollisimman paljon kultaa. Pitää Vouti Trellisiä huijarina.
 - Jos häneltä kysytään Jandystä, hän huomauttaa, että miehen hevonen ja vaunut ovat yhä tallissa.
 - Todisti jotain outoa Kuolomyllyssä ja on valmis kertomaan siitä - tietystä hinnasta (15gp).
-  - Hän kertoo pelaajahahmoille, että muutama yö sitten hän osallistui leikkiin, jossa paikalliset teini-ikäiset kilpailevat siitä, kuka heistä kykenee seisomaan pisimpään Vanhan myllyn tiellä selkä myllyn länsipäätyä päin. Hän pysyi pisimpään paikoillaan, luovuttaen vasta kuultuaan takanaan ”paukahduksen”. Hän kääntyi ja näki miehen kävelevän ulos myllyn eteläisestä sisäänkäynnistä juuri ennen kuin maa nielaisi hänet edessään. Mies näytti jotenkin tutulta, eikä hän todellakaan ollut paikallinen.
+  - Hän kertoo pelaajahahmoille, että muutama yö sitten hän osallistui leikkiin, jossa paikalliset teini-ikäiset kilpailevat siitä, kuka heistä kykenee seisomaan pisimpään Vanhan myllyn tiellä selkä myllyn länsisisäänkäyntiä päin. Hän pysyi pisimpään paikoillaan, luovuttaen vasta kuultuaan takanaan ”paukahduksen”. Hän kääntyi ja näki miehen kävelevän ulos myllyn eteläisestä sisäänkäynnistä juuri ennen kuin maa nielaisi hänet edessään. Mies näytti jotenkin tutulta, eikä hän todellakaan ollut paikallinen.
 
 ## Annafranax
 
-Vanhempi Noidanpuolikas, joka asuu syvällä Kivimetsässä. Luottaa selviytymisessään harhanäkyihin ja älykkyyteen eikä välitä tippaakaan pikkumaisista käytössäännöistä. Hän on kiinnostunut tutkimaan [Juuristoa](#juuristo), pääasiassa uusien parannuskeinojen ja kadonneen taikuuden löytämiseksi. Hän syö enimmäkseen sieniä sekä satunnaisesti jonkun töykeän matkailijan.
+Vanhempi Noidanpuolikas, joka asuu syvällä Kivimetsässä. Luottaa selviytymisessään harhanäkyihin ja älykkyyteen eikä välitä tippaakaan pikkumaisista käytössäännöistä. Hän on kiinnostunut tutkimaan [Juuristoa](#juuristo), pääasiassa uusien parannuskeinojen ja kadonneen taikuuden löytämiseksi. Hän syö enimmäkseen sieniä sekä satunnaisesti jonkun töykeän matkalaisen.
 
 9 HP, 11 STR, 14 DEX, 17 WIL
 
@@ -171,7 +171,7 @@ Vanhempi Noidanpuolikas, joka asuu syvällä Kivimetsässä. Luottaa selviytymis
 
 # Kaksoisjärvet
 
-Tämä syrjäinen alue sijaitsee Kaupunkien Pohjoispuolella, vain muutaman päivän hevosmatkan päässä **Kyttyrävuorien** halki. **Kannaskylä**, alueen ainoa merkittävä asutus, sijaitsee kapealla maakaistaleella kahden makeanveden järven välissä. Kaupungin eteläpuolella on pääosin viljelymaata, lukuun ottamatta Dunstonia, joka on entinen kalastajakylä.
+Tämä syrjäinen alue sijaitsee Kaupunkien Pohjoispuolella, vain muutaman päivän hevosmatkan päässä, **Kyttyrävuorten** halki. **Kannaskylä**, alueen ainoa merkittävä asutus, sijaitsee kapealla maakaistaleella kahden makeanveden järven välissä. Kaupungin eteläpuolella on pääosin viljelymaata, lukuun ottamatta Dunstonia, joka on entinen kalastajakylä.
 
 Pohjoisessa sijaitsee **Kivimetsä**, laaja metsäalue täynnä vanhoja myllyjä ja puutavaran kuljetuspolkuja. **Länsijärvi** on ympäröivien kylien tärkein kalan ja veden lähde, vaikka sinne ei olekaan kävelyreittejä eikä siellä ole luonnonmukaista viljelyä. Ainoastaan mutkitteleva järvenrantasola on jäljellä aikoinaan vilkkaasta **Itäjärvestä**, josta on nykyään kadonnut sekä kalat että terveellinen juomavesi.
 
@@ -179,12 +179,12 @@ Vaikka aluetta pidetäänkin suhteellisen turvallisena, yöllä matkustaminen on
 
 ![CAS1-kartta v2](/adventures/first-party/img/cas-1/CAS1_Map_v2.webp)
 
-| d6    | Matkalla kuultuja huhuja<br>**Heitä 1d6 aina kun seurue lähtee Kannaskylästä. Heitä sama tulos uudestaan.**                                                                                                                                                                                                                                                                                                                                           |
+| d6    | Matkalla kuultuja huhuja<br>**Heitä 1d6 aina kun seurue lähtee Kannaskylästä. Toista heitto, jos tulos on jo tullut.**                                                                                                                                                                                                                                                                                                                                |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | _Dunstonista kotoisin oleva perhe vetää perässään kärryä, joka on täynnä kalaa._ "Länsijärvi on hyvä kalastuspaikka. Mutta se ei ole mitään verrattuna Itäjärveen ennen vanhaan. Sanonpa vain, että kun puutavaraa oli hyvää, kalasaaliitkin olivat hyviä. Kysykää siltä vanhalta kääkältä, Givalta. Hän muistaa."                                                                                                                                    |
 | **2** | _Nuoret kaksoset kävelevät kohti Länsijärveä, onget koholla._ Vain toinen puhuu. ”Ihmiset kävivät ennen Alasoilla nuolemassa sammakoita, tiesittekö. Keksivät kaikenlaisia villejä tarinoita, jotka väittävät, että siellä kummittelee ja niin edelleen. Se ei tietenkään ole totta. Paitsi Valkotornin letto. Se paikka on karmiva."                                                                                                                 |
 | **3** | _Kaksi työmiestä ratsastaa työhevosella, joka vetää vaunua täynnä työkaluja ja puutavaraa._ ”Joo, minut ja veljeni Berk tässä palkattiin korjaamaan se vanha Crawkon talo Dunstonissa, se joka romahti, no, kymmenen vuotta sitten? Tuntuu vähän oudolta, kun meille ei kerrottu, kuka sen lystin maksaa. Mutta Vouti sanoi, että tämä mies oli todellinen hyväntekijä ja halusi 'antaa takaisin'."                                                   |
-| **4** | _Vanhempi mies istuu kaupungin uloskäynnillä ja vesitelee puuveitsellä._ ”Se lihakauppiaan juttu - luulen, että ne Vuorovetten tuomien kummajaiset ovat siitä vastuussa. Tiesittekö että ne hukuttavat omiaan ja ottavat riveihinsä vain selviytyjät, samalla kun he pitävät kuolleita kelvottomina?"                                                                                                                                                 |
+| **4** | _Vanhempi mies istuu kaupungin uloskäynnillä ja veistelee puupuukolla._ ”Se lihakauppiaan juttu - luulen, että ne Vuorovetten tuomien kummajaiset ovat siitä vastuussa. Tiesittekö, että ne hukuttavat omiaan ja ottavat riveihinsä vain selviytyjät, samalla kun he pitävät kuolleita kelvottomina?"                                                                                                                                                 |
 | **5** | _Nuori nainen kävelee länteen, hienoissa vaatteissa._ ”Ylitin Kyttyrävuoret vain nähdäkseni sen Sammakonaisen, joka asuu tuolla korvessa. Kuulin, että hän valmistaa lääkkeitä kaikenlaisiin vaivoihin… Odottelen seuraavaa täysikuuta, jotta voin yrittää löytää hänet."                                                                                                                                                                             |
 | **6** | _Metsästäjä vetää mukanaan suurta verkkoa, joka on täynnä saalista. Hänen paidassaan on verta._ ”Oletteko käyneet Alasoilla viime aikoina? Tuuli puhaltaa idästä ja tuo mukanaan jotain saastaista, aivan kuin kuolema olisi kääntänyt kylkeään.”                                                                                                                                                                                                     |
 
@@ -197,10 +197,10 @@ Vaikka aluetta pidetäänkin suhteellisen turvallisena, yöllä matkustaminen on
 | **5** | Sammalinen savimaa muuttuu paksuksi mudaksi, joka läiskyy äänekkäästi jokaisella askeleella. Lähistön eläimet hajaantuvat seurueen lähestyessä, ja jalkaisin matkustavat lisäävät yhden Väsymyksen.                                                                                                                                                                                                                                                                                                                                                                                    |
 | **6** | Mies ja nainen istuvat yhdessä roihuavan tulen äärellä ja valmistavat ruokaa. He kertovat olevansa sammakonpyytäjiä ja myyvänsä mielellään päivän saaliinsa: 2gp maustetuista jaloista tai 25gp pullosta rupikonnan uutetta (2 käyttökertaa). Jälkimmäinen toimii psykedeelinä ja eräänlaisena totuusseerumina.                                                                                                                                                                                                                                                                        |
 
-- **Nuolentekijän raivo** Yksittäisen vasaman hyökkäys heikentyy, jos sillä ammutaan kohdetta, joka sijaitsee alle yhdeksän metrin päässä harkosta. Kookas, kolme latausta. Lata: Kylvetä harkkoa lyijyn sulatusuunissa ja anna sen sitten jäähtyä.
+- **Nuolentekijän raivo**: Yksittäinen kantamahyökkäys heikentyy, jos sillä ammutaan kohdetta, joka sijaitsee alle yhdeksän metrin päässä harkosta. Kookas, kolme latausta. **Lataus**: Kylvetä harkkoa lyijyn sulatusuunissa ja anna sen sitten jäähtyä.
 - **Maantierosvojen johtaja:** 6 HP, 2 Panssari, 13 STR, 14 DEX, 13 WIL, pitkämiekka (d10, kookas).
 - **Maantierosvot** (2 kpl): 4 HP, 1 Panssari, 12 STR, 12 DEX, 9 WIL, miekka (d6). Toisella on lyhytjousi (d6).
-- Kun testataan taistelutahtoa, tee pelastusheitto käyttäen johtajan WIL:iä. Jos heidän johtajansa tapetaan, rosvojoukko vetäytyy.
+- Kun testataan moraalia, tee pelastusheitto käyttäen johtajan WIL:iä. Jos heidän johtajansa tapetaan, rosvojoukko vetäytyy.
 
 # Kannaskylä
 
@@ -212,11 +212,11 @@ Entinen metsätyökaupunki, joka nykyään pärjää hädin tuskin **Länsijärv
 
 ### Vuorovetten tuomat
 
-Hierarkkinen uskonnollinen lahko, joka palvoo Rivulusta, jokien ja järvien pikkujumalaa. Ei-jäsenetkin ovat tietoisia ryhmän vihkimisseremoniasta: rituaalisesta hukuttamisesta, joka toisinaan tappaa osallistujia. Selviytyjiä kutsutaan Vuortovetten tuomiksi ja he ottavat käyttöön uuden, veteen liittyvän lisänimen (Karppi, Ruoko, Juolua jne.). Vain papiston tarvitsee osallistua rituaaliin, mutta viime vuosina seurakunta on kuitenkin kasvanut maaseutuväestön keskuudessa, erityisesti vesistöjen läheisyydessä sijaitsevissa kylissä.
+Hierarkkinen uskonnollinen lahko, joka palvoo Rivulusta, jokien ja järvien pikkujumalaa. Ei-jäsenetkin ovat tietoisia ryhmän vihkimisseremoniasta: rituaalisesta hukuttamisesta, joka toisinaan tappaa osallistujia. Selviytyjiä kutsutaan Vuorovetten tuomiksi ja he ottavat käyttöön uuden, veteen liittyvän lisänimen (Karppi, Ruoko, Juolua jne.). Vain papiston tarvitsee osallistua rituaaliin, mutta viime vuosina seurakunta on kuitenkin kasvanut maaseutuväestön keskuudessa, erityisesti vesistöjen läheisyydessä sijaitsevissa kylissä.
 
 ### Yhdeksän piiri
 
-Kauppiaiden, oppineiden ja hyvin vaikutusvaltaisten henkilöiden yhteenliittymä, joka luottaa huomattavaan varallisuuteensa ja laajaan vakoiluverkostoonsa saavuttaakseen tavoitteensa. He keskittyvät ensisijaisesti muinaisesineiden löytämiseen, tunnistamiseen ja sääntelyyn. Viime vuosina he ovat keskittyneet Juurikkoon, sillä he uskovat, että useimmat muinaisesineet ovat peräisin sieltä, ja he maksavat komeasti kaikista Portteja koskevista tiedoista.
+Kauppiaiden, oppineiden ja hyvin vaikutusvaltaisten henkilöiden yhteenliittymä, joka luottaa huomattavaan varallisuuteensa ja laajaan vakoiluverkostoonsa saavuttaakseen tavoitteensa. He keskittyvät ensisijaisesti muinaisesineiden löytämiseen, tunnistamiseen ja sääntelyyn. Viime vuosina he ovat keskittyneet Juuristoon, sillä he uskovat, että useimmat muinaisesineet ovat peräisin sieltä, ja he maksavat komeasti kaikista Portteja koskevista tiedoista.
 
 ## Täysitupa
 
@@ -233,7 +233,7 @@ Rakennus on H-kirjaimen muotoinen, ja sen pääsisäänkäynti on koilliskulmass
 
 ### Sisäpuolella
 
-Kapakkaosa on pieni; siellä on vain kolme pöytää, jotka on sijoitettu kohtisuoraan baaritiskiin nähden. Kaikki vierashuoneet sijaitsevat toisessa kerroksessa, jonne pääsee yhden, eteläpuolella sijaitsevan portaikon kautta. Pieni toimisto sijaitsee nurkassa. Sen ovi on lähes aina lukossa (vain Vouti Trellisillä on avain), mutta se on helppo tiirikoida auki. Kapakka on käytännössä suljettu klo 15:een asti, jolloin Drum ja kokki saapuvat siivoamaan ja valmistamaan ruokaa.
+Kapakkaosa on pieni; siellä on vain kolme pöytää, jotka on sijoitettu kohtisuoraan baaritiskiin nähden. Kaikki vierashuoneet sijaitsevat toisessa kerroksessa, jonne pääsee yhden eteläpuolella sijaitsevan portaikon kautta. Pieni toimisto sijaitsee nurkassa. Sen ovi on lähes aina lukossa (vain Vouti Trellisillä on avain), mutta se on helppo tiirikoida auki. Kapakka on käytännössä suljettu klo 15:een asti, jolloin Drum ja kokki saapuvat siivoamaan ja valmistamaan ruokaa.
 
 #### Voutin työhuone
 
@@ -244,7 +244,7 @@ Kostea, epämukava huone Täysitupa-majatalon takana. Tila on tyhjä, lukuun ott
 
 #### Kellari
 
-Pieni, kostea tila, joka oli täynnä erilaisia **laatikoita**. Ilma on täynnä kostean maan tuoksua. Yhtä seinää vasten nojaa **työpöytä**, jolla on erilaisia työkaluja. Kaakkoiskulman kattoon on asennettu **luukku** ja tikkaat.
+Pieni, kostea tila, joka on täynnä erilaisia **laatikoita**. Ilma on täynnä kostean maan tuoksua. Yhtä seinää vasten nojaa **työpöytä**, jolla on erilaisia työkaluja. Kaakkoiskulman kattoon on asennettu **luukku** ja tikkaat.
 
 - **Laatikko**: Vaatteita, taloustavaroita, ruokaa. Ne on merkitty yhden suurkaupungin kymmenyksiksi.
   - Nämä on tarkoitettu Jandylle, joka jätti ne noutamatta viikko sitten.
@@ -264,7 +264,7 @@ Lattia on täynnä puuhaketta ja höyheniä. Suuri, verinen teurastajan **lihatu
 
 ### Toinen kerros
 
-Kahdeksan ikkunaa (kaksi joka ilmansuunnassa) on peitetty ohuilla ikkunaverhoilla. Huoneen koilliskulmassa on nelipylväinen sänky, ja kaunis puinen kirjoituspöytä on sijoitettu Rivulusta esittävän koristeellisen maalauksen alle. Sisäänkäynti lounaiskulman portaikosta.
+Kahdeksan ikkunaa (kaksi kussakin ilmansuunnassa) on peitetty ohuilla ikkunaverhoilla. Huoneen koilliskulmassa on nelipylväinen sänky, ja kaunis puinen kirjoituspöytä on sijoitettu Rivulusta esittävän koristeellisen maalauksen alle. Sisäänkäynti lounaiskulman portaikosta.
 
 - **Ikkunanäkymät**:
   - **Pohjoinen**: Givan koti ja näkymä **Kivimetsään**.
@@ -273,7 +273,7 @@ Kahdeksan ikkunaa (kaksi joka ilmansuunnassa) on peitetty ohuilla ikkunaverhoill
   - **Etelä**: Kaupungin aukio ja näkymä Tiluspolulle.
 - **Sänky**: Tavallinen sänky. Alla on pieni tikari (d6), jonka kultainen kahva on arvoltaan 20gp.
 - **Kirjoituspöytä**: Joitakin asiakirjoja ja kirjoitusvälineitä. Pöydässä on yksi laatikko (lukittu).
-  - Kirjoituspöydän ääressä istuessa on erinomainen näkymä Täysituvan ja lihakaupan väliselle kujalle, mukaan lukien sen kellarin uloskäynnille.
+  - Kirjoituspöydän ääressä istuessa on erinomainen näkymä Täysituvan ja lihakaupan väliselle kujalle, mukaan lukien sen kellarin uloskäynti.
   - Flavia pitää laatikon avainta kaulassaan ketjussa. Sisällä on myyntitilikirja ja 870gp. Kirjanpito on puoliksi tehty, juuri sellaisena kuin Flavia löysi sen pöydältä sinä yönä, kun Aldra katosi.
 - **Maalaus**: Veden pinnasta nouseva ihmisolento (**Rivulus**). Sillä on yllään valkoinen kaapu, jonka etuosaan on leikattu kolme koukeroviivaa. Flavia sanoo, että se ostettiin vasta muutama kuukausi sitten kalliilla hinnalla. Arvo 400gp.
 
@@ -289,8 +289,8 @@ Hökkeliyksiö kaupungin pohjoispuolella. Rakennettu puusta, joka on enemmän s�
 Lämmitetty puuhella hallitsee länsiseinää, ja pieni sänky on sijoitettu pohjoispuolen ikkunan alle. Keittiössä pöydällä on kaksi lasia ja **viini**pullo.
 
 - **Viiniä**: Erittäin vanha vuosikerta (arvo 50gp).
-  - Giva sanoo, että hän asettaa viinin esille ”vieraita varten”. Hän tekee myös hyvin selväksi, ettei seurue ei ole keitä hän odottaa.
-  - Hän myöntää, että odottamansa henkilö (Jandy), jäi pois edellisestä tapaamisesta; tämän oli tarkoitus poiketa käymään matkallaan pois kaupungista lähes viikko sitten.
+  - Giva sanoo, että hän asettaa viinin esille "vieraita varten". Hän tekee myös hyvin selväksi, että seurue ei ole ketä hän odottaa.
+  - Hän myöntää, että odottamansa henkilö (Jandy) jäi pois edellisestä tapaamisesta; tämän oli tarkoitus poiketa käymään matkallaan pois kaupungista lähes viikko sitten.
 
 # Tiluspolku
 
@@ -311,7 +311,7 @@ Kehän länsipäässä sijaitsee heiveröinen ja rappeutunut **maalaistalo**. Se
 
 ### Maalaistalo
 
-Yhden huoneen hökkeli, jossa oli kylmälaatikko, homehtunut sänky ja pieni puuhella. Lattia on mutainen ja peitetty ruokoilla ja muilla pienillä ruohoilla.
+Yhden huoneen hökkeli, jossa on kylmälaatikko, homehtunut sänky ja pieni puuhella. Lattia on mutainen ja peitetty ruokoilla ja muilla pienillä ruohoilla.
 
 - **Kylmälaatikko**: Tyhjä ja selvästi pitkään käyttämättömänä ollut.
 - **Sänky**: Pitkät eläinten karvat peittävät hikitahraiset lakanat.
@@ -323,7 +323,7 @@ Yhden huoneen hökkeli, jossa oli kylmälaatikko, homehtunut sänky ja pieni puu
 Ränsistynyt talo kehän kaakkoiskulmassa. Puolet katosta on romahtanut, ja eteläseinän paikalle on levitetty leveä kudottu suojapeite.
 
 - **Sisätilat**: Täysin tyhjät, ilman huonekaluja. **Lattialaudat** näyttävät aivan uusilta.
-  - **Lattialaudat**: Fasha (Vuodin avustuksella) palkkasi työntekijöitä asunnon kunnostustöihin. Lattian asennus on melkein valmis, mutta lounaiskulmassa on vielä yksi puutteellinen kohta, josta yksi henkilö voisi kiivetä sisään puoliksi.
+  - **Lattialaudat**: Fasha (Voutin avustuksella) palkkasi työntekijöitä asunnon kunnostustöihin. Lattian asennus on melkein valmis, mutta lounaiskulmassa on vielä yksi puutteellinen kohta, josta yksi henkilö voisi kiivetä sisään puoliksi.
     - Lattialautojen alla on kaksi isoa säkkiä. Niiden poistaminen veisi aikaa ja herättäisi päivällä huomattavaa huomiota. Ne ovat Fashan osuus kymmenyksistä (arvoltaan 200gp kumpikin).
 
 # Vanhan myllyn tie
@@ -332,7 +332,7 @@ Lyhyt hiekkatie, joka yhdistää **Kannaskylän** **Kivimetsään**, jonne se pi
 
 # Kivimetsä
 
-Loputon Korpi, joka ulottuu kauas pohjoiseen ja jonka valtavan laajuuden rajoittaa ainoastaan **Marmorimeri**. Vuosisatojen ajan metsän puutavara tyydytti Kaupunkien tarpeet, kunnes jalokivien ja malmien houkutus veti niiden kyltymättömän nälän kohti etelää. Pieni puro virtaa metsän reunalta, Itäjärven koillispuolelta ja laskee **Luusuohon**. Jos astutaan Kivimetsään pimeän tultua, aiheutetaan kovaa meteliä tai poikeetaan polulta, tulee tehdä heitto Erämaan tapahtumat -taulukon mukaan (ks. Pelaajan opas). Tätä aluetta käsitellään tarkemmin tämän sarjan tulevissa seikkailuissa.
+Loputon Korpi, joka ulottuu kauas pohjoiseen ja jonka valtavan laajuuden rajoittaa ainoastaan **Marmorimeri**. Vuosisatojen ajan metsän puutavara tyydytti Kaupunkien tarpeet, kunnes jalokivien ja malmien houkutus veti niiden kyltymättömän nälän kohti etelää. Pieni puro virtaa metsän reunalta, Itäjärven koillispuolelta ja laskee **Luusuohon**. Jos astutaan Kivimetsään pimeän tultua, aiheutetaan kovaa meteliä tai poiketaan polulta, tulee tehdä heitto Erämaan tapahtumat -taulukon mukaan (ks. Pelaajan opas). Tätä aluetta käsitellään tarkemmin tämän sarjan tulevissa seikkailuissa.
 
 Yleinen puissa elävä saalistaja Kivimetsässä on Yökissa, yöpussieläin, joka metsästää laumoissa. Ainoa varoitus ennen niiden hyökkäystä on **tik-tik-tik**-ääni yläpuolella olevista oksistoista, kun ne koordinoivat hyökkäystään ja käyvät marssijärjestyksessä viimeisenä olevan kimppuun. Kohteen on onnistuttava DEX-pelastusheitossa tai se kärsii vahinkoa suoraan STR-arvoon. Nimestään huolimatta yökissat hyökkävät kohteisiin myös päivisin.
 
@@ -343,17 +343,17 @@ Yleinen puissa elävä saalistaja Kivimetsässä on Yökissa, yöpussieläin, jo
 - Älykkäitä yöllisiä pussieläimiä, jotka tekevät kotinsa metsiin ja soille. Metsästävät laumoissa.
 - **Kriittinen vahinko**: Yökissa alkaa syödä kohdetta (d4 STR-vahinkoa), kun se on vielä elossa.
 
-![Kivimetsä](/adventures/first-party/img/cas-1/Stone Forest.webp)
+![Kivimetsä](/adventures/first-party/img/cas-1/Stone%20Forest.webp)
 
 # Kuolomylly
 
-Metsän laidalla sijaitsee vanha jauhomylly, jota ympäröivät umpeenkasvaneet puupylväät. Koska lehdossa on lähes jatkuvasti pimeää, paikalliset teinit uskovat, että siellä kummittelee. (Ei kummittele.) Se on puoliksi uppoutunut **maahan**, ja sen pohjoispuolelta ulkonevat suuret **siivet** kuivuneen joenuoman yläpuolelle. Vanhan myllyn tien suunnasta tulevat saapuvat rakennuksen eteläiselle sisäänkäynnille, ja 30 sekunnin välein **mies** avaa eteläisen oven.
+Metsän laidalla sijaitsee vanha jauhomylly, jota ympäröivät umpeenkasvaneet puupylväät. Koska lehdossa on lähes jatkuvasti pimeää, paikalliset teinit uskovat, että siellä kummittelee. (Ei kummittele.) Se on puoliksi uppoutunut **maahan**, ja sen pohjoispuolelta ulkonevat suuret **siivet** kuivuneen joenuoman yläpuolelle. Vanhan myllyn tien suunnasta saapuvat rakennuksen eteläiselle sisäänkäynnille, ja 30 sekunnin välein **mies** avaa eteläisen oven.
 
 - **Maaperä**: Rakennus vajoaa hitaasti maahan, ja osa maaperästä käyttäytyy kuin juoksuhiekka.
   - Eteläinen sisäänkäynti on vaarallinen. DEX-pelastusheitto päästäksesi pakoon. Epäonnistunut heitto saa uhrin vajoamaan entistä syvemmälle (enintään 3 yritystä).
 - **Siivet**: Eteläpuolelta ne ovat suurimmaksi osaksi peitossa, lukuun ottamatta yhden siiven kärkeä, joka on maalattu kirkkaalla, haalistumattomalla valkoisella. Katso kohta (2).
 - **Mies**: Osa aikasilmukkaa.
-  - 30 sekunnin välein myllyn ovi avautuu, ja sieltä astuu ulos mies (Jandy). Hän vilkaisee nopeasti taaksepäin, ikään kuin olisi kuullut jotain. Lopulta hän kohauttaa olkapäitään, kääntyy jälleen ympäri ja vajoaa juoksuhiekkaan ja kuolemaansa. Ääni, jonka hän kuulee on itse asiassa laitteen latausääni edellisen silmukan jälkeen.
+  - 30 sekunnin välein myllyn ovi avautuu, ja sieltä astuu ulos mies (Jandy). Hän vilkaisee nopeasti taaksepäin, ikään kuin olisi kuullut jotain. Lopulta hän kohauttaa olkapäitään, kääntyy jälleen ympäri ja vajoaa juoksuhiekkaan ja kuolemaansa. Ääni, jonka hän kuulee, on itse asiassa laitteen latausääni edellisen silmukan jälkeen.
   - Silmukka voidaan katkaista joko pelastamalla **Jandy** tai irroittamalla muinaisesine myllykivestä ja viemällä se hieman kauemmas.
 
 ## 1. Sisätila
@@ -365,7 +365,7 @@ Suuri **myllynkivi** vie suurimman osan huoneesta, ja se on kiinnitetty jonkinla
 - **Koneisto**: Kiveä pyörittävä puinen vipu on lahonnut, minkä vuoksi hiomakiveä ei voida pyörittää tällä laitteella.
 - **Olkalaukku**: Kuuluu Jandylle. Sisältää tikarin (d6), **muistikirjan**, **kymmenyskirjanpidon**, Muona-annoksia (jäljellä 2 käyttöä), soihtu (3 käyttöä) ja 23gp.
   - **Muistikirja**: Sisältää lyhyen katsauksen alueen historiaan sekä otteita **Givan** haastatteluista. Siellä on luku nimeltä ”Puutavarakaupan historia”.
-  - **Kymmenyskirjanpito**: Tämän kopion ja sen kaksoiskappaleen välillä, joka sijaitsee Täystuvan kellarissa, on eroavaisuuksia.
+  - **Kymmenyskirjanpito**: Tämän kopion ja sen kaksoiskappaleen välillä, joka sijaitsee Täysituvan kellarissa, on eroavaisuuksia.
 - **Vajoaminen**: Rakennuksen eteläpuoli on vajonnut puoliksi maan alle. Jos myllyssä on samanaikaisesti enemmän kuin kolme henkilöä (Jandy mukaan lukien), se vajoaa kokonaan maan alle (DEX-pelastusheitto tarvitaan, jotta voi paeta tai tehdä mitään merkittävää).
 
 ## 2. Vesiratas
@@ -376,7 +376,7 @@ Kaksi vankkaa vesirattaan **siipeä** seisoo liikkumattomina. Joen pohja on täy
   - Kun siipiä työnnetään käsin, **myllykivi** pyörii sisällä juuri sen verran, että **muinaisesine** saadaan sen alta esiin. Tähän tarvitaan vähintään kaksi työkykyistä henkilöä.
 - **Kirjoitus**: Vanhanaikainen ilmaisu, jonka vain Giva, Jandy tai joku, joka on perehtynyt muinaisiin teksteihin, pystyy tulkitsemaan. Siinä lukee: "Viritä kääntämällä vastapäivään."
 - **Lehdet**: Roskien ja kuivuneen humuksen seassa on osittain piilossa hyvin säilynyt kannettava **rautahäkki**.
-  - Häkki on itse asiassa Virvatulilyhty, johon Annafranax on vanginnut aarnivalkean. Se on ollut täällä jo yli viikon, imien itseensä Jandyn lukuisat kuolemat. Aarnivalkea on kasvanut niin suureksi, että häkki on jo melkein liian pieni sille. Raudan koskettaminen on Aarnivalkeille varsin kivuliasta, minkä vuoksi se kärsii lähes jatkuvasta tuskasta. Se haluaa vain vapautta ja kostoa. Jos se vapautetaan ennen kuin Annafranax palaa, se lentää suoraan noidan kotiin ja jättää jälkeensä tulivanan kostonsa tielle.
+  - Häkki on itse asiassa Virvatulilamppu, johon Annafranax on vanginnut aarnivalkean. Se on ollut täällä jo yli viikon, imien itseensä Jandyn lukuisat kuolemat. Aarnivalkea on kasvanut niin suureksi, että häkki on jo melkein liian pieni sille. Raudan koskettaminen on Aarnivalkeille varsin kivuliasta, minkä vuoksi se kärsii lähes jatkuvasta tuskasta. Se haluaa vain vapautta ja kostoa. Jos se vapautetaan ennen kuin Annafranax palaa, se lentää suoraan noidan kotiin ja jättää jälkeensä tulivanan kostonsa tielle.
 
 # Itäjärven sola
 
@@ -388,9 +388,9 @@ Sumun peittämä, mutainen ja haiseva suo, joka on suosittu lähde kauhutarinoil
 
 # Valkotornin letto
 
-Pieni metsä Alasoiden itäpuolella. Se on saanut nimensä raunioituneesta valkoisesta tornista, jonka läheinen suo verhoaa sumuun. Pääsy **Itäjärven solalta** kohti **Vanhan myllyn tietä** haarautuvan polun kautta.
+Pieni metsä Alasoiden itäpuolella. Se on saanut nimensä raunioituneesta valkoisesta tornista, jonka läheinen suo verhoaa sumuun. Pääsy **Itäjärven solalta** polkua pitkin, joka haarautuu kohti **Vanhan myllyn tietä**.
 
-![Valkotornin letto](/adventures/first-party/img/cas-1/White Tower Fens.webp)
+![Valkotornin letto](/adventures/first-party/img/cas-1/White%20Tower%20Fens.webp)
 
 ## 1. Vihellysvaahtera
 
@@ -417,22 +417,22 @@ Tornin **alaosa** on pimeyden peitossa, ja sen sileät valkoiset seinät **kimal
 - **Pohja**: Tahmea, meripihkanvärinen neste muodostaa metrin syvyisen lammikon, täyttäen tornin perustukset.
 - Jotain **kiiltää** sisällä.
   - **Neste**: Happo, joka vahingoittaa vain lihaa (4 STR-vahinkoa kosketuksesta). Mikä tahansa muu materiaali säilyy vahingoittumattomana, ja jos se on kokonaan upotettu, se säilyy täydellisesti. Aine on erittäin syttyvää; se palaa kokonaan pienessä hetkessä, jättäen sen sisällön vahingoittumattomaksi.
-  - **Kiilto**: Muinainen panssaroitu luuranko, jolla on yhä yllään täydellisesti säilynyt rengaspanssari. Sen vyöllä on pussi, jossa on muinaisia kultakolikoita (82gp), sekä repeytynyt silkkiköysi (13 metriä).
+  - **Kiilto**: Muinainen panssaroitu luuranko, jolla on yhä yllään täydellisesti säilynyt rengaspanssari. Sen vyöllä on pussi, jossa on muinaisia kultarahoja (82gp), sekä repeytynyt silkkiköysi (13 metriä).
 - **Kimaltelu**: Jäämiä tornin pohjan haposta. Se tuntuu öljyiseltä kosketettaessa ja kirvelee kuin nokkoset.
 
 ## Luusuo
 
-Puro päättyy pieneen suohon, joka sijaitsee vain muutaman minuutin kävelymatkan päässä Valkoisen tornin letosta etelään. Alueella leijuu mädän ja lahoamisen **haju**. Suon länsipäässä on suuri **kumpu**, joka koostuu ruohosta ja sorasta. Alue ei ole merkitty mihinkään karttaan, ja vain Fasha ja Giva tietävät sen olemassaolosta.
+Puro päättyy pieneen suohon, joka sijaitsee vain muutaman minuutin kävelymatkan päässä Valkotornin letosta etelään. Alueella leijuu mädän ja lahoamisen **haju**. Suon länsipäässä on suuri **kumpu**, joka koostuu ruohosta ja sorasta. Alue ei ole merkitty mihinkään karttaan, ja vain Fasha ja Giva tietävät sen olemassaolosta.
 
 - **Haju**: Suon tahmeaan liuokseen joutuneet eläimet hukkuvat nopeasti tai jopa kuolevat nälkään. Täällä on paljon ruumiita, jotka ovat eri mätänemisvaiheissa.
   - Aldran ruumis on yksi monista ruumiista, kelluen kaislikossa. Se on säilynyt hyvin suon ainutlaatuisen kemiallisen koostumuksen vuoksi. Hänen rintansa on revitty auki ja sydän on poistettu.
 - **Kumpu**: Näyttää juuri muodostuneelta. Kun sora siirretään sivuun, paljastuu portaikko, joka johtaa alas suon ja maan alle. Tämä on sisäänkäynti **Sieniliskojen temppeliin**. Portaikossa tuoksuu multa ja hieman kukkainen haju.
   - Temppeli on itse asiassa rakennuksen kokoinen, kovakuoriaisen muotoinen alus. Sisäänkäynti on sen "pää".
-  - Portaikon seinille on asennettu kaksi lampettia silmien korkeudelle. Kumpaankin on asetettu timantinmuotoisia esineitä. Esineet voi poistaa, ja ne ovat arvokkaita (150gp, kookas). Ne ovat valoja, joita hallitaan **[T7. Valohuoneesta](#t7-valohuone)**. Ne ovat tällä hetkellä pois päältä.
+  - Portaikon seinille on asennettu kaksi seinävalaisinta silmien korkeudelle. Kumpaankin on asetettu timantinmuotoisia esineitä. Esineet voi poistaa, ja ne ovat arvokkaita (150gp, kookas). Ne ovat valoja, joita hallitaan **[T7. Valohuoneesta](#t7-valohuone)**. Ne ovat tällä hetkellä pois päältä.
 
 # Sieniliskojen temppeli
 
-![Sieniliskojen temppeli](/adventures/first-party/img/cas-1/Temple of the Fungal Lizards.webp)
+![Sieniliskojen temppeli](/adventures/first-party/img/cas-1/Temple%20of%20the%20Fungal%20Lizards.webp)
 
 ## Yleistä tietoa
 
@@ -464,7 +464,7 @@ Kapea sali jakaa huoneen, jonka molemmin puolin on upotetut syvennykset. Pohjois
 ### Vesisieppari
 
 - Sylinterimäinen esine, joka voi imeä itseensä jopa vaunullisen verran vettä (eli lähemmäs 4 000 litraa). 1 Lataus.
-- **Lataus**: Suojaa kaikilta kosteuden lähteiltä kuukauden ja päivän ajan.
+- **Lataus**: Pidä kaukana kaikista kosteuden lähteistä kuukauden ja päivän ajan.
 
 ## T3. Kasvatuskammio
 
@@ -492,9 +492,9 @@ Itäseinä on täynnä monimutkaisia **kaiverruksia**.
 
 ## T6. Jätteidenkäsittely
 
-Tämän neliömäisen huoneen keskellä on neliönmuotoinen **kaivo**, joka ulottuu vyötäröön asti. Eteläseinästä ulkonee kolme **suihkupäätä**, eikä näkyvissä ole minkäänlaisia säätimiä. Jokaisen niistä alle on asennettu **viemäri** ja ritilä. Länsiseinällä on kaksi suurta vaakasuoraa **saumaa**, jotka sijaitsevat rinnakkain puolen metrin päässä toisistaan.
+Tämän neliömäisen huoneen keskellä on neliönmuotoinen **kaivo**, joka ulottuu vyötäröön asti. Eteläseinästä ulkonee kolme **suihkupäätä**, eikä näkyvissä ole minkäänlaisia säätimiä. Jokaisen alle on asennettu **viemäri** ja ritilä. Länsiseinällä on kaksi suurta vaakasuoraa **saumaa**, jotka sijaitsevat rinnakkain puolen metrin päässä toisistaan.
 
-- **Kaivo**: Satoja metrejä syvä. Valonlähde paljastaa pohjalla vedessä kelluvat muinaiset jätteet.
+- **Kaivo**: Kymmeniä metrejä syvä. Valonlähde paljastaa pohjalla vedessä kelluvat muinaiset jätteet.
 - **Suihkupää**: Automaattiset suihkut, jotka ruiskuttavat polttavan kuumaa vettä aina, kun niiden viemärin päälle kohdistuu painoa. Ainoa varoitus on yksittäinen piipaus kulmavalaisimesta.
 - **Viemärit**: **Lounaiskulman** ritilän nostaminen avaa luukun **länsi**seinässä, jolloin **salainen ovi** **[T4](#t4-huoltotunneli)**:ään avautuu.
 - **Saumat**: Luukku **[T4](#t4-huoltotunneli)**:ään. Aivan kuten **[T2](#t2-uurnaholvi)**:n ja **[T7](#t7-valohuone)**:n tapauksessa, saumat ovat liian kapeita sorkkaraudalle tai puukolle, eikä näkyvissä ole mitään ilmeisiä kahvoja, painikkeita tai vipuja.
@@ -506,9 +506,9 @@ Tämä huone **tuoksuu** otsonilta. Itäiselle uloskäynnille on seinään asenn
 - **Haju**: **[T7](#t7-valohuone)**:n ja **[T8](#t8-valmisteluhuone)**:n välillä on näkymätön voimakenttä. Se aiheuttaa koskettaessa vain lievän sähköiskun, mutta sitä ei voi läpäistä millään tavanomaisella tavalla.
 - **Kytkin**: Ohjaa **[T7](#t7-valohuone)**:n ja **[T8](#t8-valmisteluhuone)**:n välistä voimakenttää. Sitä ei voi sammuttaa muulla tavalla kuin irrottamalla kytkinpaneelin.
 - **Kytkinpaneeli**: Paneelissa oleva säätönuppi ohjaa kunkin huoneen seinävalaisimia.
-  - Jos kirkkaus säädetään aivan täysille, **jokaisessa huoneessa** olevat timanttimuotoiset lamput räjähtävät **yhden luolastokierroksen** jälkeen (d4 STR-vahinkoa kaikille lähellä oleville). Kolme peräkkäistä piippausta seinävalaisimista ovat ainoa varoitus. Kaikki lähistöllä olevat **Surarut** saapuvat heti sen jälkeen suoraan T7:ään.
+  - Jos kirkkaus säädetään aivan täysille, **jokaisessa huoneessa** olevat timanttimuotoiset lamput räjähtävät **yhden luolastokierroksen** jälkeen (d4 STR-vahinkoa kaikille lähellä oleville). Kolme peräkkäistä piippausta jokaisesta seinävalaisimesta ovat ainoa varoitus. Kaikki lähistöllä olevat **Surarut** saapuvat heti sen jälkeen suoraan T7:ään.
   - Voidaan irroittaa, mutta kaikki seinävalaisimet sekä **voimakenttä** poistuvat käytöstä pysyvästi. Paneeli olisi erittäin arvokas Salasepälle tai samanhenkisille ammattilaisille (500gp).
-  - Pieni paneelin alla sijaitseva kytkin, avaa **salaisen oven [T4](#t4-huoltotunneli)**:ään **länsi**seinässä.
+  - Pieni paneelin alla sijaitseva kytkin avaa **salaisen oven [T4](#t4-huoltotunneli)**:ään **länsi**seinässä.
 - **Saumat**: Luukku **[T4](#t4-huoltotunneli)**:ään. Aivan kuten **T2**:n ja **T4**:n tapauksessa, saumat ovat liian kapeita sorkkaraudalle tai puukolle, eikä näkyvissä ole mitään ilmeisiä kahvoja, painikkeita tai vipuja.
 
 ## T8. Valmisteluhuone
@@ -535,7 +535,7 @@ Huone haisee teurastamolta, ja lattia on **veren ja sisäelinten** peitossa. **L
 
 ### Suraru-komentaja
 
-10 HP, 1 Panssari, 16 STR, 12 DEX, 11 WIL, kynnet (d8+d8) tai myrkyllinen puraisu (d6, räjäytys)
+10 HP, 1 Panssari, 16 STR, 12 DEX, 11 WIL, kynnet (d8+d8) tai myrkyllinen puraisu (d6, räjähdys)
 
 - Hallitsee **Suraru**-alamaisten laumaa, jotka taistelevat kuolemaan asti suojellakseen itiöpussia.
 - **Kriittinen vahinko**: Yksi ruumiinosa liukenee myrkylliseen happoon, ja kohde menettää 1 Panssaripisteen.
@@ -546,7 +546,7 @@ Lyhyt käytävä **[T9](#t9-palvontasali)**:n päässä vie suurelle metalliovel
 
 - **Ovi**: Avautuu yleensä vain työntämällä **[T4](#t4-huoltotunneli)**:n **kaareva tikari** halkeamaan.
 - **Ikkuna**: Näyttää huoneen sisällön kokonaisuudessaan. Paksu mutta särkyvä lasi.
-- **Kahva**: Avaa laatikon, kuin postiluukku. Se on verestä liukas.
+- **Kahva**: Avaa laatikon, kuten postiluukku. Se on verestä liukas.
 
 ## T10b. Kuulusteluhuone (sisätilat)
 
@@ -560,23 +560,23 @@ Oven vieressä (oikealla, eteistä katsottuna) on pieni rako, jonka alapuolella 
 
 ![Vuk](/adventures/first-party/img/cas-1/Vuk.webp)
 
-Entinen kuningatar, jonka hänen oma kansana murhasi sivilisaation luhistuessa tuhat vuotta sitten. Kirottu kummittelemaan juuri siinä huoneessa, jossa hän kuoli, ja nyt hän aikoo hallita näitä maita jälleen. Täysissä voimissa hän on yli kaksi metriä pitkä kalmomaagikuningatar, jolla on lintumaiset kasvonpiirteet ja joka kantaa upeaa keltaista harjaa.
+Entinen kuningatar, jonka hänen oma kansansa murhasi sivilisaation luhistuessa tuhat vuotta sitten. Kirottu kummittelemaan juuri siinä huoneessa, jossa hän kuoli, ja nyt hän aikoo hallita näitä maita jälleen. Täysissä voimissa hän on yli kaksi metriä pitkä kalmomaagikuningatar, jolla on lintumaiset kasvonpiirteet ja joka kantaa upeaa keltaista harjaa.
 
-- Hän ei voi palata täyteen muotoonsa, ennen kuin hän on syönyt **kolme sydäntä** ja **[T10a](#t10a-kuulusteluhuoneen ovi)**:n ovi on avattu. Seikkailun alkaessa hän on jo syönyt Aldran sydämen, joten hän tarvitsee enää kaksi. Siihen asti hän on loukussa **[T10b](#t10b-kuulusteluhuone-sisätilat)**:ssä. Jos ryhmä saapuu paikalle 24 tunnin sisään hänen muodonmuutoksestaan, hän on päässyt vapaaksi vankilastaan ja löytyy huoneesta **[T9](#t9-palvontasali)**.
+- Hän ei voi palata täyteen muotoonsa, ennen kuin hän on syönyt **kolme sydäntä** ja **[T10a](#t10a-kuulusteluhuoneen-ovi)**:n ovi on avattu. Seikkailun alkaessa hän on jo syönyt Aldran sydämen, joten hän tarvitsee enää kaksi. Siihen asti hän on loukussa **[T10b](#t10b-kuulusteluhuone-sisätilat)**:ssä. Jos ryhmä saapuu paikalle 24 tunnin sisään hänen muodonmuutoksestaan, hän on päässyt vapaaksi vankilastaan ja löytyy huoneesta **[T9](#t9-palvontasali)**.
 - Hän on immuuni tavanomaisille hyökkäyksille, ja hänet voidaan tuhota ainoastaan upottamalla hänen jäänteensä veteen tai tuhoamalla muistovankila, joka sitoo hänet tähän maailmaan. Jos hän on **syntynyt uudelleen**, vain jälkimmäinen riittää.
 - **Kuristuspito**: Tuhka-aaveena hän kietoo kohteensa kokonaan ympärilleen, halliten tämän kehoa kuin nukkea yhden toiminnon ajan ja pudottaen sitten halvaantuneen ruumiin maahan (d4 STR-vahinkoa). Kohde kuolee tukehtumiseen, ellei tuhkaa saada jotenkin poistettua (STR-pelastusheitto).
 
 ### Muistoprisma
 
-Imee itseensä henkilön elämän viimeiset hetket minuutti minuutilta. Mitä pidempi altistumisaika on, sitä enemmän muistoja palautuu mieleen. Jos joku toinen kuolee sen läsnä ollessa, tämän muistot korvaavat aiemmin tallennetut muistot. Suora kosketus prismaan toistaa tallennetut muistot suoraan koskettavan henkilön mieleen, kuin hän kokisi ne itse.
+Imee itseensä henkilön elämän viimeiset hetket minuutti minuutilta. Mitä pidempi altistumisaika on, sitä enemmän muistoja palautuu mieleen. Jos joku toinen kuolee sen läsnä ollessa, tämän muistot korvaavat aiemmin tallennetut muistot. Suora kosketus prismaan toistaa tallennetut muistot suoraan koskettavan henkilön mieleen, ikään kuin hän kokisi ne itse.
 
 ### Nykyiset muistot
 
 Aluksi ympärillä on vain pimeyttä; sitten katsojan kasvoilta riisutaan huppu, ja käy selväksi, että hän on **T10**:ssä, kädet sidottuina samoihin kahteen katosta roikkuviin ketjuihin. Kaksi ihmisolentoa, joilla on groteskit naamiot ja suuret, punertavat harjat, kuulustelevat häntä ankaralla, käsittämättömällä kielellä.
 
-Lopuksi yksi kuulustelijoista osoittaa nurkassa olevaa liskomaista ihmisenkaltaiista olentoa, joka vastaa hyökkäämällä katsojan vatsaan kynsillään. Kun hänen vatsansa viilletään auki, näkyy kirkas valo.
+Lopuksi yksi kuulustelijoista osoittaa nurkassa olevaa liskomaista ihmisenkaltaista olentoa, joka vastaa hyökkäämällä katsojan vatsaan kynsillään. Kun hänen vatsansa viilletään auki, näkyy kirkas valo.
 
-Yhtäkkiä huoneen ovi avautuu ja joku muu astuu huoneeseen. Sitten kuuluu vielä lisää vierasta puhetta, ja sen jälkeen sekä kuulustelijat että liskot ryntäävät ulos huoneesta ja paiskaavat oven kiinni takanaan. Katsoja katsoo alas vatsassaan olevaa haavaa, ja sitten kaikki pimenee.
+Yhtäkkiä huoneen ovi avautuu ja joku muu astuu huoneeseen. Sitten kuuluu vielä lisää käsittämätöntä höpinää, ja sen jälkeen sekä kuulustelijat että liskot ryntäävät ulos huoneesta ja paiskaavat oven kiinni takanaan. Katsoja katsoo alas vatsassaan olevaa haavaa, ja sitten kaikki pimenee.
 
 ![Kivilohkare](/adventures/first-party/img/cas-1/Stoneblock.webp)
 
@@ -584,7 +584,7 @@ Yhtäkkiä huoneen ovi avautuu ja joku muu astuu huoneeseen. Sitten kuuluu viel�
 
 ## Jos Vuk syntyy uudelleen…
 
-Jos Vuk syntyy uudelleen, hän nousee nopeasti hallitsemaan aluetta. Muutaman kuukauden kuluttua **Kannaskylä** on autio, ja ne, jotka jäävät sinne, ovat joko kuolleet tai liittyneet hänen aatteeseensa. Fashan toimiessa hänen apulaisenaan hän valloittaa vähitellen Kaksoisjärven alueen ja julistautuu **Uudestisyntyneeksi kuningattareksi**. Hitaasti hänen laumansa valtaa maaseudun, kunnes Kaupungit lopulta julistavat alueen pysyvästi vaaralliseksi. Kun Rajavartijoiden joukot kokoontuvat rajalle, toivo siitä, että kuningatar pysyisi uudessa valtakunnassaan, hiipuu päivä päivältä…
+Jos Vuk syntyy uudelleen, hän nousee nopeasti hallitsemaan aluetta. Muutaman kuukauden kuluttua **Kannaskylä** on autio, ja ne, jotka jäävät sinne, ovat joko kuolleet tai liittyneet hänen aatteeseensa. Fashan toimiessa hänen apulaisenaan hän valloittaa vähitellen Kaksoisjärven alueen ja julistautuu **Uudestisyntyneeksi kuningattareksi**. Hitaasti hänen laumansa valtaa maaseudun, kunnes Kaupungit lopulta julistavat alueen pysyvästi vaaralliseksi. Kun Rajakaartin joukot kokoontuvat rajalle, toivo siitä, että kuningatar pysyisi uudessa valtakunnassaan, hiipuu päivä päivältä…
 
 ## Jos Portti on avattu...
 
@@ -611,9 +611,9 @@ Raskas rautamedaljonki, joka on ripustettu ohueen hopeaketjuun. Yksikään Surar
 
 ## Nuolentekijän raivo
 
-Raskas symboleilla merkitty volframipala. Kun pidetään kädessä, yksittäisen vasaman hyökkäys heikentyy, jos sillä ammutaan kohdetta, joka sijaitsee alle yhdeksän metrin päässä harkosta. Kookas, kolme latausta.
+Raskas symboleilla merkitty volframipala. Kun pidetään kädessä, yksittäinen kantamahyökkäys heikentyy, jos sillä ammutaan kohdetta, joka sijaitsee alle yhdeksän metrin päässä harkosta. Kookas, kolme latausta.
 
-- **Lataa**: Kylvetä harkkoa lyijyn sulatusuunissa ja anna sen sitten jäähtyä.
+- **Lataus**: Kylvetä harkkoa lyijyn sulatusuunissa ja anna sen sitten jäähtyä.
 
 ## Kaikukipinä
 
@@ -637,4 +637,4 @@ Labyrinttimaiset onkalot ulottuvat mittaamattomien etäisyyksien päähän syvä
 
 ## Vuorovetten tuomat
 
-Uskonnollinen lahko, joka palvoo Rivulusta, Jokien ja Järvien jumalaa. Ei-jäsenetkin ovat tietoisia ryhmän vihkimisseremoniasta: rituaalisesta hukuttamisesta, joka toisinaan tappaa osallistujia. Selviytyjiä kutsutaan "Vuortovetten tuomiksi" ja he ottavat käyttöön uuden, veteen liittyvän lisänimen (Karppi, Ruoko, Juolua jne.). Vain papiston tarvitsee osallistua rituaaliin ja viime vuosina seurakunta on kasvanut maaseutuväestön keskuudessa, erityisesti vesistöjen läheisyydessä sijaitsevissa kylissä.
+Uskonnollinen lahko, joka palvoo Rivulusta, Jokien ja Järvien jumalaa. Ei-jäsenetkin ovat tietoisia ryhmän vihkimisseremoniasta: rituaalisesta hukuttamisesta, joka toisinaan tappaa osallistujia. Selviytyjiä kutsutaan "Vuorovetten tuomiksi" ja he ottavat käyttöön uuden, veteen liittyvän lisänimen (Karppi, Ruoko, Juolua jne.). Vain papiston tarvitsee osallistua rituaaliin ja viime vuosina seurakunta on kasvanut maaseutuväestön keskuudessa, erityisesti vesistöjen läheisyydessä sijaitsevissa kylissä.
